@@ -544,8 +544,8 @@
 		</div>
 		<div class="wideVideoGraphic">
 		  <video autoplay="autoplay" width="688" height="376">
-			<source src="assets/video/b.mp4" type="video/mp4">
-			  <source src="assets/video/b.ogv" type="video/ogg">
+			<source src="https://s3.amazonaws.com/compatia/video/b.mp4" type="video/mp4">
+			  <source src="https://s3.amazonaws.com/compatia/video/b.ogv" type="video/ogg">
 			  Your browser does not support the video tag.
 		  </video>
 			</div>

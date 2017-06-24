@@ -767,7 +767,7 @@ compTia.features = {
 					   .getElementsByTagName("video")[0];
 
 		$headerAnchs.css('color','#919190');//set all links to gray
-		videoElm.src = "assets/video/mp4/"+video+".mp4";
+		videoElm.src = "https://s3.amazonaws.com/compatia/video/mp4/"+video+".mp4";
 		$headerAnchs.parent().find("[data="+video+"]")[0].style.color = '#01567a';//color blue the active link
 	},
 	setupVideo: function (defaultVideo) {
@@ -787,9 +787,9 @@ compTia.features = {
 		});
 		//detects if it can play an mp4, if not use ogv
 		if (videoElm.canPlayType && videoElm.canPlayType('video/mp4')) {
-			videoElm.src = "assets/video/mp4/"+defaultVideo+".mp4";
+			videoElm.src = "https://s3.amazonaws.com/compatia/video/mp4/"+defaultVideo+".mp4";
 		} else {
-			videoElm.src = "assets/video/ogv/"+defaultVideo+".ogv";
+			videoElm.src = "https://s3.amazonaws.com/compatia/video/ogv/"+defaultVideo+".ogv";
 		}
 		var tryAgain = function () {
 			if (videoPlaying === 0 && videoElm.readyState === 1) {
@@ -821,9 +821,9 @@ compTia.features = {
 			self.vidInstance = self.vidInstance === 0 ? instance-1 : self.vidInstance-1;
 			$headerAnchs[self.vidInstance].style.color = '#01567a';
 			if (videoElm.canPlayType('video/mp4')) {
-				videoElm.src = "assets/video/mp4/"+$headerAnchs[self.vidInstance].getAttribute("data")+".mp4";
+				videoElm.src = "https://s3.amazonaws.com/compatia/video/mp4/"+$headerAnchs[self.vidInstance].getAttribute("data")+".mp4";
 			} else {
-				videoElm.src = "assets/video/ogv/"+$headerAnchs[self.vidInstance].getAttribute("data")+".ogv";
+				videoElm.src = "https://s3.amazonaws.com/compatia/video/ogv/"+$headerAnchs[self.vidInstance].getAttribute("data")+".ogv";
 			}
 
 			videoElm.load();
@@ -834,9 +834,9 @@ compTia.features = {
 			self.vidInstance = self.vidInstance === instance-1 ? 0 : self.vidInstance+1;
 			$headerAnchs[self.vidInstance].style.color = '#01567a';
 			if (videoElm.canPlayType('video/mp4')) {
-				videoElm.src = "assets/video/mp4/"+$headerAnchs[self.vidInstance].getAttribute("data")+".mp4";
+				videoElm.src = "https://s3.amazonaws.com/compatia/video/mp4/"+$headerAnchs[self.vidInstance].getAttribute("data")+".mp4";
 			} else {
-				videoElm.src = "assets/video/ogv/"+$headerAnchs[self.vidInstance].getAttribute("data")+".ogv";
+				videoElm.src = "https://s3.amazonaws.com/compatia/video/ogv/"+$headerAnchs[self.vidInstance].getAttribute("data")+".ogv";
 			}
 			videoElm.load();
 		});

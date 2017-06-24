@@ -37,8 +37,8 @@
 		</div>
 		<div class="wideVideoGraphic">
 		  <video autoplay="autoplay" width="688" height="376">
-			<source src="assets/video/b.mp4" type="video/mp4">
-			  <source src="assets/video/b.ogv" type="video/ogg">
+			<source src="https://s3.amazonaws.com/compatia/video/b.mp4" type="video/mp4">
+			  <source src="https://s3.amazonaws.com/compatia/video/b.ogv" type="video/ogg">
 			  Your browser does not support the video tag.
 		  </video>
 			</div>
@@ -754,8 +754,8 @@
 		</div>
 		<div class="monitorActiveGraphic">
 		  <video autoplay="autoplay" width="790" height="432" class="noLMargin">
-			<source src="assets/video/bitsbytes/b.mp4" type="video/mp4">
-			  <source src="assets/video/bitsbytes/b.ogv" type="video/ogg">
+			<source src="https://s3.amazonaws.com/compatia/video/bitsbytes/b.mp4" type="video/mp4">
+			  <source src="https://s3.amazonaws.com/compatia/video/bitsbytes/b.ogv" type="video/ogg">
 			  Your browser does not support the video tag.
 		  </video>
 			</div>
@@ -936,8 +936,8 @@
 		
 		<div class="coresActiveGraphic">
 		  <video autoplay="autoplay" width="768" height="420" class="Lmargin10">
-			<source src="assets/video/single.mp4" type="video/mp4">
-			  <source src="assets/video/single.ogv" type="video/ogg">
+			<source src="https://s3.amazonaws.com/compatia/video/single.mp4" type="video/mp4">
+			  <source src="https://s3.amazonaws.com/compatia/video/single.ogv" type="video/ogg">
 			  Your browser does not support the video tag.
 		  </video>
 			</div>
