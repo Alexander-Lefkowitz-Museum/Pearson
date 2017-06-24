@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+<chapter index="4" title="" glossary="34">
+
+<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc topPadding10">
+						Application<br/>
+						Software: Programs<br/>
+						That Let You Work<br/>
+						and Play</div>	
+				<div class="chapterStartNumber">4</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Programs That Let You Work</span>
+					<img src="assets/images/pics/nutSoftware.jpg"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">The Nuts and Bolts of Software</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">1.</span> What’s the difference between application software and system software? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(p. 136)</span></li>
+						<li><span class="ul1DigNumber">2.</span> What are the different ways I can access and use software? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(pp. 136-137)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/businessSoftware.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,4)">Productivity and Business Software</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">3.</span> What kinds of applications are included in productivity software? <span class="strongDBlue" onclick="compTia.switchPage(0,4)">(pp. 137–145)</span></li>
+						<li><span class="ul1DigNumber">4.</span> What kinds of software do small and large businesses use? <span class="strongDBlue" onclick="compTia.switchPage(0,12)">(pp. 145–147)</span></li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/creating_web_queries_with_excel/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Creating Web Queries in Excel 2010
+					</div>	
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,17)">Programs That Let You Play</span>
+					<img src="assets/images/pics/entertainmentSoftware.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,17)">Multimedia and Entertainment Software</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">5.</span> What different types of multimedia and entertainment software are available? <span class="strongDBlue" onclick="compTia.switchPage(0,17)">(pp. 150–156)</span>
+						</li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/enhancing_photos/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Enhancing Photos with Image-Editing Software
+					</div>	
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_09.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Choosing Software
+					</div>
+					
+					<hr>
+					
+					
+					<img src="assets/images/pics/managingSoftware.jpg"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,23)">Managing Your Software</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">6.</span> What’s important to know when buying software? <span class="strongDBlue" onclick="compTia.switchPage(0,23)">(pp. 156–160)</span>
+						</li>
+						<li><span class="ul1DigNumber lessSpacing">7.</span> How do I install and uninstall software? <span class="strongDBlue" onclick="compTia.switchPage(0,27)">(pp. 160-161)</span></li>
+					</ul>
+				
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_10.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Buying and Installing Software
+					</div>
+
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds">
+							(Norebbo/Shutterstock; mmaxer/Shutterstock; IKO/Shutterstock; Timo Darco/Fotolia)
+					</span>
+					<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+					
+					<div style="width:110%;height:100%;
+							background:no-repeat url(assets/images/figures/stitchingPanorama.jpg) -10px 0"></div></div>
+							<div class="font_9 floatLeft"
+								 style="margin-top:-7px;font-style: italic;">
+								 (AP Photo/Microsoft)</div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">You’ve just returned from a great <strong>vacation</strong> and want to relive your wonderful experience. Looking at traditional digital images is nice, but wouldn’t it be fun if you could create a <strong>3-D walkthrough</strong> of your favorite places? Upload your pictures to the 20 GB of free storage space on Microsoft’s <strong>Photosynth</strong> and relive your experience in 3-D. Photosynth takes a selection of photos, examines them for similarities to estimate the shape of the subject, and determines the vantage point from which each photo was taken. Using this information, Photosynth then stitches the images together to create a 3-D effect. Check out some 3-D images that others have created at <span class="strongDBlue" onclick="window.open('http://photosynth.net','_blank')">photosynth.net</span>, and then go make one from your own photos!</p>
+					
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap4ArrSchip_computer.png')" onclick="window.open('http://photosynth.net','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Programs That Let You Work</div>
+					<p class="digCompP">A computer without software is like a sandwich without filling. Although a computer’s hardware is critical, a computer system does nothing without software. In this section, we’ll look at programs created to help you work more effectively and efficiently. First, let’s check out some software basics.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/nutSoftwareThumbnail.jpg)">
+						<div class="orange">the nuts and bolts of</div>
+						<div class="blue" style="margin-left:140px;">SOFTWARE</div>
+					</div>
+					
+					<p>Technically speaking, the term <span class="strongDBlue" glossary>software</span> refers to a set of instructions that tells the computer what to do. An instruction set, also called a <span class="strongDBlue" glossary>program</span>, provides a means for us to interact with and use the computer, even if we lack specialized programming skills. Your computer has two main types of software:</p>
+					<ol>
+						<li><span class="strongDBlue" glossary>Application software</span> is the software you use to do tasks at home, school, and work. <span class="strongDBlue" onclick="compTia.togglePopup(3,0)">Figure 4.1</span> shows the various types of application software we’ll discuss in this chapter.
+						<li><span class="strongDBlue" glossary>System software</span> includes software that helps run the computer and coordinate instructions between application software and the computer’s hardware devices. System software includes the operating system (such as Windows and OS X) and utility programs (programs in the operating system that help manage system resources). We discuss system software in detail in <span class="strongDBlue" onclick="compTia.generatePages(5)">Chapter 5</span>.
+					</ol>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(3,0)" style="height: 385px; margin-right:-9px; background:no-repeat url(assets/images/figures/fig4.1.jpg) -2px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 4.1 </span> Application software lets you perform a variety of tasks.
+   					</figcaption></figure>
+					
+					<p class="start TMargin10">Other types of software, such as web browsers, virus protection, and backup and recovery software, are used every day. We’ll discuss these types of software elsewhere in this book.</p>
+					<p class="start"><strong>What software do I need to install on my computer?</strong> Virtually every new computer comes with software preinstalled, including an operating system and some application software, depending on which</p><br>
+
+					]]>
+			</section>
+		</page>
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>computer you buy. If you need to add other software to your system, you’ll need either to install the software yourself or to access it from the web. There are two types of software you can install on your computer:</p>
+					<ol>
+						<li><span class="strongDBlue" glossary="proprietary software">Proprietary (or commercial) software</span> is software you buy, such as the Microsoft Office applications you’re probably familiar with. You can download proprietary software directly from the Internet or you can buy it on a CD or DVD.
+						<li><span class="strongDBlue" glossary>Open source software</span> is free software that is available with few licensing and copyright restrictions. One advantage of open source software is that a community of users continues to make changes to the software, keeping it current without needing to wait for periodic updates. However, unlike Microsoft Office and other proprietary applications, open source applications offer little or no formal support. Instead, they’re supported from their community of users across websites and newsgroups.
+					</ol>
+					<p class="start"><strong>Can I use software directly from the web?</strong> Another way to obtain software is through <span class="strongDBlue" glossary>Software as a Service (SaaS)</span>, in which the vendor hosts the software online and you access and use the software over the Internet without having to install it on your computer. With these <span class="strongDBlue" glossary="web-based application">web-based applications</span>, you can collaborate online with others, avoiding the coordination mess that often occurs when transferring documents via e-mail. Although many web-based applications are not as fully featured as their installable counterparts, most work with files from other applications.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<img onclick="compTia.togglePopup(4,0)" src="assets/images/layout/TrendsinItchapter4.0.png" />
+			<br/>
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/businessSoftwareThumbnail.jpg)">
+						<div class="orange">productivity and business</div>
+						<div class="blue" style="margin-left:150px;">SOFTWARE</div>
+					</div>
+					
+					<p>One reason computers are invaluable is that they make it easier to complete our daily tasks. <span class="strongDBlue" glossary>Productivity software</span> includes programs that let you perform various tasks required at home, school, and business and includes word processing, spreadsheet, presentation, database, and personal information manager programs.</p>
+				<br/>	
+					<h2 class="blueHeading">Buying Productivity Software</h2>
+					<p><strong>Is it better to buy software individually or in a bundled package?</strong></p>
+					<p>For proprietary software, it’s cheaper to buy a <span class="strongDBlue" glossary>software suite</span> than to buy each program individually. Software suites are available for all types of software—productivity, graphics, virus protection, and others:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Microsoft Office is the standard proprietary software suite for Windows. A version is also available for Apple computers.</span></li>
+						<li><span class="innerLi">Apache OpenOffice is an open source productivity suite that provides functionality similar to that of Microsoft Office. You can download the installation file you’ll need to run OpenOffice at <span class="strongDBlue" onclick="window.open('http://openoffice.org','_blank')">openoffice.org</span>.</span></li>
+						<li><span class="innerLi">Apple iWork is a productivity suite made especially for Apple computers.</span></li>
+					</ul>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">Microsoft Office Web Apps and Google Docs are examples of web-based productivity suites. Microsoft Office Web Apps are part of Microsoft Office 365 and are online versions of Word, Excel, PowerPoint, and OneNote, but with less functionality than the installed versions. Google Docs (<span class="strongDBlue" onclick="window.open('http://docs.google.com','_blank')">docs.google.com</span>) includes word processing, spreadsheet, and presentation functionality, as well as forms and drawing applications. If you’re looking for basic productivity software that you can access from any computer, Google Docs is sufficient. <span class="strongDBlue" onclick="compTia.togglePopup(5,2)">Figure 4.3</span> lists more examples of productivity suites, along with the individual applications each suite offers.</p>
+					
+					<a onclick="compTia.togglePopup(5,0)" class="readMore"></a>
+					
+					<h2 class="blueHeading">Word Processing Software</h2>
+					<p><strong>What are the most common word processing applications?</strong> You’ve probably used <span class="strongDBlue" glossary>word processing software</span> to create and edit documents such as research papers, class notes, and résumés. Microsoft Word is the most popular word processing program that you can buy and install on your computer. If you’re looking for a more affordable alternative, you might want to try an open source alternative such as Writer, a word processing program from the Apache OpenOffice suite (<span class="strongDBlue" onclick="window.open('http://openoffice.org','_blank')">openoffice.org</span>). Writer is similar to Microsoft Word. When saving a document in Writer, the default file format has an OpenDocument file (.odt) extension. However, by using the Save As command, you can save files in other formats, such as .doc for Word.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(5,1)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Finding the Right Software
+					</div>
+				<br/>
+				
+					<p class="start"><strong>What special tools do word processing programs have that I might not know about?</strong> You’re probably familiar with the basic tools of word processing software, such as the spelling and grammar checking tools, the thesaurus, and the find-and-replace tool. But did you know you can translate words or phrases into another language or automatically correct your spelling as you type? You also can automatically summarize key points in a text document, add bibliographical references, and include illustrations with different picture styles.</p>
+				
+					<br/>
+					<div class="HeadingOrangeBackDiagDashes orangeRevealCondDefault">Productivity Software Suites</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(5,2)" style="background: url(assets/images/figures/fig4.3.jpg) no-repeat scroll 28px 33px #FFFFFF; height: 234px; overflow: hidden;">
+							
+							<span class="strongDHeading TMargin5"><strong>Figure 4.3</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-botton:4px; margin-left:10px"><em>(Microsoft Corporation; AP Photo/PRNewsFoto/Apple; StfW/Alamy; REUTERS/Ray Stubblebine; Google, Inc.; Editorial Image, LLC/Alamy; AP photo/PRNewsFoto/ThinkFree)</em>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How can I make my documents look more professional?</strong> With word processing software, you can easily change fonts, font styles, and sizes; add colors to text; adjust margins; add borders to portions of text or to entire pages; insert bulleted and numbered lists; and organize your text into columns. You also can insert pictures from your own files or from a gallery of images and graphics, such as clip art and SmartArt, which are included with the software.</p>
+					
+					<p class="start">You also can enhance the look of your document by creating an interesting background or by adding a “theme” of coordinated colors and styles. <span class="strongDBlue" onclick="compTia.togglePopup(6,0)">Figure 4.4</span> shows what a document can look like when you apply formatting options found in many word processing applications. (Note that although many of the open source and web-based applications have great formatting capabilities, most are not as fully featured as the installed version of Microsoft Word.)</p>
+				
+					<div class="smallHeadingOrangeBackDiagDashes orangeRevealCondDefault">Formatting Options</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(6,0)" style="    background: url(assets/images/figures/fig4.4.jpg) no-repeat scroll 13px 33px #FFFFFF; height: 194px; overflow: hidden;">
+							
+							<span class="strongDHeading TMargin5 font_15"><strong>Figure 4.4</strong> Click to view the interactive</span>
+							
+							<figcaption>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading noTMargin">Spreadsheet Software</h2>
+					
+					<p><strong>Why would I use spreadsheet software?</strong> <span class="strongDBlue" glossary>Spreadsheet software</span> is software that lets you make calculations and perform numerical analyses. You can use it to track your expenses or create a simple budget, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(6,1)">Figure 4.5a</span>, for example. Microsoft Excel and Apache OpenOffice Calc are two examples of spreadsheet software. (Web-based options are available within the Google Docs and Office Web Apps suites.) One benefit of spreadsheet software is that it can automatically recalculate all formulas and functions in a spreadsheet when values for some of the inputs change. For example, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(6,1)">Figure 4.5b</span>, you can insert an additional row in your</p>
+				<br/>
+					<div class="HeadingOrangeBackDiagDashes orangeRevealCondDefault">Spreadsheet Software</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(6,1)" style="    background: url(assets/images/figures/fig4.5.jpg) no-repeat scroll 10px 34px #FFFFFF; height: 232px; overflow: hidden;">
+							
+							<span class="strongDHeading TMargin5 font_15"><strong>Figure 4.5</strong> Click to view the interactive</span>
+							
+							<figcaption>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/creating_web_queries_with_excel/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Creating Web Queries in Excel 2010
+						</div>
+						In this Sound Byte, you’ll learn what Excel web queries are, as well as how to use them effectively.
+					</div></div>
+				
+				<p class="moreSpacing">budget (“Membership”) and change a value (for September Financial aid), and the results for “Total Expenses” and “Net Income” recalculate automatically.</p>
+				<p class="start moreSpacing">Because automatic recalculation lets you immediately see the effects different options have on your spreadsheet, you can quickly test different assumptions. This is called <em>what-if analysis</em>. Look again at <span class="strongDBlue" onclick="compTia.togglePopup(6,1)">Figure 4.5b</span> and ask, “If I don’t get as much financial aid next semester, what impact will that have on my total budget?” The recalculated cells in rows 21 and 22 help answer your question. In addition to financial analysis, many spreadsheet applications have limited database capabilities to sort, filter, and group data.</p>
+				<p class="start moreSpacing"><strong>How do I use spreadsheet software?</strong> The basic element in a spreadsheet program is the <em>worksheet</em>, which is a grid consisting of columns and rows. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(6,1)">Figure 4.5a</span>, the columns and rows form individual boxes called <em>cells.</em> Each cell can be identified according to its column and row position. For example, a cell in column A, row 1 is referred to as cell A1. You can enter several types of data into a cell:</p>
+				<ul class="dotted">
+					<li><span class="innerLi"><em>Text</em>: Any combination of letters, numbers, symbols, and spaces. Text is often used as labels to identify the contents of a worksheet or chart.</span></li>
+				</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<ul class="dotted">
+					<li class="lessSpacing"><span class="innerLi"><em>Values and Dates</em>: Numerical data that represents a quantity or a date/time and is often the basis for calculations.</span></li>
+					<li class="lessSpacing"><span class="innerLi"><em>Formulas</em>: Equations that use addition, subtraction, multiplication, and division operators, as well as values and cell references. For example, in <span class="strongDBlue" onclick="compTia.togglePopup(6,1)">Figure 4.5a</span>, you would use the formula =D8-D20 to calculate net income for November.</span></li>
+					<li class="lessSpacing"><span class="innerLi"><em>Functions</em>: Formulas that are preprogrammed into the spreadsheet software. Functions help you with calculations ranging from the simple (such as adding groups of numbers) to the complex (such as determining monthly loan payments), without requiring you to know the exact formula. In <span class="strongDBlue" onclick="compTia.togglePopup(6,1)">Figure 4.5a</span>, to calculate the total of all expenses for September, you could use the built-in addition function, which would look like this: =SUM(B10:B19).</span></li>
+				</ul>
+				
+				<figure onclick="compTia.togglePopup(7,0)"
+						style="height: 236px;margin-top: -3px;margin-right:-10px; background: url(assets/images/figures/fig4.6.jpg) no-repeat scroll -2px 0 transparent;"
+		                                                 >
+						<figcaption class="bottomPos">
+   				<span>Figure 4.6</span> (a) Column charts show comparisons. (b) Pie charts show how parts contribute to the whole. (c) Line charts show trends over time.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(8,0)"
+						style="height: 176px;background: url(assets/images/figures/fig4.7.jpg) no-repeat scroll 57px -10px transparent;"
+		                                                 >
+						<figcaption class="bottomPos">
+					<span>Figure 4.7</span> Sparklines, a feature of Microsoft Excel 2010, are tiny graphs that fit into a single cell.</figcaption>
+				</figure>
+				
+				
+				<p class="start TMargin5 lessSpacing"><strong>What kinds of graphs and charts can I create with spreadsheet software?</strong> As shown in <span class="strongDBlue"  onclick="compTia.togglePopup(7,0)">Figure 4.6</span>, most spreadsheet applications let you create a variety of charts, including basic column charts, pie charts, and line charts, with or without 3-D effects. In addition to these basic charts, you can make stock charts (for investment analysis) and scatter charts (for statistical analysis) or create custom charts. New in Excel 2010 are <em>sparklines</em>—small charts that fit into a single cell and make it easy to show data trends (<span class="strongDBlue" onclick="compTia.togglePopup(8,0)">see Figure 4.7</span>).</p>
+				
+				<h2 class="blueHeading">Presentation Software</h2>
+				<p class="lessSpacing"><strong>How can software help with my presentations?</strong> You’ve no doubt sat through presentations where the speaker used <span class="strongDBlue" glossary>presentation software</span> such as Microsoft PowerPoint (<span class="strongDBlue"  onclick="compTia.togglePopup(8,3)">see Figure 4.8</span>) to create a slide show.</p>
+				
+				<div onclick="compTia.togglePopup(8,1)" class="bitsAndBytesBlue noTMargin">
+					<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+					Alternatives to PowerPoint
+				</div>
+				
+					<div class="itSimContain TMargin5"
+							onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_mylabs/simulations/2012/IT/hardware/','_blank')">
+							<div class="itSimContent">
+								<span>IT</span>
+								<span>Simulation: Hardware</span>
+							</div>
+						</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>Because these applications are simple to use, you can produce high-quality presentations without a lot of training. With some of the new capabilities in PowerPoint 2010, you can embed online videos, add effects, and even trim video clips without the need for a separate video-editing program.</p>
+					<p class="start moreSpacing"><strong>What are some tips to make a great presentation?</strong> Undoubtedly, you’ve seen at least one bad presentation. Don’t make your audience suffer through another one! Here are some tips for designing good presentations:</p>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><em>Be careful with color</em>: Choose dark text on a light background or light text on a dark background. Avoid using clashing text and background colors.</span></li>
+					</ul>	
+					
+					<a onclick="compTia.togglePopup(8,2)" class="readMore"></a>
+					<br/>
+					
+					<div class="smallHeadingOrangeBackDiagDashes orangeRevealCondDefault">Presentation Software</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(8,3)" style="    background: url(assets/images/figures/fig4.8.jpg) no-repeat scroll 10px 42px #FFFFFF; height: 200px; overflow: hidden;">
+							
+							<span class="strongDHeading TMargin5 font_15"><strong>Figure 4.8</strong> Click to view the interactive</span>
+							
+							<figcaption>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading noTMargin">Database Software</h2>
+					<p class="moreSpacing"><strong>Why is database software useful?</strong> <span class="strongDBlue" glossary>Database software</span> such as Oracle, MySQL, and Microsoft Access are powerful applications that let you store and organize data. As mentioned earlier, spreadsheet applications are easy to use for simple tasks such as sorting, filtering, and organizing data. However, you need to use a more robust, fully featured database application to manage larger and more complicated groups of data that contain more than one table; to group, sort, and retrieve data; and to generate reports. Traditional databases are organized into <em>fields, records,</em> and <em>tables</em>, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(9,0)">Figure 4.10</span>.</p>
+					<p class="start moreSpacing"><strong>How do businesses use database software?</strong> Businesses like Amazon, iTunes, Craigslist, and Pandora all rely on databases to keep track of products, clients, invoices, and personnel information. Often, some of that information is available to a home computer user. For example, at <span class="strongDBlue" onclick="window.open('http://Amazon.com','_blank')">Amazon.com</span>, you can access the history of all the purchases</p>
+					
+				<br/>	
+					<div class="smallHeadingOrangeBackDiagDashes orangeRevealCondDefault">Database Software</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(9,0)" style="    background: url(assets/images/figures/fig4.10.jpg) no-repeat scroll 5px 25px #FFFFFF; height: 128px; overflow: hidden;">
+							
+							<span class="strongDHeading TMargin5 font_15"><strong>Figure 4.10</strong> Click the interactive</span>
+							
+							<figcaption>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>you’ve ever made on the site. FedEx, UPS, and other shipping companies also let you search their online databases for tracking numbers, allowing you to get instant information on the status of your packages.</p>
+					
+					<br/>
+					<h2 class="blueHeading">Note-Taking Software</h2>
+					<p><strong>Is there software to help me take notes?</strong> Microsoft OneNote is a popular note-taking and organizational tool you can use for research, brainstorming, and collaboration, as well as just organizing random bits of information. Using OneNote, you can organize your notes into tabbed sections, similar to a multisubject spiral-bound notebook (<span class="strongDBlue" onclick="compTia.togglePopup(9,1)">see Figure 4.11</span>). In addition, you can access your OneNote notes from other Microsoft Office applications. For example, if you’re writing a research paper in Word, click the OneNote icon in the Word ribbon to open OneNote, where you can add your notes—perhaps a reference to a website where you found some interesting research. Later, if you open OneNote and click on that reference, it will bring you to the exact spot in the Word document where you made the reference.</p>
+					
+					<figure onclick="compTia.togglePopup(9,1)"
+						style="height: 155px;background: url(assets/images/figures/fig4.11.jpg) no-repeat scroll 57px 0 transparent;"
+		                                                 >
+						<figcaption class="bottomPos">
+					<span>Figure 4.11</span> <span class="strongDBlue" onclick="window.open('http://www.microsoft.com/office/onenote','_blank')">Microsoft OneNote</span> is a great way to collect and organize notes and other information. The files are readily searchable and easy to share.</figcaption>
+				</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">You can also add audio or video recordings of lectures to OneNote, and you can search for a term across all the digital notebooks you created during the semester to find common ideas such as key points that might appear on a test. There is also a OneNote app for the iPhone and iPad.</p>
+					<p class="start moreSpacing">Several very good and functional free and online note-taking options are also available to help you take notes or to just jot down a quick reminder. Evernote (<span class="strongDBlue" onclick="window.open('http://evernote.com','_blank')">evernote.com</span>), for example, lets you take notes via the web, your phone, or your computer and then sync your notes between your devices. You can then share your notes with other Evernote users for easy collaboration. <span class="strongDBlue" onclick="compTia.togglePopup(10,1)">Figure 4.12</span> lists some popular alternative note-taking applications.</p>
+					
+					<h2 class="blueHeading">Personal Information Manager Software</h2>
+					<p class="moreSpacing"><strong>How can software help me manage my e-mail, time, contact lists, and tasks?</strong> Most productivity suites contain some form of <span class="strongDBlue" glossary>personal information manager (PIM) software</span> to help you manage e-mail, contacts, calendars, and tasks in one place. Microsoft Outlook (<span class="strongDBlue" onclick="compTia.togglePopup(11,0)">Figure 4.13</span>) is the most widely used PIM program. If you share a network at home or at work and are using the same PIM software as others on a common network, a PIM program simplifies sharing calendars and scheduling meetings.</p>
+					
+					<a onclick="compTia.togglePopup(10,0)" class="readMore"></a>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes orangeRevealCondDefault headingOrangeShiftBGright font_16"><span class="shiftLeft7">Beyond Microsoft One-Note: Alternative Note-Taking Applications</span></div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(10,1)" style="
+						background: url('assets/images/figures/fig4.12.jpg') no-repeat scroll 26px 36px #FFFFFF;
+						height: 500px; overflow: hidden;">
+						<span class="strongDHeading TLMargin5"><strong>Figure 4.12</strong> Click to enlarge the table</span>
+
+						
+						<figcaption>
+   					</figcaption></figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight leftPadding13">Microsoft Outlook: The Outlook Today</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(11,0)" style="
+						background: url('assets/images/figures/fig4.13.jpg') no-repeat scroll 57px 21px #FFFFFF;
+						height: 180px; overflow: hidden;">
+						<span class="strongDHeading font_dBlu font_15 TMargin5"><strong>Figure 4.13</strong> Click to view the interactive</span>
+
+						<figcaption class="bottomPos" style="margin-left:10px;"><span>Figure 4.13</span> The Outlook Today feature in Microsoft Outlook includes common PIM features, such as a summary of appointments, a list of tasks, and the number of new e-mail messages.
+   					</figcaption></figure></div>
+					
+					
+					<h2 class="blueHeading">Microsoft Office Productivity Software Features</h2>
+					<p class="lessSpacing"><strong>What tools can help me work more efficiently with productivity software?</strong> Whether you’re working on a word processing document, spreadsheet, database, or slide presentation, you can make use of several tools to increase your efficiency:</p>
+						<ul class="dotted lessSpacing">
+							<li><span class="innerLi">A <span class="strongDBlue" glossary>wizard</span> walks you through the steps necessary to complete a complicated task. At each step, the wizard asks you questions. Based on your responses, the wizard helps you complete that portion of the task. When you install software, you’re often guided by a wizard.</span></li>
+							<li><span class="innerLi">A <span class="strongDBlue" glossary>template</span> is a predesigned form. Templates are included in many productivity applications. They provide the basic structure for a particular kind of document, spreadsheet, or presentation. Templates can include specific page layout designs, formatting and styles relevant to that particular document, and automated tasks (macros).</span></li>
+						</ul>	
+				]]>
+			</section>
+			<section>
+			<![CDATA[
+				<ul class="dotted">
+					<li><span class="innerLi">A <span class="strongDBlue" glossary>macro</span> is a small program that groups a series of commands so that they will run as a single command. Macros are best used to automate a routine task or a complex series of commands that must be run frequently. For example, a teacher may write a macro to sort the grades in her grade book in descending order and to highlight grades that add up to less than a C average. Every time she adds the results of an assignment or a test, she can set up the macro to run through this series of steps.</span></li>
+				</ul>	
+				
+			<br/>	
+				<h2 class="blueHeading">Personal Financial Software</h3>
+				<p><strong>How can I use software to keep track of my finances?</strong> <span class="strongDBlue" glossary>Financial planning software</span> helps you manage your daily finances. Financial planning programs include electronic checkbook registers and automatic bill payment tools. With these features, you can make recurring monthly payments, such as rent or student loans, with automatically scheduled online payments. The software records all transactions, including online payments, in your checkbook register. In addition, you can assign categories to each transaction and then use these categories to create budgets and analyze your spending patterns.</p>
+				<p class="start">Intuit’s installed and web-based products, Quicken and Mint (<span class="strongDBlue" onclick="window.open('http://mint.com','_blank')">mint.com</span>; <span class="strongDBlue" onclick="compTia.togglePopup(12,1)">see Figure 4.14</span>), respectively, are the market leaders in financial planning software. Both are great at tracking and analyzing your spending habits and at offering advice on how to better manage your finances. With either, you also can track your investment portfolio.</p>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>With Mint, you can monitor and update your finances from any computer with a private and secure setting. You can also access Mint on a smartphone and tablet, so your information is conveniently accessible. Mint also provides access to a network of other users with whom to exchange tips and advice.</p>
+					<p class="start"><strong>What software can I use to prepare my taxes?</strong> <span class="strongDBlue" glossary>Tax preparation software</span> such as Intuit TurboTax and H&R Block At Home let you prepare your state and federal taxes on your own instead of hiring a professional (<span class="strongDBlue" onclick="compTia.togglePopup(12,3)">see Figure 4.15</span>). Both programs offer a complete set of tax forms and instructions, as well as videos that contain expert advice on how to complete each form.</p>
+					
+					<a onclick="compTia.togglePopup(12,0)" class="readMore"></a>
+					
+					<figure onclick="compTia.togglePopup(12,1)" style=" height:240px; background:no-repeat url(assets/images/figures/fig4.14.jpg) center 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 4.14</span> Mint (<span class="strongDBlue noRPadding" onclick="window.open('http://mint.com','_blank')">mint.com</span>) is an online financial management tool. An extensive online community provides helpful tips and discussions with other people in similar situations. <em>(Courtesy of Mint.com)</em> 
+							</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(12,2)" class="bitsAndBytesBlue noTMargin">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Productivity Software Tips and Tricks
+					</div>
+					
+					<h2 class="blueHeading">Small Business Software</h2>
+					<p><strong>What kinds of software are helpful for small business owners?</strong> If you have a small business or a hobby that produces income, you know the importance of keeping good records and tracking your expenses and income. <span class="strongDBlue" glossary>Accounting software</span> helps small business owners manage their finances more efficiently by providing tools for tracking accounts receivable and accounts payable. In addition, these applications offer inventory management, payroll, and billing tools. Examples of accounting applications are Intuit QuickBooks and Sage Peachtree. Both programs include templates for invoices, statements, and financial reports so that small business owners can create common forms and reports.</p>
+					
+					<figure onclick="compTia.togglePopup(12,3)" style=" height:195px; background:no-repeat url(assets/images/figures/fig4.15.jpg) center 0; margin-top: 10px;">
+								
+								<figcaption class="bottomPos">
+									<span>Figure 4.15</span> Tax preparation software such as Intuit TurboTax lets you prepare and file your taxes using a guided, systematic process. <em>(Vika Sabo/Alamy)</em>
+								</figcaption></figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">If your business requires the need for newsletters, catalogs, annual reports, or other large, complicated publications, consider using <span class="strongDBlue" glossary>desktop publishing (DTP) software</span>. Although many word processing applications include some of the features that are hallmarks of desktop publishing, specialized DTP software, such as Microsoft Publisher, QuarkXPress, and Adobe InDesign, allows professionals to design books and other publications that require complex layouts.</p>
+					<p class="start"><strong>What software do I use to create a web page?</strong> <span class="strongDBlue" glossary>Web page–authoring software</span> allows even the novice to design interesting and interactive web pages without knowing any HTML code. Web page–authoring applications often include wizards, templates, and reference materials to help novices complete most web page–authoring tasks.</p>
+				
+					<a onclick="compTia.togglePopup(13,0)" class="readMore"></a>
+					
+					<h2 class="blueHeading">Software for Large and Specialized Businesses</h2>
+					<p><strong>What types of software do large businesses use?</strong> There is an application for almost every aspect of business. There are specialized programs for project management software, customer relationship management (CRM), enterprise resource planning (ERP), e-commerce, marketing and sales, finance, point of sale, security, networking, data</p>
+				
+					<div onclick="compTia.togglePopup(13,1)" class="bitsAndBytesBlue" style="font-size:12px;">
+							<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+							Need to Work on Files Together? Try These Real-Time Collaboration Tools
+						</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>management, and human resources, to name just a few. <span class="strongDBlue" onclick="compTia.togglePopup(13,2)">Figure 4.16</span> lists many of the common types of business-related software. Some applications are tailored to the specific needs of a particular company or industry. Software designed for a specific industry, such as property management software for real estate professionals, is called <span class="strongDBlue" glossary>vertical market software</span>.</p>
+				
+				
+					<div class="HeadingOrangeBackDiagDashes orangeRevealCondDefault headingOrangeShiftBGright TMargin5">Common Types of Large Business–Related Software</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(13,2)" style="
+						background: url('assets/images/figures/fig4.16.jpg') no-repeat scroll 4px 36px #FFFFFF;
+						height: 212px; overflow: hidden;">
+						<span class="strongDHeading"><strong>Figure 4.16</strong> Click to enlarge the table</span>
+
+						<figcaption>
+   					</figcaption></figure></div>
+					
+					<p class="start TMargin10"><strong>What software is used to make 3-D models?</strong> Engineers use <span class="strongDBlue" glossary>computer-aided design (CAD)</span> programs such as Autodesk’s AutoCAD to create automated designs, technical drawings, and 3-D model visualizations. Here are some cool applications of CAD software:</p>
+						<ul class="dotted">
+							<li><span class="innerLi">Architects use CAD software to build virtual models of their plans and readily visualize all aspects of design before actual construction.</span></li>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Engineers use CAD software to design everything from factory components to bridges. The 3-D nature of these programs lets engineers rotate their models and adjust their designs if necessary, eliminating costly building errors.</span></li>
+						<li><span class="innerLi">CAD software also is used in conjunction with GPS devices for accurate placement of fiber optic networks around the country.</span></li>
+						<li><span class="innerLi">The medical engineering community uses CAD software to create anatomically accurate solid models of the human body, developing medical implants quickly and accurately.</span></li>
+					</ul>
+					
+					<p class="start">The list of CAD applications keeps growing as more and more industries realize the benefits CAD can bring to their product development and manufacturing processes.</p>
+					
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_4_Part_1/Ch4Pt1.html','_blank')" >Replay Video 4.1</span>.</span>
+							<span class="dot"><span onclick="compTia.modules.toggleModule(13)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Which of the following do you use most often?</div>
+					<ol class="pollQuestions">
+						<li>Installed proprietary software</li>
+						<li>Installed open-source software</li>
+						<li>Web-based software</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(14)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingBlueBackDiagDashes">Programs That Let You Play</div>
+					<p class="digCompP">While many programs help you be more productive, there are also programs that entertain you with audio, video, and digital images and through games, animations, and movies. Regardless of whether the software helps you work or play, it’s important to know how to work with and manage the software so that you install it correctly and use it legally. This section discusses both aspects of entertainment software.</p>
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/entertainmentSoftwareThumbnail.jpg)">
+						<div class="orange">multimedia and entertainment</div>
+						<div class="blue" style="margin-left: 194px;">Software</div>
+					</div>
+					
+					<p class="moreSpacing">From movies and television to music and photography, the entertainment world is becoming digital. <span class="strongDBlue" glossary>Multimedia software</span> includes digital image- and video-editing software, digital audio software, and other specialty software required to produce computer games, animations, and movies. In this section, we look at several popular types of multimedia and entertainment software, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(17,0)">Figure 4.17</span>.</p>
+					<h2 class="blueHeading">Digital Image- and Video-Editing Software</h2>
+					<p class="moreSpacing"><strong>How can I edit, share, and organize digital images?</strong> One great advantage of taking digital images is that you can easily manipulate them and then share them on the web. While Facebook is a great option for sharing images, Flickr (<span class="strongDBlue" onclick="window.open('http://flickr.com','_blank')">flickr.com</span>) is a website specifically for sharing photos. It lets you organize your images and then share them publicly</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p class="moreSpacing">with millions of users, or just with your closest friends and family. Discussion boards are also available so that people can leave comments about the images.</p>
+				<p class="start moreSpacing">If you want to edit your photos before sharing, Adobe Photoshop Elements is <span class="strongDBlue" glossary>image-editing software</span> geared to the casual photographer. Image-editing software includes tools for basic modifications to digital photos such as removing red-eye; modifying contrast, sharpness, and color casts; or removing scratches or rips from scanned images of old photos. Many programs also include painting tools such as brushes, pens, and</p>
+				
+				<figure onclick="compTia.togglePopup(17,0)" style=" height:310px; background:no-repeat url(assets/images/figures/fig4.17.jpg) center 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 4.17</span> There are many varieties of multimedia and entertainment software.
+							</figcaption></figure>
+				
+					]]>
+			</section>
+		</page>
+		
+		<page index="18" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>artistic media (such as paints, pastels, and oils) that let you create realistic-looking images. Some include templates so you can insert your favorite pictures into preformatted pages for digital scrapbooks or greeting cards. Google Picasa (<span class="strongDBlue" onclick="window.open('http://picasa.google.com','_blank')">picasa.google.com</span>) is a popular application that not only lets you edit images but also helps to organize and share your digital images (<span class="strongDBlue" onclick="compTia.togglePopup(18,1)">see Figure 4.18</span>). Picasa also stores your photos on the web.</p>
+					
+					<a onclick="compTia.togglePopup(18,0)" class="readMore"></a>
+					
+					<figure style=" height:260px; background:no-repeat url(assets/images/figures/fig4.18.jpg) -1px 0; margin-top: 10px;">
+							<div style="width: 100%; height: 232px;" onclick="compTia.togglePopup(18,1)"></div>
+							<figcaption class="bottomPos">
+								<span>Figure 4.18</span> You can create collages of your favorite images using <span class="strongDBlue" onclick="window.open('http://picasa.google.com/','_blank')">Google Picasa</span>. <em>(Mary Anne Poatsy)</em>
+							</figcaption></figure>
+							
+					<p class="start"><strong>What image-editing programs might a professional use?</strong> Adobe Photoshop and Corel PaintShop Photo Pro are fully featured image-editing applications. GIMP (<span class="strongDBlue" onclick="window.open('http://gimpshop.com','_blank')">gimpshop.com</span>) is a free download that has most of the</p>		
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/enhancing_photos/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Enhancing Photos with Image-Editing Software
+						</div>
+						In this Sound Byte, you’ll learn tips and tricks on how to best use image-editing software. You’ll learn how to remove the red-eye from photos and to incorporate borders, frames, and other enhancements to produce professional effects.
+					</div></div>
+				
+					<p class="moreSpacing">features offered by the for-pay applications. Photoshop and PaintShop Photo Pro each offer sophisticated tools for tasks like layering images and masking images (hiding parts of layers to create effects such as collages). Designers use these more sophisticated tools to create the enhanced digital images used commercially in logos, in advertisements, and on book and CD covers.</p>
+					<p class="start moreSpacing"><strong>What software do I need to edit digital videos?</strong> While it’s easy to upload videos directly to YouTube or Facebook unedited, you can use <span class="strongDBlue" glossary>digital video–editing software</span> to help refine your videos. Although the most expensive products (such as Adobe Premiere Pro and Apple’s Final Cut Pro) offer the widest range of special effects and tools, some moderately priced video-editing programs have enough features to keep the casual user happy. Windows Movie Maker and iMovie have intuitive drag-and-drop features that make it simple to create professional-quality movies with little or no training (<span class="strongDBlue" onclick="compTia.togglePopup(19,0)">see Figure 4.19</span>).</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure style=" height:245px; background:no-repeat url(assets/images/figures/fig4.19.jpg) 60px 0; margin-top: 10px;">
+							<div style="width: 100%; height: 215px;" onclick="compTia.togglePopup(19,0)"></div>
+							<figcaption class="bottomPos">
+								<span>Figure 4.19</span> Video-editing programs such as <span class="strongDBlue" onclick="window.open('http://www.apple.com/ilife/imovie/','_blank')">Apple iMovie</span> make it easy to create and edit movies. <em>(Press Association/AP Images)</em>
+							</figcaption></figure>
+							
+					<h2 class="blueHeading">Digital Audio Software</h2>
+					<p><strong>What’s the difference between all the digital audio file types on my computer?</strong> You probably have a variety of digital audio files stored on your computer, such as downloaded music files, audiobooks, or podcasts. These types of audio files have been <em>compressed</em> so they’re more manageable to transfer to and from your computer and over the Internet. MP3, short for MPEG-1 Audio Layer 3, is a type of audio compression format and is the most common compressed digital format, but there are other compressed formats, such as AAC and WMA.</p>
+					
+					<div onclick="compTia.togglePopup(19,1)" class="bitsAndBytesBlue" style="font-size:12px;">
+							<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+							Video File Formats for Portable Media Players
+						</div>	
+				]]>
+			</section>
+			<section>
+			<![CDATA[
+				<p class="start moreSpacing">You may also see <em>uncompressed</em> audio files on your computer, such as WAV or AIFF files. Uncompressed files—the files found on audio CDs, for example—have not had any data removed, so the quality is a perfect representation of the audio as it was recorded. Unfortunately, the file size is much larger than that of compressed files. Compressed formats remove data such as high frequencies that the human ear does not hear in order to make the files smaller and easier to download and store. MP3 format, for example, makes it possible to transfer and play back music on iPods and other music players. A typical CD stores between 10 and 15 songs in uncompressed format, but with files in MP3 format, the same CD can store between 100 and 180 songs. The smaller file size not only lets you store and play music in less space, it also allows quick and easy distribution over the Internet. Ogg Vorbis (or just Ogg) is a free, open source audio compression format alternative to MP3. Some say that Ogg produces a better sound quality than MP3.</p>
+				<p class="start"><strong>What do I use to create my own audio files?</strong> There are many digital audio applications that let you create and record your own audio files. With programs such as MAGIX Music Maker or Apple GarageBand, you can compose your own songs or soundtracks with virtual instruments, voice recorders, synthesizers, and special audio effects, and these will end up as uncompressed MIDI files. Other programs, such as Audacity and Cakewalk SONAR, let you record audio files.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Can I edit audio files?</strong> <span class="strongDBlue" glossary>Audio-editing software</span> includes tools that make editing audio files as easy as editing text files. Software such as the open source Audacity (<span class="strongDBlue" onclick="window.open('http://audacity.sourceforge.net','_blank')">audacity.sourceforge.net</span>) and Sony Sound Forge Pro 10 (<span class="strongDBlue" onclick="window.open('http://sonycreativesoftware.com','_blank')">sonycreativesoftware.com</span>) lets you perform such basic editing tasks as cutting dead air space from the beginning or end of a song or clipping a portion from the middle. You can also can add special sound effects, such as echo or bass boost, and remove static or hiss from MP3 files. AudioAcrobat (<span class="strongDBlue" onclick="window.open('http://marketersmojo.audioacrobat.com','_blank')">marketersmojo.audioacrobat.com</span>), a web-based program, makes it easy to record and stream audio and video and hosts you audio files. These applications support recording sound files from a microphone or any source you can connect through the input line of a sound card.</p>
+					<h2 class="blueHeading">Media Management Software</h2>
+					<p class="lessSpacing"><strong>How do I manage the audio, video, and image files on my system?</strong> Media management software such as Windows Media Player, Apple iTunes, and Winamp lets you organize music, video, pictures, and even recorded TV files so that you can sort, filter, and search your media collection by artist, title, or other category (<span class="strongDBlue" onclick="compTia.togglePopup(20,1)">see Figure 4.21</span>). Using these programs, you can manage individual tracks, generate playlists, and even export the files to a database or spreadsheet application for further manipulation. When you burn the songs to a CD, the programs can print liner notes that you can place inside the CD case.</p>
+				
+				<div class="greenHorzButton" onclick="compTia.togglePopup(20,0)" style="margin-top:10px;">
+						<span class="largeBoldWhite">DIG DEEPER</span>
+						<strong>How Cloud Computing Works</strong>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_09.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Choosing Software
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about the different kinds of multimedia software, educational and reference software, and entertainment software.
+					</div></div>
+					
+					<figure onclick="compTia.togglePopup(20,1)" style=" height:217px; background:no-repeat url(assets/images/figures/fig4.21.jpg) 0px 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 4.21</span> Software programs such as <span class="strongDBlue" onclick="window.open('http://iTunes.com','_blank')">iTunes</span> help you manage all the music files on your computer. You can sort, filter, and search your collection by artist, album, or category, and you can create playlists.
+							</figcaption></figure>
+					<br/>		
+							
+					<p class="start">Most digital audio management software programs, such as Apple iTunes and Windows Media Player, do the following:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">MP3 <em>recording</em> lets you record directly from streaming audio and other software or microphone sources to MP3 format.</span></li>
+						<li><span class="innerLi">CD <em>ripping</em> lets you copy or extract CDs and encode to the MP3 format.</span></li>
+						<li><span class="innerLi">CD <em>burning</em> lets you create your own CDs from your MP3 collection.</span></li>
+					</ul>		
+					
+				]]>
+			</section>
+		</page>
+		
+			<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><em>Encoding and decoding</em> is done by <em>encoders</em>, programs that convert files to the MP3 format at varying levels of quality. Most ripping software programs have encoders built in to convert the files directly into MP3 format.</span></li>
+						<li class="moreSpacing"><span class="innerLi"><em>Format conversion</em> programs let you convert MP3 files to other digital audio formats such as WAV (Waveform Audio File Format), WMA (Windows Media Audio), and AIFF (Audio Interchange File Format).</span></li>
+					</ul>
+					
+					<h2 class="blueHeading">Gaming Software</h2>
+					<p class="moreSpacing"><strong>Can I make video games?</strong> Now that video games represent an industry with revenue of more than $25 billion each year, designing and creating video games is emerging as a desirable career opportunity. Professionally created video games involve artistic storytelling and design, as well as sophisticated programming. Major production houses  such as Electronic Arts use applications not easily available to the casual home enthusiast. However, you can use the editors and game engines available for games such as EverQuest, Oblivion, and Unreal Tournament to create custom levels and characters to extend the game.</p>
+					
+					<a onclick="compTia.togglePopup(21,0)" class="readMore"></a>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Educational and Reference Software</h2>
+					<p class="lessSpacing"><strong>What fun educational and reference software should I check out?</strong> If you want to learn more about a subject, you can turn to the web for many instructional videos and documents. But sometimes, it’s best to use software for more complete or detailed instructions. Educational and reference software is available to help you master, study, design, create, or plan. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(21,2)">Figure 4.22</span>, there are software products that teach new skills such as typing, languages, cooking, and playing the guitar.</p>
+					
+					<a onclick="compTia.togglePopup(21,1)" class="readMore" style="margin-bottom:10px;"></a>
+					
+					<div class="doubleLineheadingOrangeDiagDashed" style="height:38px; line-height:19px;">Educational and Reference Software: <br/>A Sample of What’s Available</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(21,2)" style="background: url('assets/images/figures/fig4.22.jpg') no-repeat scroll 48px 31px #FFFFFF;
+						height: 250px;">
+						
+						<span class="strongDHeading"><strong style="padding-left:6px">Figure 4.22</strong> Click to enlarge the table</span>
+						
+						<figcaption class="bottomPos" style="margin-left:10px;"><span>Figure 4.22</span> <em>(Amy Strycula/Alamy; Greg Pease/Getty Images; iQoncept/Shutterstock; almagami/Shutterstock; Zack Clothier/Shutterstock; Scott Maxwell/LuMaxArt/Shutterstock; julien tromeur/Fotolia; sassyphotos/Fotolia)</em>
+   					</figcaption></figure>
+   				</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What types of programs are available to train people to use software or special machines?</strong> Many programs provide tutorials for popular computer applications (you may even use one in your course provided with <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>). These programs use illustrated systematic instructions to guide users through unfamiliar skills in an environment that acts like the actual software, without the software actually being installed.</p>
+					<p class="start moreSpacing">Some training programs, known as <span class="strongDBlue" glossary="simulation program">simulation programs</span>, allow you to experience or control the software as if it were the actual software or an actual event. Such simulation programs include commercial and military flight training, surgical instrument training, and machine operation training. One benefit of simulated training programs is that they safely allow you to experience potentially dangerous situations such as flying a helicopter during high winds. Consequently, users of these training programs are more likely to take risks and learn from their mistakes—something they could not afford to do in real life. Simulated training programs also help prevent costly errors. Should something go awry, the only cost of the error is restarting the simulation program.</p>
+					<p class="start moreSpacing"><strong>Do I need special software to take courses online?</strong> Although some courses are run from an individually developed website, many online courses are run using <span class="strongDBlue" glossary>course management software</span> such as Blackboard, Moodle, and Angel. In addition to traditional classroom tools such as</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">calendars and grade books, these programs provide special areas for students and instructors to exchange ideas and information through chat rooms, discussion forums, and e-mail. In addition, collaboration tools such as whiteboards and desktop sharing facilitate virtual office hour sessions. Depending on the content and course materials, you may need a password or special plug-ins to view certain videos or demos.</p>
+					
+					<h2 class="blueHeading">Drawing Software</h2>
+					<p class="moreSpacing"><strong>What kind of software should I use to create illustrations?</strong></p>
+					<p><span class="strongDBlue" glossary="drawing software (illustration software)">Drawing software</span> (or <span class="strongDBlue" glossary="drawing software (illustration software)">illustration software</span>) lets you create or edit 2-D, line-based drawings. You can use it to create technical diagrams or original nonphotographic drawings, animations, and illustrations using standard tools such as pens, pencils, and paintbrushes. You also can drag geometric objects from a toolbar onto the canvas area to create images and can use paint bucket, eyedropper, and spray can tools to add color and special effects to the drawings.</p>
+					<p class="start moreSpacing">Adobe Illustrator includes tools that let you create professional-quality creative and technical illustrations such as muscle structures in the human body. Its warping tool allows you to bend, stretch, and twist portions of your image or text. Because of its many tools and features, Illustrator is the preferred drawing software programs of most graphic artists.</p>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What kind of software can be used for home or landscape planning?</strong> There are many software packages to help plan the layout of homes and landscapes, such as those offered by Broderbund. A simple, web-based and fairly full-featured free 3-D modeling application is Trimble’s SketchUp (formerly owned by Google). SketchUp lets you create a 3-D image of your dream home (<span class="strongDBlue" onclick="compTia.togglePopup(23,0)">see Figure 4.23</span>).</p>
+					
+					<figure onclick="compTia.togglePopup(23,0)" style=" height:217px; background:no-repeat url(assets/images/figures/fig4.23.jpg) 0px 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 4.23</span> <span class="strongDBlue" onclick="window.open('http://www.sketchup.com/','_blank')">SketchUp</span> is a free, web-based 3-D modeling application. <em>(Archipoch/Shutterstock)</em>
+							</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO bgPosition00" style="background-image:url(assets/images/pics/managingSoftwareThumbnail.jpg)">
+						<div class="dblue" style="margin-left:59px; color:#166beb">managing your</div>
+						<div class="orange" style="margin-left: 123px">Software</div>
+					</div>
+					
+					<p>It’s important to know how to pick out the best software for your computer, how to get it onto your computer correctly, and how to take it off. We discuss all of these topics next.</p>
+					
+					<h2 class="blueHeading">Getting Software</h2>
+					<p><strong>Is discounted software for students available?</strong> If you’re a student, you can sometimes buy substantially discounted software that is no different from regularly priced software. Campus computer stores and college bookstores offer discounted prices to students who possess a valid student ID. Online software suppliers such as Journey Education Marketing (<span class="strongDBlue" onclick="window.open('http://journeyed.com','_blank')">journeyed.com</span>) and Academic Superstore (<span class="strongDBlue" onclick="window.open('http://academicsuperstore.com','_blank')">academicsuperstore.com</span>) also offer popular software to students at reduced prices.</p>
+					<p class="start"><strong>Can I get software for free legally?</strong> In addition to open source software, discussed previously in the chapter, <span class="strongDBlue" glossary>freeware</span> is copyrighted software that you can use for free. Explore sites like Butterscotch (<span class="strongDBlue" onclick="window.open('http://butterscotch.com','_blank')">butterscotch.com</span>) and Freeware Home (<span class="strongDBlue" onclick="window.open('http://freewarehome.com','_blank')">freewarehome.com</span>) to see how many good freeware programs are available. However, while much legitimate freeware exists, some unscrupulous people use freeware to distribute viruses and malware. Be cautious when installing freeware, especially if you’re unsure of the provider’s legitimacy.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Can I try new software before it’s released?</strong> Some software developers offer beta versions of their software free of charge. A <span class="strongDBlue" glossary>beta version</span> is an application that is still under development (<span class="strongDBlue" onclick="compTia.togglePopup(24,0)">see Figure 4.24</span>). By distributing free beta versions, developers hope users will report errors, or bugs, they find in their programs. Many beta versions are available for a limited trial period and are used to help the developers correct errors before they launch the software on the market.</p>
+					
+					<figure onclick="compTia.togglePopup(24,0)" style=" height:320px; background:no-repeat url(assets/images/figures/fig4.24.jpg) center 0; margin-top: 15px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 4.24</span> Windows 8 Consumer Preview, the beta for the newest version of the operating system, became available for users to try months before the final version was released. <em>(REUTERS/Gustau Nacarino (SPAIN - Tags: BUSINESS TELECOMS SCIENCE TECHNOLOGY))</em>
+							</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Are there risks associated with installing beta versions, freeware, or downloading software from the Internet?</strong> By their very nature, beta products are unlikely to be bug free, so you always run the risk of something going awry with your system by installing and using beta versions. Unless you’re willing to deal with potential problems, it may be best to wait until the last beta version is released—often referred to as the <em>gold version</em>. By that time, most of the serious bugs have been worked out.</p>
+					<p class="start">As a precaution, you should be comfortable with the reliability of the source before downloading a freeware or beta version of software. If it’s a reliable developer whose software you’re familiar with, you can be more certain that a serious bug or virus isn’t hiding in the software. Similarly, you should be sure that the software you’re downloading is meant for your system and that your system has met all the necessary hardware and operating system requirements.</p>
+					<p class="start">Before installing any software, it’s always good to make sure your virus protection software is up to date. It’s equally important that you back up your system as well as create a <em>restore point</em>. That way, if something  does go awry, you can return your system to the way it was before you started. You can create a restore point by using Windows 8 System protection tools. To access the System protection tools, click System and Security from the </p>
+					
+					<div onclick="compTia.togglePopup(24,1)" class="bitsAndBytesBlue" style="font-size:12px;">
+							<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+							How to Open Unknown File Types
+						</div>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">Control Panel, and then click System. In the left pane, click System protection to display the System Properties dialog box. On the System Protection tab, click the Create button, and type a description for the restore point (such as “Before installing [name of software]”) and click Create. You will be notified when the restore point is created.</p>
+					
+					<h2 class="blueHeading">Software Licenses</h2>
+					<p more="moreSpacing"><strong>Don’t I own the software I buy?</strong> Most people don’t understand that, unlike other items they purchase, the software they buy doesn’t belong to them. The only thing they’re actually purchasing is a license that gives them the right to use the software for their own purposes as the <em>only</em> user of that copy. The application is not theirs to lend.</p>
+					<p class="start moreSpacing">A <span class="strongDBlue" glossary>software license</span>, also known as an <span class="strongDBlue" glossary>End User License Agreement (EULA)</span>, is an agreement between you, the user, and the software company (<span class="strongDBlue" onclick="compTia.togglePopup(25,1)">see Figure 4.25</span>). You accept this agreement before installing the software on your machine. It’s a legal contract that outlines the acceptable uses of the program and any actions that violate the agreement. Generally, the agreement states who the ultimate owner of the software is, under what circumstances copies of the software can be made, and whether the software can be installed on any other machine. Finally, the license agreement states what, if any, warranty comes with the software.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(25,0)" class="bitsAndBytesBlue" style="font-size:12px;">
+							<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+							Run versus Save When Downloading Software
+						</div>	
+						
+					<figure onclick="compTia.togglePopup(25,1)" style=" height:305px; background:no-repeat url(assets/images/figures/fig4.25.jpg) center 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 4.25</span> You must accept the terms of the software license before using the product.
+							</figcaption></figure>
+							
+					<p class="start lessSpacing"><strong>Does a license only cover one installation?</strong> Some software is purchased with a single license to cover one person’s specific use. You can’t share these licenses, and you can’t “extend” the license to install the software on more than one of your computers. Many manufacturers are now offering family licensing deals to allow several computers in one household to be installed with a legal copy. The family pack rate is more than a single</p>			
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreRpadding">license version but is still a savings over purchasing multiple copies. For example, Apple offers a Family Pack Software License Agreement that permits a user to install the purchased software legally on as many as five computers in the same household, and some versions of Microsoft Office come with the ability to install the software on up to three computers in the same household.</p>
+					
+					<p class="start moreRpadding">Businesses and educational institutions often buy multiuser licenses that allow more than one person to use the software. Some multiuser licenses are per-seat and limit the number of users overall, whereas others, called <em>concurrent licenses</em>, limit the number of users accessing the software at any given time.</p>
+					<p class="start moreRpadding"><strong>Does open source software require a license?</strong> As you learned earlier, anyone using open source software has access to the program’s  code. Therefore, open source software programs can be tweaked by another user and redistributed. A free software license, the <em>GNU General Public License</em>, is required and grants the recipients the right to modify and redistribute the software. Without such a license, the recipient would be in violation of copyright laws. This concept of redistributing modified open source software under the same terms as the original software is known as <span class="strongDBlue" glossary>copyleft</span>. Thus, all enhancements, additions, and other changes to copyleft software must also be distributed as free software.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading noTMargin">Getting the Right Software for Your System</h2>
+					<p class=""><strong>How do I ensure the software I buy will work on my computer?</strong> Every software program has a set of <span class="strongDBlue" glossary>system requirements</span> that specify the minimum recommended standards for the operating system, processor, primary memory (random access memory, or RAM), and hard drive capacity. Sometimes there are other specifications for the video card, monitor, optical drive, and other peripherals. These requirements are printed on the software packaging or are available at the manufacturer’s website. Before installing software on your computer, ensure that your system setup meets the minimum requirements as specified by the developer.</p>
+					<p class="start"><strong>When is it worth buying a newer version?</strong> Periodically, software developers improve the functionality of their software by releasing a software upgrade. Although software developers suggest otherwise, there’s no need to rush out and buy the latest version of a software program every time one is available. Depending on the software, some upgrades may not be sufficiently different from the previous version to make it cost-effective for you to buy the newest version. Unless the upgrade adds features that are important to you, you may be better off waiting to upgrade every other release. You also should consider whether you use the software frequently enough to justify an upgrade and whether your current system can handle the new system requirements of the upgraded version. In between upgrades, developers will make available software updates</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>(sometimes referred to as software patches). Updates are usually downloaded and provide smaller enhancements to the software or fix program bugs.</p>
+					<p class="start"><strong>If I have an older version of software and someone sends me files from a newer version, can I still open them?</strong> Software vendors recognize that people work on different versions of the same software. Vendors, therefore, make new versions backward compatible, meaning that the new versions can recognize (open) files created with older versions. However, some software programs are not forward compatible, so these older versions are not able to recognize files created on newer versions of the same software.</p>
+					
+					<h2 class="blueHeading">Installing and Uninstalling Software</h2>
+					<p><strong>What’s the difference between a custom installation and a full installation?</strong> Before you use most software, you must permanently place it, or install it, on your system. The installation process may differ slightly depending on whether you’re installing the software from a DVD or downloading it from the Internet. One of the first steps in the installation wizard asks you to decide between a full installation and a custom installation. A <span class="strongDBlue" glossary>full installation</span> (often referred to as a <em>typical installation</em>) copies all the most commonly used files and programs from the distribution disc to your computer’s hard drive. By selecting <span class="strongDBlue" glossary>custom installation</span>, you can decide which features you want installed on your hard drive. Installing only the features you want saves space on your hard drive.</p>
+				]]>
+			</section>
+			<section>
+			<![CDATA[
+				<p class="start"><strong>How do I start my programs in Windows 8?</strong> Every program you install on your system is listed on Start. The simplest way to start an application is by clicking the program icon on the Start screen. Alternatively, you can work from the desktop view in Windows 8 or pin a shortcut to a program on the taskbar or to the Start screen. To place a program on the taskbar or pin it to the Start screen, right-click the program icon on your desktop or right-click the program name on the Start screen. From the options that are displayed, select Pin to Taskbar or Pin to Start Menu. Windows then places an icon for this program on the taskbar or Start screen (<span class="strongDBlue" onclick="compTia.togglePopup(27,0)">see Figure 4.27</span>). To uninstall a pinned icon from Start, right-click the icon and select Unpin from Start.</p>
+				
+				<figure onclick="compTia.togglePopup(27,0)" style=" height:228px; background:no-repeat url(assets/images/figures/fig4.27.jpg) center 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos" style="margin-left:65px;">
+								<span>Figure 4.27</span> By pinning an application to the Start screen in Windows 8, you have easy access to your most frequently used programs.<br/>
+							</figcaption>
+							<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_4_27.html','_blank')"></div></figure>
+							
+							
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(27,1)">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong style="font-size:14px;">Can I Borrow Software That I Don’t Own?</strong>
+				</div>		
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How do I uninstall a program?</strong> An application contains many different files—library files, help files, and other text files—in addition to the main file you use to run the program. By deleting only the main file, you’re not ridding your system of all the pieces of the program. Windows 8 makes it easy to uninstall a program: Simply right-click on the program icon on the Start screen, then from the panel that displays at the bottom, click Uninstall. To uninstall a program from the desktop view in Windows 8, right-click on the program, select Programs from the Control Panel, then click Uninstall a program. Select the program you want to uninstall from the list, then click Uninstall.</p>
+					<p class="start"><strong>If my computer crashes, can I get the preinstalled software back?</strong> Although some preinstalled software is not necessary to replace if your computer crashes, other software such as the operating system is critical to reinstall. Most manufactures use a separate partition on the hard drive to hold an image, or copy, of the preinstalled software. However, it’s not always possible to reboot from the partitioned hard drive, especially when your computer crashes, so one of the first things you should do after you purchase a new computer is create a system repair disc. Generally, the manufacturer will have placed a utility on your system, or you can use the Recovery utility included in Windows to create a repair drive or disc. You can</p>
+					
+				<br/>	
+					<div onclick="compTia.togglePopup(28,0)" class="bitsAndBytesBlue noTMargin">
+					<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+					Ridding Your Computer of “Bloat”
+				</div>
+				
+					]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_10.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Buying and Installing Software
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about how to best purchase software or to get it for free, how to install and uninstall software, and where you can go for help when you have a problem with your software.
+					</div></div>
+					
+					<p>access the Recovery utility in Windows 8 from the Control Panel by typing Recovery in the search box, and then clicking Create a recovery drive under System. Then, to create the repair drive, insert a blank flash drive in a USB port (or you can choose to use a DVD) and follow the steps in the wizard. Once the copy has been made, label the flash drive or DVD and put it away in a safe place.</p>
+					
+					<p class="start">There is an application for almost anything you want or need to do on your computer, whether it is school or work related or just for entertainment purposes. And there are a variety of types of applications, such as proprietary, open source, web-based, and freeware. Have fun exploring all the various possibilities!</p>
+					
+				<br/>	
+						<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_4_Part_2/Ch4Pt2.html','_blank')" >Replay Video 4.2</span>.</span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(15)">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+					]]>
+			</section>
+		</page>
+		
+		<page index="29" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Which of the following do you think is the most ethical way of obtaining software?</div>
+					<ol class="pollQuestions">
+						<li>buy a copy</li>
+						<li>take a copy from a Bit Torrent</li>
+						<li>look for an open-source option</li>
+						
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<h1><span class="chapter">4</span> Chapter Review</h1>
+			<div class="largerTitle">summary//</div>
+
+				<img src="assets/images/pics/nutSoftwareSmall.jpg" class="floatPositioned"/>
+				<h2>The Nuts and Bolts of Software</h2>
+				<span class="prePseudoLi preContent1 strong">What’s the difference between application software and system software?</span>
+
+
+			<ul class="dotted TMargin5 clearLeft">
+				<li class="moreSpacing"><span class="innerLi">The term <em>software</em> refers to a set of instructions that tells the computer what to do.</span></li>
+				<li class="moreSpacing"><span class="innerLi">Application software is the software you use to do everyday tasks at home, school, and work. Application software includes the following:</span></li>
+				
+				<ul class="hyphen">
+					<li class="moreSpacing"><span class="innerLi">Productivity software, such as word processing, finance, and personal information management programs</span></li>
+					<li class="moreSpacing"><span class="innerLi">Business software for small and large businesses</span></li>
+					<li class="moreSpacing"><span class="innerLi">Multimedia software, such as applications used for image and video editing, recording and editing digital audio, and media management; gaming software; and</span></li>
+					<li class="moreSpacing"><span class="innerLi">Educational and reference software</span></li>
+				</ul>
+				</ul>
+			
+			
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">System software is the software that helps run the computer and coordinates instructions between application software and the computer’s hardware devices. System software includes the operating system and utility programs.</span></li>
+					</ul>
+				<br/>	
+					<h4>2. What are the different ways I can access and use software?</h4>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Some software comes preinstalled on your computer. You will need to add other software by installing the software or accessing the software from the web. There are two types of software that you can install on your computer:</span></li>
+						<ol>
+								<li class="moreSpacing"><span class="notStrong innerLi">Proprietary (or commercial) software is software you buy.</span></li>
+								<li class="moreSpacing"><span class="notStrong innerLi">Open source software is program code that is free and publicly available with few licensing and copyright restrictions. The code can be copied, distributed, or changed without the stringent copyright protections of software products you purchase.</span></li>
+							</ol>
+						<li class="moreSpacing"><span class="innerLi">Web-based applications are those that are hosted online by the vendor and made available to the customer over the Internet. This web-based distribution model is also referred to as Software as a Service (SaaS). Web-based applications are accessed via an Internet connection to the site that hosts the software.</span></li>	
+					</ul>
+				
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+				
+					<img src="assets/images/pics/businessSoftwareSmall.jpg" class="floatPositioned"/>
+				<h2>Productivity and Business Software</h2>
+				<span class="prePseudoLi preContent3 strong">What kinds of applications are included in productivity software?</span>
+				<br/>
+				<ul class="dotted">
+					<li class="moreSpacing"><span class="innerLi">Productivity software programs include the following:</span></li>
+					<ul class="hyphen">
+						<li class="moreSpacing"><span class="innerLi">Word processing: to create and edit written documents</span></li>
+						<li class="moreSpacing"><span class="innerLi">Spreadsheet: to do calculations and numerical and what-if analyses easily</span></li>
+						<li class="moreSpacing"><span class="innerLi">Presentation: to create slide presentations</span></li>
+						<li class="moreSpacing"><span class="innerLi">Database: to store and organize data</span></li>
+						<li class="moreSpacing"><span class="innerLi">Note-taking: to take notes and easily organize and search them, and</span></li>
+						<li class="moreSpacing"><span class="innerLi">Personal information manager (PIM): to keep you organized by putting a calendar, address book, notepad, and to-do lists within your computer</span></li>
+					</ul>
+					<li class="moreSpacing"><span class="innerLi">Individuals can also use productivity software to help with business-like tasks such as managing personal finances and preparing taxes.</span></li>
+				</ul>
+					<br/>
+					<h4>4. What kinds of software do small and large businesses use?</h4>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Businesses use software to help them with the following tasks:</span></li>
+						<ul class="hyphen">
+							<li class="moreSpacing"><span class="innerLi">Finances and accounting</span></li>
+							<li class="moreSpacing"><span class="innerLi">Desktop publishing</span></li>
+						</ul>
+					</ul>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<ul class="hyphen">
+							<li class="moreSpacing"><span class="innerLi">Web page authoring</span></li>
+							<li class="moreSpacing"><span class="innerLi">Project management</span></li>
+							<li class="moreSpacing"><span class="innerLi">Customer relationship management (CRM)</span></li>
+							<li class="moreSpacing"><span class="innerLi">Enterprise resource planning (ERP), and</span></li>
+							<li class="moreSpacing"><span class="innerLi">E-commerce</span></li>
+					</ul>
+						<li class="moreSpacing"><span class="innerLi">Businesses may use specialized business software (or vertical market software) that is designed for their specific industry.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Some businesses also use specialized drawing software to create technical drawings and computeraided design (CAD) software to create 3-D models.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/entertanmentSoftwareSmall.jpg" style="float:left;margin-right:13px;margin-top:20px;" />
+				<h2>Multimedia and Entertainment Software</h2>
+				<span class="prePseudoLi preContent5 strong">What types of multimedia and entertainment software are available?</span>	
+				
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Multimedia software is software for playing, copying, recording, editing, and organizing multimedia files. Multimedia software includes the following:</span></li>
+						<ul class="hyphen">
+							<li class="moreSpacing"><span class="innerLi">Digital image- and video-editing software</span></li>
+							<li class="moreSpacing"><span class="innerLi">Digital audio software</span></li>
+							<li class="moreSpacing"><span class="innerLi">Media management software, and</span></li>
+							<li class="moreSpacing"><span class="innerLi">Specialty software to produce computer games</span></li>
+						</ul>	
+						<li class="moreSpacing"><span class="innerLi">Educational and reference software is available to help you master, study, design, create, or plan.</span></li>
+					</ul>
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+				
+				<ul class="dotted">
+					<ul class="hyphen">
+						<li class="moreSpacing"><span class="innerLi">Simulation (training) programs let users experience or control the software as if it were the actual software or an actual event. Simulated programs safely allow users to experience potentially dangerous situations without the risks of experiencing the same situations in real life.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Course management software provides traditional classroom tools such as discussion areas, assignment features, and grade books over the Internet.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Drawing software includes a wide range of software programs that help you create and edit simple line-based drawings or create more-complex designs for both imaginative and technical illustrations.</span></li>
+					</ul>
+				</ul>
+					<br/>
+				
+					<img src="assets/images/pics/managingSoftwareSmall.jpg" style="float:left;margin-right:13px;margin-top:20px;" />
+				<h2>Managing Your Software</h2>
+				<span class="prePseudoLi preContent6 strong">What’s important to know when <br/>buying software?</span>	
+			<br/>	
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">You must purchase software unless it is freeware or open source. As a student, you can purchase, at a reduced price with an academic discount, the same software found online or in stores.</span></li>
+						<li class="moreSpacing"><span class="innerLi">When you purchase software, you’re actually purchasing the license to use it and therefore must abide by the terms of the licensing agreement you accept when installing the program.</span></li>
+					</ul>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Before installing software on your computer, ensure that your system setup meets the system requirements that specify the minimum recommended standards for the operating system, processor, primary memory (RAM), and hard drive capacity. Sometimes, there are other specifications for the video card, monitor, optical drive, and other peripherals.</span></li>
+					</ul>
+				<br/>
+					
+				<h4>7. How do I install and uninstall software?</h4>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">When installing software, you are often given the choice between a full (typical) or custom installation.</span></li>
+						<ul class="hyphen">
+							<li class="moreSpacing"><span class="innerLi">A full installation copies all the files and programs from the distribution disc to your computer’s hard drive.</span></li>
+							<li class="moreSpacing"><span class="innerLi">A custom installation lets you decide which features you want installed on your hard drive.</span></li>
+						</ul>	
+						<li class="moreSpacing"><span class="innerLi">When uninstalling software, it’s best to use the uninstall feature that comes with the operating system.</span></li>
+						<ul class="hyphen">
+							<li class="moreSpacing"><span class="innerLi">In Windows 8, right-click on the program icon on the Start screen, then select Uninstall from the bottom panel that displays.</span></li>
+							<li class="moreSpacing"><span class="innerLi">Using the uninstall feature of the operating system when uninstalling a program will help you ensure that all additional program files are removed from your computer.</span></li>
+						</ul>
+						<li class="moreSpacing"><span class="innerLi">Your system comes with preinstalled software, such as the operating system and possibly some files from the manufacturer.</span></li>	
+					</ul>
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">One of the first things you should do after you purchase a new computer is create a system repair disc that you can use to reboot the computer after a system failure and return the computer to the condition it was in when you first purchased it.</span></li>
+						</ul>
+					<br/>
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					<br>
+					<img src="assets/images/layout/techTouchS4.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				]]>
+			</section>
+		</page>	
+		
+		<page index="34" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 4 glossary//</div>
+					
+					<span class="strongDBlue" glossary>accounting software</span> 145<br/>
+					<span class="strongDBlue" glossary>application software</span> 136<br/>
+					<span class="strongDBlue" glossary>audio-editing software</span> 153<br/>
+					<span class="strongDBlue" glossary>beta version</span> 157<br/>
+					<span class="strongDBlue" glossary>cloud computing</span> 153<br/>
+					<span class="strongDBlue" glossary>computer-aided design (CAD)</span> 146<br/>
+					<span class="strongDBlue" glossary>copyleft</span> 159<br/>
+					<span class="strongDBlue" glossary>course management software</span> 155<br/>
+					<span class="strongDBlue" glossary>custom installation</span> 160<br/>
+					<span class="strongDBlue" glossary>database software</span> 142<br/>
+					<span class="strongDBlue" glossary>desktop publishing (DTP) software</span> 146<br/>
+					<span class="strongDBlue" glossary>digital video–editing software</span> 151<br/>
+					<span class="strongDBlue" glossary>drawing software (illustration software)</span> 155<br/>
+					<span class="strongDBlue" glossary>End User License Agreement (EULA)</span> 158<br/>
+					<span class="strongDBlue" glossary>financial planning software</span> 144<br/>
+					<span class="strongDBlue" glossary>freeware</span> 156<br/>
+					<span class="strongDBlue" glossary>full installation</span> 160<br/>
+					<span class="strongDBlue" glossary>image-editing software</span> 150<br/>
+					<span class="strongDBlue" glossary>macro</span> 144<br/>
+					<span class="strongDBlue" glossary>multimedia software</span> 150<br/>
+					<span class="strongDBlue" glossary>open source software</span> 137<br/>
+					<span class="strongDBlue" glossary>personal information manager (PIM) software</span> 143<br/>
+					<span class="strongDBlue" glossary>presentation software</span> 141<br/>
+					<span class="strongDBlue" glossary>productivity software</span> 137<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>program</span> 136<br/>
+				<span class="strongDBlue" glossary>proprietary software</span> 137<br/>
+				<span class="strongDBlue" glossary>simulation program</span> 155<br/>
+				<span class="strongDBlue" glossary>software</span> 136<br/>
+				<span class="strongDBlue" glossary>Software as a Service (SaaS)</span> 137<br/>
+				<span class="strongDBlue" glossary>software license</span> 158<br/>
+				<span class="strongDBlue" glossary>software piracy</span> 160<br/>
+				<span class="strongDBlue" glossary>software suite</span> 137<br/>
+				<span class="strongDBlue" glossary>spreadsheet software</span> 139<br/>
+				<span class="strongDBlue" glossary>system requirements</span> 159<br/>
+				<span class="strongDBlue" glossary>system software</span> 136<br/>
+				<span class="strongDBlue" glossary>tax preparation software</span> 145<br/>
+				<span class="strongDBlue" glossary>template</span> 144<br/>
+				<span class="strongDBlue" glossary>vertical market software</span> 146<br/>
+				<span class="strongDBlue" glossary>web-based application</span> 137<br/>
+				<span class="strongDBlue" glossary>web page–authoring software</span> 146<br/>
+				<span class="strongDBlue" glossary>wizard</span> 144<br/>
+				<span class="strongDBlue" glossary>word processing software</span> 138<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="chapterReview lineheight18px">
+	<section>
+		<![CDATA[
+			<div class="title">making the transition to...next semester//</div>
+			<ol>
+				<li><span class="innerLi">Picture Perfect</span><br/><span class="innerLi notStrong">You just spent the summer volunteering in a remote village in Africa, and you have tons of pictures you want to share with friends and family. For your friends, it’s easy to upload them into <span class="innerLi strongDBlue" onclick="window.open('http://www.facebook.com','_blank')">Facebook</span>, but you don’t want to give your family access to your Facebook account. Research different websites that you would consider using to upload your pictures to show your family. Create a table that lists the different services along with the pros and cons of each site. Discuss which services you would use and explain your reasoning.</span></li>
+				<li><span class="innerLi">Collaborating with Software</span><br/><span class="innerLi notStrong">You’ve been assigned the dreaded group project. For once, you have a great group of students to work with, but none of your schedules line up so that you can meet in person. You decide to use web-based applications because they are great for collaborating online. Research different types of software you anticipate your group needing to use, including web-based productivity software, sites that enable sharing and storing files online, and sites to use for group video chats and group texting. Create a chart or list that identifies the best software for these needs.</span></li>
+				<li><span class="innerLi">Using OneNote</span><br/><span class="innerLi notStrong">You’ve been assigned a research paper, which will be very extensive. You’re required to collect information for the paper throughout the semester, so you need a good system to keep your notes, readings, and data organized. You’ve heard OneNote is a great tool for just this type of project, but since you’ve never used the software, you don’t know where to start. Go to <span class="innerLi strongDBlue" onclick="window.open('http://microsoft.com','_blank')">microsoft.com</span> and search for “Templates for OneNote.”</span></li>
+			
+			</ol>
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			<p style="margin-left:15px;">Find several good templates that will help you get started. What are the features of the templates that you chose? Discuss which template you would most likely use, and why.</p>
+			
+		<br/>	
+			<div class="title">making the transition to...the workplace//</div>
+			<ol>
+				<li><span class="innerLi">Required Software for the Job</span><br/><span class="innerLi notStrong">Almost every profession requires some use of technology and software. Identify the field you would like to enter upon graduation, and then after doing some research, compile a list of software applications you expect to use in your job. If possible, list a proprietary application, as well as open source and web-based alternatives. Note those applications for which you will need training. If your chosen field currently does not require software, discuss why that may be the case. Do you foresee a time when software may be helpful? If so, what kind of software might that be?</span></li>
+				<li><span class="innerLi">Tracking Your Personal Finances</span><br/><span class="innerLi notStrong">You are finally out on your own—graduated from college and working your first job. It’s time to track how much you spend versus what you’re earning. You really don’t want to live paycheck to paycheck, and you want to begin a savings plan to build a rainy-day fund. Investigate online financial planning sites such as Mint (<span class="innerLi strongDBlue" onclick="window.open('http://mint.com','_blank')">mint.com</span>) and Yodlee (<span class="innerLi strongDBlue" onclick="window.open('http://yodlee.com','_blank')">yodlee.com</span>) and then choose the one that seems best. If you can, download a version of the software for your smartphone. Track your expenses for a few weeks, and identify areas in which you can cut back on your spending. What are the features of the software that you like? Discuss how this may or may not help you in your goal of achieving financial independence.</span></li>
+			</ol>
+		]]>
+	</section>
+	</page>	
+
+	<page index="36" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">
+				team time //
+			</div>
+			<h3>Software for Startups</h3>
+			<h4>Problem</h4>
+			<p class="moreSpacing">You and your friends have decided to start Recycle Technology, a not-for-profit organization that would recycle and donate used computer equipment. In the first planning session, the group recognizes the need for certain software to help them with various parts of the business such as tracking inventory, designing notices, mapping addresses for pickup and delivery, and soliciting residents by phone or e-mail about recycling events, to name a few.</p>
+			<h4>Task</h4>
+			<p class="moreSpacing">Split your class into as many groups of four or five as possible. Make some groups responsible for locating free or web-based software solutions and other groups responsible for finding proprietary solutions. Another group could be responsible for finding mobile app solutions. The groups will present and compare results with each other at the end of the project.</p>
+
+			
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			
+			<h4>Process</h4>
+
+			<ol>
+				<li class="moreSpacing"><span class="notStrong">Identify a team leader who will coordinate the project and record and present results.</span></li>
+				<li class="moreSpacing"><span class="notStrong">Each team is to identify the various kinds of software that Recycle Technology needs. Consider software that will be needed for all the various tasks required to run the organization such as communication, marketing, tracking, inventory management, and finance.</span></li>
+			
+				<li class="moreSpacing"><span class="notStrong">Create a detailed and organized list of required software applications. Depending on your team, you will specify either proprietary software or open source software.</span></li>
+			</ol>
+			<br/>
+			<h4>Conclusion</h4>
+			<p class="moreSpacing">Most organizations require a variety of software to accomplish different tasks. Compare your results with those of other team members. Were there applications that you didn’t think about, but that other members did? How expensive is it to ensure that even the smallest company has all the software required to carry out daily activities, or can the needs be met with free, open source products?</p>
+			
+		
+		]]>
+	</section>
+</page>
+
+	<page index="37" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">ethics project//</div>
+			<h3>Open Source Software</h3>
+			<p class="moreSpacing">Ethical conduct is a stream of decisions you make all day long. In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play might or might not match your own personal beliefs, but your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the arguments, and together, the team will agree on an ethical solution.</p>
+			
+			
+			<h4>Topic: Proprietary Software versus Open Source Software</h4>
+			<p>Proprietary software has set restrictions on use and can be very expensive, whereas open source software is freely available for users to use as is or to change, improve, and redistribute. Open source software has become acceptable as a cost-effective alternative to proprietary software—so much so that it is reported that the increased adoption of open source software has caused a drop in revenue to the proprietary software industry. But determining which software to use involves more than just reducing the IT budget.</p>
+			
+			
+			<h4>Research Areas to Consider</h4>
+			<span class="psudoUlLi">Open source software (Linux, Apache OpenOffice suite, and Mozilla.org)</span>
+			<span class="psudoUlLi">Proprietary software (Microsoft Windows and Office, Apple Mac OS X and</span>
+			<p class="Lmargin15">iWork)</p>
+			<span class="psudoUlLi">Copyright licensing</span>
+			<span class="psudoUlLi">Open source development</span>
+			
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+		
+			<h4>Process</h4>
+			<ol>				
+				<li><span class="notStrong">Divide the class into teams.</span></li>
+				<li><span class="notStrong">Research the areas cited above and devise a scenario in which someone is a proponent for open source software but is being rebuffed by someone who feels that “you get what you pay for” and is a big proponent of using proprietary software.</span></li>
+				<li><span class="notStrong">Team members should write a summary that provides background information for their character—for example: open source proponent, proprietary developer, or arbitrator—and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the role-playing event.</span></li>
+				
+				<li><span class="notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+				<li><span class="notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+			</ol>
+			
+			<h4>Conclusion</h4>
+			<p>As technology becomes ever more prevalent and integrated into our lives, more and more ethical dilemmas will present themselves. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+		]]>
+	</section>
+</page>
+	</chapter>
+</ebook>	

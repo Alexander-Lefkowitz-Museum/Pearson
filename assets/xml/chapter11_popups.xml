@@ -1,0 +1,882 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="11">
+
+		<popup page="3" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.1Big.jpg') no-repeat scroll 118px 49px transparent">
+					<figcaption>
+					  <span>Figure 11.1</span>
+						StubHub is a database that provides for the exchange of tickets between sellers and buyers. <em>(NetPhotos/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="4" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">Music Database Helps You Find New Music</strong></p>
+							<p>Having good music at hand is easy thanks to music databases such as Pandora and Spotify. The <i>Music Genome Project</i> makes it possible for these applications to provide music based on specific preferences. Using almost 400 attributes such as “female lead vocalist” or “club rap roots,” the Music Genome Project analyzes, categorizes, and organizes songs into a database that Pandora and Spotify access.</p> 
+							<p class="start lessSpacing">With Pandora (<span class="strongDBlue" onclick="window.open('http://pandora.com','_blank')">pandora.com</span>), you create radio stations that play music with attributes similar to those you provide. For example, if you enjoy music from The Black Eyed Peas or you  </p> 
+							
+						
+							<figure class="showOverflow TMargin10" onclick="compTia.additionalPopupContent(1)" style="
+							background: url('assets/images/figures/fig11.2.png') no-repeat scroll 0 0 transparent;
+							height: 195px;
+							width: 668px;">
+							<figcaption class="rightPos" style="width:169px;">
+							<span>Figure 11.2</span> <span class="strongDBlue" onclick="window.open('http://spotify.com','_blank')">Spotify</span> lets you create and share your playlists or listen to those created by your friends or others. <em>(Handout/MCT/Newscom)</em>
+							
+							</figcaption>
+							</figure>
+							
+						
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<p class="lessSpacing">like the song “Rolling in the Deep,” you would enter these as “seeds.” Pandora then plays randomly selected songs with attributes similar to the seeds you provided. </p>
+							<p class="start lessSpacing">Spotify (<span class="strongDBlue" onclick="window.open('http://www.spotify.com/','_blank')">spotify.com</span>) offers music, but in a less random way. With Spotify, you can search to find the songs or artists you want to listen to (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.2</span>). Moreover, Spotify incorporates a social networking aspect by informing you what songs your friends are listening to and by sharing playlists from users who choose to make their lists public. Spotify also offers Artist Radio, which acts similarly to Pandora’s random music generator.</p>
+							
+				  		</div>
+					</div>
+			  	</div>
+				<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig11.2Big.png) no-repeat scroll 0px 33px transparent;
+								height: 100%;
+								width: 777px;">
+								<figcaption class="bottomPos">
+								<span>Figure 11.2</span> <span class="strongDBlue" onclick="window.open('http://spotify.com','_blank')">Spotify</span> lets you create and share your playlists or listen to those created by your friends or others. <em>(Handout/MCT/Newscom)</em>
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+
+	  ]]>
+	</section>
+		</popup>
+		
+		<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.3Big.jpg') no-repeat scroll 87px 167px transparent">
+					<figcaption>
+					  <span>Figure 11.3</span>
+						A basic list created as a spreadsheet in Microsoft Excel or as a table in Microsoft Word is often sufficient to organize simple data.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.4Big.jpg') no-repeat scroll 55px 0px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 11.4</span>
+						(a) A class registration list and (b) a list of residence hall assignments are two lists a college might create to keep track of<br>student information.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.5Big.jpg') no-repeat scroll 190px 5px transparent">
+					<figcaption>
+					  <span>Figure 11.5</span>
+						A database centralizes data so that only one copy of relevant data must be maintained. All database users therefore access the same up-to-date information. <em>(wavebreakmedia/Shutterstock; AVAVA/ Shutterstock; Monkey Business Images/Shutterstock; Tan Kian Khoon/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.6Big.jpg') no-repeat scroll 180px 50px transparent">
+					<figcaption>
+					  <span>Figure 11.6</span>
+						The Enterprise Dashboard in MySQL helps DBAs review database performance.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="8" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Keeping Track of Student Information</div>
+			<div class="figureHeader"><strong>Figure 11.7</strong> Click highlighted areas to review information</div>
+			
+
+			</figure>
+ 			<figure style="	width:862px;height:486px;
+							background:url(assets/images/figures/fig11.7/fig11.7Big.jpg) 54px 156px no-repeat">
+
+					<div class="overlayButtons">
+						
+			<div roll="callout1.png" style="left: 70px; width: 792px; top: 167px; height: 160px;"></div>
+			<div roll="callout2.png" style="left: 548px; top: 190px; width: 110px; height: 135px;"></div>
+			<div roll="callout3.png" style="height: 28px; top: 254px; left: 92px; width: 773px;"></div>
+
+					</div>
+					<div class="overlayImages">
+
+			<div style="background: url(assets/images/figures/fig11.7/callout1.png) 0 63px no-repeat;width:100%;height: 100%;" roll="callout1.png"></div>
+			<div style="background: url(assets/images/figures/fig11.7/callout2.png) 0 63px no-repeat;width:100%;height: 100%;;" roll="callout2.png"></div>
+			<div style="background: url(assets/images/figures/fig11.7/callout3.png) 0 63px no-repeat;width:100%;height: 100%;" roll="callout3.png"></div>
+
+					</div>
+			</figure> -->
+
+		</div>
+
+
+					
+			]]></section>
+		</popup>
+		
+		<popup page="10" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.8Big.jpg') no-repeat scroll 118px 22px transparent">
+					<figcaption>
+					  <span>Figure 11.8</span>
+						(a) Field Properties, shown here for the “Student Information” table in an Access database, represent the database’s data dictionary. The Field Properties pane is displayed when a table is shown in Design View. (b) The “Student Information” table is ready for data input in Datasheet View.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage CDataTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Common Data Types</div>
+			<div class="figureHeader"><strong>Figure 11.9</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="CDataTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Data Type</div></th>
+								<th><div>Used to Store</div></th>
+								<th><div>Examples</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Text</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Letters, symbols, or combinations of letters, symbols, and numbers (up to 255 characters). Text also contains numbers that can’t be used in calculations, such as in phone numbers and zip codes.</span></div></td>
+							<td><div class="hide" col="1"><span>Cecilia<br/>PSY 101<br/>(610)</span><span> 555-1212</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Memo</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Long blocks of text (up to 65,535 characters).</span></div></td>
+							<td><div class="hide" col="2"><span>Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Numeric</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>Numeric data that can be used in calculations or that is represented as currency.</span></div></td>
+							<td><div class="hide" col="3"><span>512<br/>1.789<br/>$1,230</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Date / Time</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Dates and times in standard notation. Data may be used in calculations, such as calculating the number of days between today and your next birthday.</span></div></td>
+							<td><div class="hide" col="4"><span>2/21/2016<br/>10:48:01</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Calculated</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>Results of a calculation; often involves numeric or date/time data from other fields in the database.</span></div></td>
+							<td><div class="hide" col="5"><span>Price * Quantity * .06</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Object</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>Pictures, charts, or files from another Windows-based application.</span></div></td>
+							<td><div class="hide" col="6"><span>JPG file<br/>Word document</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Hyperlink</span>
+							<span class="slideNext floatRight" col="7">NEXT</span></div></td>
+							
+							<td><div class="hide" col="7"><span>Alphanumeric data stored as a hyperlink address to a web page, an e-mail address, or an existing file.</span></div></td>
+							<td><div class="hide" col="7"><span>pearsonhighered.com/<br/>techinactionname@email.com</span></div></td>
+						</tr>
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				<popup page="12" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.10Big.jpg') no-repeat scroll 60px 152px transparent">
+					<figcaption>
+					  <span>Figure 11.10</span>
+						The “StudentID” field makes an ideal primary key field because even students with the same name won’t have the same ID number.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+			<popup page="13" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.11Big.jpg') no-repeat scroll 103px 82px transparent">
+					<figcaption>
+					  <span>Figure 11.11</span>
+						The foreign key field is the same as the primary key field in a related table.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.12Big.jpg') no-repeat scroll 130px 40px transparent">
+					<figcaption>
+					  <span>Figure 11.12</span>
+						The foreign key field is the same as the primary key field in a related table.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="16" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_20 shiftUp10">Computers in Society: <br/>User-Populated Databases</div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Web 2.0 applications are about making it easy for users to create and disseminate their own content. So if you have a database that needs populating, why not seek help from the web community to populate it, especially if it’s designed as a resource for the masses?</p>
+					  		<p class="start">Yelp (<span class="strongDBlue" onclick="window.open('http://yelp.com','_blank')">yelp.com</span>) is conceived as the “yellow pages” for the twenty-first century. Yelp is free to use, and anyone can write a review of a business and post it to the site. Users can easily search the site, find service providers in their area, and see what ratings consumers have given them. Thinking about going to a Mexican restaurant in the San Jose area that you’ve never visited (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.13</span>)? A quick search on Yelp will lead to more than 500 restaurants that fit this criteria. Surely you’ll be able to find one that fits your budget and that other people enjoyed visiting. </p>
+					  		<p class="start">However, Yelp is not without its critics. Because it allows anonymous posting, some people argue that businesses may try to increase their ratings by posting their own positive reviews. And Yelp actively markets to businesses to pay for placement of ads on its site that some users may mistake for unsponsored reviews. (To avoid this kind of consumer misinterpretation, the Federal Communications Commission [FCC] now requires commercial websites to clearly identify reviews that are sponsored, but some consumers remain oblivious.)</p>
+							<p class="start">An alternative to Yelp that addresses these concerns is Angie’s List. Angie’s List (<span class="strongDBlue" onclick="window.open('http://angieslist.com','_blank')">angieslist.com</span>) focuses primarily on service companies and health care professionals, not entertainment and food service businesses. Members pay a monthly fee to access the reviews on Angie’s List. What do you get for your fee? Angie’s List doesn’t permit anonymous reviews. This is a big benefit for business owners because it makes it easier to contact dissatisfied customers and try to resolve issues. Angie’s List also has a verification process with reviewers to ensure that businesses don’t report on themselves. And businesses don’t pay to advertise on Angie’s List; they make it on the site only when they’re reviewed by a consumer.</p>
+							<p class="start">Both Yelp and Angie’s List are searchable databases, but whereas most companies usually populate databases themselves, these websites rely on users to create their content. The databases still need to be well designed to capture this content, and processes need to be in place to review the data entered for appropriateness. By harnessing the power of large groups of users to populate a database, the database owners can reap the rewards of saving time, effort, and money.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+				
+				<figure style="background: url(assets/images/figures/fig11.13.png) no-repeat scroll 0px 32px transparent;
+						  	height: 308px;margin: 64px 0 0 -9px;">
+						  	<div onclick="compTia.additionalPopupContent(1)"
+						  		 style="height: 261px;"></div>
+							<figcaption class="bottomPos">
+							  <span>Figure 11.13</span>
+							  <span class="strongDBlue" onclick="window.open('http://yelp.com','_blank')">Yelp's</span> database is populated with reviews created by users.
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig11.13Big.png) no-repeat scroll 112px 16px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 11.13</span>
+								<span class="strongDBlue" onclick="window.open('http://yelp.com','_blank')">Yelp’s</span> database is populated with reviews created by users.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="17" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.14Big.jpg') no-repeat scroll 140px 50px transparent">
+					<figcaption>
+					  <span>Figure 11.14</span>
+						Input forms are used to enter data into tables.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.15Big.jpg') no-repeat scroll 111px 84px transparent">
+					<figcaption>
+					  <span>Figure 11.15</span>
+						Validation rules help ensure correct data is entered.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+			
+			<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.16Big.jpg') no-repeat scroll 95px 70px transparent">
+					<figcaption>
+					  <span>Figure 11.16</span>
+						Access users see this pop-up when they enter a value that falls outside the stated range of acceptable values. The displayed message is generated from the text typed in the “Validation Text” property.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+			
+			<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.17Big.jpg') no-repeat scroll 95px 70px transparent">
+					<figcaption>
+					  <span>Figure 11.17</span>
+						Access users see this pop-up when they do not enter a value in a field that has been indicated as being required.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+			
+			<popup page="19" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.18Big.jpg') no-repeat scroll 95px 0px transparent">
+					<figcaption>
+					  <span>Figure 11.18</span>
+						(a) Shown is an unsorted table. Notice that the “Last Name” column is selected (highlighted) for sorting. Selecting the sorting option “Ascending” produces the sorted output (b) with the records sorted in a scending alphabetical order by last name.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+			
+			<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.19Big.jpg') no-repeat scroll 175px 17px transparent">
+					<figcaption>
+					  <span>Figure 11.19</span>
+						(a) When creating a query, you can specify fields from multiple tables as well as specific criteria within a field. (b) The outcome reflects those records meeting the specified criteria.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.20Big.jpg') no-repeat scroll 39px 150px transparent; margin-bottom:-17px;">
+					<figcaption style="margin-bottom:20px;">
+					  <span>Figure 11.20</span>
+						The SQL View window in Access shows the SQL code for the query in Figure 11.19. Although it’s a relatively simple SELECT statement, it’s much easier to create the query using the Access tools provided.
+					</figcaption>
+					</figure>
+					<p><em>>To display SQL code for a query, open a query and select <strong>SQL View</strong> from the View drop-down list on the Home tab of the Ribbon.</em></p>
+				]]>
+			</section>
+		</popup>
+		
+			<popup page="20" distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_20">Structured Query Language (SQL)</div>
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>To extract records from a database, you use a query language. Almost all relational and object-oriented databases today use Structured Query Language, or SQL. Oracle, Microsoft SQL Server, Microsoft Access, IBM DB2, and MySQL are examples of popular databases that use SQL. </p>
+					  		<p class="start">SQL uses relational algebra to extract data from databases. <span class="strongDBlue" glossary>Relational algebra</span> is the use of English-like expressions that have variables and operations, much like algebraic equations. Variables include table names, field names, or selection criteria for the data you wish to display. Operations include directions such as <em>select</em> (which enables you to pick variable names), <em>from</em> (which tells the database which table to use), and <em>where</em> (which enables you to specify selection criteria). The two most common queries used to extract data using relational algebra are select queries and join queries.</p>
+					  		<p class="start">A <span class="strongDBlue" glossary>select query</span> displays a subset of data from a table (or tables) based on the criteria you specify. A typical select query has the following format:</p>
+							<p class="TMargin15 BMargin15">SELECT (Field Name 1, Field Name 2, …)<br/>FROM (Table Name)<br/>WHERE (Selection Criteria)</p>
+							<p class="start">The first line of the query contains variables for the field names you want to display. The FROM statement enables you to specify the table name from which the data will be retrieved. The last line (the WHERE statement) is used only when you wish to specify which records need to be displayed (such as all students with GPAs greater than 3.3). If you wish to display all the rows (records) in the table, then you don’t use the WHERE statement (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.21</span>).</p>
+							<p class="start">Suppose you want to create a phone list that includes all students from the Student Information table in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.21a</span>. The SQL query you would send to the database would look like this:</p>
+							<p class="TMargin15 BMargin15">SELECT (FirstName, LastName, CellPhone)<br/>FROM (Student Information Table)</p>
+							<p class="start"><span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 11.21b</span> shows the output from this query.</p>
+							<p class="start">What if you want a phone list that shows only students from Massachusetts? In that case, you would add a WHERE statement to the query, as follows:</p>
+							<p class="TMargin15 BMargin15">SELECT (FirstName, LastName, CellPhone)<br/>FROM (Student Information Table)<br/>WHERE (State = MA)</p>
+							<p class="start">This query restricts the output to students who live in Massachusetts, as shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.21c</span>. Notice that the “State” field in the “Student Information” table can be used by the query (in this case, as a limiting criterion) but that the contents of the “State” field aren’t required to be displayed in the query results. This explains why the output shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.21c</span> doesn’t show the “State” field.</p>
+							<p class="start">When you want to extract data that is in two or more tables, you use a <span class="strongDBlue" glossary>join query</span>. The query actually links (or joins) the two tables using the common field in both tables and extracts the relevant data from each. The format for a simple join query for two tables is as follows:</p>
+							<p class="TMargin15">SELECT (Field Name 1, Field Name 2)<br/>FROM (Table 1 Name, Table 2 Name)<br/>WHERE (Table 1 Name.Common Field Name = Table</p>
+							<p class="start BMargin15">2 Name.Common Field Name)<br/>AND (Selection Criteria)</p>
+							<p class="start">Notice how similar this is to a select query, although the FROM statement must now contain two table names. In a join query, the WHERE statement is split into two parts. In the first part (right after WHERE), the relation between the two tables is defined by identifying the common fields between the tables. The second part of the statement (after AND) is where the selection criteria are defined.</p>
+							<p class="start">The AND means that both parts of the statement must be true for the query to produce results (i.e., the two related fields must exist and the selection criteria must be valid). <span class="strongDBlue" onclick="compTia.additionalPopupContent(2)">Figure 11.22</span> illustrates using a join query for the “Student Information” and “Roster Master” tables to produce a class roster for students.</p>
+							
+						
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+				
+				<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig11.21.png) no-repeat scroll 0px 32px transparent;
+						  	height: 319px;margin: 443px 0 0 -9px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 11.21</span>
+							  When the query on the left is applied to the (a) “Student Information” table, it restricts the output to (b) only a phone list. The query on the right, which uses a WHERE statement, further restricts the phone list to (c) only students from Massachusetts.
+							</figcaption></figure>
+				
+					
+					<figure onclick="compTia.additionalPopupContent(2)" 
+						 		style="background: url(assets/images/figures/fig11.22.png) no-repeat scroll 0px 32px transparent;
+						  	height: 320px;margin: 603px 0 0 -9px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 11.22</span>
+							  This join query will display a student roster for each student in the “Student Information” table. Notice that the WHERE statement creates the join by defining the common field (in this case, StudentID) in each table.
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+							<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig11.21Big.png) no-repeat scroll 122px 0px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 11.21</span>
+								When the query on the left is applied to the (a) “Student Information” table, it restricts the output to (b) only a phone list. The query on the right, which uses a WHERE statement, further restricts the phone list to (c) only students from Massachusetts.
+							 
+							</figcaption>
+							</figure>
+						</div>
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig11.22Big.png) no-repeat scroll 112px 16px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 11.22</span>
+								This join query will display a student roster for each student in the “Student Information” table. Notice that the WHERE statement creates the join by defining the common field (in this case, StudentID) in each table.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+			
+			<popup page="21" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.24Big.jpg') no-repeat scroll 31px 169px transparent">
+					<figcaption>
+					  <span>Figure 11.24</span>
+						Data can be imported and exported between Access and other Microsoft Office applications as well as converted to PDF, XML, and other formats for use with other applications.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="21" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="font_18">iTunes Smart Playlists—<br/>They’re Just Queries!</strong></p>
+							<p>Ever built a smart playlist in iTunes? If so, you’ve created a database query. iTunes is just a relational database that manages your media. A smart playlist (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.23</span>) allows you to define multiple criteria to create a playlist. Say you want </p> 
+							
+						
+							<figure class="showOverflow TMargin20" onclick="compTia.additionalPopupContent(1)" style="
+							background: url('assets/images/figures/fig11.23.png') no-repeat scroll 0 0 transparent;
+							height: 267px;
+							width: 727px;">
+							<figcaption class="rightPos" style="width:98px;">
+							<span>Figure 11.23</span> The iTunes Smart Playlist dialog box creates a database query.
+							
+							</figcaption>
+							</figure>
+							
+							
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<p class="lessSpacing">all songs in the genre Rock, except for the artist Pink and the album <em>Monkey Business</em>. When you define these criteria as “match all” in the Smart Playlist dialog box, you’ll get a smart playlist that contains the music you want. You have built a query that tells iTunes exactly what music to extract from the database and to include in your playlist.</p>
+							
+				  		</div>
+					</div>
+			  	</div>
+				<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig11.23Big.png) no-repeat scroll 0px 15px transparent;
+								height: 100%;
+								width: 777px;">
+								<figcaption class="bottomPos">
+								<span>Figure 11.23</span> The iTunes Smart Playlist dialog box creates a database query.
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+
+	  ]]>
+	</section>
+		</popup>
+		
+			<popup page="25" distinction="popupFeature" customscript="compTia.features.setupVideo('11_25')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Databases</div>
+		<div class="padding70">
+		  <a style="padding-left:149px;color:#01567a" data="11_25"></a>
+		  	
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="448">
+			<source src="assets/video/b.mp4" type="video/mp4">
+			  <source src="assets/video/b.ogv" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+		  	</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+			
+			<popup page="27" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_18" style="line-height:22px; text-align:right; margin-top:-12px; margin-right:-42px;">Emerging Technologies: Can Your Business Partner Deliver the Goods? <br/>Enhanced Databases Can Help You Decide!</div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Suppose you manufacture T-shirts, and to keep costs low, you’d like to explore Vietnamese T-shirt manufacturers. You could use the terms “Vietnamese t-shirt manufacturers” in a search engine and you’d probably find many leads. The information in the leads available online may be factually correct, but how do you determine how reliable these suppliers are? Alibaba and Panjiva are two online business-to-business databases that help to navigate these transactions.</p>
+					  		<p class="start">Developed to respond to business needs, Alibaba (<span class="strongDBlue" onclick="window.open('http://alibaba.com','_blank')">alibaba.com</span>) is one of the world’s largest online business-to-business databases (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.26</span>). Alibaba.com specializes in matching suppliers with buyers for all types of manufactured goods and raw materials. With the global nature of business, databases such as those maintained by Alibaba are essential tools that assist businesspeople in managing their global businesses. </p>
+					  		<p class="start">Panjiva (<span class="strongDBlue" onclick="window.open('http://panjiva.com','_blank')">panjiva.com</span>) is a website that also has a searchable database, this one of over 1.5 million suppliers. The founders of Panjiva decided to make their database different. They gather data that indicates the reliability of suppliers from sources such as government agencies, independent certification companies, nonprofit organizations, and customers. Using the reliability information, Panjiva then creates ratings for companies (on a scale of 1 to 100) based on specific business performance criteria such as number of shipments to the U.S. market, the company’s environmental record, and their capability to deliver shipments within promised time frames. Companies such as The Home Depot that subscribe to Panjiva’s database can feel more comfortable about doing business with suppliers that Panjiva has rated for reliability.</p>
+							<p class="start">Databases with enhanced information are the wave of the future in the business world. So, before you make that next crucial business decision, ask yourself how much you really know about your prospective business partner. If you don’t know enough, then find a database that can make you feel more at ease.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+				
+				<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig11.26.png) no-repeat scroll 0px 0px transparent;
+						  	height: 375px;margin: 176px 0 0 -9px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 11.26</span>
+							  		Using the <span class="strongDBlue" onclick="window.open('http://alibaba.com','_blank')">Alibaba</span> database, a search for short-sleeved women’s cotton T-shirts in Vietnam results in over 1,400 links to vendors selling some type of women’s T-shirt.
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig11.26Big.png) no-repeat scroll 185px 0px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 11.26</span>
+								Using the <span class="strongDBlue" onclick="window.open('http://','_blank')">Alibaba</span> database, a search for short-sleeved women’s cotton T-shirts in Vietnam results in over 1,400 links to vendors selling some type of women’s T-shirt.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+			
+			
+			<popup page="27" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.27Big.jpg') no-repeat scroll 115px 35px transparent">
+					<figcaption>
+					  <span>Figure 11.27</span>
+						This figure shows an overview of the data warehouse process. <em>(Bikeriderlondon/Shutterstock;REDAV/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+			
+			<popup page="28" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.28Big.jpg') no-repeat scroll 197px 5px transparent">
+					<figcaption>
+					  <span>Figure 11.28</span>
+						Information systems acquire data, process that data into information, store the data, and provide the user with a number of output options to make the information useful. <em>(wavebreakmedia/Shutterstock; wavebreakmedia/Shutterstock; Michaeljung/Shutterstock; Raisa Kanareva/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="30" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.29Big.jpg') no-repeat scroll 200px 0px transparent">
+					<figcaption>
+					  <span>Figure 11.29</span>
+						Transaction-processing systems help capture and track critical business information needed for successful completion of business transactions such as selling merchandise over the Internet. <em>(Bikeriderlondon/Shutterstock; Penka TodorovaVitkova/Shutterstock; Chuck Rausin/Shutterstock; Nataliia Natykach/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="31" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.30Big.jpg') no-repeat scroll 217px 0px transparent">
+					<figcaption>
+					  <span>Figure 11.30</span>
+						The three types of management information system reports are (a) detail reports, (b) summary reports, and (c) exception reports.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="32" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig11.31Big.jpg') no-repeat scroll 110px 45px transparent">
+					<figcaption>
+					  <span>Figure 11.31</span>
+						This figure shows the major components of a DSS. Through the user interface, models are analyzed and manipulated to provide information on which management decisions are based. <em>(Tan Kian Khoon/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="33" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">Virtual Agents: Expert Systems</strong></p><p class="lessSpacing"><strong class="larger">Replace People on the Web</strong></p>
+							<p>An offshoot of expert systems are the virtual agents that you encounter on the web or on the phone. Virtual agents are frequently used to interface with a database to answer customers’ questions. For example, a typical virtual agent on the web features a picture, a name, and a box for entering questions, as shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 11.32</span>. No virtual agent can be programmed to contain all the possible questions a human might ask. Therefore, the virtual agent software breaks the question down into key words and phrases, which it compares to a database containing question responses. It picks the most likely response and provides the answer. Customers provide feedback as to whether the response adequately answered their question. Usually, if results from the virtual agent aren’t satisfactory or if customers need more information, they can connect to a live customer service agent. Virtual agents, although not perfect, save companies mone by answering common questions without using expensive human labor.</p> 
+						
+							
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+						
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(1)" style="
+							background: url('assets/images/figures/fig11.32.png') no-repeat scroll 0 0 transparent;
+							height: 325px;">
+							<figcaption class="bottomPos" >
+							<span>Figure 11.32</span> Spike, Gonzaga University’s sports team mascot, has been transformed into a virtual agent to direct people to the appropriate page of the school’s website. <em>(Courtesy of Gonzaga University.)</em>
+							
+							</figcaption>
+							</figure>
+							
+				  		</div>
+					</div>
+			  	</div>
+				<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig11.32Big.png) no-repeat scroll 155px 0px transparent;
+								height: 100%;
+								width: 777px;">
+								<figcaption class="bottomPos">
+								<span>Figure 11.32</span> Spike, Gonzaga University’s sports team mascot, has been transformed into a virtual agent to direct people to the appropriate page of the school’s website. <em>(Courtesy of Gonzaga University.)</em>
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+
+	  ]]>
+	</section>
+		</popup>
+		
+		<popup page="35" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_18 shiftUp10">Data, Data Everywhere—<br/>But Is It Protected?</div>
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>As databases have become commonplace, an ever-increasing amount of information about you and your habits has been placed into various databases. Consider the following:</p>
+						<ul class="dotted leftPadding13">
+							<li><span class="innerLi">Every credit card purchase generates a record of that transaction, and both the merchant from whom you purchased the item and the credit card company have gathered information about your buying habits (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 11.34</span>). In March 2012, private customer information was improperly exposed from all the major credit card brands, potentially affecting millions of credit card holders.</span></li>
+							<li><span class="innerLi">Automated highway toll records are routinely subpoenaed in court cases. For example, toll records were used in an Illinois court by a husband in a 2007 divorce case to prove his wife was rarely home and therefore unfit to have custody of their son.</span></li>
+							<li><span class="innerLi">Many companies such as Target collect e-mail addresses so they can correspond with customers, but the e-mails don’t come directly from those companies. Large marketing companies such as Epsilon are hired to manage customer e-mail programs. Unfortunately, in March 2011 Epsilon’s database servers suffered an attack that exposed millions of individuals’ e-mail addresses to hackers.</span></li>
+						</ul>
+						
+						<p class="start">Inadvertently exposing information to inappropriate or unauthorized individuals is known as a <em>data breach</em>. What responsibility do companies have in safeguarding your data? Should they inform you that your data might be shared with other corporations and obtain your permission before sharing it? How should consumers be compensated (and by whom) if their data is misused?</p>
+					  	
+						<h2 class="blueHeading TMargin15">What Can You Do?</h2>
+						<p>Providing information and having it recorded in databases are part of our way of life now. Because refusing to give information out at all is bound to be impractical, ask the following questions related to data you’re providing:</p>
+						<ul class="dotted leftPadding13 strong">
+							<li><span class="innerLi">For what purpose is the data being gathered?<span class="notStrong"> When the clerk at the electronics superstore asks for your zip code, ask why he or she wants it.</span></li>
+							<li><span class="innerLi">Are the reasons for gathering the data legitimate or important to you?<span class="notStrong"> You might not want to share your information for marketing purposes, but might want to in order to initiate a product warranty. Similarly, disclosing personal information to your pharmacist may be important for receiving good care and therefore is important to you. If you don’t see the advantage, then ask more questions or don’t reveal the information.</span></span></li>
+							<li><span class="innerLi">How will the collected information be protected?<span class="notStrong"> Ask about data protection policies before you give information. Most websites provide access to their data protection policies when they ask you for information. If an organization doesn’t have a data protection policy, be wary of giving them sensitive information. Data protection doesn’t just refer to keeping data secure, it also means restricting access to the data to employees of the organization that need to use that data. A shipping clerk might need to see your address, for example, but doesn’t need to see your credit card information.</span></span></li>
+							<li><span class="innerLi">Will the collected information be used for purposes other than the purpose for which it was originally collected?<span class="notStrong innerLi"> This might be covered in a data protection policy. If it isn’t, ask about it. Will your information be sold to or shared with other companies? Will it be used for marketing other products to you?</span></li>
+							<li><span class="innerLi">Could the information asked for be used for identity theft? <span class="notStrong innerLi">Identity thieves usually need your Social Security number and your birth date to open credit card accounts in your name. Be especially wary when asked for this information, and make sure there is a legitimate need for it. Most organizations and businesses are shying away from using Social Security numbers to track customers because of the risk of identity theft. And do you really need an e-mail from someone on your birthday advertising a product? It really isn’t worth exposing your birth date to potential misuse.</span></li>
+							<li><span class="innerLi">Are organizations safeguarding your data?<span class="notStrong"> Don’t just consider new requests for information. Think about organizations, such as banks, that already have your information. Have they been in the news lately because of a major data breach? (Is your bank a customer of Epsilon, for instance?) You might want to consider switching institutions if yours has a poor record of data security.</span></li>
+						</ul>
+						
+						<p class="start">Think carefully before providing information and be vigilant about monitoring your data when you can. It may make the difference between invasion of privacy and peace of mind.</p>
+						
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  <figure class="neg25LMargin" onclick="compTia.additionalPopupContent(1)"
+						  	style="
+						  	    background: url(assets/images/figures/fig11.34.png) no-repeat 0px 0 transparent;
+						  	    height: 222px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 11.34</span>
+							 		Think about all the data about you that is stored in databases. Do you feel your privacy is protected? <em>(UK Stock Images Ltd/Alamy)</em>
+							  </figcaption>
+							</figure>
+					</div>
+				</div></div>
+				</div>
+			
+					<div class="additional">
+							<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig11.34Big.png) no-repeat scroll 80px 29px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 11.34</span>
+							 		Think about all the data about you that is stored in databases. Do you feel your privacy is protected? <em>(UK Stock Images Ltd/Alamy)</em>
+							</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+					</div>
+
+			]]></section>
+		</popup>
+		
+		<popup page="35" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage DMTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Data-Mining Techniques</div>
+			<div class="figureHeader"><strong>Figure 11.33</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="DMTable">
+						
+						
+						<tr class="lightBlueGrad">
+							<td><div><span></span><img src="assets/images/charts/image01.jpg">
+
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span><br/>Classification</span></div></td>
+							<td><div class="hide" col="1"><span>Define data classes to help spot trends, then apply the <br/>class definitions to all unclassified data.</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span></span><img src="assets/images/charts/image02.jpg">
+
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span><br/>Estimation</span></div></td>
+							<td><div class="hide" col="2"><span>Assign a value to data based on some criterion.</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span></span>
+							<img src="assets/images/charts/image03.jpg">
+
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>Affinity<br/>Grouping (or<br/>Association Rules)</span></div></td>
+							<td><div class="hide" col="3"><span>Determine which data goes together.</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span></span>
+							<img src="assets/images/charts/image04.jpg" class="Lmargin10">
+
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span><br/>Clustering</span></div></td>
+							<td><div class="hide" col="4"><span>Organize data into similar subgroups, or clusters, <br/>without using predefined classes.</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span></span><img src="assets/images/charts/image05.jpg">
+
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>Description and<br/>Visualization</span></div></td>
+							<td><div class="hide" col="5"><span>Describe data so that managers can interpret it in new <br/>and different ways.</span></div></td>
+						</tr>
+					</table>
+					
+				]]>
+				</section>
+				</popup>
+
+		
+	</chapter>
+</ebook>

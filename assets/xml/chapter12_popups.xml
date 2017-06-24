@@ -1,0 +1,827 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="12">
+	
+			
+			<popup page="3" distinction="popupFeature"  customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+				<section><![CDATA[ 
+					<div class="ActiveGraphicPage image2Table">
+					<div class="close"> </div>
+				<div class="HeadingOrangeBackDiagDashes">Benefits of Business Networks</div>
+					<div class="figureHeader"><strong>Figure 12.1</strong> Click on arrows  to reveal table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="image2Table">
+		
+					
+						<tr>
+							<td><div><img src="assets/images/figures/12.1/fig12.1.1.png">
+							<span class="lDownArrow floatRight"  col="1">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div style="height:61px;" class="hide"  col="1"><img src="assets/images/figures/12.1/fig12.1.2.png">
+							<span class="lDownArrow floatRight" style="bottom:0px;" col="2">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div  col="2" style="height:83px;" class="hide"><img src="assets/images/figures/12.1/fig12.1.3.png">
+							<span class="lDownArrow floatRight" col="3">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div  col="3" style="height:63px;" class="hide"><img src="assets/images/figures/12.1/fig12.1.4.png">
+							
+						</tr>
+						
+					</table>
+	
+		
+					]]>
+			</section>
+		</popup>
+
+
+		<popup page="4" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">The Doctor Isn’t In: Virtual Doctors</strong>
+								<p>There is a shortage of physicians in the United States, especially in rural areas. Even if there are plenty of general practitioners in your area, is there an orthopedic surgeon or a neurologist available for a timely consult after your car accident? In the future, computer networks are likely to provide solutions to these problems through an emerging field known as telemedicine.</p>
+								<p class="start">Initiatives such as Cisco’s HealthPresence are helping patients get care locally, regardless of where doctors are actually located. Exam stations containing equipment and software can be installed in office parks, malls, or even mobile tractor-trailer facilities. The exam stations are often staffed with nurses or physicians’ assistants who are in much greater supply than physicians. Patients visit the exam stations locally, while the doctors work remotely.</p>
+								<p class="start">This telemedicine technology uses two-way video conferencing to enable the doctors and patients to see each other and converse. Medical equipment such as blood pressure</p>	
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								<p>cuffs, pulse meters, and ear, nose, and throat scopes are integrated with the video conferencing equipment so that patient vital signs can be transmitted to the doctors. Software deployed with the equipment is designed to facilitate the review and generation of electronic patient records.</p>
+								<p class="start">So, the next time you need a doctor, maybe you won’t have to wait for hours in a waiting room. A computer solution may be just what the doctor ordered!</p>
+						
+					
+
+						</div>
+					</div>
+				</div>
+				]]>
+			</section>
+		</popup>
+		
+		<!--Active Graphic-->
+		<popup page="5" distinction="popupFeature" customscript="compTia.features.setupVideo('12_2')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Small Client/Server Network</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_2"></a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="6" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage CSnetworkTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Classifications of Client/Server Networks</div>
+			<div class="figureHeader"><strong>Figure 12.3</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="CSnetworkTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Network Type</div></th>
+								<th><div>Description</div></th>
+								<th><div>Where Used in Business</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>PAN (Personal Area Network)</span>
+							<img src="assets/images/charts/image12.3.01.jpg" style="position: relative;left:55px;">
+
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>
+								Devices used by one person <br/>connected via wireless media</span></div></td>
+							<td><div class="hide" col="1"><span>
+								Usually by employees traveling <br/>on business</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>LAN (Local Area Network)</span>
+							<img src="assets/images/charts/image12.3.02.jpg" style="position: relative;left:44px;">
+
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>
+								A network consisting of nodes <br/>covering a small geographic area</span></div></td>
+							<td><div class="hide" col="2"><span>
+								In small businesses or self-contained <br/>units of a large business (such as one or <br/>more floors of the same office building)</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>HAN (Home Area Network)</span><br/>
+							<img src="assets/images/charts/image12.3.03.jpg" style="position: relative;left:62px;">
+
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>
+								A type of small LAN installed <br/>in a home</span></div></td>
+							<td><div class="hide" col="3"><span>
+								Not usually deployed by businesses, <br/>except small home-based businesses</span></div></td>
+						</tr>
+						
+							<tr class="lightestBlueGrad">
+							<td><div><span>WAN (Wide Area Network)</span><br/>
+							<img src="assets/images/charts/image12.3.04.jpg" style="position: relative;left:52px;">
+
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>
+								Two or more LANs connected together, <br/>often over long distances</span></div></td>
+							<td><div class="hide" col="4"><span>
+								Connecting business LANs over long <br/>distances such as between branches <br/>in two cities</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>MAN (Metropolitan Area Network)</span>
+							<img src="assets/images/charts/image12.3.05.jpg" style="position: relative;left:56px;">
+
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							<td><div class="hide" col="5"><span>
+								WANs constructed by municipalities <br/>to provide connectivity in a specific <br/>geographic area</span></div></td>
+							<td><div class="hide" col="5"><span>
+								Although not deployed by businesses, <br/>employees often use them while <br/>traveling</span></div></td>
+						</tr>
+						
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				<!--Active Graphic-->
+				<popup page="7" distinction="popupFeature" customscript="compTia.features.setupVideo('12_4')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Local Area Networks (LANs)</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_4"></a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+				
+		
+		<!--Active Graphic-->
+		<popup page="8" distinction="popupFeature" customscript="compTia.features.setupVideo('12_5')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+				
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Typical Client/Server Network</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_5"></a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+
+			<!--Active Graphic-->
+			
+			<popup page="9" distinction="popupFeature" customscript="compTia.features.setupVideo('12_6')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Large Scale Client/Server Network</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_6"></a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="11" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_20" style="line-height:22px; text-align:center; margin-top:-12px;">Virtualization: <br/>Making Servers Work Harder  </div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Servers have historically been deployed on client/ server networks as dedicated machines that perform one specific task. But today there are good reasons why some businesses may consider having servers perform multiple tasks.</p>
+					  		<p class="start">Computers produce a lot of heat and take up physical space. As a company grows, continually adding servers may exceed the available floor space and cooling capacity of a company’s data center. And budgets may limit a company’s ability to purchase additional dedicated servers when needed.</p>
+					  		<p class="start">Dedicated servers are mission critical when those servers handle processor-intensive operations. For instance, a major online retailer would have dedicated web servers handling e-commerce traffic so that customers could purchase items quickly and efficiently. But small businesses don’t necessarily require the computing power of a dedicated server for all of their computing needs. In addition, today’s powerful multi-core processors allow computers to process data more quickly and efficiently than single-core machines. Sometimes just dedicating a computer to one task, such as an authentication server, might not come close to fully utilizing that server’s computing potential. For all of these reasons, <em>virtualization</em> was born.</p>
+							<p class="start"><span class="strongDBlue" glossary>Virtualization</span> involves using specialized software to make individual physical servers behave as though they are more than one physical device (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 12.7</span>). Each virtual server can operate as a separate device and can even run its own operating system (OS). Therefore, you could have a virtual e-mail server running Windows and a virtual web server running Linux on the same physical server.</p>
+							<p class="start">Creating virtual servers requires running specialized virtualization software on a physical server. The physical server then becomes known as the <em>host</em>. Virtual servers running on a host machine are known as <em>guest servers</em>. The computing power of the CPU is split between the guests running on the host. Therefore, it wouldn’t be practical to run dozens of guest environments on one host because the computing power would become diluted. However, it’s very possible to run two or three guest servers on one multi-processor physical server as long as the applications running on the virtual servers aren’t overly processor intensive. VMware, Microsoft Hyper-V Server, and XenServer are popular virtualization software packages.</p>
+							<p class="start">Virtualization is a great way to provide backup servers at a low cost. Mission-critical servers, such as web servers, need to be running and available to customers at all times. If a web server for an e-commerce business fails, the company is unable to sell products until the server is repaired. With virtual servers, you could have a copy of your web server running virtually on two separate physical machines (say server 1 and 2). If server 1 breaks, you could immediately have the virtual copy of your web server on physical server 2 take over, and the company could still be processing orders and conducting business.</p>
+							<p class="start">Although virtualization isn’t the perfect solution for every business situation, it does offer intriguing possibilities and effective solutions for specific needs. Many companies today are actively exploring virtualization as a way to extend their computing resources and save money.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+				
+				<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig12.7.png) no-repeat scroll 65px 32px transparent;
+						  	height: 357px;margin: 439px 0 0 -9px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 12.7</span>
+							  Virtualization software allowsone physical server to appear to be multiple separate servers capable of handling three different processes.
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig12.7Big.png) no-repeat scroll 244px 10px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 12.7</span>
+								Virtualization software allowsone physical server to appear to be multiple separate servers capable of handling three different processes.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+		
+		
+			<!--Active Graphic-->
+			
+			<popup page="12" distinction="popupFeature" customscript="compTia.features.setupVideo('12_8')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Linear Bus Topology</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_8"></a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+			<!--Active Graphic-->
+			<popup page="13" distinction="popupFeature" customscript="compTia.features.setupVideo('12_9-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Ring Topology</div>
+					<div class="padding70">
+					  <a style="padding-left:99px; padding-right: 135px;color:#01567a" data="12_9-1">STEP 1</a>
+						<a style="padding-right: 135px;" data="12_9-2">STEP 2</a>
+						 <a style="padding-right: 135px;" data="12_9-3">STEP 3</a>
+						 <a style="padding-right: 135px;" data="12_9-4">STEP 4</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+			<!--Active Graphic-->
+			<popup page="14" distinction="popupFeature" customscript="compTia.features.setupVideo('12_10')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Star Topology</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_10"></a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+			
+		
+			<!--Active Graphic-->
+			<popup page="15" distinction="popupFeature" customscript="compTia.features.setupVideo('12_11-0')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Jams Signals</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right: 135px;color:#01567a" data="12_11-0">STEP 1</a>
+						<a data="12_11-1" style="padding-right: 135px;">STEP 2</a>
+						 <a data="12_11-2" style="padding-right: 135px;">STEP 3</a>
+						 <a data="12_11-3" style="padding-right: 135px;">STEP 4</a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+			
+		
+		<popup page="16" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage BRSTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Advantages and Disadvantages of Bus, Ring, and Star Topologies</div>
+			<div class="figureHeader"><strong>Figure 12.12</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="BRSTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Generation</div></th>
+								<th><div>Advantages</div></th>
+								<th><div>Disadvantages</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Bus</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Uses a minimal amount of cable.</span></li><br/>
+									<li><span class="innerLi">Installation is easy, reliable, and inexpensive.</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="1"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Breaks in the cable can disable the network.</span></li><br/>
+									<li><span class="innerLi">Large numbers of users decrease performance <br/>because of high volumes of data traffic.</span></li>
+								</ul></span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div style="height:88px;"><span>Ring</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2" style="height:88px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Allocates access to the network fairly.</span></li><br/>
+									<li><span class="innerLi">Performance remains acceptable even with many users.</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="2" style="height:88px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Adding/removing nodes disables the network.</span></li><br/>
+									<li><span class="innerLi">Failure of one node can bring down the network.</span></li><br/>
+									<li><span class="innerLi">Problems in data transmission can be difficult to find.</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div style="height:168px;"><span>Star</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3" style="height:168px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Failure of one node doesn’t affect other nodes on the network.</span></li><br/>
+									<li><span class="innerLi">Centralized design simplifies troubleshooting and repairs.</span></li><br/>
+									<li><span class="innerLi">High scalability: Adding computers is easy.</span></li><br/>
+									<li><span class="innerLi">Performance remains acceptable even with many users.</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="3" style="height:168px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Requires more cable (and possibly higher installation costs) than a bus or ring topology.</span></li><br/>
+									<li><span class="innerLi">The switch is a single point of failure; if it fails, all computers connected to it are affected.</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				
+			<popup page="19" distinction="popupFeature"  customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+				<section><![CDATA[ 
+					<div class="ActiveGraphicPage imageTable">
+					<div class="close"> </div>
+				<div class="HeadingOrangeBackDiagDashes">Factors to Consider When Choosing Network Cable</div>
+					<div class="figureHeader"><strong>Figure 12.13</strong> Click on arrows  to reveal table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="imageTable">
+		
+					
+						<tr>
+							<td><div><img src="assets/images/figures/fig12.13/fig12.13.1.jpg">
+							<span class="lDownArrow floatRight"  col="1">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div style="height:61px;" class="hide"  col="1"><img src="assets/images/figures/fig12.13/fig12.13.2.jpg">
+							<span class="lDownArrow floatRight" col="2">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div  col="2" style="height:83px;" class="hide"><img src="assets/images/figures/fig12.13/fig12.13.3.jpg">
+							<span class="lDownArrow floatRight" col="3">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div  col="3" style="height:63px;" class="hide"><img src="assets/images/figures/fig12.13/fig12.13.4.jpg">
+							<span class="lDownArrow floatRight" col="4">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div  col="4" style="height:79px;" class="hide"><img src="assets/images/figures/fig12.13/fig12.13.5.jpg">
+							<span class="lDownArrow floatRight" col="5">NEXT</span></div></td>
+						</tr>
+						<tr>
+							<td><div  col="5" class="hide"><img src="assets/images/figures/fig12.13/fig12.13.6.png">
+						</div></td>
+						</tr>
+						
+					</table>
+	
+		
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="20" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content" style="height:437px;">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Use Mobile Networking…to Report Abandoned Vehicles?</strong>
+								<p class="lessSpacing">Everyone has some sort of civic problem in his or her neighborhood. For example, maybe there’s an abandoned vehicle in the area or a pothole by the mall that hasn’t been fixed. Traditional methods to alert the appropriate authorities, such as snail mail, often don’t result in speedy solutions. Now there’s a solution available that uses mobile communication networks to get these problems solved. </p>
+								<p class="start lessSpacing">SeeClickFix (<span class="strongDBlue" onclick="window.open('http://seeclickfix.com','_blank')">seeclickfix.com</span>) is a website designed to allow citizens to report non-emergency problems to the appropriate authorities, such as government agencies or utility companies. Using your smartphone, you can access SeeClickFix and create a problem ticket (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 12.14</span>). You write a description of the problem, attach pictures, and then either geo-tag the location or enter a street address. Local governments and utility companies sign up with SeeClickFix to monitor and resolve problems reported by citizens. If you’re an official, you can acknowledgea problem to let people know it’s being addressed or close an issue when it’s been resolved. So stop complaining about problems,and start reporting them!</p>
+
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						  style="background: url(assets/images/figures/fig12.14.png) no-repeat scroll 0px 0 transparent;
+						  	height: 290px; margin-left: -19px">
+							<figcaption class="bottomPos">
+							 <span>Figure 12.14</span> Reporting problems from your smartphone makes it easy to resolve neighborhood problems like abandoned cars. <br/><em>(seeclickfix.com. Used by permission.)</em>
+							</figcaption>
+							</figure>
+							</div>
+						  </div>
+						</div>
+						
+						<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig12.14Big.png) no-repeat scroll 144px 15px transparent">
+							  <figcaption class="bottomPos">
+								<span>Figure 12.14</span> Reporting problems from your smartphone makes it easy to resolve neighborhood problems like abandoned cars. <em>(seeclickfix.com. Used by permission.)</em>
+								</figcaption>
+							  </figure>
+
+						</div>
+					
+
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig12.15Big.jpg') no-repeat scroll 63px 75px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 12.15</span>
+						Anatomy of (a) unshielded twisted-pair (UTP) cable and (b) shielded twisted-pair (STP) cable.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<!--Active Graphic-->
+		<popup page="23" distinction="popupFeature" customscript="compTia.features.setupVideo('12_18-0')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Network Interface Card (NIC)</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right: 100px;color:#01567a" data="12_18-0">INTRO</a>
+						<a data="12_18-1" style="padding-right: 100px;">STEP 1</a>
+						 <a data="12_18-2" style="padding-right: 100px;">STEP 2</a>
+						 <a data="12_18-3" style="padding-right: 100px;">STEP 3</a>
+						  <a data="12_18-4" style="padding-right: 100px;">STEP 4</a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<!--Active Graphic-->
+		<popup page="23" distinction="popupFeature" customscript="compTia.features.setupVideo('12_19')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Wireless Access Point</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_19"></a>
+							
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<!--Active Graphic-->
+		<popup page="26" distinction="popupFeature" customscript="compTia.features.setupVideo('12_20')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Switches</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_20"></a>
+							
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<!--Active Graphic-->
+		<popup page="26" distinction="popupFeature" customscript="compTia.features.setupVideo('12_21')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Bridges</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_21"></a>
+							
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+			<popup page="26"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText strong" >The OSI Model: Defining Protocol Standards</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>The Institute of Electrical and Electronics Engineers (IEEE) has taken the lead in establishing worldwide networking protocols, including a standard of communications called the <span class="strongDBlue" glossary>Open Systems Interconnection (OSI)</span> reference model. The OSI model, which has been adopted throughout the computing world, provides the protocol guidelines for all modern networks. All modern network operating system (NOS) protocols are designed to interact in accordance with the standards set out in the OSI model.</p>
+						<p class="start">The OSI model divides communications tasks into seven processes, called layers. Each layer of an OSI network has a specific function and knows how to communicate with the layers above and below it. <span class="strongDBlue" onclick="compTia.togglePopup(26,3)">Figure 12.22</span> shows the layers of the OSI model and their functions.</p>
+						<p class="start">This layering approach makes communications more efficient because specialized pieces of the NOS perform specific tasks. The layering approach is akin to assembly-line manufacturing. Producing thousands of cars per day would be difficult if one person had to build a car on his or her own. However, by splitting up the work of assembling a car into specialized tasks and assigning the tasks to people who perform them well, greater efficiency is achieved. By handling specialized tasks and communicating only with the layers above and below them, OSI layers make communications more efficient.</p>
+						<p class="start">Let’s look at how each OSI layer functions by following an e-mail you create and send to your friend through the layers:</p>
+						<ul class="dotted">
+							<li><span class="innerLi"><em>Application layer</em>: Handles all interaction between the application software and the network. It translates the data from the application into a format that the presentation layer can understand. For example, when you send an e-mail, the application layer takes the e-mail message you created in Microsoft Outlook, translates it into a format your network can understand, and passes it to the presentation layer.</span></li>
+							<li><span class="innerLi"><em>Presentation layer</em>: Reformats the data so that the session layer can understand it. It also handles data encryption (changing the data into a format that makes it harder to intercept and read) and compression, if required. In our e-mail example, the presentation layer notices that you selected an encryption option for the e-mail message and encrypts the data before sending it to the session layer.</span></li>
+							<li><span class="innerLi"><em>Session layer</em>: Sets up a virtual (not physical) connection between the sending and receiving devices. It then manages the communication between the two. In our e-mail example, the session layer would set up the parameters for the communications session between your computer and the Internet service provider (ISP) where your friend has her e-mail account. The session layer then tracks the transmission of the e-mail until it’s satisfied that all the data in the e-mail was received at your friend’s ISP.</span></li>
+							<li><span class="innerLi"><em>Transport layer</em>: Breaks up the data into packets and sequences them appropriately. It also handles acknowledgment of packets (that is, it determines whether the packets were received at their destination) and decides whether packets need to be sent again. In our e-mail example, the transport layer breaks up your e-mail message into packets and sends them to the network layer, making sure that all the packets reach their destination.</span></li>
+							<li><span class="innerLi"><em>Network layer</em>: Determines where to send the packets on the network and identifies the best way to route them there. In our e-mail example, the network layer examines the address on the packets (the address of your friend’s ISP) and determines how to route the packets so they get to the ISP and can ultimately get to the receiving computer.</span></li>
+							<li><span class="innerLi"><em>Data link layer</em>: Responsible for assembling the data packets into frames, addressing the frames, and delivering them to the physical layer so they can be sent on their way. It’s the equivalent of a postal worker who reads the address on a piece of mail and makes sure it’s sent to the proper recipient. In our e-mail example, the data link layer assembles the e-mail data packets into frames, which are addressed with appropriate routing information that it receives from the network layer.</span></li>
+							<li><span class="innerLi"><em>Physical layer</em>: Takes care of delivering the data. It converts the data into a signal and transmits it over the network so that it can reach its intended address. In our e-mail example, the physical layer sends the data over the Internet to its ultimate destination (your friend’s ISP).</span></li>
+						</ul>
+						<p class="start">By following standardized protocols set forth by the OSI model, NOS software can communicate happily with the computers and peripherals attached to the network as well as with other networks.</p>
+						
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+
+							
+						<figure style="
+								    background: url(assets/images/figures/fig12.22.png) no-repeat -4px 0 transparent;
+    								height: 357px;
+    								margin-top: 10px; margin-left:-11px;"
+    								onclick="compTia.togglePopup(26,3)">
+							  <figcaption class="bottomPos" style="width:325px;">
+								<span>Figure 12.22</span> Layers of the OSI Model and Their Functions
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+			
+			]]></section>
+		</popup>
+		
+		<popup page="26"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText strong" >The OSI Model: Defining Protocol Standards</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+
+							
+						<figure onclick="compTia.togglePopup(26,2)" style="
+								    background: url(assets/images/figures/fig12.22Big.png) no-repeat 46px 0 transparent;
+    								height: 636px;
+    								margin-top: 10px; margin-left:-392px;">
+							  <figcaption class="bottomPos" style="width:325px;">
+								<span>Figure 12.22</span> Layers of the OSI Model and Their Functions
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+			
+			]]></section>
+		</popup>
+		
+		<popup page="31" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure class="normalFont" style="background:url('assets/images/figures/fig12.23Big.jpg') no-repeat scroll 250px 15px transparent">
+					<figcaption>
+					  <span>Figure 12.23</span>
+						Access card readers provide a relatively inexpensive solution to security for areas needing low-level security. Biometric authentication devices, such as fingerprint/palm, retinal, and facial recognition scanners, are used to protect high-security areas such as a server room. <em>(twobee/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="32" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content">
+				<div class="headerText font_18 shiftUp10">How Should Companies <br/>Handle Data Breaches?</div>
+				<div class="columnContain">
+				
+				  <div class="column">
+					<div class="innerColLeft">
+						
+						<p>Data breaches occur all too frequently, and it seems we’re always seeing reports in the media about yet another hacker obtaining supposedly private information. Many companies have sensitive data about you. But what is their ethical responsibility to protect your data? And what should a company do for its customers when a data breach occurs?</p>
+						
+						<h2 class="blueHeading">Data Confidentiality</h2>
+						<p>The objective for any company that possesses sensitive data should be <span class="strongDBlue" glossary>information assurance</span>, which means ensuring information systems are adequately secured against tampering. The five key attributes of secure information systems are as follows:</p>
+						<ol>
+							<li><span class="innerLi"><em>Availability</em>: The extent to which a data-processing system is able to receive and process data. A high degree of availability is usually desirable.</span></li>
+							<li><span class="innerLi"><em>Integrity</em>: A quality that an information system has if the processing of information is logical and accurate and the data is protected against unauthorized modifications or destruction.</span></li>
+							<li><span class="innerLi"><em>Authentication</em>: Security measures designed to protect an information system against acceptance of a fraudulent transmission of data by establishing the validity of a data transmission or message or the identity of the sender.</span></li>
+							<li><span class="innerLi"><em>Confidentiality</em>: The assurance that information isn’t disclosed to unauthorized persons, processes, or devices.</span></li>
+							<li><span class="innerLi"><em>Nonrepudiation</em>: A capability of security systems that guarantees that a message or data can be proven to have originated from a specific person and to have been processed by the recipient. The sender of the data receives a receipt for the data, and the receiver of the data gets proof of the sender’s identity. The objective of nonrepudiation is to prevent either party from later denying having handled the data.</span></li>
+						</ol>
+						<p class="start">From your perspective, you are probably the most concerned about authentication and confidentiality. Companies that have your data shouldn’t share it with unauthorized parties and should keep unauthorized people out of their databases. Unfortunately, you have very little control over authentication safeguards. That’s the responsibility of the company that holds your data.</p>
+						
+						<h2 class="blueHeading">Authentication Failures</h2>
+						<p>The data breaches that occur usually represent authentication failures—unauthorized people gain access to data. Clearly, when this happens, a corporation has failed in its responsibility to protect its customers’ data. No system is ever 100% safe against breaches, but most systems are adequately protected against all but the most determined hackers. But what ethical responsibilities does a company have to its customers after a data breach?</p>
+						<p class="start">The first thing a company should do is admit the problem and inform its customers. The Federal Trade Commission (FTC) recommends the following course of action for companies who experience data breaches:</p>
+						<ol>
+							<li><span class="innerLi">Notify the appropriate law enforcement agencies.</span></li>
+							<li><span class="innerLi">Notify other affected businesses such as banks and credit card companies. These companies can then monitor the affected accounts for fraudulent activity.</span></li>
+							<li><span class="innerLi">Notify the individuals affected. The company should explain what happened, what information was compromised, who to contact in the organization, and what customers should do to protect themselves (which will vary based on the information compromised).</span></li>
+						</ol>
+						
+						<p class="start">How can you be aware of a data breach if the company that suffered it never tells you that your data was exposed? You should monitor websites such as the Privacy Rights Clearinghouse (<span class="strongDBlue" onclick="window.open('http://privacyrights.org/data-breach','_blank')">privacyrights.org/data-breach</span>) and Open Security Foundation’s Data-LossDB (<span class="strongDBlue" onclick="window.open('http://datalossdb.org','_blank')">datalossdb.org</span>), which track data breaches. This might be the fastest way to find out if your information has been compromised so you can take action. The FTC website on identity theft (<span class="strongDBlue" onclick="window.open('http://ftc.gov/bcp/edu/microsites/idtheft','_blank')">ftc.gov/bcp/edu/microsites/idtheft</span>) provides good guidelines to follow when your data has been exposed.</p>
+						<p class="start">Granting customers free identity theft protection is one of the more common forms of compensation offered to placate customers after a data breach, but not every company does it. Some companies merely stop at notifying customers and offer nothing in terms of compensation for the inconvenience.</p>
+						<p class="start">Although companies may behave ethically after a data breach, your best protection is still your own vigilance!</p>
+						
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  
+					</div>
+				</div>
+			</div></div>
+									
+			]]></section>
+		</popup>
+		
+		<!--Active Graphic-->
+		<popup page="33" distinction="popupFeature" customscript="compTia.features.setupVideo('12_24')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Business Firewalls</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="12_24"></a>
+							
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+
+
+	</chapter>
+</ebook>

@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+	<chapter index="1" title="" glossary="22">		
+		<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top: 32px;">
+							Using Technology <br/>to Change the <br/>World</div>	
+				<div class="chapterStartNumber">1</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">How Will You Put Technology in Action?</span>
+					<img src="assets/images/pics/blueWorld.jpg" class="noBMargin" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">Technology on the World Stage</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">1.</span> How can becoming proficient with technology help you understand and participate in important issues in the world at large? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(pp. 8-10)</span></li>
+					</ul>
+				
+					<hr>
+					<img src="assets/images/pics/whitePeople.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,6)">Technology and Our Society</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">2.</span> How can knowledge of technology help you influence the direction our society takes? <span class="strongDBlue" onclick="compTia.switchPage(0,6)">(pp. 11-13)</span></li>
+					</ul>
+					<img src="assets/images/layout/playTechTown.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading " onclick="compTia.switchPage(0,11)">How Will Technology Improve Your Life?</span>
+					<img src="assets/images/pics/shadowComputer.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,11)">Technology at Home</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">3.</span> What does it mean to be computer literate? <span class="strongDBlue" onclick="compTia.switchPage(0,11)">(pp. 16-17)</span>
+						</li>
+						<li><span class="ul1DigNumber">4.</span> How does being computer literate make you a savvy computer user and consumer? <span class="strongDBlue" onclick="compTia.switchPage(0,11)">(pp. 16-17)</span>
+						</li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/questions_to_ask_before_you_buy/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Questions to Ask Before You Buy a Computer
+					</div>
+					<hr>
+					<img src="assets/images/pics/digitalWoman.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,13)">Technology and Your Career</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">5.</span> How can becoming computer literate help you in a career? <span class="strongDBlue" onclick="compTia.switchPage(0,13)">(pp. 18-23)</span></li>
+					</ul>
+					
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+					
+					<span class="verticalRightCreds" style="right:-178px;bottom:195px;">
+							(iconeer/iStockphoto; carlos castilla/Shutterstock; Jesus Conde/iStockphoto; Sergej KhakimullinShutterstock)
+					</span>
+
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+
+					<div style="width:100%;height:100%;
+							background:no-repeat url(assets/images/pics/brownHeart.jpg)"></div>
+							<figcaption class="bottomPos" style="font-size:9px;"><em>(iconeer/iStockphoto; carlos castilla/Shutterstock; Jesus Conde/iStockphoto; Sergej KhakimullinShutterstock)</em></figcaption>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">At the Wake Forest Institute for Regenerative Medicine, researcher Dr. Anthony Atala heads a group working on more than 30 different projects developing <strong>human tissues and organs</strong>. One project uses ordinary desktop <strong>printers</strong> to create human organs! Instead of using ink, the printers "bioprint" with <strong>human cells</strong>, layer after layer. In about 40 minutes they can "print" a two-chamber heart, which starts beating on its own about 5 hours later. One of these portable printers would be able to create skin onsite for people with life-threatening burns. Currently, the printers are still experimental, but there is great hope for advances that combine medicine and technology to repair our own bodies.</p>
+
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap1ArrSchip_computer.png')" onclick="window.open('http://www.ted.com/talks/anthony_atala_printing_a_human_kidney.html','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">How Will You Put Technology in Action?</div>
+					<p class="digCompP">Ask yourself: Why are you in this class? Maybe it's a requirement for your degree, or maybe you want to improve your computer skills. But let's step back and look at the bigger picture.</p>
+					<p class="digCompP start">Technology today is not just a means for career advancement or merely a skill set needed to survive in society. It's a tool that enables us all to make an impact beyond our own lives. We've all seen the movies that dangle the dream in front of us of being the girl or guy who saves the world—and gets to drive a nice car while doing it! Whether it's <em>Transformers</em> or <em>Spider-Man</em>, we are drawn to heroes because we want our work and our lives to mean something and to benefit others.</p>
+					<p class="digCompP start">Technology can be your ticket to doing just that, to influencing and participating in projects that will change the world. We'd like to ask you to think about how your talents and skills in technology will let you contribute on a larger scale, beyond the benefits they will bring to you personally.</p>
+					
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/sMiniblueWorld.png)">
+						<div class="orange">technology on the</div>
+						<div class="blue" style="margin-left: 134px;">WORLD STAGE</div>
+					</div>
+					
+					<p>Recent political and global issues are showing that technology is accelerating change around the world and galvanizing groups of people in new ways. Let's look at a few examples.</p>
+					
+					<h2 class="blueHeading">Political Issues</h2>
+					<p><strong>Egypt.</strong> At the end of 2010, a series of revolutions took place across the Arab and North African regions fueled by social networking tools like Facebook and Twitter. These <span class="strongDBlue" glossary>social networking</span> tools enable the gathering together </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>of groups of people to connect and exchange ideas, and they brought together people facing repression and censorship in many countries in this region.</p>
+					<p class="start">The powerful uprising in Egypt is one example of the impact an individual armed with an understanding of modern technology can have. The reigning government in Egypt had been in power for over 30 years. In June 2010, after Egyptian businessman Khaled Said was killed by authorities, Wael Ghonim, a Google marketing manager in Egypt, anonymously launched the Facebook page "We Are All Khaled Said." The Facebook page became a tool that made people aware there were others who were dissatisfied with the direction of the country. By January 2011, the government responded to the increasing unrest online by "turning off" Egypt's Internet. The government told the four largest Internet providers to shut down and thus closed access to 93 percent of Egyptian networks. Protests against this shutdown turned violent, and Egyptian Internet providers began to restore service a few days later.</p>
+					<p class="start">Back in the virtual world of Facebook and Twitter, thousands offered ideas on how they could protest meaningfully. Finally, a silent gathering near the sea in Alexandria, Egypt, was chosen. This movement from "virtual community" to physical community (<span class="strongDBlue" onclick="compTia.togglePopup(4,0)">see Figure 1.1</span>) was a turning point, and in February 2011, President Hosni Mubarak of Egypt resigned.</p>
+				]]>
+			</section>
+		</page>
+		
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(4,0)" style="height: 263px; background:no-repeat url(assets/images/figures/fig1.1.jpg) 36px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.1 </span> How much of a role did social media play in the transfer of power in Egypt in 2011? <em>(AP Photo/Muhammed Abu Zaid)</em>
+   					</figcaption></figure>
+					
+					<p class=" start TMargin5">Social networking tools are providing a level of instant connection and information distribution that is reshaping the world. For Wael Ghonim, it led to an opportunity to recast the future of his country. What can you do with social networking tools that will change the future of your community?</p>
+					<br/>
+					<p><strong>Kenya.</strong> Another example of technology influencing society recently occurred in Kenya. In December 2007, the closest election in Kenya's history ended with the current president declaring victory despite allegations of electoral fraud. Nairobi lawyer Ory Okolloh began to get messages describing acts of violence occurring all over the country. She tried to post the messages on her blog, <em>KenyanPundit</em>, but was quickly overwhelmed. She put out a request for help through the blog.</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">Within 72 hours, two programmers, Erik Hersman and Juliana Rotich, had created Ushahidi (Swahili for "testimony"). It is a <span class="strongDBlue" glossary>crisis-mapping tool</span> that collects information from e-mails, text messages, blog posts, and Twitter tweets and then maps them, instantly making the information publicly available. The developers then made Ushahidi a free platform anyone in the world can use. To date, it has been used during the earthquakes and tsunami in Japan, to battle election violence in the Democratic Republic of Congo, to help people in Somalia have a voice, and to make it easier to locate the nearest store that supports Fair Trade practices (<span class="strongDBlue" onclick="compTia.togglePopup(4,1)">Figure 1.2</span>). In what other ways could technology help us face times of crisis?</p>
+					<figure onclick="compTia.togglePopup(4,1)" style="height: 290px; margin-top:10px; background:no-repeat url(assets/images/figures/fig1.2.jpg) 70px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.2 </span> The Ushahidi crisis-mapping tool saved lives during the Kenyan elections, but now it is also used for many other purposes, like finding the nearest Fair Trade store at <span class="strongDBlue noRPadding" onclick="window.open('http://ftrn.org/ispotfairtrade','_blank')">ftrn.org/ispotfairtrade</span>.
+
+				]]>
+			</section>
+		</page>
+		
+			<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Other Global Issues</h2>
+				<p>Political crises are not the only arena in which technology is enabling <br/>global change.</p>
+				<br/>
+				<p><strong>The Digital Divide.</strong> There is a great gap between the levels of Internet access and the availability of technical tools in different regions of the world. The term coined for this difference in ease of access to technology is the <span class="strongDBlue" glossary>digital divide</span>. One danger of a digital divide is that it prevents us from using all the minds on the planet to solve the planet's problems. But this challenge created by technology is also being answered by technology.</p>
+				<p class="start">The <span class="strongDBlue" onclick="window.open('http://www.nexteinstein.org/','_blank')">Next Einstein Initiative (NEI)</span> is a plan to focus resources on the talented mathematical minds of Africa (<span class="strongDBlue" onclick="compTia.togglePopup(5,3)">see Figure 1.3</span>). By expanding the African Institute for Mathematical Sciences (AIMS) across the continent, the future of Africa can be profoundly changed. Cambridge professor Neil Turok founded AIMS to bring together the brightest young minds across Africa with the best lecturers in the world. The NEI has won funding from Google's Project 10<sup>100</sup>, an initiative to award $10 million to a set of five projects, selected by open public voting. By capturing the enthusiasm of the world with presentations distributed through TED (<span class="strongDBlue" onclick="window.open('http://ted.com','_blank')">ted.com</span>) and Project 10<sup>100</sup></span>, there is now a push to create 15 additional AIMS centers across Africa.</p>
+				
+				<a onclick="compTia.togglePopup(5,0)" class="readMore"></a>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(5,3)" style="height: 234px; background:no-repeat url(assets/images/figures/fig1.3.jpg) 56px 0 transparent">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.3 </span> The Next Einstein Initiative is rallying the support of the world to identify mathematical genius <em>(The Next Einstein Initiative)</em>
+							</figcaption></figure>
+
+				<p class="start" style="margin-top: 3px;"><span class="strongDBlue" onclick="compTia.togglePopup(5,1)">Figure 1.4</span> shows additional examples of people putting technology into action to impact the world. How will you join them?</p>
+				
+				<div class="smallHeadingOrangeBackDiagDashes tallerOrangeHead boldCond font_19 TMargin10">Technology in Action: Taking on Global Problems</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(5,1)" style="
+						background: url('assets/images/figures/fig1.4.jpg') no-repeat scroll 3px 36px #FFFFFF;
+						height: 158px; overflow: hidden;">
+						<span class="strongDHeading font_15"><strong>Figure 1.4</strong>  Click to reveal the table</span>
+
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+				
+				<div class="orangeHorzButton" onclick="compTia.togglePopup(5,2)" style="margin-top: 10px;">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong style="font-size: 14px;">The Digital Divide and the Mobile Bridge</strong>
+				</div>
+				
+
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<div class="blueHeadingLineDashedEnd BMargin15"></div>
+
+					<div class="fancyHeadingBO bgPosition00"
+						 style="background-image:url(assets/images/pics/whitePeopleTiny.jpg)">
+						<div class="dblue" style="margin-left:60px">technology and</div>
+						<div class="orange" style="margin-left: 137px;">OUR SOCIETY</div>
+					</div>
+					
+					<p>Technology is also allowing us to redefine very fundamental parts of our social makeup—how we think, how we connect with each other, and how we purchase and consume products.</p>
+					<h2 class="blueHeading">Technology Impacts How We Think</h2>
+					<p><strong>What We Think About.</strong> What do you think about in your free time? In the late twentieth century, a common trend was to think about what to buy next—or perhaps what to watch or listen to next. Information and products were being served up at an amazing rate, and a pattern of consumption became habit. As more and more web applications began to appear that allowed each individual to become a "creator" of the web, a new kind of Internet came into being. It was nicknamed <span class="strongDBlue" glossary>Web 2.0</span>, and it had a set of new features and functionality that allowed users to contribute content easily and to be easily connected to each other. Now everyone could collaborate internationally at the click of a mouse.</p>
+					<p class="start">Web 2.0 has fostered a dramatic shift across the world from simply consuming to having the ability to volunteer and collaborate on projects. In his book <em>Cognitive Surplus: Creativity and Generosity in a Connected Age,</em> author Clay Shirky created the term <span class="strongDBlue" glossary>cognitive surplus</span> to mean the </p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p>combination of leisure time and the tools to be creative. The world's population has an estimated one trillion hours a year of free time. When coupled with the available media tools and the easy connectivity of Web 2.0, and with generosity and a need to share, projects like Ushahidi and the Witness Project (<span class="strongDBlue" onclick="compTia.togglePopup(5,1)">see Figure 1.4</span>) emerge.</p>
+				<p class="start">But why would anyone bother to work on projects like these in their free time? Modern theories of motivation show that what pushes people to apply their free time in altruistic causes, for no money, is the excitement of autonomy, mastery, and purpose (<span class="strongDBlue" onclick="compTia.togglePopup(6,1)">see Figure 1.6</span>):</p>
+				
+				<a onclick="compTia.togglePopup(6,0)" class="readMore"></a>
+				
+				<figure onclick="compTia.togglePopup(6,1)" style=" height:250px; margin-top:18px; background:no-repeat url(assets/images/figures/fig1.6.jpg)">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.6</span> Our understanding of human motivation can play a role in our use of technology to impact society.
+							</figcaption></figure>
+
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Technology Impacts How We Connect</h2>
+				<p class="lessSpacing rightPadding20"><strong>Connecting Through Music.</strong> In many societies, people connect intimately in gatherings and local celebrations through shared experiences. Technology like classical composer and conductor Eric Whitacre's Virtual Choir has added breadth to this aspect of our lives. Whitacre began the idea of a virtual choir by posting to YouTube a video of himself conducting one of his works, "Lux Aurumque." The idea was that listeners would follow his lead and, as they heard the piano track, each would record their part of the piece as either a soprano, an alto, a tenor, or a bass. The submitted videos were edited together, the audio was aligned, and the first piece from the Virtual Choir was released, with 50 recorded voices. A blog connects the members of the choir and builds a real sense of community between members. A glance at the Virtual Choir Map (<span class="strongDBlue" onclick="window.open('http://ericwhitacre.com/the-virtual-choir/map','_blank')">ericwhitacre.com/the-virtual-choir/map</span>) shows the physical location of each voice (<span class="strongDBlue" onclick="compTia.togglePopup(7,0)">see Figure 1.7</span>).</p>
+				
+				<figure onclick="compTia.togglePopup(7,0)" style=" height:200px; margin-top:10px;
+					background:no-repeat url(assets/images/figures/fig1.7.jpg) 53px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.7</span> The Virtual Choir 3 performance of "Water Night" included over 3,700 singers from 73 countries.
+							</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p class="lessSpacing"><strong>Connecting Through Business.</strong> One of the most profound ways we can connect with each other is to support other people's dreams. Kickstarter (<span class="strongDBlue" onclick="window.open('http://kickstarter.com','_blank')">kickstarter.com</span>) helps us connect in this way by allowing people to post their ideas for community projects, games, and inventions and to ask for funding directly. Donors are given rewards for different levels of pledges, such as a signed edition of a book or a special color of a product. This style of generating capital to start a business is known as <span class="strongDBlue" glossary>crowdfunding</span>, asking for small donations from a large number of people, often using the Internet.</p>
+				<br/>
+				<h2 class="blueHeading noTMargin">Technology Impacts How We Consume</h2>
+				<p>Technology is changing all aspects of how we purchase and consume goods—from strategies for convincing you to purchase a certain product to the mechanics of how you buy and own things.</p>
+				<br/>
+				<img src="assets/images/pics/smallScan.jpg" style="float:right;margin-right:13px; margin-top: 9px;" onclick="window.open('http://ted.com','_blank')" />
+				<p class="lessSpacing"><strong>Marketing.</strong> New strategies in marketing are counting on the fact that most people have a cell phone with a camera and Internet access. A technology called <span class="strongDBlue" glossary>QR (quick response) codes</span> lets any piece of print host a link to online information and video content. From your smartphone, simply run your QR app and hold the phone near the QR image anywhere you see it—like the one you see here and on page 3 of this chapter. Your phone scans the QR image and then a website, video, schedule, or Facebook page for more information about the product.</p>
+				
+				<a onclick="compTia.togglePopup(7,1)" class="readMore"></a>
+
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="start">Marketers also have to be aware of the phenomenon of <span class="strongDBlue" glossary>crowdsourcing</span>—checking in with the voice of the crowd. Consumers are using apps like MobileVoice to check people's verdicts on the quality of items. Forward-thinking companies are using this input to improve their products and services. AT&T, for example, has an app that lets customers report locations of coverage gaps.</p>
+				<br/>
+				<p><strong>Access Versus Ownership.</strong> Even the idea of ownership is evolving thanks to new technologies. Items like cars and bikes can become "subscriptions" instead of large one-time purchases. For example, ZipCar allows hundreds of thousands of people to use shared cars, and Call a Bike is a popular bike-renting program in Germany. With ZipCar, a phone call or online reservation activates your personal ZipCard. This card allows you to automatically open the door of the car you have reserved, and away you drive. GPS technology is used to track where the car is, whether it has been dropped off at the right location, and how far it has been driven. In Germany, racks of Call a Bikes are located at major street corners in large cities (<span class="strongDBlue" onclick="compTia.togglePopup(8,0)">see Figure 1.8</span>). Simply call the phone number printed on the bike and it texts you a code to unlock the bike. When you're done riding the bike, simply relock it and you're billed automatically.</p>
+				<p class="start">These subscription-style business models are spreading now to smaller goods. Swap.com helps people trade books, video games, and DVDs with one another, using the power of peer-to-peer connections, for </p>
+					]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p>example, to find the best set of matches for a used Portal game in exchange for a season of <em>Curb Your Enthusiasm</em>.</p>
+				<p class="start">Rachel Botsman and Roo Rogers make the case in their book <em>What's Mine Is Yours: The Rise of Collaborative Consumption</em> that the real fuel beneath these services is a shift in our acceptance of sharing. <span class="strongDBlue" glossary>Collaborative consumption</span> implies that we are joining together as a group to use a specific product more efficiently. We are so constantly connected with each other that we have again found the power of community. There are increasing opportunities to redistribute the things we have purchased and to share the services a product provides instead of owning it outright. Add in the pressure of mounting environmental concerns and a global financial crisis, and we are migrating toward collaborative consumption.</p>
+				
+				<figure onclick="compTia.togglePopup(8,0)" style="height:160px; background:no-repeat url(assets/images/figures/fig1.8.jpg) 122px 0">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.8</span> Call a Bike uses digital technology to change our lifestyle from one of ownership to one of subscription. <em>(Ernst Klinker/Alamy)</em>
+							</figcaption></figure>
+							
+						<div class="purpleContain" style="margin-top: 5px;">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_1_Part_1/Chapter_1_Part_1.html','_blank')">Replay Video 1.1</span></span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(1)">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+					]]>
+			</section>
+		</page>
+		<page index="9" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Which of the following technologies have you participated in?</div>
+					<ol class="pollQuestions">
+						<li>Ushahidi</li>
+						<li>Crowdfunding</li>
+						<li>Crowdsourcing</li>
+						<li>None of these</li>
+					
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<!--try this-->
+		
+		<page index="10" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(2)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+
+
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingBlueBackDiagDashes">How Will Technology Improve Your Life?</div>
+					<p class="digCompP">Technology is creating huge changes in the world as well as in how we behave socially, but it is also important to you on a more personal level. Being <span class="strongDBlue" glossary>computer literate</span> means being familiar enough with computers that you understand their capabilities and limitations and that you know how to use them safely and efficiently. As we discuss here, the more you understand technology, the more productive and protected you'll be at home, and the better prepared you'll be for any career.</p>
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/shadowComputerTiny.jpg)">
+						<div class="orange">technology at</div>
+						<div class="blue" style="margin-left: 136px;">HOME</div>
+					</div>
+					
+					<p>Everywhere you go, you see ads like the one in <span class="strongDBlue" onclick="compTia.togglePopup(11,0)">Figure 1.9</span> for computers and other devices. Do you know what all the words in the ad mean? What is RAM? What is a CPU? What are MB, GB, GHz, and cache? How fast do you need your computer to be, and how much memory should it have? If you're computer literate, you'll be a more informed consumer when it comes time to buy computers, peripherals, and technology services. Understanding computer terminology and keeping current with technology will help you better determine which computers and devices you need.</p>
+					<p class="start">Let's look at a few more examples of what else it means to be a savvy computer user and consumer, in other words, computer literate (<span class="strongDBlue" onclick="compTia.togglePopup(12,0)">see Figure 1.10</span>). If you're not a savvy user now, don't worry-the following topics and more are covered in detail in the remaining chapters.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<ul class="dotted">
+					<li><span class="lessSpacing innerLi"><strong>Avoiding hackers and viruses.</strong> Do you know what hackers and viruses are? Both can threaten a computer's security. Being aware of how hackers and viruses operate and knowing the damage they can do to your computer can help you avoid falling prey to them.</span></li>
+					<li><span class="lessSpacing innerLi"><strong>Protecting your privacy.</strong> You've probably heard of identity theft—you see and hear news stories all the time about people whose "identities" are stolen and whose credit ratings are ruined by "identity thieves." But do you know how to protect yourself from identity theft when you're online?</span></li>
+					<li><span class="lessSpacing innerLi"><strong>Understanding the real risks.</strong> Part of being computer literate means being able to separate the real privacy and security risks from things you don't have to worry about. For example, do you know what a <em>cookie</em> is? Do you know whether it poses a privacy risk for you when you're on the Internet? What about a <em>firewall</em>? Do you know what one is? Do you really need a firewall to protect your computer?</span></li>
+				</ul>
+				
+				<figure onclick="compTia.togglePopup(11,0)" style=" height:208px; background:no-repeat url(assets/images/figures/fig1.9.jpg) 46px 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.9</span> Do you know what all the words in a computer ad mean? Can you tell whether the ad includes all the information necessary to make a purchasing decision? <em>(Akova/Fotolia; Dmytro Shevchenko/Fotolia; Norman Chan/Fotolia)</em>
+							</figcaption></figure>
+				
+					]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				
+				<div class="smallHeadingOrangeBackDiagDashes boldCond tallerOrangeHead">What Does It Mean to Be Computer Literate?</div>
+					<div class="orangeWrap">
+						
+						<figure onclick="compTia.togglePopup(12,0)" style="
+							width:400px;
+							height:199px;
+							background: url(assets/images/figures/fig1.10.jpg) #fff no-repeat -3px 28px">
+							<span class="strongDHeading" style="margin:6px 0 0 8px"><strong>Figure 1.10</strong> Click to enlarge the table</span>
+							<figcaption style="margin-top:141px; margin-left:8px;">
+							<em>(pn_photo/Fotolia; Danil Melekhin/iStockphoto; Zakai/iStockphoto; Sergej Khakimullin/Shutterstock; D. Hurst/Alamy; ivanastar/iStockphoto)</em>
+	   					</figcaption></figure>
+   					</div>
+				
+					<ul class="dotted lessSpacing TMargin10">
+						<li><span class="innerLi"><strong>Using the web wisely.</strong> Anyone who has ever searched the web can attest that finding information and finding <em>good</em> information are two different things. People who are computer literate know how to find the information they want effectively. How effective are your searches?</span></li>
+						<li><span class="innerLi"><strong>Avoiding online annoyances.</strong> If you have an e-mail account, chances are you've received electronic junk mail, or <span class="strongDBlue" glossary>spam</span>. How can you avoid spam? What about adware and spyware—do you know what they are? Do you know the difference between those and viruses, worms, and Trojan horses? Do you know which <span class="strongDBlue" glossary>software</span> programs, the instructions that tell the computer what to do, you should install on your computer to avoid online annoyances?</span></li>
+						<li><span class="innerLi"><strong>Being able to maintain, upgrade, and troubleshoot your computer.</strong> Learning how to care for and maintain your computer and knowing</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p class="Lmargin15">how to diagnose and fix certain problems can save you a lot of time and hassle. Do you know how to upgrade your computer if you want more memory, for example? Do you know which software and computer settings can keep your computer in top shape?</p>
+				<p class="start">Finally, becoming computer literate means knowing which technologies are on the horizon and how to integrate them into your own life. Can you connect your television to your wireless network? What is Bluetooth, and does your computer need it? Can a USB 3.0 flash drive be plugged into an old USB 1.0 port? Knowing the answers to these and other questions will help you make better purchasing decisions.</p>
+				<p class="start">This book and course will help you become computer literate. In <span class="strongDBlue" onclick="compTia.generatePages(3)">Chapter 3</span>, you'll find out how to get the most from the web while staying free from the spam and clutter Internet surfing can leave behind on your computer. <span class="strongDBlue" onclick="compTia.generatePages(6)">Chapter 6</span> shows you how to determine if your hardware is limiting your computer's performance and how to upgrade or shop for a new system. <span class="strongDBlue" onclick="compTia.generatePages(9)">Chapter 9</span> covers how to keep your computer and your digital life secure. You'll be able to save money, time, and endless frustration by understanding the basics of how computers and computer systems operate.</p>
+				<br/>
+				<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/questions_to_ask_before_you_buy/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Questions to Ask Before You Buy a Computer
+						</div>
+						This Sound Byte will help you consider important questions to ask before you buy a computer, such as whether you should buy a new computer or a used or refurbished one.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+	<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<div class="smallHeadingOrangeMidDiagDashes "></div>
+
+					<div class="fancyHeadingBO bgPosition00"
+						 style="
+						 color:#66c7ef;
+						 background-image:url(assets/images/pics/digitalWomanTiny.jpg)">
+						<div class="dblue" style="margin-left:59px; color:#166beb">technology and</div>
+						<div class="orange" style="margin-left: 133px">YOUR CAREER</div>
+					</div>
+					<p><span class="strongDBlue" glossary>Information technology (IT)</span> is a field of study focused on the management and processing of information and the automatic retrieval of information. IT careers include working with computers, telecommunications, and software deployment. Career opportunities in IT are on the rise, but no matter what career you choose, new technology in the workplace is creating a demand for new skill levels in technology from employees. A study from the National Research Council concludes that by the year 2030, computers will displace humans in 60 percent of current occupations. Having advanced skills is becoming more critical every year.</p>
+					<p class="start">One of the benefits of being computer literate is that you will undoubtedly be able to perform your job more effectively. It also will make you more desirable as an employee and more likely to earn more and to advance in your career. In fact, your understanding of key concepts in technology can "future-proof" you, letting you easily and quickly react to the next round of new technologies.</p>
+					<p class="start">Before we begin looking at a computer's parts and how a computer operates in <span class="strongDBlue" onclick="compTia.generatePages(2)">Chapter 2</span>, let's look at a whole range of industries and examine how computers are a part of getting work done.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Retail: Working in a Data Mine</h2>
+				<p>Businesses accumulate a lot of data, but how do employees make sense of it all? They use a technique known as <span class="strongDBlue" glossary>data mining</span>, the process of searching huge amounts of data with the hope of finding a pattern (<span class="strongDBlue" onclick="compTia.togglePopup(13,0)">see Figure 1.11</span>). For example, retailers often study the data gathered from register terminals to determine which products are selling on a given day and in a specific </p>
+				<br/>
+				<div class="smallHeadingOrangeBackDiagDashes tallerOrangeHead">Data Mining</div>
+					<div class="orangeWrap">
+						
+						<figure onclick="compTia.togglePopup(13,0)" style="
+							width:400px;
+							height:344px;
+							background: url(assets/images/figures/fig1.11.jpg) #fff no-repeat 0 28px">
+							<span class="strongDHeading font_15" style="margin:6px 0 0 8px"><strong>Figure 1.11  Click to reveal active graphic</strong></span>
+							<figcaption style="margin-top:246px; margin-left:6px; width:376px">
+							<span>Figure 1.11</span> Data mining is the art of translating huge volumes of raw data into presentations like charts and graphs that provide managers with information, such as buying trends, that enable them to make better decisions? <br/><em>(McIek/Shutterstock; Richard Peterson/Shutterstock; Dmitriy Shironosov/Shutterstock; Simon Krzic/Shutterstock; Saleeee/Shutterstock; yuyangc/Shutterstock; pn_photo/Fotolia)</em>
+	   					</figcaption></figure>
+   					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p>location. In addition to inventory control systems, which help managers figure out how much merchandise they need to order to replace stock that is sold, managers can use mined data to determine that if they want a certain product to sell well, they must lower its price—especially if they cut the price at one store and see sales increase, for example. Data mining thus allows retailers to respond to consumer buying patterns.</p>
+				<p class="start">Have you ever wondered how Amazon or Netflix suggests items that fit your taste? Or how such websites automatically display lists of items people bought after they ordered the camera you just picked out? Data mining can keep track of the purchases customers make, along with their geographic data, past buying history, and lists of items they looked at but did not purchase. This data can be translated into marketing that is customized to your shopping. This is the motivation behind the discount cards grocery stores and drugstores offer. In exchange for tracking your buying habits, they offer you special pricing. In the age of data mining, you may be using its capabilities in a number of careers.</p>
+				<br/>
+				<h2 class="blueHeading">Arts: Ink, Paints, and a Laptop?</h2>
+				<p>Some design students think that because they're studying art, there's no reason for them to study computers. Of course, not all artwork is created using traditional materials such as paint and canvas. Many artists today work exclusively with computers. Mastery of software such as Adobe</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p>Illustrator, Adobe Photoshop, and Corel Painter is essential to creating digital art. Eventually you'll want to sell your work, and you'll need to showcase your designs and artistic creations to employers and customers. Wouldn't it be helpful if you knew how to create and manage a website?</p>
+
+				<a onclick="compTia.togglePopup(14,0)" class="readMore TMargin10"></a>
+				<br/>
+				<h2 class="blueHeading">Education: Teaching and Learning</h2>
+				<p>The education industry uses computer technology in numerous ways. Courses are designed around course management software such as Blackboard or Moodle so that students can communicate outside of class, take quizzes online, and find their class materials easily. The Internet has obvious advantages in the classroom as a research tool for students, and effective use of the Internet allows teachers to expose students to places students otherwise couldn't access. There are simulations and instructional software programs on the web that are incredible learning tools. For example, teachers can employ these products to give students a taste of running a global business (<span class="strongDBlue"  onclick="compTia.togglePopup(15,0)">see Figure 1.13</span>) or the experience of the Interactive Body (<span class="strongDBlue" onclick="window.open('http://bbc.co.uk/science/humanbody','_blank')">bbc.co.uk/science/humanbody</span>).</p>
+				<br/>
+				<div onclick="compTia.togglePopup(14,1)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						NASA Wants You...to Learn
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(15,0)" style=" height:533px; background:no-repeat url(assets/images/figures/fig1.13.jpg) 50px 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.13</span> Internet applications have become sophisticated learning resources. For example, IndustryMasters (<span class="strongDBlue" onclick="window.open('http://industrymasters.com','_blank')" style="margin-right: -3px;">industrymasters.com</span>) allows students to compete online for domination of a global market while giving instructors the chance to introduce many business concepts.
+							</figcaption></figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p class="start">Want to take your students to a museum in another state or country? There's no need to board a plane—many museums offer virtual tours on their websites that allow students to examine the museum collections. Another resource, the Art Project, is a collaboration of several museums that allows online visitors to explore over a thousand pieces of art using the same technology employed in Google Street View. A custom viewer allows visitors to zoom in on the artwork itself at incredibly high resolution (<span class="strongDBlue" onclick="compTia.togglePopup(15,2)">see Figure 1.14</span>). The information panel takes you to related videos and other related websites. So, even if you teach in Topeka, Kansas, you can take your students on a virtual tour of the Tate Britain in London.</p>
+
+				<figure onclick="compTia.togglePopup(15,2)" style=" height:239px; background:no-repeat url(assets/images/figures/fig1.14.jpg) 0px 0; margin-top: 15px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.14</span> The Art Project presents an interactive tour through several museums. Thousands of works of art are displayed in high resolution with a pullout information panel (<span class="strongDBlue" onclick="window.open('http://googleartproject.com','_blank')" style="margin-right: -3px;">googleartproject.com</span>). <em>(REUTERS/Stefan Wermuth)</em>
+							</figcaption>
+							<div class="playIcon" style="margin-top: 140px; margin-left: 287px;"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_1_14.html','_blank')"></div>
+							</figure>
+							<br>
+				<a onclick="compTia.togglePopup(15,1)" class="readMore TMargin5"></a>
+
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Law Enforcement: Put Down That Mouse—<br/>You're Under Arrest!</h2>
+				<p class="lessSpacing">Today, wearing out shoe leather to solve crimes is far from the only method available to you if you want to pursue a career in law enforcement. Computers are being used in police cars and crime labs to solve an increasing number of crimes. For example, facial reconstruction systems like the one shown in <span class="strongDBlue" onclick="compTia.togglePopup(16,0)">Figure 1.15</span> can turn a skull into a finished digital image of a face, allowing investigators to proceed far more quickly with identification than before.</p>
+				<p class="start lessSpacing">One technique used by modern detectives to solve crimes uses computers to search the vast number of databases on the Internet. Proprietary law enforcement databases such as the National Center for the Analysis of Violent Crime database enable detectives to analyze a</p>
+				<figure onclick="compTia.togglePopup(16,0)" style=" height:247px; background:no-repeat url(assets/images/figures/fig1.15.jpg) 5px 0; margin-top: 3px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.15</span> Tissue-rendering programs add layers of muscles, fat, and skin to recovered skulls to create faces that can be used to identify victims. <em>(Digital Art/Corbis)</em>
+							</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p class="lessSpacing">wealth of information for similarities between crimes in an attempt to detect patterns that may reveal serial crimes. In fact, a law enforcement specialty called computer forensics is growing in importance in order to fight modern crime. <span class="strongDBlue" glossary>Computer forensics</span> analyzes computer systems with specific techniques to gather potential legal evidence. For example, Steven Zirko was recently convicted for two Chicago-area murders based on computer forensics work. Computer forensics examiners trained by the FBI scoured Zirko's computer and located searches for terms like <em>hire a hitman</em> and <em>GHB</em>, the date-rape drug. Zirko had also used his computer to find the daily schedule for his victim's two school-aged children and to get directions to her home. In many cases, files, videos, and conversations conducted using a computer can be recovered by forensics specialists and can be used as evidence of criminal activity.</p>
+			
+				<h2 class="blueHeading">Medicine: The Chip Within</h2>
+				<p class="lessSpacing">A career in medicine will connect you to new ways of using technology to better people's lives. Earlier we mentioned how biomedical chips may one day restore sight to the blind. Indeed, the goals of modern biomedical chip research are to provide technological solutions to physical problems and a means for identifying individuals.</p>
+				<p class="start lessSpacing">One type of chip is already being implanted in humans as a means of verifying a person's identity. Called VeriMed, this personal identification chip is about the size of a grain of rice and is implanted under the skin. When exposed to radio waves from a scanning device, the chip transmits its serial number to the scanner. The scanner then connects to a database that </p>
+				]]>
+			</section>
+			
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p>contains the name, address, and medical conditions of the person in whom the chip has been implanted. In the course of a nursing career, you may be using VeriMed to help keep Alzheimer's patients safe, for example.</p>
+				<p class="start">Currently, nonimplant versions of identity chips are used in hospitals. When chips are attached with bands to newborn infants, the hospital staff can instantly monitor the location of any baby. Elevators and doors are designed to allow only certain people to enter with a specific baby, even if hospital power is interrupted. Although the use of implantable tags is becoming more commonplace, it remains to be seen whether people will decide that the advantages of having their medical data quickly available justifies having chips implanted in their bodies. As a doctor, would you advise your patients to use an implantable chip?</p>
+				<p class="start">Hitachi makes a similar device, called the <em>µ-chip</em> ("mu chip"), which is smaller than the period at the end of this sentence (<span onclick="compTia.togglePopup(17,1)" class="strongDBlue">see Figure 1.19</span>). Those concerned with privacy issues worry because the <em>µ</em>-chip could be easily attached to, or ingested by, a person without his or her knowledge. On the other hand, researchers are excited by the possibility of using the <em>µ</em>-chip to confirm that the correct drugs and dosages have been given. If your career takes you into the medical field, how will you evaluate the risks and benefits of biomedical chips?</p>
+				
+				<div class="greenHorzButton" onclick="compTia.togglePopup(17,0)">
+					<span class="largeBoldWhite">DIG DEEPER</span>
+					<strong>Making Reality Even More Real</strong>
+				</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(17,1)" style=" height:164px; background:no-repeat url(assets/images/figures/fig1.19.jpg) 0px 0; margin-top: 0px;">
+							
+							<figcaption class="topPos" style="margin-left: 213px;">
+								<span>Figure 1.19</span> No bigger than the period at the end of this sentence, Hitachi's <em>µ</em>-chip can hold digital information, which can then be read when it passes a detector. <em>(ERIKO SUGITA/Reuters/Landov)</em>
+							</figcaption></figure>
+							
+					<h2 class="blueHeading">Science: Simulating Reality</h2>		
+						<p class="lessSpacing">Thanks to a partnership between the National Severe Storms Lab and the National Center for Supercomputing Applications, tornado forecasting is becoming increasingly accurate (<span onclick="compTia.togglePopup(17,3)" class="strongDBlue">see Figure 1.20</span>). Scientists have been able to create a model so detailed that it takes nine days for a supercomputer to generate it, even though the computer is executing 4 trillion operations a second.</p>	
+						<br/>
+						<a onclick="compTia.togglePopup(17,2)" class="readMore TMargin5"></a>
+							
+				<figure onclick="compTia.togglePopup(17,3)" style=" height:153px; background:no-repeat url(assets/images/figures/fig1.20.jpg) 31px 0; margin-top: 15px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 1.20</span> Software that combines radar information in new ways increases the accuracy of tornado predictions and allows for earlier warning of threatened towns. <em>(Steve Bloom Images/Alamy; National Oceanic and Atmospheric Administration NOAA)</em>
+							</figcaption></figure>
+				]]>
+			</section>
+			
+		</page>
+		
+		
+		<page index="18" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Psychology: You Should Smile...Now</h2>
+				<p>Science fiction has always been populated with robots that emulate humans, seemingly effortlessly. So, when will we have personal robots laughing at our jokes or bringing us our favorite snack when they recognize we're sad? A career as a psychologist may take you into an exciting exploration of the boundaries between the nature of being human and the nature of machines.</p>
+				<p class="start">Psychologists and computer scientists are jointly conducting research to develop computer systems that respond to human affect and emotional expression, as well as to enable computer systems to develop social and emotional skills. <span class="strongDBlue" glossary>Affective computing</span> is computing that relates to emotion or that deliberately tries to influence emotion. Most computers you are familiar with can perform calculations and do the tasks they are programmed for much faster than humans can, but they fail miserably at telling a good joke or modifying their behavior based on your frustration. This wide gap in the computing abilities of computers versus their emotional abilities is the target of research in affective computing.</p>
+				<p class="start">One project to emerge in the affective computing field is the emotional-social prosthesis (ESP) device developed by a group at the MIT Media Lab. The ESP system is targeted at helping people who have autism. Individuals with autism can be extremely intelligent, but they do not easily sense nonverbal cues such as facial expressions and tone of voice. The ESP is a wearable system that isolates the movements and facial expressions of </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p>people, interprets what their mood and intentions probably are, and communicates this information back to the user.</p>
+				<p class="start">While engineers work to create computers that can understand us emotionally, psychologists and computer scientists are also working to evolve systems toward a more human appearance (<span class="strongDBlue" onclick="compTia.togglePopup(18,0)">see Figure 1.21</span>). With a career in robotics or psychology, you could find yourself at the heart of developing a new kind of relationship between man and machine.</p>
+				<figure onclick="compTia.togglePopup(18,0)" style=" height:228px; background:no-repeat url(assets/images/figures/fig1.21.png) 0px 0; margin-top: 10px;">
+							
+							<figcaption class="topPos" style="margin-left: 186px;">
+								<span>Figure 1.21</span> Robots with articulated joints that mimic human limbs can balance, stand, walk, and even hug. <em>(Press Association/AP Images)</em>
+							</figcaption></figure>
+							
+							<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_1_Part_2/Chapter_1_Part_2.html','_blank')">Replay Video 1.2</span>.</span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(3)">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+					<br/>
+
+				]]>
+			</section>
+			
+		</page>
+		
+		
+		<page index="19" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:430px">
+					<div class="font_20 BMargin25">Which area of computer literacy are you the least familiar with now?</div>
+					<ol class="pollQuestions">
+						<li>Avoiding hackers and viruses</li>
+						<li>Protecting your privacy</li>
+						<li>Understanding what the REAL risks are</li>
+						<li>Being able to update and troubleshoot your computer</li>
+						<li>Avoiding online annoyances</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		
+		<page index="20" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<h1><span class="chapter">1</span> Chapter Review</h1>
+			<div class="largerTitle">summary//</div>
+
+				<img src="assets/images/pics/MiniblueWorld.jpg" style="float:left;margin-right:13px; margin-top:7px" />
+				<h2>Technology on the World Stage</h2>
+				<span class="prePseudoLi preContent1 strong"> How can becoming proficient with technology help you understand and participate in important issues</span>
+				<h4 class="noTMargin" style="margin-left:95px;">in the world at large?</h4>
+
+			<ul class="dotted TMargin5 clearLeft">
+				<li><span class="innerLi">Whether it's political issues, environmental issues, or questions addressing the global digital divide, it's important that you become proficient with technology to be able to participate.</span></li>
+				<li><span class="innerLi">Technology can be the means by which you find your voice in the world and impact others in meaningful ways.</span></li>
+			</ul>
+			<br/>
+			
+				<img src="assets/images/pics/MiniwhitePeople.jpg" style="float:left;margin-right:13px; margin-top:21px;" />
+				<h2>Technology and Our Society</h2>
+					<span class="prePseudoLi preContent2 strong"> How can knowledge of technology help you <br/>influence the direction our society takes?</span>
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi">Technology is changing how we think, how we connect with each other, and how we purchase and consume products and services.</span></li>
+						<li><span class="innerLi">By using current technology, you can become a creator of new pieces of music, connect with people from around the world, and collaborate to create or consume.</span></li>
+					</ul>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<img src="assets/images/pics/MinishadowComputer.jpg" class="floatPositioned">
+				<h2>Technology at Home</h2>
+					<span class="prePseudoLi preContent3 strong"> What does it mean to be computer literate?</span>
+					<br/><br/>
+					<ul class="dotted">
+						<li><span class="innerLi">Computer literacy goes beyond knowing how to use a mouse and send e-mail. If you're computer literate, you understand the capabilities and limitations of computers and know how to use them wisely.</span></li>
+						<li><span class="innerLi">Being computer literate also enables you to make informed purchasing decisions, use computers in your career, and understand the many ethical, legal, and societal implications of technology today. Anyone can become computer literate.</span></li>
+					</ul>
+					<br/>
+
+				<h4>4. How does being computer literate make you a savvy computer</h4>
+				<h4 class="Lmargin15">user and consumer?</h4>
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">By understanding how a computer is constructed and how its various parts function, you'll be able to get the most out of your computer.</span></li>
+						<li><span class="innerLi">Among other things, you'll be able to avoid hackers, viruses, and Internet headaches; protect your privacy; and separate the real risks of privacy and security from those you don't have to worry about.</span></li>
+						<li><span class="innerLi">You'll also be better able to maintain, upgrade, and troubleshoot your computer; make good purchasing decisions; and incorporate the latest technologies into your existing equipment.</span></li>
+					</ul>
+				
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+		<img src="assets/images/pics/MinidigitalWoman.jpg" class="floatPositioned">
+				<h2>Technology and Your Career</h2>
+					<span class="prePseudoLi preContent5 strong"> How can becoming computer literate help<br/>you in a career?</span>
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi">As computers increasingly become part of our daily lives, it is difficult to imagine any career that does not use computers in some fashion.</span></li>
+						<li><span class="innerLi">Understanding how to use computers effectively will help you be a more productive and valuable employee, no matter which profession you choose.</span></li>
+					</ul>
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					<img class="TMargin15 noLMargin" src="assets/images/layout/techTouchS1.png" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+		]]>
+			</section>
+			<section>
+		<![CDATA[
+		]]>
+			</section>
+	
+		</page>
+		
+		<page index="22" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 1 glossary//</div>
+					
+					<span class="strongDBlue" glossary>affective computing</span> 23<br/>
+					<span class="strongDBlue" glossary>augmented reality</span> 22<br/>
+					<span class="strongDBlue" glossary>cognitive surplus</span> 11<br/>
+					<span class="strongDBlue" glossary>collaborative consumption</span> 13<br/>
+					<span class="strongDBlue" glossary>computer forensics</span> 21<br/>
+					<span class="strongDBlue" glossary>computer literate</span> 16<br/>
+					<span class="strongDBlue" glossary>crisis-mapping tool</span> 9<br/>
+					<span class="strongDBlue" glossary>crowdfunding</span> 12<br/>
+					<span class="strongDBlue" glossary>crowdsourcing</span> 13<br/>
+					<span class="strongDBlue" glossary>data mining</span> 18<br/>
+					<span class="strongDBlue" glossary>digital divide</span> 10<br/>
+					<span class="strongDBlue" glossary>information technology (IT)</span> 18<br/>
+					<span class="strongDBlue" glossary>QR (quick response) codes</span> 12<br/>
+					<span class="strongDBlue" glossary>social networking</span> 8<br/>
+					<span class="strongDBlue" glossary>software</span> 17<br/>
+					<span class="strongDBlue" glossary>spam</span> 17<br/>
+					<span class="strongDBlue" glossary>Web 2.0</span> 11<br/>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				
+				
+				]]>
+			</section>
+		</page>	
+		
+		<page index="23" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">making the transition to...next semester//</div>
+			<ol>
+				<li><span class="innerLi">Computer Literacy</span><br/><span class="innerLi lineSpacing17 notStrong">In your academic career, you'll be spending time understanding the requirements of the degree program you choose. At many schools, computer literacy requirements exist either as incoming requirements (skills students must have before they're admitted) or as outgoing requirements (skills students must prove they have before graduating). Does your program require specific computer skills? Which skills are they? Should they be required? How can students efficiently prove that they have these skills? How often does the set of skills need to be reviewed and updated?</span></li>
+				<li><span class="innerLi">The Mind of the Mob</span><br/><span class="innerLi lineSpacing17 notStrong">Crowdsourcing is the gathering of data in real time, as an event happens, from a growing crowd of people. Because of the large number of students who now own phones with Internet access, crowdsourcing on campus could start to be useful. In what settings would making decisions based on information from a gathering crowd on campus be valuable? How would you react to your professor using a form of crowdsourcing to determine your grade on an essay?</span></li>
+				<li><span class="innerLi">Recycle, Repair, Redistribute</span><br/><span class="innerLi lineSpacing17 notStrong">The Microsoft-authorized refurbisher program and TechSoup both help provide resources to people in need to reduce the barrier of the digital divide. These organizations recycle hardware and supply software inexpensively to needy families. How could a program be set up at your school to make people aware of these options? Could students donate materials or retrofit systems as part of their coursework? As part of a club activity? How could you make these programs work for your community?</span></il>		
+			</ol>
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+				
+			<div class="title">making the transition to...the workplace//</div>
+			<ol>
+				<li><span class="innerLi">Patients and Medical Computing</span><br/><span class="innerLi notStrong">As more hospitals and doctors' offices begin to use electronic medical records (EMRs), the flow of information among the doctors and care facilities a patient uses could become much more reliable. In their training and work, doctors and nurses rely on computers. What about patients? Examine Microsoft Health Vault at <span class="strongDBlue" onclick="window.open('http://microsoft.com/en-us/healthvault','_blank')">microsoft.com/en-us/healthvault</span> for an example of an electronic medical history. How does this migration from a traditional paper records system impact the skills required for medical office workers? New ethical questions also often arise when technology changes. How would a medical facility now protect and verify its data records? What risks are there with a product like the Microsoft Health Vault?</span></li>
+				<li><span class="innerLi">Social Media Careers</span><br/><span class="innerLi notStrong">With the explosion of users on social media sites, businesses need to establish their presence on social media sites. Just search for "Vans" or "Starbucks" on Facebook for examples of company sites. To manage their interaction with customers (and fans), companies need to hire social media managers. Using a job site such as Monster.com, search for ‚"social media manager" and review the job postings. What are the educational requirements for social media managers? What technical skills do these jobs require? Given your major, what companies would you do well for as a social media manager? What steps should you take while in school to prepare yourself for a career as a social media manager?</span></li>
+			</ol>
+		]]>
+	</section>
+</page>
+
+
+		<page index="24" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+		<ol>
+			<li class="liHide"></li>
+			<li class="liHide"></li>
+				<li><span class="innerLi">Portfolio of Electronic Skills</span><br/><span class="innerLi notStrong">Job seekers want to highlight their skills for prospective employers—show employers both what they can do right now and provide evidence that they can learn quickly and grow into new technologies and new responsibilities. What skills could you place in a portfolio to demonstrate your current mastery of computer concepts and computer applications? How would you document for your employer your ability to learn, adapt quickly to changes in technology, and acquire new skills?</span></li>
+		</ol>
+		<br/>		
+		<div class="title">team time//</div>
+		
+		<h3>A Culture of Sharing</h3>
+			<h4>Problem</h4>
+			<p>As more and more peer-to-peer music-sharing services appeared, like BitTorrent and LimeWire, many felt a culture of theft was developing. Some argued there was a mindset that property rights for intellectual works need not be respected and that people should be able to download, for free, any music, movies, or other digital content they wanted.</p>
+			<p class="start">But there is another view of the phenomenon. Some are suggesting that the amount of constant access to other people-through texting, e-mail, blogging, and the easy exchange of digital content-has created a culture of trust and sharing. This Team Time will explore both sides of this debate as it affects three different parts of our lives-finance, travel, and consumerism.</p>
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+		<h4>Task</h4>
+		<p>Each of three groups will select a different area to examine-finance, travel, or consumerism. The groups will find evidence to support or refute the idea that a culture of sharing is developing. The finance group will want to explore projects like Kickstarter (<span class="strongDBlue" onclick="window.open('http://kickstarter.com','_blank')">kickstarter.com</span>) and Kiva (<span class="strongDBlue" onclick="window.open('http://kiva.org','_blank')">kiva.org</span>). The travel group should examine what is happening with CouchSurfing (<span class="strongDBlue" onclick="window.open('http://couchsurfing.org','_blank')">couchsurfing.org</span>) to start their research. The team investigating consumerism will want to look at goods-exchange programs like Freecycle (<span class="strongDBlue" onclick="window.open('http://freecycle.org','_blank')">freecycle.org</span>).</p>
+		<br/>
+		<h4>Process</h4>
+		<ol>
+			<li><span class="notStrong">Divide the class into three teams.</span></li>
+			<li><span class="notStrong">Discuss the different views of a "culture of sharing." With the other members of your team, use the Internet to research up-and-coming technologies and projects that would support your position. People use social media tools to connect into groups to exchange ideas. Does that promote trust? Does easy access to digital content promote theft, or has the value of content changed? Are there other forces like the economy and the environmental state of the world that play a role in promoting a culture of sharing? What evidence can you find to support your ideas?</span></li>
+			<li><span class="notStrong">Present your group's findings to the class for debate and discussion.</span></li>
+			<li><span class="notStrong">Write a strategy paper that summarizes your position and outlines your predictions for the future. Will the pace of technology promote a change in the future from the position you are describing?</span></li>
+		</ol>	
+		
+		]]>
+	</section>
+</page>
+
+<page index="25" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<h4>Conclusion</h4>
+			<p>The future of technology is unknown, but we do know that it will impact the way our society progresses. To be part of the developments that technology will bring will take good planning and attention, no matter what area of the culture you're examining. Begin nowólearn how to stay on top of technology.</p>
+		
+		<br/>
+			<div class="title">ethics project//</div>
+			<h4>Should Information Be Free?</h4>
+			<p >In this exercise, you'll research and role-play a complicated ethical situation. The role you play might not match your personal beliefs; regardless, your research and use of logic should enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the arguments, and together, team members will agree on an ethical solution.</p>
+		
+			<h4>Problem</h4>
+			<p>The crisis-mapping tool Ushahidi has been used to collect and present information in times of unrest. This allows everyone to be involved in gathering the actual facts about what is happening and to help address the needs of people who are lost and hurt.</p>
+			<p class="start">WikiLeaks is another example of a tool that gathers information and "frees" it by presenting it to the public. Whistleblowers and secret and classified media have been exposed to the world community through publication via WikiLeaks. However, some people feel that WikiLeaks has endangered people by revealing information that should have been kept confidential.</p>
+		
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			
+			<p class="start">What is the nature of information? Should it be "free"—available without censure or government controls? Is there a limit—should only certain information be free, whereas other information should be kept away from the public for the greater good?</p>
+			
+			<h4>Research Topics to Consider</h4>
+			<span class="psudoUlLi">Electronic Frontier Foundation</span>
+			<span class="psudoUlLi">Government 2.0</span>
+			
+			<h4>Process</h4>
+			<ol>
+				<li><span class="notStrong">Divide the class into teams. Each team will select a web-based tool that allows us access to information.</span></li>
+				<li><span class="notStrong">Team members should each think of a situation where a person would benefit from the easy access to information and a situation where it might be undesirable.</span></li>
+				<li><span class="notStrong">Team members should arrange a mutually convenient time to meet and exchange ideas, using either the chat room feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person. Select the most-powerful and bestconstructed arguments and develop a summary conclusion.</span></li>
+				<li><span class="notStrong">Team members should present their findings to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary conclusion they developed.</span></li>
+			</ol>	
+			
+			<h4>Conclusion</h4>
+			<p>As technology becomes ever more prevalent and integrated into our lives, ethical dilemmas will present themselves to an increasing extent. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+		
+		]]>
+	</section>
+</page>
+
+
+		
+	</chapter>
+</ebook>

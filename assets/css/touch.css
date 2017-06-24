@@ -1,0 +1,28 @@
+body.touch .orangeRevealCondDefault.headingOrangeShiftBGright{
+	font-weight:normal;
+}
+body.touch #pageSlider .slides {
+	position:static !important;
+}
+body.touch #searchBox {
+	padding-top:8px;
+}
+body.touch video {
+	display:block;
+}
+body.touch #searchBox .backSearchPage,
+body.touch #searchBox .fowardSearchPage,
+body.touch #searchBox .XSearchPage {
+	margin-left:20px;
+}
+body.touch #searchBox #resultIndex a {
+    font-size: 13px;
+    padding: 0 8px 5px 6px;
+}
+body.touch #searchBox #searchResults {
+    font-size: 13px;
+}
+body.touch .tryThisElm .nextStep {
+	font-size:19px;
+	letter-spacing: -0.2px;
+}

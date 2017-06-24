@@ -1,0 +1,195 @@
+#pageModule {
+	font-size:16px;
+	background-color:#fff;
+	color:#000;
+	line-height:21px;
+	height:0;
+}
+#pageModule ul {
+	padding-left: 5px;
+	width:auto !important;
+}
+#pageModule .column,
+#pageModule .cell {
+	float:left;
+}
+#pageModule .orangeSend {
+	background-image:url(../images/layout/orangeSend.png);
+	width:68px;
+	height:27px;
+	margin-top:4px;
+	cursor:pointer;
+}
+#pageModule .greySkip {
+	background-image:url(../images/layout/greySkip.png);
+	width:62px;
+	height:27px;
+	margin-top: 4px;
+	cursor:pointer;
+}
+#pageModule .tryThisButton {
+	background-image:url(../images/layout/tryThisButton.png);
+	width:171px;
+	height:31px;
+	margin-top: 20px;
+}
+#pageModule textarea,
+#pageModule input {
+	background-color: #FEFAFA;
+    border: 0 none;
+    box-shadow: 1px 2px 2px #AFADAD inset;
+    width: 392px;
+	margin-bottom:6px;
+	padding: 3px;
+}
+#pageModule.checkUnderstanding {
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YxZjBmMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkY2RiZGIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top, #f1f0f0 0%, #dcdbdb 100%); /* FF3.6+ */
+	background: -webkit-linear-gradient(top, #f1f0f0 0%,#dcdbdb 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #f1f0f0 0%,#dcdbdb 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #f1f0f0 0%,#dcdbdb 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #f1f0f0 0%,#dcdbdb 100%); /* W3C */
+	height: 100%;
+	font-size:16px;
+    margin: -24px -45px;
+    padding: 24px 54px;
+}
+#pageModule.checkUnderstanding p {
+	font-size:16px;
+}
+.checkUnderstanding .understandingHeading {
+	background: url("../images/layout/longOrangeDiagDashes.png") no-repeat scroll 0 bottom transparent;
+    color: #E26F09;
+    font-size: 30px;
+    height: 50px;
+    margin: 0 -32px 34px -24px;
+    padding-left: 24px;
+    text-indent: 3px;
+    font-family: myriadpro-semibold;
+}
+
+.checkUnderstanding .understandingHeading .moduleClose {
+ 	display: block;
+    float: right;
+    background:url(../images/CheckClose.png);
+    height: 27px;
+    width: 28px;
+    cursor:pointer;
+}
+.checkUnderstanding ol {
+	padding-left: 21px;
+	font-size:18px;
+}
+.checkUnderstanding li {
+	padding-left: 12px;
+}
+.checkUnderstanding .quizButtonContain {
+	margin-top:65px;
+}
+.checkUnderstanding .quizButton {
+	width:403px;
+	height:64px;
+	margin-bottom: 3px;
+	color:#eeeeee;
+	background: url(../images/layout/quizButton.jpg) no-repeat;
+	cursor:pointer;
+}
+.checkUnderstanding .quizButton.multiChoice {
+	background-position: 0 -133px;
+	
+}
+.checkUnderstanding .quizButton.multiChoice div {
+	float:left;
+}
+.checkUnderstanding .quizButton.multiChoice .letter {
+    font-family: myriadpro-semiboldcond;
+    font-size: 35px;
+    padding: 20px 0 0 23px;
+    width: 38px;
+}
+.checkUnderstanding .quizButton.multiChoice .multiAnswer {
+    font-family: myriadpro-semibold;
+    font-size: 17px;
+    padding: 20px 0 0 18px;
+    width: 315px;
+}
+.checkUnderstanding .quizButton.multiChoice.correct {
+	color:#fff;
+	background-position: 0 -199px;
+}
+.checkUnderstanding .quizButton.trueFlase {
+    background-position: 0 -1px;
+    color: #EEEEEE;
+    font-family: myriadpro-semiboldcond;
+    font-size: 35px;
+    width:380px;
+    height: 44px;
+    padding: 20px 0 0 23px;
+}
+.checkUnderstanding .quizButton.trueFlase.correct {
+	color:#fff;
+	background-position: 0 -67px;
+}
+.checkUnderstanding .quizContain {
+	height:455px;
+}
+.checkUnderstanding .quizContain .quiz,
+.tryThis .tryThisContain .tryThisElm {
+	display:none;
+}
+.checkUnderstanding .quizContain.column {
+	float:left;
+}
+.tryThis {
+	background-color:#fff;
+	height: 100%;
+	font-size:16px;
+    margin: -24px -45px;
+    padding: 24px 54px;
+
+}
+.tryThis ul {
+
+}
+.tryThis ul li:before {
+	content:"• ";
+}
+.tryThis p {
+	width:530px;
+}
+.tryThis .tryThisHeading {
+	border-bottom: #f38720 solid 5px;
+	padding-bottom: 15px;
+	padding-top: 6px;
+}
+.tryThis .title {
+	border-bottom: #f38720 solid 5px;
+}
+.tryThis .tryThisContain {
+	margin-left:146px;
+}
+.tryThis .tryThisElm {
+	
+}
+.tryThis .nextStep,
+.tryThis .prevStep {
+    color: #015F7B;
+    font-size: 21px;
+    font-weight: bold;
+    cursor: pointer;
+    width:225px;
+    display:table-cell;
+}
+.tryThis .nextStep {
+    background: url(../images/layout/medBlueArrow.png) no-repeat scroll right 0 transparent;
+    padding: 2px 19px 1px 0;
+    text-align: right;
+}
+.tryThis .prevStep {
+    background: url(../images/layout/medBlueArrowPrev.png) no-repeat scroll left 0 transparent;
+    padding: 2px 0 1px 19px;
+	text-align: left;
+}
+.tryThis .tryThisElm {
+	
+}

@@ -1,0 +1,1731 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="9">
+
+
+
+
+
+
+
+		<!--Active Graphic-->		
+		<popup page="3" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes">Top Four Cybercrimes Reported to the IC3 in 2011</div>
+			<div class="figureHeader"><strong>Figure 9.1</strong> Click on the image to pop–up the description.</div>
+			
+			<figure style="height: 100%; width: 100%;">
+
+
+					<div class="overlayButtons">
+						<div style="left: 249px; top: 54px; background: url('assets/images/figures/fig9.1/mainFour.png') no-repeat scroll -4px -3px transparent; height: 192px; width: 189px;" roll="callout1.png"></div>
+						<div style="left: 438px; background: url('assets/images/figures/fig9.1/mainFour.png') no-repeat scroll -193px 0px transparent; width: 192px; top: 51px; height: 193px;" roll="callout2.png"></div>
+						<div style="left: 249px; top: 246px; height: 191px; background: url('assets/images/figures/fig9.1/mainFour.png') no-repeat scroll -4px -195px transparent; width: 187px;" roll="callout3.png"></div>
+						<div style="height: 187px; top: 244px; left: 436px; background: url('assets/images/figures/fig9.1/mainFour.png') no-repeat scroll -191px -193px transparent; width: 193px;" roll="callout4.png"></div>
+					</div>
+					<div class="overlayImages">
+
+						<div style="background-image: url('assets/images/figures/fig9.1/callout1.png'); left: 24px;top: 27px; width: 366px; height: 204px;" roll="callout1.png"></div>
+						<div style="background-image: url('assets/images/figures/fig9.1/callout2.png'); left: 481px;top: 27px; width: 350px; height: 204px;" roll="callout2.png"></div>
+						<div style="background-image: url('assets/images/figures/fig9.1/callout3.png'); left: 24px; top: 257px; height: 207px; width: 366px;" roll="callout3.png"></div>
+						<div style="background-image: url('assets/images/figures/fig9.1/callout4.png'); left: 481px; width: 352px; height: 207px; top: 257px;" roll="callout4.png"></div>
+					
+					</div>
+			
+					
+			</figure>
+			<figcaption></figcaption>
+			]]></section>
+		</popup>
+		
+		<!--Active Graphic-->
+		<popup page="6" distinction="popupFeature" customscript="compTia.features.setupVideo('9_2_1')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">How Computer Viruses Spread</div>
+		<div class="padding70">
+		  <a data="9_2_1" style="padding-left:99px;color:#01567a; padding-right:100px;">STEP 1</a>
+		  <a data="9_2_2" style="padding-right:100px;">STEP 2</a>
+		  <a data="9_2_3" style="padding-right:100px;">STEP 3</a>
+		  <a data="9_2_4" style="padding-right:100px;">STEP 4</a>
+		  <a data="9_2_5" style="padding-right:100px;">STEP 5</a>
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<!--Active Graphic-->
+		<popup page="8" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes">Major Categories of Viruses</div>
+			<div class="figureHeader"><strong>Figure 9.3</strong> Click the image to pop–up the definition.</div>
+			
+			<figure style="	width:826px;height:486px;
+							background:url(assets/images/figures/fig9.3/fig9.3Big.jpg) 117px 11px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 122px; width: 201px; top: 17px; height: 160px;" roll="fig9.3.1.png"></div>
+						<div style="left: 322px; width: 201px; top: 17px; height: 160px;" roll="fig9.3.2.png"></div>
+						<div style="height: 160px; top: 17px; width: 201px; left: 525px;" roll="fig9.3.3.png"></div>
+						<div style="top: 242px; height: 160px; left: 122px; width: 201px;" roll="fig9.3.4.png"></div>
+						<div style="height: 160px; top: 242px; width: 201px; left: 322px;" roll="fig9.3.5.png"></div>
+						<div style="top: 242px; height: 160px; left: 525px; width: 201px;" roll="fig9.3.6.png"></div>
+					</div>
+					<div class="overlayImages">
+
+						<div roll="fig9.3.1.png" style="background-image: url(assets/images/figures/fig9.3/fig9.3.1.png); width: 180px; height: 54px; left: 137px; top: 185px;"></div>
+						<div roll="fig9.3.2.png" style="background-image: url(assets/images/figures/fig9.3/fig9.3.2.png); width: 183px; height: 54px; left: 335px; top: 185px;"></div>
+						<div roll="fig9.3.3.png" style="background-image: url(assets/images/figures/fig9.3/fig9.3.3.png); width: 180px; height: 54px; left: 539px; top: 185px;"></div>
+						<div roll="fig9.3.4.png" style="background-image: url(assets/images/figures/fig9.3/fig9.3.4.png); height: 54px; width: 180px; left: 137px; top: 413px;"></div>
+						<div roll="fig9.3.5.png" style="background-image: url(assets/images/figures/fig9.3/fig9.3.5.png); width: 183px; height: 54px; left: 335px; top: 413px;"></div>
+						<div roll="fig9.3.6.png" style="background-image: url(assets/images/figures/fig9.3/fig9.3.6.png); height: 59px; width: 190px; left: 539px; top: 406px;"></div>
+						
+						
+					</div>
+			</figure>
+			]]></section>
+		</popup>
+		
+		<popup page="9" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content" style="height:430px;">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">CAPTCHA: Keeping Websites Safe from Bots</strong>
+								<p class="lessSpacing">Automated programs called <em>bots</em> (or web robots) are used to make tasks easier on the Internet. For example, search engines use bots to search and index web pages. Unfortunately, bots can also be used for malicious or illegal purposes because they can perform some computing tasks faster than humans. For example, bots can be used on ticketordering sites to buy large blocks of high-demand concert tickets. They are also often used to post spam in the comment sections of blogs. Fortunately, website owners can deploy CAPTCHA software (see <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 9.4</span>) to prevent such bot activities.</p>
+
+								<p class="start lessSpacing">CAPTCHA (Completely Automated Public Turing Test to Tell Computers and Humans Apart) programs generate distorted text and require that it be typed into a box. Because bots can’t yet be programmed to read distorted text, which most people can, the CAPTCHA program can verify that a human is performing the task being tested. If you want to try integrating a CAPTCHA program into your website (to protect your e-mail address), go to <span class="strongDBlue" onclick="window.open('http://google.com/recaptcha','_blank')">google.com/recaptcha</span>, which offers free CAPTCHA tools to help you protect your data.</p>	
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						  style="background: url(assets/images/figures/fig9.4.png) no-repeat scroll 0px 0 transparent;
+						  	height: 170px; margin-left: -8px">
+							<figcaption class="bottomPos">
+							 <span>Figure 9.4</span> CAPTCHA programs like this one verify that a human, not a bot, is performing the requested task.
+							</figcaption>
+							</figure>
+							</div>
+						  </div>
+						</div>
+						
+						<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig9.4Big.png) no-repeat scroll 0px 0px transparent">
+							  <figcaption class="rightPos topPos" style="width:258px;margin-right:40px;">
+								<span>Figure 9.4</span> CAPTCHA programs like this one verify that a human, not a bot, is performing the requested task.
+								</figcaption>
+							  </figure>
+
+						</div>
+					
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="10" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.5Big.jpg') no-repeat scroll 50px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.5</span>
+						In Norton Internet Security, you can set up virus scans to run automatically. This computer will be scanned every day at 4 a.m.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.6Big.jpg') no-repeat scroll 50px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.6</span>
+						Antivirus software, such as Windows Defender, provides for automatic updates but also allows manual updates.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="13" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.7Big.jpg') no-repeat scroll 50px 65px transparent;margin-bottom:-17px;">
+					<figcaption class="normalFont" style="margin-bottom:20px;">
+					  <span>Figure 9.7</span>
+						The Windows Update screen makes it easy for users to configure Windows to update itself.
+					</figcaption>
+					</figure>
+					<p><em>>To enable automatic updates, access the Control Panel, select <strong>System and Security</strong>, click the <strong>Windows Update</strong> link, and then click the <strong>Change Settings</strong> link.</em></p>
+				]]>
+			</section>
+		</popup>
+		
+			<popup page="14" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.8Big.jpg') no-repeat scroll 215px 15px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.8</span>
+						Hackers can find lots of personal information about you on the Internet. <em>(Wildt, Chris/Cartoonstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="16" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.9Big.jpg') no-repeat scroll 127px 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.9</span>
+						The term <i>Trojan horse</i> derives from Greek mythology and refers to the wooden horse that the Greeks used to sneak into the city of Troy and conquer it. Therefore, computer programs that contain a hidden, and usually dreadful, “surprise” are referred to as Trojan horses. <em>(RalfKraft/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="17" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Are Your Photos Helping Criminals Target You?</strong>
+								<p>All cell phones today contain GPS chips. The cameras in phones often use information gathered from the GPS chips to encode information onto photos in the form of geotags. A <span class="strongDBlue" glossary>geotag</span> is a piece of data attached to a photo that indicates your latitude and longitude when you took the photo. Geotagging is useful for applications that can take advantage of this information, but problems arise when you share geotagged photos on the web.</p>
+								<p class="start">If you post a lot of photos, cybercriminals and cyberstalkers can use the information from the geotags on your photos to figure out the patterns of your movements. They may be able to ascertain when you’re at work or that you’re currently on vacation, which leads them to determine prime times for burglarizing your home. Some sites such as Facebook and Twitter have measures in place to limit the amount of geotagged information that can be seen in photos in order to prevent their users from unwittingly revealing personal information. However, many photo-sharing sites don’t have such protections in place.</p>
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								<p class="start">The safest thing to do is not tag your photos with geotags in the first place. It’s usually easy to disable location tracking on your smartphone. For instance, on the iPhone, on the Settings screen, select General, then Location Services, and choose Off. So stop geotagging your photos, and make it tougher for the cybercriminals to figure out your movements.</p>
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<!--needs motionGraphic-->
+		<popup page="17" distinction="popupFeature" customscript="compTia.features.setupVideo('9_10_1')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Zombie Computers</div>
+		<div class="padding70">
+		  <a data="9_10_1" style="color:#01567a; padding-right:55px;"></a>
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.11Big.jpg') no-repeat scroll 70px 38px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.11</span>
+						Open logical ports are an invitation to hackers.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="19" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.12Big.jpg') no-repeat scroll 50px 55px transparent; margin-bottom:-17px">
+					<figcaption class="normalFont" style="margin-bottom:20px;">
+					  <span>Figure 9.12</span>
+						The security section of the Windows Action Center provides the status of programs protecting your computer.
+					</figcaption>
+					</figure>
+					<p>><em>To view the Action Center, access the Control Panel, select <strong>System and Security</strong>, and then click the <strong>Action Center</strong> link.</em></p>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<!--needs motionGraphic-->
+		<popup page="20" distinction="popupFeature" customscript="compTia.features.setupVideo('9_13-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Using Firewalls</div>
+					<div class="padding70">
+					  <a style="padding-left:99px; padding-right:100px;color:#01567a" data="9_13-1">STEP 1</a>
+						<a data="9_13-2" style="padding-right:100px;">STEP 2</a>
+						<a data="9_13-3" style="padding-right:100px;">STEP 3</a>
+						<a data="9_13-4" style="padding-right:100px;">STEP 4</a>
+						<a data="9_13-5" style="padding-right:100px;">STEP 5</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+					 
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="22" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage portsTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Common Logical Ports</div>
+
+
+
+			<strong>Figure 9.14</strong></span>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class=" portsTable">
+						<thead><tr class="font_15">
+							<th><div class="blueGradHeading">PORT NUMBER</div></th>
+							<th><div class="blueGradHeading">PROTOCOL USING THE PORT</div></th>
+						</tr></thead>
+						<tbody class="font_15 semibold">
+						
+						<tr class="lightBlueGrad">
+							<td><div>21</div></td>
+							<td><div>FTP (File Transfer Protocol) control</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>23</div></td>
+							<td><div>Telnet (unencrypted text communications)</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>25</div></td>
+							<td><div>SMTP (Simple Mail Transfer Protocol)</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>53</div></td>
+							<td><div>DNS (domain name system)</div></td>
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div>80</div></td>
+							<td><div>HTTP (Hypertext Transfer Protocol)</div></td>
+						</tr>
+						
+						<tr class="darkBlueGrad">
+							<td><div>443</div></td>
+							<td><div>HTTPS (HTTP with Transport Layer Security [TLS] encryption)</div></td>
+						</tr>
+					</tbody></table>
+					
+			 </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="22" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						<ul class="dotted">
+							<p class="start">Many people use extremely weak passwords. The Imperva Application Defense Center, a computer-security research organization, conducted a review of 32 million passwords that were used at the website <span class="strongDBlue" onclick="window.open('http://rockyou.com','_blank')">rockyou.com</span>. More than 345,000 people were using “12345,” “123456,” or “123456789” as their password. And almost 62,000 people were using “password”! Passwords such as these are easy for hackers to crack.</p>
+							<p class="start">Websites that need to be very secure, such as those for financial institutions, usually have strong defenses to prevent hackers from cracking passwords. But sites that need less security, such as casual gaming or social networking sites, might have less protection. Hackers attack poorly defended sites for passwords because many people use the same password for every site they use. So if a hacker can get your password from a poorly secured gaming site, they might be able to access your bank account with the same password.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="23" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage passwordTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Common Operating Systems</div>
+			<div class="figureHeader" style="margin-left:-35px;"><strong>Figure 9.15</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="passwordTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Password</div></th>
+								<th><div>RATING</div></th>
+								<th><div>GOOD POINTS</div></th>
+								<th><div>BAD POINTS</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Joysmithl022</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Poor</span></div></td>
+							<td><div class="hide" col="1"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">None</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="1"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Less than 14 characters</span></li>
+									<li><span class="innerLi">Contains name and birth date</span></li>
+								</ul></span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>test44driver6car</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Mediocre</span></div></td>
+							<td><div class="hide" col="2"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">15 characters in length </span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="2"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Contains three words found in the dictionary</span></li>
+									<li><span class="innerLi">Numbers repeated consecutively</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>8$RanT%5ydTTtt&</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>Better</span></div></td>
+							<td><div class="hide" col="3"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Good length</span></li>
+									<li><span class="innerLi">Contains upper- and <br/>lowercase letters</span></li>
+									<li><span class="innerLi">Contains symbols</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="3"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Upper- and lowercase letters repeated <br/>consecutively</span></li>
+									<li><span class="innerLi">Still contains one dictionary word (rant)</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>7R3m3mB3R$5%y38</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Best</span></div></td>
+							<td><div class="hide" col="4"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">All good points from above</span></li>
+									<li><span class="innerLi">Dictionary word (remember) <br/>has 3s instead of Es</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="4"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">None</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+					</table>
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.16Big.jpg') no-repeat scroll 20px 50px transparent; margin-bottom:-17px;height: 538px;">
+					<figcaption class="normalFont" style="margin-bottom:10px;">
+					  <span>Figure 9.16</span>
+						Drawing three gestures on your picture (and repeating them three times) sets your picture password options in Windows 8.
+					</figcaption>
+					</figure>
+					<p class="TMargin5"><span class="strongDBlue" onclick="window.open('http://www.youtube.com/watch?v=g1OOq1t8Ybk','_blank')">To learn more about picture passwords, click here.</span></p>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="24" distinction="bbFeature">
+			<section><![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Connecting to Wireless Networks on the Road? Beware of “Evil Twins”!</strong>
+								
+								<p>Say you’re away from campus and need to connect to a wireless network. You switch on your laptop, and the wireless network adapter finds a network called “free wifi” or “airport wireless.” You connect, enter your credit card information to buy some books from Amazon.com, and start merrily surfing away. Three days later, your credit card company calls asking about the $2,400 big-screen TV you just bought at the local electronics store. You didn’t make this purchase; you probably fell prey to an “evil twin” wireless hotspot.</p>
+								<p class="start">Hackers know the areas where people are likely to seek access to wireless networks. They’ll often set up their own wireless networks in these areas with sound-alike names to lure unsuspecting web surfers. These “evil twins” offer free Internet access, and the hackers monitor traffic looking for sensitive information they can use.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								<p class="start">So how can you protect yourself? Check with authorized personnel at places where you’ll be connecting to hotspots to determine the names of the legitimate ones. If you run across “free” access to a hotspot that isn’t provided by a legitimate merchant, you’re better off not connecting at all because you can’t be sure your information won’t be used against you or that malicious files won’t be downloaded to your computer.</p>
+								
+							</div>
+						  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="24" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.17Big.jpg') no-repeat scroll 25px 110px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.17</span>
+						The password bar in IE 10 displays whenever you type in a password for a website for which IE hasn’t yet stored the password.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.18Big.jpg') no-repeat scroll 170px 0px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.18</span>
+						The current versions of the Firefox, Internet Explorer, and Google Chrome browsers all feature privacy tools for web surfing.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="26" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.19Big.jpg') no-repeat scroll 140px 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.19</span>
+						<span class="strongDBlue" onclick="window.open('http://Pendrivelinux.com','_blank')">Pendrivelinux.com</span> can help you load a version of Linux onto a flash drive.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="27" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.20Big.jpg') no-repeat scroll 275px 10px transparent;margin-bottom:-15px;">
+					<figcaption class="normalFont BMargin20">
+					  <span>Figure 9.20</span>
+						Face recognition software is now available on laptops. You might forget your password, but you won’t forget to bring your face! <em>(Jochen Tack/Alamy)</em>
+					</figcaption>
+					</figure>
+					
+					<p><span class="strongDBlue" onclick="window.open('http://www.pbs.org/newshour/video/2013/05/29/20130529_facial.mp4','_blank')">For a short video about face recognition software, click here.</span></p>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="30" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.21Big.jpg') no-repeat scroll 142px 20px transparent;margin-bottom:-15px;">
+					<figcaption class="normalFont BMargin20">
+					  <span>Figure 9.21</span>
+						Firefox’s Allowed Sites - Pop-ups dialog box lets you control which sites you’ll allow to display pop-ups.
+					</figcaption>
+					</figure>
+					
+					<p><em>>To display the pop-up blocker in Firefox, from the Tools menu, select <strong>Options</strong>, and then click the <strong>Content</strong> tab.</em></p>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="31" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content">
+				<div class="headerText font_18 shiftUp5" style="margin-right: -25px;">You’re Being Watched...<br/>But Are You Aware You’re Being Watched?</div>
+				<div class="columnContain">
+				
+				  <div class="column">
+					<div class="innerColLeft">
+						
+						<p>Think you aren’t being closely watched by your employer? Think again! A recent survey of employers by the American Management Association and the ePolicy Institute revealed that, of the employers surveyed:</p>
+						<ul class="dotted">
+							<li><span class="innerLi">73% monitored e-mail messages</span></li>
+							<li><span class="innerLi">66% monitored web surfing</span></li>
+							<li><span class="innerLi">48% monitored activities using video surveillance</span></li>
+							<li><span class="innerLi">45% monitored keystrokes and keyboard time</span></li>
+							<li><span class="innerLi">43% monitored computer files in some other fashion</span></li>
+						</ul>
+						
+						<p class="start">As you can see, there is a high probability that you’re being monitored while you work and when you access the Internet via your employer’s Internet connection.</p>
+						<p class="start">The two most frequently cited reasons for employee monitoring are to prevent theft and to measure productivity. Monitoring for theft isn’t new—monitoring cameras have been around for years, and productivity monitoring has been used for assembly line workers for decades. However, the Internet has led to a new type of productivity drain of concern to employers. <span class="strongDBlue" glossary>Cyberloafing</span>, or cyberslacking, means using your computer for nonwork activities while you’re being paid to do your job. Examples of cyberloafing activities include playing games and reading personal e-mail. Some employees even do multiple nonwork tasks at the same time, which is known as <em>multishirking</em>. Estimates of business productivity losses due to cyberloafing top $50 billion annually.</p>
+						<p class="start">Do you have a right to privacy in the workplace? Laws such as the 1986 Electronic Communications Privacy Act (ECPA), which prohibits unauthorized monitoring of electronic communications, have been interpreted by the courts in favor of employers. The bottom line is that employers who pay for equipment and software have the legal right to monitor their usage (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 9.22</span>).</p>
+						<p class="start">So, is it <em>ethical</em>  for employers to monitor their employees? Certainly, it seems fair that employers ensure they’re not the victims of theft and that they’re getting a fair day’s work from their employees, just as employees have an obligation to provide a fair effort for a fair wage. The ethical issue is whether employees are adequately informed of monitoring policies. Employers have an ethical responsibility (and a legal one as well, depending on the jurisdiction) not to place monitoring devices in sensitive locations such as bathrooms and dressing areas. However, in many states, the employer does not legally need to inform employees in advance that they’re being monitored. Conscientious employers include monitoring disclosures in published employee policies to avoid confusion and conflict.</p>
+						<p class="start">The bottom line? Because employers may have a legal right to monitor you in the workplace, operate under the assumption that everything you do on your work computer is subject to scrutiny and behave accordingly. Do your online shopping at home!</p>
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						
+						<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig9.22.png) no-repeat scroll 0px 0px transparent;
+						  	height: 302px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 9.22</span>
+							  George Orwell was right—at least when you’re at work! It’s legal for employers to monitor your computer usage. <em>(SVLuma/Shutterstock)</em>
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig9.22Big.png) no-repeat scroll 0px 0px transparent">
+							  <figcaption class="topPos" style="margin-left:365px;width:260px;">
+							  <span>Figure 9.22</span>
+								George Orwell was right—at least when you’re at work! It’s legal for employers to monitor your computer usage. <em>(SVLuma/Shutterstock)</em>
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>		
+			]]></section>
+		</popup>
+		
+		<popup page="31" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.23Big.jpg') no-repeat scroll 60px 75px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.23</span>
+						After performing a routine scan of a computer, <span class="strongDBlue" onclick="window.open('http://malwarebytes.org','_blank')">Malwarebytes</span> returns a log of problems found on the system.
+					</figcaption>
+					</figure>
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="32" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.24Big.jpg') no-repeat scroll 20px 110px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.24</span>
+						In Yahoo! Mail, messages identified as spam are directed into a folder called “Spam” for review and deletion. <em>(SVLuma/shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="33" distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_20" >Computer Forensics: How It Works</div>
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>On law enforcement TV shows, you often see computer technicians working on suspects’ computers to assist detectives in solving crimes. It may look simple, but the science of computer forensics is a complex step-by-step process that ensures evidence is collected within the confines of the law.</p>
+							<p class="start"><em>Forensic</em> means that something is suitable for use in a court of law. There are many branches of forensic science. For example, forensic pathologists provide evidence about the nature and manner of death in court cases involving deceased individuals. <span class="strongDBlue" glossary>Computer forensics</span> involves identifying, extracting, preserving, and documenting computer evidence. Computer forensics is performed by individuals known as <em>computer forensic scientists</em>, who rely primarily on specialized software to collect their evidence.</p>
+							
+							<h2>Phase 1: Obtaining and Securing Computer Devices</h2>
+							<p>The first step in a computer forensics investigation is to seize the computer equipment that law enforcement officials believe contains pertinent evidence. Police are required to obtain a warrant to search an individual’s home or place of business. Warrants must be very specific by spelling out exactly where detectives can search for evidence and exactly what type of evidence they’re seeking. If a warrant indicates that the police may search an individual’s home for his laptop computer, they can’t then confiscate a tablet computer they notice in his car. It is important to specify in the warrant all types of storage devices where potential evidence might be stored, such as external hard drives, flash drives, and servers. </p>
+							<p class="start">Once permission to collect the computers and devices containing possible evidence has been obtained, law enforcement officials must exercise great care when collecting the equipment. They need to ensure that no unauthorized persons are able to access or alter the computers or storage devices. The police must make sure the data and equipment are safe; if the equipment is connected to the Internet, the connection must be severed without data loss or damage. It’s also important for law enforcement officials to understand that they may not want to power off equipment because potential evidence contained in RAM may be lost. After the devices are collected  and secured, the computer forensic scientists take over the next phase of the investigation.</p>
+						
+							<h2>Phase 2: Cataloging and Analyzing the Data</h2>
+							<p>It’s critical to preserve the data exactly as it was found, or attorneys may argue that the computer evidence was subject to tampering or altering. Because just opening a file can alter it, the first task is to make a copy of all computer systems and storage devices collected (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 9.25</span>). The investigators then work from the copies to ensure that the original data always remains preserved exactly as it was when it was collected.</p>
+							<p class="start">After obtaining a copy to work from, forensics professionals attempt to find every file on the system, including deleted files. Files on a computer aren’t actually deleted, even if you empty the Recycle Bin, until the section of the hard disk they’re stored on is overwritten with new data. Therefore, using special forensic software tools such as SIFT, EnCase, and FTK, the forensic scientists catalog all files found on the system or storage medium and recover as much information from deleted files as they can. Forensic software like FTK can readily detect hidden files and perform procedures to crack encrypted files or access protected files and reveal their contents.</p>
+							<p class="start">The most important part of the process is documenting every step. Forensic scientists must clearly log every procedure performed because they may be required to provide proof in court that their investigations did not alter or damage information contained on the systems they examined. Detailed reports should list all files found, how the files were laid out on the system, which files were protected or encrypted, and the contents of each file. Finally, computer forensic professionals are often called on to present testimony in court during a trial.</p>
+							<p class="start">Criminals are getting more sophisticated and are now employing anti-forensics techniques to foil computer forensic investigators. Although techniques for hiding or encrypting data are popular, the most insidious anti-forensics techniques are programs designed to erase data if unauthorized persons (i.e., not the criminal) access a computer system or if the system detects forensics software in use. When computer forensic investiga tors detect these countermeasures, they must often use creative methods and custom-designed software programs to retrieve and preserve the data.</p>
+							<p class="start">Computer forensics is an invaluable tool to law enforcement in many criminal investigations, but only if the correct procedures are followed and the appropriate documentation is prepared.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)"
+						 		style="background: url(assets/images/figures/fig9.25.png) no-repeat scroll 10px 0px transparent;
+						  	height: 327px;margin-top:975px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 9.25</span>
+							   Portable devices like the RoadMASSter 3 Data Acquisition and Analysis tool make it easy to copy storage devices at crime scenes. <em>(Intelligent Computer Solutions)</em>
+							</figcaption></figure>
+						</div>
+					</div>
+				</div></div>
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig9.25Big.png) no-repeat scroll 211px 25px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 9.25</span>
+								Portable devices like the RoadMASSter 3 Data Acquisition and Analysis tool make it easy to copy storage devices at crime scenes. <br/><em>(Intelligent Computer Solutions)</em>
+							 
+							</figcaption>
+							</figure>
+						</div></div></div>
+						
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="34" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.26Big.jpg') no-repeat scroll 170px 50px transparent;margin-bottom:-15px;">
+					<figcaption class="normalFont BMargin20">
+					  <span>Figure 9.26</span>
+						Tools are available, either through your browser (Firefox is shown here) or as separate programs, to distinguish between cookies you want to keep and cookies you don’t want on your system.
+					</figcaption>
+					</figure>
+					
+					<p><em>>On the Firefox menu toolbar, click <strong>Tools</strong>, click <strong>Options</strong>, choose the <strong>Privacy tab</strong>, and then click the <strong>remove individual cookies</strong> link to display the Cookies dialog box.</em></p>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="35" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.27Big.jpg') no-repeat scroll 90px 80px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.27</span>
+						Internet Information-Sharing Precautions <em>(Mograph/Fotolia; Kevin Largent/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="35" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.28Big.jpg') no-repeat scroll 98px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.28</span>
+						You should review the (a) Basic Information and (b) Contact Information privacy settings in Facebook to ensure you aren’t sharing too much information.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="36" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">An Effective Backup Strategy</div>
+					<div class="figureHeader strong font_18 BMargin15">Figure 9.29</div>
+
+					<div class="curvedNotes orange">
+						<div class="title">Files to Back Up</div>
+						<ul>
+							<li><span><strong>Program files</strong>
+								Installation files for productivity<br>
+								software (i.e., Microsoft Office)</span>
+							</li>
+							<li><span><strong>Data files</strong>
+								Files you create (term papers,<br>
+								spreadsheets, etc.)</span>
+							</li>
+						</ul>
+					</div>
+					<div class="curvedNotes green">
+						<div class="title">Types of Backups</div>
+						<ul>
+							<li><span><strong>Incremental (partial)</strong>
+								Only backs up files that have changed</span>
+							</li>
+							<li><span><strong>Image (system)</strong>
+								Snapshot of your entire computer,<br>
+								including system software</span>
+							</li>
+						</ul>
+
+					</div>
+					<div class="curvedNotes blue">
+						<div class="title">Where to Store Backup Files</div>
+						<ul>
+							<li><span>Online (in the cloud)</span></li>
+							<li><span>External hard drives</span></li>
+							<li><span>Network-attached storage devices<br>
+								or home servers</span></li>
+						</ul>
+
+					</div>
+				</div>
+		  ]]></section>
+		</popup>
+		
+
+		
+		<popup page="37" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage backupTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">A Comparison of Typical Data Backup Locations</div>
+			<div class="figureHeader shiftLeft20"><strong>Figure 9.30</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="backupTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>BACKUP LOCATION</div></th>
+								<th><div>PROS</div></th>
+								<th><div>CONS</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Online (in the Cloud)</span>
+							<img src="assets/images/figures/cloud.png" style="left:60px;">
+
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>
+								<ul>
+									<li><span class="innerLi">Files stored at a secure, remote location</span></li>
+									<li><span class="innerLi">Files/backup accessible anywhere through a browser</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="1"><span>
+								<ul>
+									<li><span class="innerLi">Most free storage sites don’t provide enough space for image backups</span></li>
+								</ul></span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>External Hard Drive</span>
+							<img src="assets/images/figures/external.png" style="left:44px;">
+
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>
+								<ul>
+									<li><span class="innerLi">Inexpensive, one-time cost</span></li>
+									<li><span class="innerLi">Fast backups with USB 3.0 devices connected directly to your computer</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="2"><span>
+								<ul>
+									<li><span class="innerLi">Could be destroyed in one event (fire/flood) with your computer</span></li>
+									<li><span class="innerLi">Can be stolen</span></li>
+									<li><span class="innerLi">Slightly more difficult to backup multiple computers with one device</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Network-Attached Storage (NAS) <br/>Device and Home Storage</span>
+							<img src="assets/images/figures/NAS.png" style="left:80px;">
+
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>
+								<ul>
+									<li><span class="innerLi">Makes backups much easier for multiple computing devices</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="3"><span>
+								<ul>
+									<li><span class="innerLi">More expensive than a stand-alone external hard drive</span></li>
+									<li><span class="innerLi">Could be destroyed in one event (fire/flood) with your computer</span></li>
+									<li><span class="innerLi">Can be stolen</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="38" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.31Big.jpg') no-repeat scroll 117px 50px transparent;margin-bottom:-15px;">
+					<figcaption class="normalFont BMargin20">
+					  <span>Figure 9.31</span>
+						You can use the Windows 8 File History utility to back up files and restore files from a previous backup.
+					</figcaption>
+					</figure>
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="39" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.32Big.jpg') no-repeat scroll 290px 0px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.32</span>
+						 The Windows 7 File Recovery utility allows you to perform an image backup. (a) Select your backup destination. (b) Choose locations to back up. (c) Review your scheduled backups, restore files, or start the wizard to create a system repair disc.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="40" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Protect Your Credit Card Number Online</strong>
+								<p>Another way to protect yourself is never to use your credit card number when you shop online. Although it sounds impossible, credit card providers such as Citibank are offering services such as virtual account numbers for their customers. Before purchasing a product online, you visit the credit card provider’s site, where you’re assigned a new virtual account number each time you visit. This number looks like a regular credit card number and is tied to your real credit card account. However, the virtual account number can be used only once. That means that if the number is stolen, it’s no good to thieves. They can’t use the virtual account number because you’ve already used it.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="42" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.33Big.jpg') no-repeat scroll 140px 60px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.33</span>
+						 Not sure whether you’re on the eBay website or a cleverly disguised phishing site? Norton Site Safety reassures you that all is well. <em>(Andrea Zanchi/iStockphoto).</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="42" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.34Big.jpg') no-repeat scroll 120px 65px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.34</span>
+						 Preying on people’s fears, scareware attempts to convince you that your computer is infected with a virus and you need to purchase a “solution.” <em>(REUTERS/Molly Riley)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="42" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_21" style="line-height:22px; text-align:center;">Spear Phishing </div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Most people have vast amounts of personal data residing in the databases of the various companies with which they conduct business. Amazon.com has your credit card and address information. Your bank has your Social Security number, birth date, and financial records. Your local supermarket probably has your e-mail address from when you joined its loyalty club to receive grocery discounts. All this data in various places puts you at risk when companies responsible for keeping your data confidential suffer a data breach.</p>
+							<p class="start">A <span class="strongDBlue" glossary>data breach</span> occurs when sensitive or confidential information is copied, transmitted, or viewed by an individual who isn’t authorized to handle the data. Data breaches can be intentional or unintentional. Intentional data breaches occur when hackers break into digital systems to steal sensitive data. Unintentional data breaches occur when companies controlling data inadvertently allow it to be seen by unauthorized parties, usually due to some breakdown in security procedures or precautions.</p>
+							<p class="start">Unfortunately, data breaches appear to be quite common, as there always seems to be another one in the news. In March 2012, Global Payments, a credit card–transaction processor, notified its major credit card customers that its systems had been breached and that credit card data had been taken. Apparently, enough data was accessed so that the cybercriminals would be able to create duplicates of credit cards that could be used to purchase goods and services. Data breaches such as this one pose serious risks to the individuals whose data has been compromised, even if financial data is not involved. The data thieves now have the basis with which to launch targeted social engineering attacks even if they just have contact information, such as e-mail addresses.</p>
+							<p class="start">With regular phishing techniques, cybercriminals just send out e-mails to a wide list of e-mail addresses, whether they have a relationship with the company or not. For example, a criminal might send out a general phishing e-mail claiming that a person’s Citibank checking account had been breached. People who receive this e-mail that don’t have any accounts at Citibank should immediately realize this is a phishing attack and ignore the instructions to divulge sensitive data.</p>
+							<p class="start">But when cybercriminals obtain data on individuals that includes information about which companies those individuals have a relationship with, they can engage in much more targeted attacks known as <span class="strongDBlue" glossary>spear phishing</span>. Spear phishing e-mails are sent to people known to be customers of a company and have a much greater chance of successfully getting individuals to reveal sensitive data. If cybercriminals obtain a list of e-mail addresses of customers from Barclays Bank, for example, they can ensure that the spear phishing e-mails purport to come from Barclays and will include the customer’s full name. This type of attack is much more likely to succeed in fooling people than just random e-mails sent out to thousands of people who might not have a relationship with the company mentioned in the phishing letter.</p>
+							<p class="start">So how can you protect yourself after a data breach? You need to be extra suspicious of any e-mail correspondence from companies involved in the data breach. Companies usually never contact you by e-mail or phone asking you to reveal sensitive information or reactivate your online account by entering confidential information. Usually, these requests come via regular snail mail.</p>
+							<p class="start">So, if you receive any e-mails or phone calls from companies you deal with purporting to have problems with your accounts, your best course of action is to delete the e-mail or hang up the phone. Then contact the company that supposedly has the problem by a phone number that you look up yourself either in legitimate correspondence from the company (say, the toll-free number on your credit card statement) or in the phone book. The representatives from your company can quickly tell if a real problem exists or if you were about to be the victim of a scam.</p>
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="43" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.35Big.jpg') no-repeat scroll 145px 47px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.35</span>
+						 Surge protectors such as this one are critical for protecting your electronic devices. <em>(aberenyi/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="44" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.36Big.jpg') no-repeat scroll 248px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.36</span>
+						 A whole-house surge protector usually is installed at the breaker panel or near the electric meter.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="45" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						<ul class="dotted">
+							<p class="start">Safe is an app that provides 256-bit encryption, which is very hard to crack, for data and images on your iPhone and iPad. If your password is not entered, no one can access the data and images on your iPhone or iPad. Data Protection is a similar app for Android devices. ZoneAlarm Data-Lock and SafeHouse are available for laptop computers to provide encryption for files or even entire hard drives.</p>
+							
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="46" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9.37Big.jpg') no-repeat scroll 0px 75px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9.37</span>
+						 The Find My iPhone app can help you if your iOS device goes astray.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="46" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Computer Security Checklist</div>
+					<div class="figureHeader strong font_18 shiftUp10"></div>
+
+					<div class="curvedNotes orange">
+						<div class="title">Virus and Spyware Protection</div>
+						<ul class="TMargin5 BMargin5">
+							<li><span style="font-size:12px;">Is antivirus and anti-spyware software installed on all your devices?</span></li>
+							<li><span style="font-size:12px;">Is the antivirus and anti-spyware software configured to update itself automatically and regularly?</span></li>
+							<li><span style="font-size:12px;">Is the software set to scan your device on a regular basis (at least weekly) for viruses and spyware?</span></li>
+						</ul>
+					</div>
+					<div class="curvedNotes green">
+						<div class="title">Firewall</div>
+						<ul class="TMargin5 BMargin5">
+							<li><span style="font-size:12px;">Do all your computers and tablets have firewall software installed and activated before connecting to the Internet?</span></li>
+							<li><span style="font-size:12px;">Is your router also able to function as a hardware firewall?</span></li>
+							<li><span style="font-size:12px;">Have you tested your firewall security by using the free software available at grc.com?</span></li>
+						</ul>
+
+					</div>
+					<div class="curvedNotes blue">
+						<div class="title">Software Updates</div>
+						<ul class="TMargin5 BMargin5">
+							<li><span style="font-size:12px;">Have you configured your operating systems (Windows, OS X, iOS) to install new software patches and updates automatically?</span></li>
+							<li><span style="font-size:12px;">Is other software installed on your device, such as Microsoft Office or productivity apps, configured for automatic updates?</span></li>
+							<li><span style="font-size:12px;">Is the web browser you’re using the latest version?</span></li>
+						</ul>
+
+					</div>
+					
+					<div class="curvedNotes gray">
+						<div class="title">Protecting Your Devices</div>
+						<ul class="TMargin5 BMargin5">
+							<li><span style="font-size:12px;">Are all computing devices protected from electrical surges?</span></li>
+							<li><span style="font-size:12px;">Do your mobile devices have alarms or tracking software installed on them?</span></li>
+						</ul>
+
+					</div>
+				</div>
+		  ]]></section>
+		</popup>
+		
+		
+<!--9B-->	
+		
+		<popup page="61" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage resourcesTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">High-Growth IT Jobs*</div>
+			<div class="figureHeader"><strong>Figure 1</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="resourcesTable">
+						<thead>
+							<tr class="blueGradHeading normalFont">
+								<th><div>OCCUPATION</div></th>
+								<th><div>MEDIAN PAY ($)</div></th>
+								<th><div>TOP PAY ($)</div></th>
+								<th><div>10-YEAR GROWTH RATE (%)</div></th>
+								<th><div>TOTAL NEW JOBS</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Software developers</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>90,530</span></div></td>
+							<td><div class="hide" col="1"><span>143,330</span></div></td>
+							<td><div class="hide" col="1"><span>30</span></div></td>
+							<td><div class="hide" col="1"><span>270,900</span></div></td>
+						</tr>
+				
+						<tr class="lightBlueGrad">
+							<td><div><span>Computer systems analysts</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>77,740</span></div></td>
+							<td><div class="hide" col="2"><span>119,070</span></div></td>
+							<td><div class="hide" col="2"><span>22</span></div></td>
+							<td><div class="hide" col="2"><span>120,400</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Computer support specialists</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>46,260</span></div></td>
+							<td><div class="hide" col="3"><span>76,970</span></div></td>
+							<td><div class="hide" col="3"><span>18</span></div></td>
+							<td><div class="hide" col="3"><span>110,000</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Network and computer systems administrators</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>69,160</span></div></td>
+							<td><div class="hide" col="4"><span>108,090</span></div></td>
+							<td><div class="hide" col="4"><span>28</span></div></td>
+							<td><div class="hide" col="4"><span>96,600</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Information security analysts, web developers, and computer network architects</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>75,660</span></div></td>
+							<td><div class="hide" col="5"><span>119,940</span></div></td>
+							<td><div class="hide" col="5"><span>22</span></div></td>
+							<td><div class="hide" col="5"><span>65,700</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Computer programmers</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>71,380</span></div></td>
+							<td><div class="hide" col="6"><span>114,180</span></div></td>
+							<td><div class="hide" col="6"><span>12</span></div></td>
+							<td><div class="hide" col="6"><span>43,700</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Database administrators</span>
+							<span class="slideNext floatRight" col="7">NEXT</span></div></td>
+							
+							<td><div class="hide" col="7"><span>73,490</span></div></td>
+							<td><div class="hide" col="7"><span>115,660</span></div></td>
+							<td><div class="hide" col="7"><span>31</span></div></td>
+							<td><div class="hide" col="7"><span>33,900</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Computer and information research scientists</span>
+							<span class="slideNext floatRight" col="8">NEXT</span></div></td>
+							
+							<td><div class="hide" col="8"><span>100,660</span></div></td>
+							<td><div class="hide" col="8"><span>153,120</span></div></td>
+							<td><div class="hide" col="8"><span>19</span></div></td>
+							<td><div class="hide" col="8"><span>5,300</span></div></td>
+						</tr>
+						
+					</table>
+					
+				]]>
+				</section>
+				</popup>	
+		
+		<popup page="62" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9b_2Big.jpg') no-repeat scroll 35px 120px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2</span>
+						The salary wizard at Salary.com is easy to tailor to your location.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="62" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage jobsOnshoreTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Jobs That Will Likely Remain Onshore</div>
+			<div class="figureHeader" ><strong>Figure 3</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="jobsOnshoreTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>CUSTOMER INTERACTION</div></th>
+								<th><div>ENABLERS</div></th>
+								<th><div>INFRASTRUCTURE JOBS</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Web application developers</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Business process analysts</span></div></td>
+							<td><div class="hide" col="1"><span>Network security</span></div></td>
+						</tr>
+				
+						<tr class="lightBlueGrad">
+							<td><div><span>Web interface designers</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Application developers (when customer interaction is critical)</span></div></td>
+							<td><div class="hide" col="2"><span>Network installation technicians</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div style="height:50px;"><span>Database and data warehouse designers/developers</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3" style="height:50px;"><span>Project managers (for systems with customers and business users who are located predominantly in the United States)</span></div></td>
+							<td><div class="hide" col="3" style="height:50px;"><span>Network administrators (engineers)</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Customer relationship management (CRM) analysts</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span></span></div></td>
+							<td><div class="hide" col="4"><span>Wireless infrastructure managers and technicians</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Enterprise resource planning (ERP) implementation specialists</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span></span></div></td>
+							<td><div class="hide" col="5"><span>Disaster recovery planners and responders</span></div></td>
+						</tr>
+						
+						
+					</table>
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="63" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage whereWorkTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Where Do You Want to Work?</div>
+			<div class="figureHeader"><strong>Figure 4</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="whereWorkTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>TYPE OF JOB</div></th>
+								<th><div>LOCATION AND HOURS</div></th>
+								<th><div>SPECIAL CONSIDERATIONS</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Office-based</span><br/><img src="assets/images/charts/womanTyping.jpg" class="TMargin5">
+
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Report for work to the same location each day and interact with the same people on a regular basis; requires regular hours of attendance (such as 9 a.m. to 5 p.m.)</span></div></td>
+							<td><div class="hide" col="1"><span>May require working beyond “normal” working hours; may also require workers to be on call 24/7</span></div></td>
+						</tr>
+				
+						<tr class="lightBlueGrad">
+							<td><div><span>Field-based</span><br/><img src="assets/images/charts/travel.jpg" class="TMargin5">
+
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Travel from place to place as needed and perform short-term jobs at each location</span></div></td>
+							<td><div class="hide" col="2"><span>Involves a great deal of travel and the ability to work independently</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Project-based</span><br/>
+							<img src="assets/images/charts/bluePrints.jpg" class="TMargin5">
+
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>Work at client sites on specific projects for extended periods of time (weeks or months)</span></div></td>
+							<td><div class="hide" col="3"><span>Can be especially attractive to individuals who like workplace situations that vary on a regular basis</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Home-based (telecommuting)</span>
+							<img src="assets/images/charts/home.jpg" class="TMargin5">
+
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Work from home</span></div></td>
+							<td><div class="hide" col="4"><span>Involves very little day-to-day supervision and requires an individual who is self-disciplined</span></div></td>
+						</tr>
+						
+					</table>
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="64" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9b_5Big.jpg') no-repeat scroll 133px 57px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5</span>
+						Stress comes from multiple directions in IT jobs. <em>(Jenn Mackenzie/Shutterstock; Photobank.ch/Shutterstock; Stephen Coburn/Shutterstock; Wavebreakmedia ltd/Shutterstock; LWPhotography/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<!--needs motionGraphic-->
+		<popup page="65" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes">Typical IT Department Structure</div>
+			<div class="figureHeader"><strong>Figure 6</strong> Click the highlighted boxes to reval the table</div> 
+			<figure style="	width:826px;height:486px;
+							background:url(assets/images/figures/fig9b.6/fig9b.6Big.jpg) 212px -14px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 248px; width: 83px; top: 47px; height: 48px;" roll="fig9b.6.1.png"></div>
+						<div style="left: 468px; width: 83px; top: 47px; height: 48px;" roll="fig9b.6.2.png"></div>
+					</div>
+					<div class="overlayImages">
+
+						<div roll="fig9b.6.1.png" style="background-image: url(assets/images/figures/fig9b.6/fig9b.6.1.png); width: 370px; height: 394px; left: 108px; top: 88px;"></div>
+						<div roll="fig9b.6.2.png" style="background-image: url(assets/images/figures/fig9b.6/fig9b.6.2.png); width: 206px; height: 300px; left: 440px; top: 89px;"></div>
+						
+					</div>
+					<figcaption class="bottomPos">
+					  
+					</figcaption>
+			</figure>
+			]]></section>
+		</popup>
+		
+		<popup page="66" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Matching a Career to Your Skills</strong>
+								<br/>
+								<p>Are you unsure about which career you’d like to pursue? Many online tools, such as the Skills Profiler from America’s Career InfoNet (<span class="strongDBlue" onclick="window.open('http://careerinfonet.org','_blank')">careerinfonet.org</span>), can help you identify careers based on your skills. The Skills Profiler asks you to identify your skills in seven categories and then rate your skills in each area you selected. The program then compiles a skills profile for you and suggests job titles for you to explore. Regardless of whether you choose to pursue a career in IT, you should visit the Bureau of Labor Statistics site (<span class="strongDBlue" onclick="window.open('http://bls.gov','_blank')">bls.gov</span>). One of the site’s most useful features is the <em>Occupational Outlook Handbook</em>. Aside from projecting job growth in various career fields, it describes typical tasks workers perform, the amount of training and education needed, and salary estimates.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+						 	
+							
+				</div></div></div></div>
+
+
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="67" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9b_7Big.jpg') no-repeat scroll 125px 15px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7</span>
+						It takes a team to create and maintain a website. <em>(Studio 101/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<!--needs motionGraphic-->
+		<popup page="68" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes">Team Members in Systems Development</div>
+			<div class="figureHeader"><strong>Figure 8</strong> Click on images to reveal definitions</div>
+			<figure style="	width:866px;height:486px;
+							background:url(assets/images/figures/fig9b_8/fig9b_8Big.jpg) 191px 80px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 392px; width: 217px; top: 240px; height: 148px;" roll="blue.png"></div>
+						<div style="left: 392px; width: 217px; top: 80px; height: 148px;" roll="green.png"></div>
+						<div style="height: 148px; top: 80px; width: 217px; left: 191px;" roll="orange.png"></div>
+						<div style="top: 240px; height: 148px; left: 191px; width: 217px;" roll="grey.png"></div>
+						
+						
+					</div>
+					<div class="overlayImages">
+
+						<div roll="blue.png" style="background-image: url(assets/images/figures/fig9b_8/blue.png); width: 382px; height: 171px; left: 447px; top: 257px;"></div>
+						<div roll="green.png" style="background-image: url(assets/images/figures/fig9b_8/green.png); width: 382px; height: 171px; left: 448px; top: 51px;"></div>
+						<div roll="orange.png" style="background-image: url(assets/images/figures/fig9b_8/orange.png); width: 382px; height: 171px; left: 15px; top: 46px;"></div>
+						<div roll="grey.png" style="background-image: url(assets/images/figures/fig9b_8/grey.png); height: 171px; width: 382px; left: 17px; top: 260px;"></div>
+						
+					</div>
+			</figure>
+			
+			]]></section>
+		</popup>
+		
+		<popup page="69" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig9b_9Big.jpg') no-repeat scroll 235px 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9</span>
+						At smaller companies, network administrators may be fixing a user’s computer in the morning, installing and configuring a new network operating system in the afternoon, and troubleshooting a wiring problem (shown here) in the evening. <em>(ArtPix/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="69" distinction="bbFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section>
+				<![CDATA[
+
+					<div class="content">
+						<div class="columnContain">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Get in the Game: Careers in Game Development</strong>
+								<p>The video gaming industry in the United States has surpassed the earning power of the Hollywood movie industry. In 2011, U.S. consumers bought slightly over $17 billion worth of video games and accessories, whereas Hollywood took in just over $10.2 billion. Although some aspects of game development, such as scenery design and certain aspects of programming, are being sent offshore, the majority of game development requires a creative team whose members need to work in close proximity. Therefore, it’s anticipated that most game development jobs will stay in the United States.</p>
+								<p class="start">Consoles such as the Xbox 360 and the PlayStation 3 generate demand for large-scale games. The popularity of mobile devices such as smartphones and tablets is driving demand for lower-end, casual game applications. Casual games are games that can be played relatively quickly, such as puzzle games. Demand for family-friendly games without violence, sex, and profanity is on the rise (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 10</span>). With all this demand, there are many opportunities for careers in game development.</p>
+								<p class="start">Game development jobs usually are split along two paths: designers and programmers.</p>
+								<ul class="dotted">
+									<li><span class="innerLi"><span class="strongDBlue" glossary>Game designers</span> tend to be artistic and are responsible for creating 2-D and 3-D art, game interfaces, video sequences, special effects, game levels, and scenarios. Game designers must master software packages such as Autodesk 3ds Max, Autodesk Maya, NewTek LightWave 3D, Adobe Photoshop, and Adobe Flash.</span></li>
+									<li><span class="innerLi"><span class="strongDBlue" glossary="Game programmer">Game programmers</span> are responsible for coding the scenarios developed by the designers. Using languages and toolsets such as Objective-C, Unity, Apple Xcode, C, C++, Assembly, and Java, programmers build the game and ensure that it plays accurately.</span></li>
+								</ul>
+								<p class="start">Aside from programmers and designers, play testers and quality assurance professionals play the games with the intent of breaking them or discovering bugs within the game interfaces or worlds. <span class="strongDBlue" glossary>Play testing</span> is an essential part of the game development process because it assists designers in determining which aspects of the game are most intriguing to players and which parts of the game need to be repaired or enhanced.</p>
+								<p class="start">No matter what job you may pursue in the realm of gaming, you’ll need to have a two- or four-year college degree. If you’re interested in gaming, look for a school with a solid animation or 3-D art program or a computer game–programming curriculum. Programming requires a strong background in math and physics to enable you to realistically program environments that mimic the real world. Proficiency with math (especially geometry) also helps with design careers.</p>
+								<p class="start">For more information on gaming careers, check out the International Game Developers Association site (<span class="strongDBlue" onclick="window.open('http://igda.org','_blank')">igda.org</span>) and the Game Career Guide (<span class="strongDBlue" onclick="window.open('http://gamecareerguide.com','_blank')">gamecareerguide.com</span>).</p>
+
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						  style="background: url(assets/images/figures/fig9b_10.jpg) no-repeat scroll 0px 0 transparent;
+						  	height: 305px; margin-top:135px;margin-left:-15px;">
+							<figcaption class="bottomPos">
+							 <span>Figure 10</span> Plants vs. Zombies, which has you grow plants to fend off encroaching zombie hordes, is an example of a popular casual game available for many different platforms. <em>(Vinod Kurien/Alamy)</em>
+							</figcaption>
+							</figure>
+							</div>
+						  </div>
+						</div></div>
+						
+						<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig9b_10Big.jpg) no-repeat scroll 0px 0px transparent">
+							  <figcaption class="rightPos topPos" style="width:205px;margin-right:40px;">
+								<span>Figure 10</span> Plants vs. Zombies, which has you grow plants to fend off encroaching zombie hordes, is an example of a popular casual game available for many different platforms. <em>(Vinod Kurien/Alamy)</em>
+								</figcaption>
+							  </figure>
+
+							</div>
+						</div>
+					</div>
+				</div>
+					
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="71" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Certifications: How Important Are They?</strong>
+								<p>Employees with certifications generally earn more than employees who aren’t certified. However, most employers don’t view a certification as a substitute for a college degree or a trade school program. You should think of certifications as an extra edge beyond your formal education that will make you more attractive to employers. To ensure you’re pursuing the right certifications, ask employers which certifications they respect, or explore online job sites to see which certifications are listed as desirable or required.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							
+
+						</div>
+						  </div>
+						</div>
+					
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="71" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage poTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Professional Organizations</div>
+			<div class="figureHeader"><strong>Figure 11</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="poTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>ORGANIZATION NAME</div></th>
+								<th><div>PURPOSE</div></th>
+								<th><div>WEBSITE</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Association for Computing Machinery (ACM)</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Oldest scientific computing society; maintains a strong focus on programming and systems development</span></div></td>
+							<td><div class="hide" col="1"><span><span class="strongDBlue" onclick="window.open('http://acm.org','_blank')">acm.org</span></span></div></td>
+						</tr>
+				
+						<tr class="lightBlueGrad">
+							<td><div><span>Association for Information Systems (AIS)</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Organization of professionals who work in academia and specialize in information systems</span></div></td>
+							<td><div class="hide" col="2"><span><span class="strongDBlue" onclick="window.open('http://aisnet.org','_blank')">aisnet.org</span></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Association of Information Technology Professionals (AITP)</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>Heavy focus on IT education and development of seminars and learning materials</span></div></td>
+							<td><div class="hide" col="3"><span><span class="strongDBlue" onclick="window.open('http://aitp.org','_blank')">aitp.org</span></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Institute of Electrical and Electronics <br/>Engineers (IEEE)</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Provides leadership and sets engineering standards for all types of network computing devices and protocols</span></div></td>
+							<td><div class="hide" col="4"><span><span class="strongDBlue" onclick="window.open('http://ieee.org','_blank')">ieee.org</span></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Information Systems Security <br/>Association (ISSA)</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>Not-for-profit, international organization of information security professionals and practitioners</span></div></td>
+							<td><div class="hide" col="5"><span><span class="strongDBlue" onclick="window.open('http://issa.org','_blank')">issa.org</span></span></div></td>
+						</tr>
+						
+						
+					</table>
+					
+				]]>
+				</section>
+				</popup>
+				
+			<popup page="71" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage womenTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Resources for Women in IT</div>
+			<div class="figureHeader" ><strong>Figure 12</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="womenTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>ORGANIZATION NAME</div></th>
+								<th><div>PURPOSE</div></th>
+								<th><div>WEBSITE</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Anita Borg Institute for Women <br/>and Technology</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Organization whose aim is to “increase the impact of women on all aspects of technology”</span></div></td>
+							<td><div class="hide" col="1"><span><span class="strongDBlue" onclick="window.open('http://anitaborg.org','_blank')">anitaborg.org</span></span></div></td>
+						</tr>
+				
+						<tr class="lightBlueGrad">
+							<td><div><span>Association for Women in <br/>Computing (AWC)</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>A not-for-profit organization dedicated to promoting the advancement of women in computing professions</span></div></td>
+							<td><div class="hide" col="2"><span><span class="strongDBlue" onclick="window.open('http://awc-hq.org','_blank')">awc-hq.org</span></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>The Center for Women in Technology (CWIT)</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>An organization dedicated to providing global leadership in achieving women’s full participation in all aspects of IT</span></div></td>
+							<td><div class="hide" col="3"><span><span class="strongDBlue" onclick="window.open('http://cwit.umbc.edu','_blank')">cwit.umbc.edu</span></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div style="height:68px;"><span><i>Diversity/Careers in Engineering & <br/>Information Technology</i></span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4" style="height:68px;"><span>An online magazine whose articles cover career issues of technical professionals who are members of minority groups, women, or people with disabilities</span></div></td>
+							<td><div class="hide" col="4" style="height:68px;"><span><span class="strongDBlue" onclick="window.open('http://diversitycareers.com','_blank')">diversitycareers.com</span></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Women in Technology International (WITI)</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>A global trade association for tech-savvy, professional women</span></div></td>
+							<td><div class="hide" col="5"><span><span class="strongDBlue" onclick="window.open('http://witi.com','_blank')">witi.com</span></span></div></td>
+						</tr>
+						
+						
+					</table>
+					
+				]]>
+				</section>
+				</popup>	
+			
+			<popup page="72" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage ITemploymentTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Resources for IT Employment</div>
+
+
+
+			<strong>Figure 13</strong></span>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class=" ITemploymentTable">
+						<thead><tr class="font_15">
+							<th><div class="blueGradHeading">SITE NAME</div></th>
+							<th><div class="blueGradHeading">URL</div></th>
+						</tr></thead>
+						<tbody class="">
+						
+						<tr class="lightestBlueGrad">
+							<td><div>CareerBuilder</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://careerbuilder.com','_blank')">careerbuilder.com</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>ComputerJobs.com</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://computerjobs.com','_blank')">computerjobs.com</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>ComputerWork.com</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://computerwork.com','_blank')">computerwork.com</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>Dice</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://dice.com','_blank')">dice.com</span></div></td>
+						</tr>
+						<tr class="lightestBlueGrad">
+							<td><div>Gamasutra</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://gamasutra.com','_blank')">gamasutra.com</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>JustTechJobs</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://justtechjobs.com','_blank')">justtechjobs.com</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>LinkedIn</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://linkedin.com','_blank')">linkedin.com</span></div></td>
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div>Monster</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://monster.com','_blank')">monster.com</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>TechCareers</div></td>
+							<td><div><span class="strongDBlue" onclick="window.open('http://techcareers.com','_blank')">techcareers.com</span></div></td>
+						</tr>
+					</tbody></table>
+					
+			 </div>
+		  ]]></section>
+		</popup>	
+		
+	</chapter>
+</ebook>

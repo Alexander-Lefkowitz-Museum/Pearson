@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+
+	<chapter index="2" title="" glossary="41">
+		<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc"
+						 style="font-size:47px;padding-top:9px;line-height: 54px;">Looking at<br>Computers:<br>
+												  Understanding<br>
+												  the Parts</div>	
+				<div class="chapterStartNumber">2</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Understanding Digital Components</span>
+					<img src="assets/images/pics/chip_computer.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">Understanding Your Computer</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">1.</span> What exactly is a computer, and what are its four main functions?<br><span class="strongDBlue" onclick="compTia.switchPage(0,3)">(p. 34)</span></li>
+						<li><span class="ul1DigNumber">2.</span> What is the difference between data<br>and information? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(p. 34)</span></li>
+						<li><span class="ul1DigNumber">3.</span> What are bits and bytes, and how<br>are they measured? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(pp. 34–39)</span></li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/binary_numbers_interactive/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Binary Numbers Interactive
+					</div>
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_01.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Understanding Bits and Bytes
+					</div>
+					<hr>
+					<img src="assets/images/pics/boxofcomp.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,9)">Input Devices and Output Devices</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">4.</span> What devices can I use to get data<br>into the computer? <span class="strongDBlue" onclick="compTia.switchPage(0,9)">(pp. 40–44)</span></li>
+						<li><span class="ul1DigNumber">5.</span> What devices can I use to get<br>information out of the computer?<br><span class="strongDBlue" onclick="compTia.switchPage(0,14)">(pp. 45–49)</span></li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/tablet_and_notebook_tour/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Tablet and Notebook Tour
+					</div>
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_03.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Using Output Devices
+					</div>
+					<img src="assets/images/layout/playTechTown.png" class="techTown" />
+					<div class="loader"></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading " onclick="compTia.switchPage(0,21)">Processing, Storage, and Connectivity</span>
+					<img src="assets/images/pics/motherboard.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,21)">Processing, Memory, and Storage</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">6.</span> What’s on the motherboard? <span class="strongDBlue" onclick="compTia.switchPage(0,21)">(p. 52)</span>
+						</li>
+						<li><span class="ul1DigNumber">7.</span> Where are information and programs
+					    stored? <span class="strongDBlue" onclick="compTia.switchPage(0,24)">(pp. 55–57)</span>
+						</li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/virtual_computer_tour/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Virtual Computer Tour
+					</div>
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_04.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Exploring Storage Devices and Ports
+					</div>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/port_tour/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Port Tour: How Do I Hook It Up?
+					</div>
+					<hr>
+					<img src="assets/images/pics/ports.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,27)">Ports and Power Controls</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">8.</span> How are devices connected
+						    to the computer? <span class="strongDBlue" onclick="compTia.switchPage(0,27)">(p. 58)</span>
+						</li>
+						<li><span class="ul1DigNumber">9.</span> What’s the best way to turn my <br>computer on and off, and when <br>should it be done? <span class="strongDBlue" onclick="compTia.switchPage(0,31)">(pp. 62-63)</span></li>
+					</ul>
+					<hr>
+					<img src="assets/images/pics/carptunnel.png" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,33)">Setting It All Up</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul style="padding-left:22px"><li><span class="ul2DigNumber">10.</span> How do I set up my computer <br>to avoid strain and injury? <span class="strongDBlue" onclick="compTia.switchPage(0,33)">(pp. 64–65)</span></li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/healthy_computing/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Healthy Computing
+					</div>
+
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds">
+							(Login/Shutterstock; Wildcat123/Dreamstime; Iofoto/Dreamstime; Lola & Bek/ImageZoo/Alamy)
+					</span>
+				]]>
+			</section>
+		</page>
+
+
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+
+					<div onclick="compTia.togglePopup(1,0)"
+						style="width:100%;height:100%;
+							background:no-repeat url(assets/images/pics/3d.jpg)"></div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span><p class="moreSpacing">The 3-D <strong>experience</strong> is pretty common at the movies, and even on many TVs, but how about on your laptop? Computer manufacturers, such as Sony, Asus, and Toshiba, are producing <strong>high-end laptops</strong> that have 3-D viewing capabilities. That means <strong>games, photos, movies, and websites</strong> can be experienced in 3-D. These machines are targeted toward <strong>gamers and 3-D movie enthusiasts</strong> and require high-end graphics components, such as the 3-D kit by NVIDIA that includes a combination of a sophisticated graphics processor unit and monitor, software, and <strong>specialized 3-D glasses</strong>, to achieve the 3-D effects. The first no-glasses 3-D laptop was introduced by Toshiba in late 2011. It uses the laptop’s web camera and eye-tracking technology to create the 3-D effects. Although this laptop’s <strong>high price and weight</strong> (9 lbs.) are not attractive to some users, 3-D in an affordable, portable format that doesn’t require glasses is definitely on the horizon.</p>
+
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap2ArrSchip_computer.png')" onclick="window.open('http://www.nvidia.com/object/3d-vision-main.html','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+
+
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Understanding Digital Components</div>
+					<p class="digCompP">After reading Chapter 1, you can see why becoming computer literate is important. But where do you start? You’ve no doubt gleaned some knowledge about computers just from being a member of society. However, even if you have used a computer before, do you really understand how it works, what all its parts are, and what those parts do?</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB">
+						<div class="orange">understanding your</div>
+						<div class="blue">computer</div>
+					</div>
+					
+					<p>Let’s start our look at <span class="strongDBlue" glossary="computer">computers</span> by discussing what a computer does and how its functions make it such a useful machine.</p>
+					
+					<h2 class="blueHeading">Computers Are Data Processing Devices</h2>
+					<p>Strictly defined, a computer  is a data processing device that performs four major functions:</p>
+					<ol>
+						<li><strong>Input:</strong> It gathers data, or allows users to enter data.
+						<li><strong>Process:</strong> It manipulates, calculates, or organizes that data into
+						    information.
+						<li><strong>Output:</strong> It displays data and information in a form suitable for the
+						    user.
+						<li><strong>Storage:</strong> It saves data and information for later use.
+					</ol>
+					<p class="start"><strong>What is the difference between data and information?</strong> People often use the terms <em>data</em> and <em>information</em> interchangeably. Although they may mean the same thing in a simple conversation, the distinction between data and information is an important one.
+					</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">In computer terms. <span class="strongDBlue" glossary>data</span> is a representaion of a fact, a figure, or an idea. Date can be a number, a word, a picture, or even a recording of sound. For example, the number 7135553297 and the names Zoe and Richardson are pieces of data. Alone, these pieces of data probably mean little to you. <span class="strongDBlue" glossary>Information</span> is data that has been organized or presented in a meaningful fashion. When your computer provides you with a contact listing that indicates Zoe Richardson can be reached at (713) 555-3297, the data becomes useful—that is, it becomes information.</p>
+					<p class="start"><strong>How do computers interact with data and information?</strong> Computers are excellent at <span class="strongDBlue" glossary>processing</span> (manipulating, calculating, or organizing) data into information. When you first arrived on campus, you probably were directed to a place where you could get an ID card. You most likely provided a clerk with personal data that was entered into a computer. The clerk then took your picture with a digital camera (collecting more data). All of the data was then processed appropriately so that it could be printed on your ID card (<span class="strongDBlue" onclick="compTia.togglePopup(4,0)">see Figure 2.1</span>). This organized output of data on your ID card is useful information.</p><br>
+
+					<h2 class="blueHeading">Bits and Bytes:<br>
+					The Language of Computers</h2>
+					<p><strong>How do computers process data into information?</strong> Unlike humans, computers work exclusively with numbers (not words). To process data into  information, computers need to work in a language they
+					understand. This language, called <span class="strongDBlue" glossary>binary language</span>, consists of just two digits: 0 and 1. </p>
+				]]>
+			</section>
+		</page>
+
+
+		<page index="4" type="RowCellCell" distinction="">
+			<section>
+				<![CDATA[
+						<figure onclick="compTia.togglePopup(4,0)" style="background:no-repeat url(assets/images/figures/infoFig.jpg)">
+							
+							<figcaption>
+								<span>Figure 2.1 </span> Computers process data into information. <em>(Michaeljung/Shutterstock)</em>
+   					</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">Everything a computer does, such as processing data, printing a report, or editing a photo, is broken down into a series of 0s and 1s. Each 0 and 1 is a <span class="strongDBlue" glossary="binary digit (bit)">binary digit</span>, or <span class="strongDBlue" glossary="binary digit (bit)">bit</span> for short. Eight binary digits (or bits) combine to create one <span class="strongDBlue" glossary>byte</span>. In computers, each letter of the alphabet, each number, and each</p>
+
+					<div class="soundByteContain">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/binary_numbers_interactive/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Binary Numbers Interactive
+						</div>
+						This Sound Byte helps remove the mystery surrounding binary numbers. You’ll learn about base conversion between decimal, binary, and hexadecimal numbers using colors, sounds, and images.
+					</div></div>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">special character (such as @, pronounced “at”) consists of a unique combination of eight bits, or
+					a string of eight 0s and 1s. So, for example, in binary language, the letter <em>K</em> is represented as 01001011. This is eight bits, or one byte.</p>
+						
+					<p class="start moreSpacing"><strong>What else can bits and bytes be used for?</strong> Bits and bytes not only are used as the language that tells the computer what to do, they are also used to represent the <em>quantity</em> of data and information that the computer inputs and outputs. Word processing files, digital pictures, and even software are represented inside a computer as a series of bits and bytes. These files and applications can be quite large, containing thousands or millions of bytes.</p>
+				]]>
+			</section>
+
+		</page>
+
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+
+					<p class="start">To make it easier to measure the size of such files, we need units of measure larger than a byte. Kilobytes, megabytes, and gigabytes are therefore simply larger amounts of bytes. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(5,0)">Figure 2.2</span>, a <span class="strongDBlue" glossary>kilobyte (KB)</span> is approximately 1,000 bytes, a <span class="strongDBlue" glossary>megabyte (MB)</span> is about 1 million bytes, and a <span class="strongDBlue" glossary>gigabyte (GB)</span> is around 1 billion bytes. Today, personal computers are capable of storing <span class="strongDBlue" glossary="terabyte (TB)">terabytes (TB)</span> of data (around 1 trillion bytes), and many business computers can store up to a <span class="strongDBlue" glossary>petabyte (PB)</span> (1,000 terabytes) of data. The Google search engine processes more than 1 PB of user-generated data per <em>hour!</em></p>
+					<p class="start"><strong>How does your computer process bits and bytes?</strong> Your computer uses hardware and software to process data into information that lets you complete tasks such as writing a letter or playing a game. <span class="strongDBlue" glossary>Hardware</span> is any part of the computer you can physically touch. However, a computer needs more than just hardware to work. <span class="strongDBlue" glossary>Software</span> is the set of computer programs that enables the hardware to perform different tasks.</p>
+
+					<p class="start">There are two broad categories of software: <em>application software and system software.</em> <span class="strongDBlue" glossary>Application software</span> is the set of programs you use on a computer to help you carry out tasks such as writing a research paper. If you’ve ever typed a document, created a spreadsheet, or edited a digital photo, for example, you’ve used application software.</p>
+
+					<p class="start"><span class="strongDBlue" glossary>System software</span> is the set of programs that enables your computer’s hardware devices and application software to work together. The most common type of system software is the <span class="strongDBlue" glossary>operating system (OS)</span>&mdash;the</p>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes">How Much Is a Byte?</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(5,0)" style="    background: url(assets/images/figures/fig2.x.jpg) no-repeat scroll 20px 37px #FFFFFF; height: 504px; overflow: hidden;">
+						
+						<span class="strongDHeading"><strong style="padding-left:6px">Figure 2.2</strong> Click to reveal active graphic</span>
+						
+						<figcaption class="bottomPos" style="margin-left:5px;"><em>Binary Code - shutterstock_36086098alehnia/Shutterstock, Petabyte - Library of Congress - shutterstock_93633661Orhan Cam/Shutterstock, Zettabyte - U.S. Map - shutterstock_23422498sjgh/Shutterstock, Terabyte - bookcase - shutterstock_81519460Malchev/Shutterstock, Gigabyte - Isaac Newton - shutterstock_81842386Georgios Kollidas/Shutterstock, Kilobyte - open book - shutterstock_23362354 LoopAll/Shutterstock, Megabyte - Stacked Books - shutterstock_10079973 4AZybr/Shutterstock</em>
+   					</figcaption></figure>
+   				</div>
+				]]>
+			</section>
+			
+		</page>
+
+
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+
+					<p>program that controls how your computer system functions. It manages the hardware, such as the monitor and printer, and provides a means by which users can interact with the computer. Most likely, the computer you own or use at school runs a version of Windows, probably Windows 7 or 8, as the system software. However, if you’re working on an Apple computer, you’re probably running OS X.</p>
+
+					<div class="activeHelpdeskContain">
+					<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_01.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Understanding Bits and Bytes
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about the difference between data and information, what bits and bytes are, and how bytes are measured.
+					</div></div>
+
+
+					<h2 class="blueHeading">Types of Computers</h2>
+					<p><strong>What types of computers are popular for personal use?</strong> There are two basic designs of computers: portable and stationary. For portable computers, a number of options exist:</p>
+
+					<ul class="dotted">
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>laptop (or notebook) computer</span> is a portable computer that has a keyboard, monitor, and other devices integrated into a single compact case.</span></li>
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>netbook</span> is a small, lightweight laptop computer that is generally 7 to 10 inches wide and has a longer battery life than a laptop.</span></li>
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>tablet PC</span> is similar to a laptop computer, but the monitor swivels</span></li>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+				  <ul class="dotted">
+				  <li class="noDot"><span class="innerLi">and folds flat (<span class="strongDBlue" onclick="compTia.togglePopup(7,0)">see Figure 2.3a</span>). You can then input data and
+				  commands primarily by using a special pen called a <em>stylus</em> across the
+				  touch screen, and you can input text by pressing keys on the virtual
+				  keyboard.</span></li>
+				<li><span class="innerLi">In 2010, Apple introduced the iPad, which created a new class of
+				  portable computers. A <span class="strongDBlue" glossary>tablet computer</span>, such as the iPad or Samsung
+				  Galaxy Tab, is a portable computer integrated into a flat
+				  multitouchsensitive screen. It uses an onscreen virtual keyboard,
+				  but you can connect separate keyboards to it via Bluetooth or wires.</span></li>
+				<li><span class="innerLi">An <span class="strongDBlue" glossary>ultrabook</span> is a full-featured but lightweight laptop computer
+				  designed to compete with the MacBook Air. Ultrabooks feature low-power processors and solid state drives and try to reduce their size and weight to extend battery life without sacrificing performance.</span>
+				</li>
+				</ul>
+					<p class="start">A <span class="strongDBlue" glossary>desktop computer</span> is intended for use at a single location, so it is stationary. Most desktop computers consist of a separate case or tower (called the <span class="strongDBlue" glossary>system unit</span>) that houses the main components of the computer plus peripheral devices. A <span class="strongDBlue" glossary>peripheral device</span> is a component, such as a monitor or keyboard, that connects to the computer. An <span class="strongDBlue" glossary>all-in-one computer</span>, such as the Apple iMac (<span class="strongDBlue" onclick="compTia.togglePopup(7,0)">Figure 2.3b</span>) or HP TouchSmart, eliminates the need for a separate tower because these computers house the computer’s processor and memory in the monitor. Many all-in-one models, such as the TouchSmart, also incorporate touch-screen technology.</p>
+
+
+				]]>
+			</section>
+		</page>
+
+
+		<page index="7" type="RowCellCell" distinction="">
+			<section>
+				<![CDATA[
+
+					<figure onclick="compTia.togglePopup(7,0)"><img src="assets/images/figures/fig2.3.jpg">
+						<figcaption
+							style=" font-size: 11px;
+								    right: 28px;
+								    top: 13px;
+								    width: 165px;">
+   				<span>Figure 2.3</span> (a) A tablet PC has a monitor that swivels to become a touch-sensitive input device; (b) an all-in-one computer does not need a separate tower.<br>
+   				<em>(PRNewsFoto/Mindjet LLC/AP Images; PRNewsFoto/Apple/AP Images)</em></figcaption></figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+					<p class="lineSpacing20 start"><strong>Are there other types of computers?</strong> Although you may never come into direct contact with the following types of computers, they are still very important and do a lot of work behind the scenes of daily life:</p>
+					<ul class="dotted lineSpacing20">
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>mainframe</span> is a large, expensive computer that supports many users simultaneously. Mainframes are often used in businesses that manage large amounts of data, such as insurance companies, where many people are working at the same time on similar operations, such as claims processing. Mainframes excel at executing many computer programs at the same time.</span></li>
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>supercomputer</span> is a specially designed computer that can perform complex calculations extremely rapidly. Supercomputers are used when complex models requiring intensive mathematical calculations</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p style="margin-left: 10px;">are needed (such as weather forecasting or atomic energy research). Supercomputers are designed to execute a few programs as quickly as possible, whereas mainframes are designed to handle many programs running at the same time but at  a slower pace.</p>
+				<ul class="dotted lineSpacing20">	
+					<li><span class="innerLi">An <span class="strongDBlue" glossary>embedded computer</span> is a specially designed computer chip that resides in another device, such as your car or the electronic thermostat in your home (see <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 2.4</span>). Embedded computers are self-contained computer devices that have their own programming and that typically don’t receive input from you or interact with other systems.</span>
+				</ul>
+					<div onclick="compTia.togglePopup(7,1)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Putting Your Computer to Work...While You Sleep
+					</div>
+				]]>
+			</section>
+			
+
+		</page>
+
+
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start lessSpacing moreRpadding">Even your smartphone is a computer. A <span class="strongDBlue" glossary>smartphone</span> does more than let you make and answer phone calls. It also has productivity (application software), media player, and camera features, as well as web connectivity. And just like your laptop computer, your smartphone has a CPU, memory, and storage. Examples of smartphones include the iPhone and the HTC Thunderbolt.</p> 
+					<p class="start">Each part of your computer has a specific purpose that coordinates with one of the functions of the computer—input, processing, output, or storage (<span class="strongDBlue">see Figure 2.5</span>). Additional devices, such as modems and routers, help a computer communicate with the Internet and other computers to facilitate the sharing of documents and other resources. Let’s begin our exploration of hardware by looking at your computer’s input devices.</p>
+
+					<figure onclick="compTia.togglePopup(8,0)" 
+						class="toStatic"
+						style="color:#535353;text-align:center"><img src="assets/images/figures/fig2.4.jpg" 
+						style="margin:24px">
+						<figcaption>
+   				<span>Figure 2.4</span>This robot vacuum includes an embedded computer. <em>(Jirsak/Shutterstock)</em></figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+   					
+					  
+					<span class="captionGreenHeading" style="display: block;">
+						Click icons to reveal information</span>
+					<figure id="fig2_5">
+						<div id="overlayCircleImages">
+
+							<div bg="fig2.5_output.png" style="background-image: url(assets/images/figures/fig2.5/fig2.5_output.png);"></div>
+
+							<div bg="fig2.5_input.png" style="background-image: url(assets/images/figures/fig2.5/fig2.5_input.png);"></div>
+
+							<div bg="fig2.5_processing.png" style="background-image: url(assets/images/figures/fig2.5/fig2.5_processing.png);"></div>
+
+							<div bg="fig2.5_storage.png" style="background-image: url(assets/images/figures/fig2.5/fig2.5_storage.png);"></div>
+
+						</div>
+						<div class="overlays">
+							
+							<div onclick="compTia.features.Figure2_5('fig2.5_input.png')" style="height: 115px; left: 147px; top: 80px; width: 119px;"></div>
+							
+							<div onclick="compTia.features.Figure2_5('fig2.5_processing.png')" style="height: 115px; left: 147px; width: 119px; top: 233px;"></div>
+							
+							<div onclick="compTia.features.Figure2_5('fig2.5_storage.png')" style="height: 115px; width: 119px; left: 15px; top: 315px;"></div>
+							
+							<div onclick="compTia.features.Figure2_5('fig2.5_output.png')" style="height: 115px; width: 119px; top: 315px; left: 280px;"></div>
+						</div>
+
+						
+
+
+
+
+
+						<figcaption style="bottom:26px">
+   						<span>Figure 2.5 </span> Each part of the computer serves a special function.
+   					</figcaption></figure>
+				]]>
+			</section>
+
+		</page>
+
+
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO">
+						<div class="dblue">input</div>
+						<div class="orange">devices</div>
+					</div>
+							
+							<p>An <span class="strongDBlue" glossary>input device</span> lets you enter data (text, images, and sounds) and instructions (user responses and commands) into your computer. A <span class="strongDBlue" glossary>keyboard</span> is an input device you use to enter typed data and commands, and a <span class="strongDBlue" glossary>mouse</span> is used to enter user responses and commands.</p> 
+							<p class="start">There are other input devices as well. Microphones input sounds, scanners input nondigital data (such as magazine articles and old photographs) by turning it into a digital form, and digital cameras input digital images. A <span class="strongDBlue" glossary>stylus</span> is an input device that looks like a pen,
+							which you use to tap commands or draw on a screen. We’ll explore these and other input devices next.</p>
+							<h2 class="blueHeading">Keyboards</h2>
+							<p><strong>Aren’t all keyboards the same?</strong> Most computers come with a standard <span class="strongDBlue" glossary>QWERTY keyboard</span>. This keyboard layout gets its name from the first six letters in the top-left row of alphabetic keys and is the standard English-language keyboard layout. The QWERTY layout was originally designed for typewriters and was meant to slow typists down and
+							prevent typewriter keys from jamming. Although the QWERTY layout is considered inefficient because it slows typing speeds, efforts to change to more efficient layouts, such as that of the Dvorak keyboard (<span class="strongDBlue" onclick="compTia.togglePopup(10,0)">see the Bits and Bytes</span>), have not been met with much public interest.</p>
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+				<p class="start"><strong>What’s special about laptop keyboards?</strong> To save space and weight, netbook and smaller laptop keyboards (14 inches and under) are more compact than standard desktop keyboards and, therefore, often have fewer keys. To retain the same functionality as a standard keyboard, some laptop keys may have alternative functions.</p>
+				<p class="start"><strong>How do wireless keyboards work?</strong> Wireless keyboards are powered by batteries, so you’re not tied to the computer by wires. These keyboards send data to the computer using a form of wireless technology that uses <em>radio frequency</em> (RF). A radio transmitter in the keyboard sends out signals that are received either by a receiving device plugged into a USB port or by a Bluetooth receiving device located in the system unit. You’ve probably heard of <span class="strongDBlue" glossary="bluetooth (technology)">Bluetooth technology</span> if you use a headset or earpiece with your cell phone. Bluetooth is a wireless transmission standard that lets you connect devices such as cell phones, smartphones, and computers to peripheral devices such as keyboards and headsets. If you use a wireless keyboard with your home computer, you can be as far as 6 to 30 feet from your computer, depending on the quality of the keyboard. Wireless keyboards used in conference rooms or auditoriums can be as far away as 100 feet from the computer.</p>
+
+					<a onclick="compTia.togglePopup(9,0)" class="readMore"></a>
+
+				]]>
+			</section>
+
+		</page>
+
+
+		<page index="10" type="RowCellCell" distinction=""
+					customscript="compTia.features.keyboardFigure()"
+					closescript="$('#keyboardFigure div[roll]').off('mouseover touchmove')">
+			<section>
+				<![CDATA[
+				<figure id="keyboardFigure">
+					<div id="overlayKeyImages">
+						<div style="background-image: url('assets/images/figures/kbFig/internet_key.png')"
+							 roll="internet_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/alt_key.png')"
+							 roll="alt_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/win_key.png')"
+							 roll="win_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/ctrl_key.png')"
+							 roll="ctrl_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/cursor_key.png')"
+							 roll="cursor_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/num_key.png')"
+							 roll="num_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/media_key.png')"
+							 roll="media_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/tog_key.png')"
+							 roll="tog_key.png"></div>
+						<div style="background-image: url('assets/images/figures/kbFig/func_key.png')"
+							 roll="func_key.png"></div>
+					</div>
+					<div class="overlays">	
+						<div style="height: 10px; width: 42px;
+							   		left: 593px; top: 88px;"
+							   		roll="internet_key.png"></div>
+						<div style="height: 20px; top: 153px;
+							   		left: 484px; width: 21px;"
+							   		roll="alt_key.png"></div>
+						<div style="height: 20px; top: 157px;
+							   		left: 350px; width: 23px;"
+							   		roll="win_key.png"></div>
+						<div style="height: 20px; top: 158px;
+							   		width: 23px; left: 326px;"
+							   		roll="ctrl_key.png"></div>
+						<div style="width: 39px; left: 561px;
+							   		height: 27px; top: 138px;"
+							   		roll="cursor_key.png"></div>
+						<div style="top: 102px; width: 58px;
+							   		height: 63px; left: 600px;"
+							   		roll="num_key.png"></div>
+						<div style="top: 57px; height: 23px;
+							   		left: 376px; width: 114px;"
+							   		roll="media_key.png"></div>
+						<div style="top: 87px; width: 42px;
+							   		height: 40px; left: 547px;"
+							   		roll="tog_key.png"></div>
+						<div style="height: 20px; top: 83px;
+							   		left: 317px; width: 222px;"
+							   		roll="func_key.png"></div>
+					</div>
+					<span class="captionGreenHeading">
+						Click on highlighted areas to<br>pop-up description
+					</span>
+
+						<figcaption class="leftPos" style="width: 143px;">
+   						<span>Figure 2.8 </span>
+						  Keyboards have a variety of keys that help you work more efficiently. (Note that on Macs, function keys are slightly different, the Control function is the Apple key or Command key, and the Alt function is the Option key).<br>
+						  <em>(Artur Synenko/Shutterstock)</em>
+   					</figcaption></figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+					<p class="start"><strong>How can I use my keyboard most efficiently?</strong> All keyboards have the standard set of alphabetic and numeric keys that you regularly use when typing. As shown in <span class="strongDBlue">Figure 2.8</span>, many keyboards for laptop and desktop computers have additional keys that perform special functions. Knowing how to use the special keys shown in Figure 2.8 will help you improve your efficiency.</p>
+					<br>
+					<div class="bitsAndBytesBlue" onclick="compTia.togglePopup(10,0)">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Switching Your Keyboard Layout
+					</div>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+				<h2 class="blueHeading noTMargin">Mice and Other Pointing Devices</h2>
+
+				<p><strong>What kinds of mice are there?</strong> The mouse type you’re probably most familiar with is the <span class="strongDBlue" glossary>optical mouse</span>. An optical mouse uses an internal sensor or laser to detect the mouse’s movement. The sensor sends signals to the computer, telling it where to move the pointer on the screen. Optical mice don’t require a mouse pad, though you can use one to enhance the movement of the mouse on an uneven surface or to protect your work surface from being scratched.</p>
+
+				<a onclick="compTia.togglePopup(10,1)" class="readMore"></a>
+
+				]]>
+			</section>
+
+	
+
+		</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreRpadding"><strong>Are touch pads considered mice?</strong> Most laptops have an integrated pointing device such as a <span class="strongDBlue" glossary="touch pad (trackpad)">touch pad</span> (or <span class="strongDBlue" glossary="touch pad (trackpad)">trackpad</span>), a small, touch-sensitive area at the base of the keyboard (<span class="strongDBlue" onclick="compTia.togglePopup(11,1)">see Figure 2.11</span>). Mac laptops include multitouch trackpads, which do not have buttons but are controlled by various one-, two-, three-, and four-finger actions. For example, scrolling is controlled by brushing two fingers along the trackpad in any direction. Most touch pads are sensitive to taps, interpreting them as mouse clicks. Most laptops also have buttons under or near the pads to record mouse clicks. Some laptops incorporate a <span class="strongDBlue" glossary>trackpoint device</span>, a small, joystick-like nub that allows you to move the cursor with the tip of your finger (<span class="strongDBlue" onclick="compTia.togglePopup(11,1)">see Figure 2.11</span>).</p>
+
+					<a onclick="compTia.togglePopup(11,0)" class="readMore"></a>    
+    
+
+					<figure onclick="compTia.togglePopup(11,1)"
+						style="height: 213px;margin-top: 23px;background: url(assets/images/figures/fig2.11.jpg) no-repeat scroll 0 0 transparent;"
+		                                                 >
+						<figcaption class="bottomPos" style="width:280px;">
+   				<span>Figure 2.11</span> Touch pads and trackpoint devices take the place of a mouse on laptop computers. <em>(Yongkai/Dreamstime)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div onclick="compTia.togglePopup(11,2)" class="bitsAndBytesBlue noTMargin">
+					<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+					Keystroke Shortcuts
+				</div>
+					<h2 class="blueHeading">Touch Screens</h2>
+					<p><strong>How else can I input data and commands?</strong> You’ve all heard about the iPad—the greatest new gadget since the cell phone. And you’ve seen and used touch-sensitive screens in fast-food restaurants, airport check-in kiosks, and ATM machines. These <span class="strongDBlue" glossary="touch screen">touch screens</span> are display screens that respond to commands initiated by touching them with your finger or a stylus. Touch screens are becoming  the norm on many computing devices, especially smartphones such as the Droid and iPhone and tablet computers such as the iPad and Samsung Galaxy Tab. Tablets and other touch-screen devices use a virtual keyboard (<span class="strongDBlue" onclick="compTia.togglePopup(12,0)">see Figure 2.12</span>) that displays on screen when input of text is required. These keyboards show basic keyboard configurations and use special keys to switch to numeric, punctuation, and other special keys. You can also connect a wireless keyboard to your tablet if you prefer.</p>
+					<br>
+					<h2 class="blueHeading">Image Input</h2>
+					<p><strong>What are popular input devices for images?</strong> Digital cameras, camcorders, and cell phones are common devices for capturing pictures and video, and all of them are considered input devices. These devices can connect to your computer with a cable, transmit data wirelessly, or</p>
+				]]>
+			</section>
+		
+
+
+
+		</page>
+
+
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(12,0)" >
+						<img src="assets/images/figures/fig2.12.jpg">
+							<figcaption class="rightPos topPos" style="width: 180px;">
+							
+   				<span>Figure 2.12</span> Virtual keyboards are found on tablets and other touch-screen devices.
+   				<br><em>(PhotoNonStop/Glow Images)</em></figcaption></figure>
+				<figure onclick="compTia.togglePopup(12,1)" style="height:252px;margin-top: 30px;">
+					<img src="assets/images/figures/fig2.13.jpg">
+					<figcaption class="bottomPos">
+   				<span>Figure 2.13</span> Video conferencing is simplified with software from <span class="strongDBlue" onclick="window.open('http://ooVoo.com','_blank')">ooVoo.com</span></figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreRpadding">transfer data automatically through the Internet. <span class="strongDBlue" glossary="scanner">Scanners</span> can also input images. They work similarly to a photocopy machine, but instead of generating the image on paper, they create a digital image, which you can then print, save, or e-mail.</p>
+					<p class="start moreRpadding"><strong>How do I capture live video from my computing device?</strong> A <span class="strongDBlue" glossary>webcam</span> is a small camera that sits on top of your computer monitor (connected to your computer by a cable) or is built into a laptop or tablet computer. Although webcams are able to capture still images, they’re used mostly for capturing and transmitting live video. Videoconferencing technology lets a person using a computer equipped with a webcam and a microphone transmit video and audio across the Internet. Video call sites such as Skype (<span class="strongDBlue" onclick="compTia.switchPage(0,20)">see the Try This in Chapter 1,</span>) and ooVoo (<span class="strongDBlue" onclick="compTia.togglePopup(12,1)">see Figure 2.13</span>) make it easy to videoconference with as many as 12 people. You can also exchange files, swap control of computers, and text message during the call. There is also a mobile application to make it easy to conference on the go.</p><br>
+
+					<h2 class="blueHeading">Sound Input</h2>
+					<p class="moreRpadding"><strong>Why would I want to input sound to my computer?</strong> In addition to letting others hear you in a videoconference, equipping your computer to accept sound input opens up a variety of possibilities. You can conduct audio conferences with work colleagues, chat with friends or family over the Internet, record podcasts, and more. Inputting sound to your computer requires using a <span class="strongDBlue" glossary="microphone (mic)">microphone</span> (or <span class="strongDBlue" glossary="microphone (mic)">mic</span>), a device that lets</p>
+				]]>
+			</section>
+
+		</page>
+
+
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/tablet_and_notebook_tour/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Tablet and Notebook Tour
+						</div>
+						In this Sound Byte, you’ll take a tour of a tablet PC and a notebook (laptop) computer, learning about the unique features and ports available on each.
+					</div></div>
+
+				<p class="moreRpadding">you capture sound waves (such as your voice) and transfer them to digital format on your computer. Most laptop and tablet computers come with built-in microphones.</p>
+				<p class="moreSpacing start moreRpadding"><strong>What types of add-on microphones are available?</strong> For specialized situations, built-in microphones don’t always provide the best performance. You may want to consider adding other types of microphones, such as those shown in <span class="strongDBlue" onclick="compTia.togglePopup(13,2)">Figure 2.16</span>, to your system for the best results.</p>
+				
+				<div class="greenHorzButton" onclick="compTia.togglePopup(13,0)">
+					<span class="largeBoldWhite">DIG DEEPER</span>
+					<strong>How Touch Screens Work</strong>
+				</div>
+
+				<div class="orangeHorzButton" onclick="compTia.togglePopup(13,1)">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong>What Is Ethical Computing?</strong>
+				</div>
+
+				]]>
+
+				
+
+
+			</section>
+			<section>
+				<![CDATA[
+
+				<div class="HeadingOrangeBackDiagDashes leftPadding15">Types of Microphones</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(13,2)" style="
+						background: url('assets/images/figures/fig1.16.jpg') no-repeat scroll 13px 36px #FFFFFF;
+						height: 279px; overflow: hidden;">
+						<span class="strongDHeading"><strong>Figure 2.16</strong>  Click to reveal the table</span>
+
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+				
+				]]>
+			</section>
+		</page>
+
+ 
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed bgPosition00"></div>
+
+					<div class="fancyHeadingBO bgPosition00">
+						<div style="margin-left:57px" class="topOrange">output</div>
+						<div style="margin-left:96px" class="bottomBlue">DEVICES</div>
+					</div>
+					<p>An <span class="strongDBlue" glossary>output device</span> lets you send processed data out of your computer in the form of text, pictures (graphics), sounds (audio), or video. The most common output device is a <span class="strongDBlue" glossary="monitor (display screen)">monitor</span> (sometimes referred to as a <span class="strongDBlue" glossary="monitor (display screen)">display screen</span>), which displays text, graphics, and video as soft copies (copies you can see only on screen). Another common output device is the <span class="strongDBlue" glossary>printer</span>, which creates hard copies (copies you can touch) of text and graphics. Speakers and earphones (or earbuds) are the output devices for sound.</p>
+					
+					<h2 class="blueHeading">Monitors</h2>
+					<p><strong>What are the different types of monitors?</strong> The most common type of monitor is a <span class="strongDBlue" glossary>liquid crystal display (LCD)</span>. An LCD monitor, also called a flat-panel monitor, is light and energy efficient. Some newer monitors use <span class="strongDBlue" glossary>light-emitting diode (LED)</span> technology, which is more energy efficient and may have better color accuracy and thinner panels than LCD monitors. LCD flat-panel monitors have replaced cathode ray tube (CRT) monitors. CRT monitors are considered <span class="strongDBlue" glossary>legacy technology</span>,  or computing devices that use techniques, parts, and methods that are no longer popular. Although legacy technology may still be functional, it has been replaced by newer technological advances.</p>
+
+					<a onclick="compTia.togglePopup(14,0)" class="readMore TMargin5"></a>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What factors affect the quality of an LCD monitor?</strong> When choosing an LCD monitor, the most important factors to consider are aspect ratio and resolution. The <span class="strongDBlue" glossary>aspect ratio</span> is the width-to-height proportion of a monitor. Traditionally, aspect ratios have been 4:3, but newer monitors are available with an aspect ratio of 16:9 to accommodate HD format video. The screen <span class="strongDBlue" glossary>resolution</span>, or the clearness or sharpness of the image, reflects the number of pixels on the screen. An LCD monitor may have a native (or maximum) resolution of 1600 × 1200, meaning it contains 1,600 vertical columns with 1,200 pixels in each column. The higher the resolution, the sharper and clearer the image will be, but generally, the resolution of an LCD monitor is dictated by the screen size and aspect ratio. Although you can change the resolution of an LCD monitor beyond its native resolution, the images will become distorted. Generally, you should buy a monitor with the highest resolution available for the screen size (measured in inches). <span onclick="compTia.togglePopup(15,0)" class="strongDBlue" >Figure 2.20</span> lists these and other factors to consider when judging the quality of an LCD monitor.</p>
+				
+					<a onclick="compTia.togglePopup(14,1)" class="readMore"></a>
+					
+					<div onclick="compTia.togglePopup(14,2)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Testing and Calibrating Your PC Monitor
+					</div>
+				]]>
+			</section>
+	
+		</page>
+
+
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes boldCond Lpadding12">Factors to Consider When Shopping for a Monitor</div>
+					<div class="orangeWrap">
+						
+						<figure onclick="compTia.togglePopup(15,0)" style="
+							width:400px;
+							height:495px;
+							background: url(assets/images/figures/fig2.20.jpg) #fff no-repeat -25px 28px">
+							<span class="strongDHeading" style="margin:6px 0 0 5px"><strong>Figure 2.20</strong>  Click to reveal active graphic</span>
+							<figcaption class="bottomPos" style="margin-left:5px;"><em>Aspect Ratio - Television - shutterstock_58237471cobalt88/Shutterstock, Screen Resolution - Colored pixels - shuttestock_34295692Montenegro/Shutterstock, Viewing Angle- Man at Computer - shuttestock_71304151ostill/Shutterstock, Brightness - Sunburst - shutterstock_109349570Eliks/Shutterstock</em>
+	   					</figcaption></figure>
+   					</div>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Printers</h2>
+				<p class="lessSpacing"><strong>What are the different types of printers?</strong> There are two primary categories of printers: inkjet and laser, both of which are considered nonimpact printers. A <span class="strongDBlue" glossary>nonimpact printer</span> such as an inkjet printer sprays ink or uses laser beams to transfer marks onto the paper. An <span class="strongDBlue" glossary>impact printer</span> has tiny hammer-like keys that strike the paper through an inked ribbon to make marks on the paper. For most users, impact printers are legacy technology.</p>
+				<p class="start lessSpacing"><strong>What are the advantages of inkjet printers?</strong> An <span class="strongDBlue" glossary>inkjet printer</span> (<span class="strongDBlue" onclick="compTia.togglePopup(15,1)">see Figure 2.22</span>) is the type of printer found in most homes. These printers are popular because they’re affordable and produce high-quality printouts</p>
+
+				<figure onclick="compTia.togglePopup(15,1)"
+					style="height:282px;
+						   background:url(assets/images/figures/fig2.22.jpg) no-repeat 50px 0 transparent;
+						   margin-top: 10px;">
+
+						<figcaption
+							class="bottomPos ">
+   				<span>Figure 2.22</span> Inkjet printers are popular among home users, especially with the rise of digital photography. Many inkjet printers are optimized for printing photos from digital cameras. <em>(TheVectorminator/Shutterstock)</em></figcaption></figure>
+				]]>
+			</section>
+		</page>
+
+
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="moreRpadding">quickly and quietly. Inkjet printers work by spraying tiny drops of ink onto paper and are great for printing black-and-white text as well as color images. In fact, when loaded with the right paper, higher-end inkjet printers can print images that look like professional-quality photos. One thing to consider when buying an inkjet printer is the type and cost of the ink cartridges the printer needs. Some printers use two cartridges: black and color. Others use four or more cartridges: typically, black, magenta, cyan, and yellow.</p>
+
+					<figure onclick="compTia.togglePopup(16,0)"
+						style="background:url(assets/images/figures/fig2.23.jpg) no-repeat 62px 0;
+							    height: 312px;
+								margin-top: 34px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2.23</span> Laser printers print quickly and offer high-quality printouts.<br>
+   				<em>(Xerox Corporation)</em></figcaption></figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+					<p class="lessSpacing start"><strong>Why would I want a laser printer?</strong> A laser printer uses laser beams and static electricity to deliver toner (similar to ink) onto the correct areas of the page (<span class="strongDBlue" onclick="compTia.togglePopup(16,0)">see Figure 2.23</span>). Heat is used to fuse the toner to the page, making the image permanent.</p>
+					
+					<a onclick="compTia.togglePopup(16,1)" class="readMore TMargin5"></a>
+					
+					<p class="lessSpacing start TMargin5"><strong>Are there any other types of specialty printers?</strong> Although you’ll probably use laser or inkjet printers most often, you might also encounter several other types of printers:</p>
+					<ul class="lessSpacing dotted">
+						<li><span class="innerLi">An <span class="strongDBlue" glossary>all-in-one printer</span> (<span onclick="compTia.togglePopup(17,0)" class="strongDBlue">see Figure 2.24a</span>) combines the functions of a printer, scanner, copier, and fax into one machine. Popular for their space-saving convenience, all-in-one printers may use either inkjet or laser technology.</span></li>
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>plotter</span> (<span onclick="compTia.togglePopup(17,0)" class="strongDBlue">see Figure 2.24b</span>) prints oversize pictures that require the drawing of precise and continuous lines, such as maps and architectural plans. Plotters use a computer-controlled pen that provides a greater level of precision than the series of dots that laser or inkjet printers make.</span></li>
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>thermal printer</span> (<span onclick="compTia.togglePopup(17,0)" class="strongDBlue">see Figure 2.24c</span>) works either by melting wax-based ink onto ordinary paper (a process called <em>thermal wax transfer printing</em>) or by burning dots onto specially coated paper (a process called <em>direct thermal printing</em>). Thermal printers are used in stores to print receipts and in airports for electronic ticketing, and many models feature wireless technology. Thermal printers are also popular for mobile printing in conjunction with smartphones and similar devices.</span></li>
+					</ul>
+					
+				]]>
+			</section>
+	
+		</page>
+
+
+		<page index="17" type="RowCellCell" distinction="">
+			<section>
+				<![CDATA[
+
+					<figure onclick="compTia.togglePopup(17,0)">
+						<img src="assets/images/figures/fig2.24.jpg">
+						<figcaption style="width: 428px">
+								    <span>Figure 2.24</span> Specialty printers:<br>
+									(a) all-in-one printer, (b) plotter, (c) thermal printer.<br>
+									(<em>Adisa/Fotolia; Provided Courtesy of Xerox Corporation; Zebra Technologies</em>)
+						</figcaption>
+					</figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+
+					<p class="start"><strong>How do I choose the best printer?</strong> Your first step is to decide what your primary printing need is. If you’re planning to print color photos and graphics, an inkjet printer or color <span class="strongDBlue" glossary>laser printer</span> is a must, even though the cost per page will be higher. If you’ll be printing mostly black-and-white, text-based documents or will be sharing your printer with others, a black-and-white laser printer is best because of its speed and overall</p>
+
+					<div class="activeHelpdeskContain">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_03.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Using Output Devices
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about different output devices.
+					</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p>economy for volume printing. It’s also important to determine whether you want just a printer or a device that prints and scans, copies, or faxes (an all-in-one). In addition, you should decide whether you want to print wirelessly.</p> 
+				<p class="start">Once you have narrowed down the type of printer you want, you can use the criteria listed in <span class="strongDBlue" onclick="compTia.togglePopup(18,0)">Figure 2.25</span> to help you determine the best model to meet your needs.</div>
+					<div onclick="compTia.togglePopup(17,1)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Does It Matter What Paper I Print On?
+					</div>
+				]]>
+			</section>
+
+		</page>
+
+
+		<page index="18" type="ColumnColumn" distinction="">
+			
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes">Major Printer Attributes</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(18,0)" style="background: url('assets/images/figures/fig2.25.jpg') no-repeat scroll 10px 39px #FFFFFF;
+						height: 264px;">
+						
+						<span class="strongDHeading"><strong style="padding-left:6px">Figure 2.25</strong> Click to reveal the table</span>
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+   				<br>
+   				<h2 class="blueHeading noTMargin">Sound Output</h2>
+					<p class="lessSpacing">
+					<strong>What are the output devices for sound?</strong> Most computers include inexpensive <span class="strongDBlue" glossary>speakers</span>, which are the output devices for sound. These speakers are sufficient to play the standard audio clips you find on the web and usually for letting you participate in videoconferencing or phone calls over the Internet. However, if you plan to digitally edit audio files or are particular about how your music sounds, you may want a more sophisticated speaker system, such as one that includes subwoofers (special speakers that produce only low bass sounds) and surround-sound speakers.</p>
+				]]>
+			</section>
+			
+			<section>
+				<![CDATA[
+					<p> A <span class="strongDBlue" glossary>surround-sound speaker</span> is a system of speakers and audio processing that envelops the listener in a 360-degree field of sound. In addition, wireless speaker systems are available to help you avoid cluttering up your rooms with speaker wires.</p>
+
+					<p class="start lessSpacing">If you work in close proximity to other employees or travel with a laptop, you may need to use headphones or earbuds to avoid distracting other people. Both devices plug into the same jack on the computer to which speakers connect. Studies of users of portable media players have shown that hearing might be damaged by excessive volume, especially when using earbuds because they fit into the ear canals. Exercise caution when using these devices.</p>
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_2_Part_1/Chapter_2_Part_1.html','_blank')">Replay Video 2.1</span></span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(7)">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Which of the following ethics violations do you think occur most often among students?</div>
+					<ol class="pollQuestions">
+						<li>Using software without paying for it</li>
+						<li>Plagiarizing work from the Internet</li>
+						<li>Using others' images/sound clips in <br/>student projects without permission</li>
+						<li>Downloading movies/music illegally</li>
+					
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		
+		<page index="20" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(5)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes font_19">Processing, Storage, and Connectivity</div>
+					<p class="digCompP">So far, we have explored the components of your computer that you use to input and output data. But where does the processing take place, and where is the data stored? And how does your computer connect with peripherals and other computers?</p>
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO bgPosition00">
+						<div class="dblue" style="margin-left:59px; color:#166beb">processing and memory on the </div>
+						<div class="orange" style="margin-left: 123px">MOTHERBOARD</div>
+					</div>
+					
+					<p class="lessSpacing">The <span class="strongDBlue" glossary>motherboard</span> is the main circuit board that contains the central electronic components of the computer, including the computer’s processor (CPU), its memory, and the many circuit boards that help the computer function (<span class="strongDBlue" onclick="compTia.switchPage(0,22)">see Figure 2.26</span>). On a desktop, the motherboard is located inside the system unit, the metal or plastic case that also houses the power source and all the storage devices (CD/DVD drive and hard drive). In a laptop computer, the system unit is combined with the monitor and the keyboard into a single package.</p>
+					<p class="lessSpacing start"><strong>What’s on the motherboard besides the CPU and memory?</strong></p>
+					<p>The motherboard also includes slots for <span class="strongDBlue" glossary="expansion card (adapter card)">expansion cards</span> (or <span class="strongDBlue" glossary="expansion card (adapter card)">adapter cards</span>), which are circuit boards that provide additional functionality. Typical expansion cards found in the system unit are sound and video cards. A <span class="strongDBlue" glossary>sound card</span> provides a connection for the speakers and microphone, whereas a  <span class="strongDBlue" glossary="video card (video adapter)">video card</span> provides a connection for the monitor. Laptops have video and sound capabilities integrated into their motherboards.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="lessSpacing">High-end desktops use expansion cards to provide video and sound capabilities.</p>
+					<p class="lessSpacing start">Other expansion cards provide a means for network and Internet connections. These include the <em>modem card</em>,  which provides the computer with a connection to the Internet via a traditional phone line. Modem cards are rapidly becoming legacy technology. A <span class="strongDBlue" glossary>network interface card (NIC)</span>, which enables your computer to connect with other computers or to a cable modem to facilitate a high-speed Internet connection, is now the most common connectivity port. Lastly, some expansion cards provide additional USB and FireWire ports.</p><br>
+
+					<h2 class="blueHeading">Memory</h2>
+					<p class="lessSpacing"><strong>What exactly is RAM?</strong> <span class="strongDBlue" glossary>Random access memory (RAM)</span> is the place in a computer where the programs and data the computer is currently using are stored. RAM is much faster to read from and write to than the hard drive and other forms of storage. The processor can request the RAM’s contents, which can be located, opened, and delivered to the CPU for processing in a few nanoseconds (billionths of a second). If you look at a motherboard, you’ll see RAM as a series of small cards (called <em>memory cards</em> or <em>memory modules</em>) plugged into slots on the motherboard (<span class="strongDBlue" onclick="compTia.switchPage(0,22)">see Figure 2.26</span>).</p>
+					<p class="lessSpacing start">Because the entire contents of RAM are erased when you turn off the computer, RAM is a temporary or <span class="strongDBlue" glossary>volatile storage</span> location. To save data permanently, you need to save it to your hard drive or to another permanent storage device such as a CD or flash drive.</p>
+					
+				]]>
+			</section>
+		</page>		
+		
+		
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<span class="captionGreenHeading">
+						Click on highlighted areas to pop-up description
+					</span>
+
+				<figure id="fig2_26">
+
+					<div class="overlayButtons">
+						<div style="width: 42px; left: 89px; top: 150px; height: 27px;" roll="fig2.26CPU.png"></div>
+						<div style="left: 284px; top: 134px; height: 120px; width: 103px;" roll="fig2.26Expansion.png"></div>
+						<div style="left: 172px; top: 272px; width: 32px; height: 24px;" roll="fig2.26Ports.png"></div>
+						<div style="left: 55px; top: 93px; width: 113px; height: 25px;" roll="fig2.26Ram.png"></div>
+					</div>
+					<div class="overlayImages">
+						<div roll="fig2.26CPU.png" style="top:0;left:0;width:100%;height:100%;background-image:url(assets/images/figures/fig2.26/fig2.26CPU.png)"></div>
+						<div roll="fig2.26Expansion.png" style="top:0;left:0;width:100%;height:100%;background-image:url(assets/images/figures/fig2.26/fig2.26Expansion.png)"></div>
+						<div roll="fig2.26Ports.png" style="top:0;left:0;width:100%;height:100%;background-image:url(assets/images/figures/fig2.26/fig2.26Ports.png)"></div>
+						<div roll="fig2.26Ram.png" style="top:0;left:0;width:100%;height:100%;background-image:url(assets/images/figures/fig2.26/fig2.26Ram.png)"></div>
+					</div>	
+							<figcaption class="leftPos bottomPos">
+							
+   				<span>Figure 2.26</span> A motherboard contains the computer’s processor (CPU), the memory (RAM) modules, ports, and slots for expansion cards. 
+   				<br><em>(S.Dashkevych/Shutterstock)</em></figcaption></figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Does the motherboard contain any other kinds of memory besides RAM?</strong> In addition to RAM, the motherboard contains a form of memory called <span class="strongDBlue" glossary>read-only memory (ROM)</span>. ROM holds all the instructions the computer needs to start up when it is powered on. Unlike data stored in RAM, which is volatile storage, the instructions stored in ROM are permanent, making ROM a <span class="strongDBlue" glossary>nonvolatile storage</span> location, which means the data isn’t erased when the power is turned off.</p><br/>
+					
+					<h2 class="blueHeading">Processing</h2>
+					<p><strong>What is the CPU?</strong> The <span class="strongDBlue" glossary>central processing unit (CPU, or processor)</span>  is sometimes referred to as the “brains” of the computer because it controls all the functions performed by the computer’s other components and processes all the commands issued to it by software instructions. Modern CPUs can perform as many as tens of billions of tasks per second without error, making them extremely powerful components.</p>
+
+					<p class="start"><strong>How is processor speed measured?</strong> Processor speed is measured in units of hertz (Hz). Hertz is a measurement of machine cycles per second. A machine cycle is the process of the CPU getting the data or instructions from RAM and decoding the instructions into something the computer can understand. Once the CPU has decoded the instructions, it executes them and stores the result back in system memory. Current systems run at speeds measured in <span class="strongDBlue" glossary>gigahertz (GHz)</span>, or billions of machine cycles per second. Therefore, a 3.8 GHz processor performs work at a rate of 3.8 billion</p>
+				]]>
+			</section>
+
+		</page>
+		
+        <page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+
+					<p>machine cycles per second. It’s important to realize, however, that CPU processor speed alone doesn’t determine the performance of the CPU.</p>
+					<p class="start"><strong>What else determines processor performance?</strong> Although speed is an important consideration when determining processor performance, CPU performance is also affected by other factors. One factor is the number of cores, or processing paths, a processor has. Initially, processors could handle only one instruction at a time. Now, processors have been designed so that they can have two, four, or even eight different paths, allowing them to process more than one instruction at a time (<span class="strongDBlue" onclick="compTia.togglePopup(23,0)">see Figure 2.27</span>). Applications such as virus protection software and the operating system, which are always running behind the scenes, can have their own processor paths, freeing up the other paths to run other applications such as a web browser, Word, or iTunes more efficiently.</p>
+					<p class="start"><strong>Besides the number of cores, what other factors determine processing power?</strong> The “best” processor will depend on your particular needs and is not always the processor with the highest processor speed and the greatest number of cores. Intel, one of the leading manufacturers of computer processor chips, has created a pictorial rating system for CPU chips. Intel uses one to five stars to illustrate the relative computing power of each type of CPU within the Intel line of processors.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="soundByteContain noTMargin BMargin10">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/virtual_computer_tour/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Virtual Computer Tour
+						</div>
+						In this Sound Byte, you’ll take a video tour of the inside of a desktop system unit. From opening the cover to locating the power supply, CPU, and memory, you’ll become more familiar with what’s inside your computer.
+					</div></div>
+				
+					<div class="smallHeading24OrangeBackDiagDashes">Processors</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(23,0)"
+						style="background: url('assets/images/figures/fig2.27.jpg') no-repeat scroll 0 41px #fff; height: 375px;">
+					<span class="strongDHeading">Click image to view animation</span>
+					<figcaption class="bottomPos" style="margin:7px;">
+						<span>Figure 2.27</span> With multi-core processors, CPUs can work in parallel, processing two or more separate programs at the same time instead of switching back and forth between them. 
+   					</figcaption>
+						</figure>
+					
+   				</div>
+
+				]]>
+			</section>
+			
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/storingSmall.jpg)">
+						<div class="orange">storing data and </div>
+						<div class="blue" style="margin-left: 143px">INFORMATION</div>
+					</div>
+					<p>Because RAM is volatile storage, it can’t be used to store information indefinitely. To save your data and information permanently, you need to save it to your hard drive or to another nonvolatile storage device such as an external hard drive, a DVD, or a flash drive.</p>
+					<br/>
+					<h2 class="blueHeading">Hard Drives</h2>
+					<p class="lessSpacing"><strong>Are there different kinds of hard drives?</strong> The <span class="strongDBlue" glossary="hard disk drive (hdd)">hard disk drive</span> (<span class="strongDBlue" glossary="hard disk drive (hdd)">HDD, or hard drive</span>) is your computer’s primary device for permanent storage of software and documents. The hard drive is a nonvolatile storage device. An <span class="strongDBlue" glossary>internal hard drive</span>  resides within the system unit and usually holds all permanently stored programs and data. Today’s internal hard drives (<span class="strongDBlue" onclick="compTia.togglePopup(24,0)">see Figure 2.28a</span>) have capacities of as much as 6 TB or more. <span class="strongDBlue" glossary="external hard drive">External hard drives</span> (<span class="strongDBlue" onclick="compTia.togglePopup(24,0)">see Figure 2.28b</span>) offer similar storage capacities but reside outside the system unit and connect to the computer via a USB or FireWire port.</p>
+					<p class="start lessSpacing">The most common type of hard drive has moveable parts—spinning platters, a moving arm with a read/write head—that can fail and lead to devastating disk failure. However, the <span class="strongDBlue" glossary>solid-state drive (SSD)</span> has recently become a more feasible option for desktop and laptop storage. SSDs have no moving parts, so they’re more efficient, run with no noise, emit little heat, and require little power. In addition, they’re less likely to fail after being bumped or dropped.</p>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<p class="start">Permanent storage devices are located in your desktop or laptop computer in a space called a <span class="strongDBlue" glossary>drive bay</span>. There are two kinds of drive bays:</p>
+					<ol>
+						<li><em>Internal drive bays</em> cannot be seen or accessed from outside the system unit. Generally, internal drive bays are reserved for internal hard drives.
+						<li><em>External drive bays</em> can be seen and accessed from outside the system unit. External drive bays house CD and DVD drives, for example. On desktop computers, sometimes there are empty external drive bays that can be used to install additional drives. These extra spaces are covered by a faceplate on the front panel. Laptop computers generally do not give you the ability to add additional drives. Such expansion is done by attaching an external drive to the computer through a USB port.
+					</ol>	
+				<figure onclick="compTia.togglePopup(24,0)"
+						style="background:url(assets/images/figures/fig2.28.png) no-repeat 62px 0;
+							    height: 237px;
+								margin-top: 34px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2.28</span> (a) Internal hard drives are a computer’s primary nonvolatile storage. (b) External hard drives are often used to back up data from internal hard drives.<br>
+   				<em>(Ragnarock/Shutterstock; Utflytter/Shutterstock)</em></figcaption></figure>
+					
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Flash Storage</h2>
+					<p class="lessSpace"><strong>How can I take my files with me?</strong> For large portable storage needs, there are portable external hard drives, which are small enough to fit into your pocket and have storage capacities of 4 TB (or larger). These devices are lightweight and enclosed in a protective case. They attach to your computer via a USB port (<span class="strongDBlue" onclick="compTia.togglePopup(25,0)">see Figure 2.29</span>). Many of these portable external hard drives do not use solid-state technology, so care should be taken when transporting them.</p>
+					
+					<figure onclick="compTia.togglePopup(25,0)"
+						style="background: url(assets/images/figures/fig2.29.png) no-repeat scroll 63px 0 transparent;
+					    height: 260px;
+					    margin-top: 14px;">
+						<figcaption class="bottomPos" style="width:410px;">
+   				<span>Figure 2.29</span> Smaller, portable external hard drives enable you to take a significant amount of data and programs on the road with you. <em>(Inga Nielsen/Shutterstock)</em></figcaption>
+   			</figure><br/>
+				<div onclick="compTia.togglePopup(25,1)" class="bitsAndBytesBlue noTMargin">
+					<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+					Taking Care of Flash Drives
+				</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="lessSpace start moreRpadding">A <span class="strongDBlue" glossary>flash drive</span> (sometimes referred to as a <span class="strongDBlue" glossary="flash drive">jump drive</span>, <span class="strongDBlue" glossary="flash drive">USB drive</span>, or <span class="strongDBlue" glossary="flash drive">thumb drive</span>) uses solid-state flash memory, storing information on an internal memory chip. When you plug a flash drive into your computer’s USB port, it appears in the operating system as another disk drive. You can write data to it or read data from it as you would a hard drive. Because a flash drive contains no moving parts, it’s quite durable. It’s also tiny enough to fit in your pocket. Despite their size, flash drives can have significant storage capacity—currently as much as 256 GB. Often, flash drives are combined with other devices such as pens or pocketknives <span class="strongDBlue" onclick="compTia.togglePopup(25,2)">(see Figure 2.30)</span> for added convenience.</p>
+					
+					<figure onclick="compTia.togglePopup(25,2)"
+						style="background: url(assets/images/figures/fig2.30.png) no-repeat scroll 61px 0 transparent;    height: 305px; margin-top: 4px;"
+		                                                 >
+						<figcaption class="bottomPos" style="width:390px;">
+   				<span>Figure 2.30</span> Flash drives are a convenient means of portable storage and come in many different shapes and sizes. <em>(Rafael Angel Irusta Machin/Alamy; Handout/KRT/Newscom)</em></figcaption>
+   			</figure>
+					
+				]]>
+			</section>
+		</page>
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+
+					<p class="start">Another convenient means of portable storage is a <span class="strongDBlue" glossary>flash memory card</span>  such as a CompactFlash card. Like the flash drive, memory cards use solid-state flash memory. Most desktops and laptops include slots for flash memory cards, but if your computer is not equipped, there are memory card readers that you can plug into a USB port. Flash memory cards let you transfer digital data between your computer and devices such as digital cameras, smartphones, video cameras, and printers. Although incredibly small—some are even smaller than the size of a postage stamp—these memory cards have capacities that exceed the capacity of a DVD. <span class="strongDBlue"  onclick="compTia.togglePopup(26,0)">Figure 2.31</span> compares the storage capacities of hard drives and flash drives.</p><br/>
+					
+					<h2 class="blueHeading">Optical Storage</h2>
+					<p><strong>What other kinds of storage devices are available?</strong> Most desktop and laptop computers come with at least one <span class="strongDBlue" glossary>optical drive</span> that can read from and maybe even write to CDs, DVDs, or Blu-ray discs. Data is saved to such discs as tiny pits that are burned  into the disc by a high-speed laser. <span class="strongDBlue" glossary="compact disc (cd)">Compact discs (CDs)</span> were initially created to store audio files. <span class="strongDBlue" glossary="digital video (or versatile) disc (dvd)">Digital video (or versatile) discs (DVDs)</span>  are the same size and shape as CDs but can store up to 14 times more data than CDs.</p>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes leftPadding10 font_21 boldCond">Hard Drive and Flash Drive Storage Capacity</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(26,0)"
+						style="
+							background: url(assets/images/figures/fig2.31.jpg) no-repeat scroll center 30px #FFFFFF;
+							height: 220px;
+							overflow: hidden;">
+						
+						<span class="strongDHeading font_15 semibold"><strong>Figure 2.31</strong> Click to reveal the table</span>
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div><br/>
+				
+				<div class="smallHeadingOrangeBackDiagDashes leftPadding10 font_21 boldCond">Optical Storage Media Capacities</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(26,1)"
+						style="background: url(assets/images/figures/fig2.32.jpg) no-repeat scroll center 30px #FFFFFF; height: 220px; overflow: hidden;">
+						
+						<span class="strongDHeading font_15 semibold"><strong>Figure 2.32</strong> Click to reveal the table</span>
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+				
+				]]>
+			</section>
+			
+		</page>		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">What if you want even more storage capacity? Bluray is the latest incarnation of optical storage to hit the market. <span class="strongDBlue" glossary="blu-ray disc (bd)">Blu-ray discs (BDs)</span>, which are similar in size and shape to CDs and DVDs, can hold as much as 50 GB of data—enough to hold approximately 4.5 hours of movies in high-definition (HD) digital format. Many systems are now available with BD-ROM drives and even Blu-ray burners. External BD drives are another inexpensive way to add HD storage capacity to your system. <span class="strongDBlue" onclick="compTia.togglePopup(26,1)">Figure 2.32</span> shows the storage capacities of the various optical storage media.</p>
+					<br/><br/>
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO bgPosition00" style="background-image:url(assets/images/pics/portThumbnail.jpg)">
+						<div class="dblue" style="margin-left:57px">connecting peripherals to the</div>
+						<div class="orange" style="margin-left: 195px">COMPUTER</div>
+					</div>
+					<p class="moreSpacing">Throughout this chapter, we have discussed peripheral devices that input, store, and output data and information. A <span class="strongDBlue" glossary>port</span> is a place through which a peripheral device attaches to the computer so that data can be exchanged between it and the operating system (<span class="strongDBlue" onclick="compTia.togglePopup(27,0)">see Figure 2.33</span>). Although many ports are located on the back of computers, some commonly used ports are found on the front and sides for easier access
+when connecting devices such as flash drives or digital and video cameras.</p>
+
+				]]>
+			</section>
+
+			<section>
+				<![CDATA[
+
+				<figure onclick="compTia.togglePopup(27,0)"
+						style="background:url(assets/images/figures/fig2.33.jpg) no-repeat scroll 20px 0px transparent;
+							    height: 279px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2.33</span> Many of the same ports appear on both (a) desktop and (b) laptop computers.
+   				<em>(Restyler/Fotolia; Alexkar08/Shutterstock)</em></figcaption></figure>
+					<h2 class="blueHeading">High-Speed and Data Transfer Ports</h2>
+					<p><strong>What is the most common way to connect devices to a computer?</strong> A <span class="strongDBlue" glossary>universal serial bus (USB) port</span> (<span class="strongDBlue" onclick="compTia.togglePopup(28,0)">see Figure 2.34</span>) is the port type most commonly used to connect input and output devices to the computer. This is mainly because of a USB port’s ability to transfer data quickly. USB ports can connect a wide variety of peripherals, including keyboards, printers, mice, smartphones, external hard drives, flash drives, and digital cameras, to the computer. USB 2.0 ports are the current standard and transfer data at 480 megabits per second (Mbps). The new USB 3.0 standard provides transfer speeds of 4.8 Gbps and charges devices faster than its predecessor. USB 3.0 is quickly becoming the port of choice.</p>
+					]]>
+			</section>
+		
+		</page>
+
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start" "lessSpacing"><strong>What other types of data transfer ports are there?</strong> You may also see other ports, such as <span class="strongDBlue" glossary>FireWire 400</span> and <span class="strongDBlue" glossary>FireWire 800</span>. The FireWire 400 interface moves data at 400 Mbps, whereas the FireWire 800 doubles the rate to 800 Mbps. Devices such as external hard drives, digital video cameras, portable music players, and digital media players all benefit from the speedy data transfer capabilities of FireWire. FireWire 400 ports have two different configurations, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(28,0)">Figure 2.34</span>. FireWire 400 ports on computers generally have six pins, whereas FireWire 400 ports on digital cameras have four pins.</p>
+
+					<figure onclick="compTia.togglePopup(28,0)"
+						style="height: 327px;margin-top: 7px;background: url(assets/images/figures/fig2.34.png) no-repeat scroll 0 0 transparent;"
+		                                                 >
+						<figcaption class="bottomPos" style="width:320px;">
+   				<span>Figure 2.34</span> Common data transfer and connectivity ports. Each port is represented by a standard icon. <em>(jStock/Fotolia)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_04.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Exploring Storage Devices and Ports
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about the computer’s main storage devices and how to connect various peripheral devices to the computer.
+					</div></div>
+				<p class="start" "lessSpacing">To transfer data between two devices, a special cable that has an appropriate connector at each end is needed. The faster FireWire 800 requires a nine-pin connection and is found on storage devices such as external and portable hard drives. The FireWire 3200 standard, with data transfer rates of 3.2 Gbps, has been ratified but has yet to reach the market.</p>
+				
+				<h2 class="blueHeading">Connectivity and Multimedia Ports</h2>
+				<p class="lessSpacing"><strong>Which ports help me connect with other computers and the Internet?</strong> Another set of ports on your computer helps you communicate with other computers. A <span class="strongDBlue" glossary>connectivity port</span> can give you access to networks and the Internet. To find a connectivity port, look for a port that resembles a standard phone jack but is slightly larger. This port is called an <span class="strongDBlue" glossary>Ethernet port</span> (<span class="strongDBlue" onclick="compTia.togglePopup(28,0)">see Figure 2.34</span>). Ethernet ports transfer data at speeds up to 10,000 Mbps. You can use an Ethernet port to connect your computer to a digital subscriber line (DSL) or cable modem, or to a network. Some computers still feature a second connectivity port that will accept a standard phone line connector. This jack is the <span class="strongDBlue" glossary>modem port</span> (<span class="strongDBlue" onclick="compTia.togglePopup(28,0)">see Figure 2.34</span>). It uses a traditional telephone signal to connect the computer to the Internet over a phone line. Modem ports are quickly becoming legacy technology.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="start moreSpacing"><strong>How do I connect monitors and multimedia devices?</strong> Other ports on the back and sides of the computer include audio and video ports (<span class="strongDBlue" onclick="compTia.togglePopup(29,0)">see Figure 2.35</span>). Audio ports are where you connect headphones, microphones, and  speakers to the computer. Whether you’re attaching a monitor to a desktop computer, or adding a second, larger display to a laptop computer, you’ll use a video port. The <span class="strongDBlue" glossary>video graphics array (VGA) port</span> is the port to which older LCD monitors connect (<span class="strongDBlue" onclick="compTia.togglePopup(29,0)">see Figure 2.35</span>). Newer LCD monitors, as well as other multimedia devices such as televisions, DVD players, and <span class="strongDBlue" glossary="projector">projectors</span>, connect to <span class="strongDBlue" glossary="digital video interface (dvi) port">digital video interface (DVI) ports</span> (<span class="strongDBlue" onclick="compTia.togglePopup(29,1)">see Figure 2.36</span>).</p>
+				<p class="start moreSpacing"><strong>How can I connect my computer to TVs and gaming consoles?</strong></p>
+				<p>The latest digital connector designed for use in HD home theater environments is a <span class="strongDBlue" glossary>high-definition multimedia interface (HDMI)</span>, a compact audio–video interface that carries both HD video and uncompressed digital audio on one cable. (DVI can only carry video signals.) Because HDMI can transmit uncompressed audio and video, there’s no need to convert the signal, which could ultimately reduce the quality of the sound or picture. Most DVD players, televisions, and game consoles have at least one HDMI port (<span class="strongDBlue" onclick="compTia.togglePopup(29,2)">see Figure 2.37</span>).</p>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(29,0)"
+						style="height: 171px;margin-top: 0px;background: url(assets/images/figures/fig2.35.png) no-repeat scroll center -19px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2.35</span> Video ports (VGA ports) connect monitors and multimedia devices to the computer; audio ports are used to connect speakers, headphones, and microphones. </figcaption>
+   			</figure>
+			
+			<figure onclick="compTia.togglePopup(29,1)"
+						style="height: 169px;margin-top: 15px;background: url(assets/images/figures/fig2.36.jpg) no-repeat scroll center 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2.36</span> VGA (left) and DVI (right) cables are used to connect LCD monitors to computers. <em>(Marek Kosmal/Fotolia)</em></figcaption>
+   			</figure>
+			
+			<figure onclick="compTia.togglePopup(29,2)"
+						style="height: 165px;margin-top: 15px;background: url(assets/images/figures/fig2.37.jpg) no-repeat scroll center 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2.37</span> HDMI is the latest digital connector type for HD home theater equipment. <em>(DSGPro/iStockphoto)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading">Adding Ports: Expansion Cards and Hubs</h2>
+				<p class="moreSpacing"><strong>What if I don’t have all the ports I need?</strong> If you’re looking to add the newest ports to an older desktop computer or to expand the number of ports on it, you can install special expansion cards into an open expansion slot on the motherboard to provide additional ports. If your laptop computer requires additional ports, you can add them with an express card adapter, which fits into a slot on the side of your laptop. <span class="strongDBlue" onclick="compTia.togglePopup(30,0)">Figure 2.38</span> shows an example of both of these scenarios.</p>
+				<p class="start moreSpacing">Another alternative is adding an expansion hub (<span class="strongDBlue" onclick="compTia.togglePopup(30,1)">shown in Figure 2.39</span>). An expansion hub is a device that connects to one port, such as a USB port, to provide additional ports. It works like the multiplug extension cords used with electrical appliances.</p>
+					
+					<div class="soundByteContain" style="margin-top:38px">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/port_tour/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Port Tour: How Do I Hook It Up?
+						</div>
+						In this Sound Byte, you’ll take a tour of both a desktop system and a laptop system to compare the number and variety of available ports. You’ll also learn about the different types of ports and compare their speed and expandability.
+					</div></div>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(30,0)"
+						style="height: 355px;margin-top: 0px;background: url(assets/images/figures/fig2.38.jpg) no-repeat scroll center 0 transparent;">
+						<figcaption class="bottomPos" style="width:400px;">
+   				<span>Figure 2.38</span> Expansion cards can (a) fit on the motherboard in a desktop computer or (b) in a card slot on your laptop to provide your computer with additional ports.
+				<em>(Andrew Kitching/Alamy; Editorial Image, LLC/Alamy)</em> </figcaption>
+   			</figure>
+			
+			<figure onclick="compTia.togglePopup(30,1)"
+						style="height: 179px;margin-top: 7px;background: url(assets/images/figures/fig2.39.jpg) no-repeat scroll  0 transparent;">
+						<figcaption class="rightPos" style="width: 172px;margin-top: 15px;">
+   				<span>Figure 2.39</span> If you don’t have enough USB ports to support your USB devices, consider getting an expansion hub, which can add four or more USB ports to your system. 
+				<br/><em>(Norman Chan/Fotolia)</em></figcaption>
+   			</figure>
+			
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/sports.jpg)">
+						<div class="orange" style="margin-left: 56px">power</div>
+						<div class="blue" style="margin-left: 98px">CONTROLS</div>
+					</div>
+					<p class="moreSpacing"><strong>What’s the best way to turn my computer on and off?</strong> The <span class="strongDBlue" glossary>power supply</span>, which is housed inside the system unit, transforms the wall voltage to the voltages required by computer chips. Powering on your computer from a completely turned off state, such as when you start your computer in the morning, is called a <span class="strongDBlue" glossary>cold boot</span>. In Windows 8, you can turn your computer off by pressing the computer’s power button or by using the Shut Down option from the power icon found under Settings on the Charms bar.</p>
+					<p class="start moreSpacing"><strong>Should I turn off my computer every time I’m done using it?</strong>
+					Some people say you should leave your computer on at all times. They argue that turning your computer on and off throughout the day subjects its components to stress because the heating and cooling process forces the components to expand and contract repeatedly. Other people say you should shut down your computer when you’re not using it. They claim that it’s not as environmentally friendly and that you’ll end up wasting money on electricity from the computer running all the time.</p>
+					<p class="start moreSpacing">Modern operating systems include power-management settings that allow the most power-hungry components of the system (the hard drive and monitor) to shut down after a short idle period. With the power management options of Windows 8, for example, you only need</p>
+				]]>
+			</section>
+			
+			<section>
+				<![CDATA[
+				<p class="moreSpacing">to shut down your computer completely when you need to repair or install hardware in the system unit or move it to another location. However, if you use your computer only for a little while each day, it would be best to power it off completely after each daily use.</p>
+				<p class="start moreSpacing"><strong>Can I “rest” my computer without turning it off completely?</strong>  In Windows 8, the main method of power management is Sleep. When your computer enters <span class="strongDBlue" glossary>Sleep mode</span>, all of the documents, applications, and data you were using remain in RAM (memory), where they’re quickly accessible when you restart your computer.</p>
+
+				<a onclick="compTia.togglePopup(31,0)" class="readMore"></a>
+				<br/>
+				<p class="start moreSpacing">The <span class="strongDBlue" glossary>Hibernate</span> option is similar to Sleep except that your data is stored on your hard drive instead of in RAM and your computer is powered off. This uses much less battery power than Sleep and is a good choice if you won’t be using your laptop for a  long time and won’t have the opportunity to charge it. However, Sleep is still a good option to choose if you just won’t be using your computer for a short time. You may want to set your computer so it sleeps when you close the lid but hibernates when you press the power button, giving you quick access to either option.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="RowCellCell" distinction="">
+			<section>
+				<![CDATA[
+
+					<figure style="background:url(assets/images/figures/fig2.41.png) no-repeat scroll 80px 0px transparent;
+							    height: 280px;
+								margin-bottom: 30px;">
+								<div onclick="compTia.togglePopup(32,0)" style="width: 750px;
+									height: 270px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_2_41.html','_blank')"></div>
+					</figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p class="start TMargin25 moreSpacing"><strong>What’s the restart option in Windows for?</strong> If you’re using Windows 8, you have the option to restart the computer when you display the Charms bar, click (or touch) Settings, then click the Power button (<span class="strongDBlue" onclick="compTia.togglePopup(32,0)">see Figure 2.41</span>). Restarting the system while it’s powered on is called a <span class="strongDBlue" glossary>warm boot</span>. You might need to perform a warm boot if the operating system or other software application stops responding or if you’ve installed new programs. It takes less time to perform a warm boot than to power down completely and then restart all your hardware.</div>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<br>
+					<br>
+				<figure>
+					<figcaption class="toStatic">
+						<span>Figure 2.41</span> The Settings panel in Windows 8 presents several <br/>power options. For a warm boot, choose <strong>Restart</strong>. To power down the computer completely, choose <strong>Shut down</strong>. To put your computer into a lower power mode, select <strong>Sleep</strong>.
+						</figcaption></figure>
+						<br>
+					<p class="smaller" style="width: 330px"><em>>To select a particular power option, display the Charms bar, click <strong>Settings</strong>, then click the <strong>Power</strong> button.</em></p>
+
+				]]>
+			</section>
+			
+
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/computerEyeThumbnail.jpg)">
+						<div class="dblue">setting it</div>
+						<div class="orange">ALL UP</div>
+					</div>
+					<p class="moreSpacing">It’s important that you understand not only your computer’s components and how they work together but also how to set up these components safely. <span class="strongDBlue" glossary>Ergonomics</span> is the science that deals with the design and location of machines and furniture so that the people using them aren’t subjected to an uncomfortable or unsafe experience. In terms of computing, ergonomics refers to how you set up your computer and other equipment to minimize your risk of injury or discomfort.</p>
+					<p class="start moreSpacing"><strong>Why is ergonomics important?</strong> Studies suggest that teenagers, on average, spend 31 hours online each week. When you factor in other computer uses such as typing school reports and playing video games, there is great potential for injury. The repetitive nature of long-term computer activities can place too much stress on joints and pull at the tendons and muscles, causing repetitive stress injuries such as carpal tunnel syndrome and tendonitis. These injuries can take months or years to develop to a point where they become painful, and by the time you notice the symptoms, the damage has already taken place. If you take precautionary measures now, you may prevent years of unnecessary pain later.</p>
+
+				]]>
+			</section>
+			
+			<section>
+				<![CDATA[
+					<p class="start lessSpacing"><strong>How can I avoid injuries when I’m working at my computer? </strong>
+					As <span class="strongDBlue" onclick="compTia.togglePopup(33,1)">Figure 2.42</span> illustrates, it’s important to arrange your monitor, chair,  body, and keyboard in ways that will help you avoid injury, discomfort, and eyestrain. The following additional guidelines can help keep you comfortable and productive:</p>
+					<ul class="dotted lessSpacing">
+						<li><span class="innerLi"><strong>Position your monitor correctly.</strong> Studies suggest it’s best to place your monitor at least 25 inches from your eyes. Experts recommend that  you position your monitor either at eye level or at an angle 15 to 20 degrees below your line of sight.</span></li>
+					</ul>
+					<a onclick="compTia.togglePopup(33,0)" class="readMore"></a>
+					<br/>
+
+					<figure onclick="compTia.togglePopup(33,1)"
+						style="background:url(assets/images/figures/fig2.42.jpg) no-repeat scroll 0 0 transparent;
+							    height: 280px;
+								margin-top: 30x;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2.42</span> Using proper equipment that is adjusted correctly helps prevent repetitive strain injuries while working at a computer.</figcaption></figure>
+					]]>
+			</section>
+		
+		</page>
+		
+		<page index="34" type="ColumnColumn" distinction="">
+			
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Is ergonomics important when using mobile devices?</strong> Working with mobile computing devices presents interesting challenges when it comes to injury prevention. For example, many users work with laptops resting on their laps, placing the monitor outside of the optimal line of sight and thereby increasing neck strain. <span class="strongDBlue" onclick="compTia.togglePopup(34,0)">Figure 2.44</span> provides guidelines on preventing injuries when computing on the go. So, whether you’re computing at your desk or on the road, consider the ergonomics of your work environment. Doing so will help you avoid injury and discomfort.</p>
+					<p class="start"><strong>What devices are available for people with disabilities?</strong> People who have physical challenges sometimes need special devices to access computers. For visually impaired users, voice recognition is an input option. For those users whose visual limitations are less severe, keyboards with larger keys are available. Keyboards that display on a touch screen or specialized input consoles (<span class="strongDBlue" onclick="compTia.togglePopup(35,0)">see Figure 2.45a</span>) can make input easier for individuals who can’t type with their hands: The user presses the keys with a pointing device. There are also keyboards, such as those made by Maltron, designed for individuals who can use only one hand (<span class="strongDBlue" onclick="compTia.togglePopup(35,0)">see Figure 2.45b</span>).</p>
+					
+					<a onclick="compTia.togglePopup(34,1)" class="readMore"></a>
+				
+				]]>
+			</section>
+			
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes font_21 normalFontFamily"
+						 style="background-position:373px 0">Preventing Injuries While on the Go</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(34,0)"
+						 style="background: url(assets/images/figures/fig2.44.jpg) no-repeat scroll center 45px #FFFFFF; height: 270px; overflow: hidden;">
+						
+						<span class="strongDHeading font_15 semibold"><strong>Figure 2.44</strong> Click to reveal the table</span>
+					</figure>
+				</div>
+					
+					<br/>
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/healthy_computing/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Healthy Computing
+						</div>
+						In this Sound Byte, you’ll see how to set up your workspace in an ergonomically correct way. You’ll learn the proper location of the monitor, keyboard, and mouse, as well as ergonomic features to look for when choosing the most appropriate chair.
+					</div></div>
+					
+				]]>
+			</section>
+		
+		</page>	
+		
+		<page index="35" type="RowCellCell" distinction="">
+			<section>
+				<![CDATA[
+
+					<figure onclick="compTia.togglePopup(35,0)" style="background:url(assets/images/figures/fig2.45.png) no-repeat scroll 80px 0px transparent;
+							    height: 280px;
+								margin-top: 30x;">
+						<figcaption class="leftPos" style="width: 570px">
+
+								    <span>Figure 2.45</span> (a) Input consoles for people who can’t type with their hands and (b) keyboards designed for one-handed use make computer interaction easier for individuals with disabilities.
+									<em>(www.maltron.com; www.maltron.com)</em>
+						</figcaption>
+					</figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<br><br>
+					<img onclick="compTia.togglePopup(35,1)" src="assets/images/layout/TrendsinItbutton.png" />
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<br/>
+
+					<div class="purpleContain"
+						>
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_2_Part_2/Chapter_2_Part_2.html','_blank')" >Replay Video 2.2</span>.</span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(6)">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="36" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">How do you store your files most often?</div>
+					<ol class="pollQuestions">
+						<li>On an internal hard drive only</li>
+						<li>On my hard drive plus a flash drive/external drive</li>
+						<li>On my hard drive plus in the cloud</li>
+						<li>In the cloud only</li>
+					
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="37" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<h1><span class="chapter">2</span> Chapter Review</h1>
+			<div class="largerTitle">summary//</div>
+
+				<img src="assets/images/pics/medChip_computer.jpg" class="floatPositioned">
+				<h2>Understanding Your Computer</h2>
+				<span class="prePseudoLi preContent1 strong">What exactly is a computer, and what are its four main functions?</span>
+
+
+			<ul class="dotted TMargin5 clearLeft">
+				<li><span class="innerLi">Computers are devices that process data. They help organize, sort, and categorize data to turn it into information.</span></li>
+				<li><span class="innerLi">The computer’s four major functions are: (1) input: gather data, or allow users to enter data; (2) process: manipulate, calculate, or organize that data; (3) output: display data and information in a form suitable for the user; and (4) storage: save data and information for later use.</span></li>
+			</ul>
+
+					<h4>2. What is the difference between data and information?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">Data is a representation of a fact or idea. The number 3 and the words <em>televisions</em> and <em>Sony</em> are pieces of data.</span></li>
+						<li><span class="innerLi">Information is data that has been organized or presented in a meaningful fashion. An inventory list that indicates that “three Sony televisions” are in stock is processed information. It allows a retail clerk to answer a customer query about the availability of merchandise. Information is more powerful than raw data.</span></li>
+					</ul>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h4>3. What are bits and bytes, and how are they measured?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">To process data into information, computers need to work in a language they understand. This language, called <em>binary language</em>, consists of two numbers: 0 and 1.</span></li>
+						<li><span class="innerLi">Each 0 and each 1 is a binary digit, or bit. Eight bits create one byte.</span></li>
+						<li><span class="innerLi">In computers, each letter of the alphabet, each number, and each special character consists of a unique combination of eight bits (one byte)—a string of eight 0s and 1s.</span>
+						<li><span class="innerLi">For describing large amounts of storage capacity, the terms <em>megabyte</em> (approximately 1 million bytes), <em>gigabyte</em> (approximately 1 billion bytes), and <em>terabyte</em> (approximately 1 trillion bytes) are used.</span></li>
+					</ul>
+					<br/>
+
+				<img src="assets/images/pics/mboxofcomp.png" class="floatPositioned">
+				<h2 style="margin:0 0 4px">Input Devices and Output Devices</h2>
+				<span class="prePseudoLi strong preContent4">Whats devices can I use to get data into the computer?</span>
+					<br/>
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">An input device enables you to enter data (text, images, and sounds) and instructions (user responses and commands) into a computer.</span></li>
+						<li><span class="innerLi">You use keyboards to enter typed data and commands, whereas you use the mouse to enter user responses and commands.</span></li>
+						<li><span class="innerLi">Touch screens are display screens that respond to commands initiated by a touch with a finger or a stylus.</span></li>
+						<li><span class="innerLi">Images are input into the computer with scanners, digital cameras, camcorders, and smartphones.</span></li>
+						<li><span class="innerLi">Live video is captured with webcams and digital video recorders.</span></li>
+					</ul>
+				
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="38" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+				<ul class="dotted">
+					<li><span class="innerLi">Microphones capture sounds. There are many different types of microphones, including desktop, headset, and clip-on models.</span></li>
+				</ul>
+					<br/>
+					<h4>5. What devices can I use to get information out of the computer?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">Output devices enable you to send processed data out of your computer. It can take the form of text, pictures, sounds, or video.</span></li>
+						<li><span class="innerLi">Monitors display soft copies of text, graphics, and video, whereas printers create hard copies of text and graphics.</span></li>
+						<li><span class="innerLi">There are two primary categories of printers: inkjet and laser. Specialty printers are also available. These include all-in-one printers, plotters, and thermal printers. When choosing a printer, you should be aware of factors such as speed, resolution, color output, and cost.</span></li>
+						<li><span class="innerLi">Speakers are the output devices for sound. Most computers include speakers; more-sophisticated systems include subwoofers and surround sound.</span></li>
+					</ul>
+					<br>
+					<img src="assets/images/pics/medMotherboard.jpg" class="floatPositioned">
+					<h2 style="margin:0 0 4px">Processing, Memory, and Storage</h2>
+					<span class="prePseudoLi preContent6 strong">What’s on the motherboard?</span>
+
+					<ul class="dotted clearLeft TMargin25">
+						<li><span class="innerLi">The motherboard, the main circuit board of the system, contains a computer’s CPU, which coordinates  the functions of all other devices on the computer. The performance of a CPU is affected by the speed of the processor (measured in GHz), the amount of cache memory, and the number of processing cores.</span></li>	
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">RAM, the computer’s volatile memory, is also located on the motherboard. RAM is where all the data and instructions are held while the computer is running.</span></li>
+						<li><span class="innerLi">ROM, a permanent type of memory, is responsible for housing instructions to help start up a computer.</span></li>
+						<li><span class="innerLi">The motherboard also houses slots for expansion cards, which have specific functions that augment the computer’s basic functions. Typical expansion cards are sound and video cards.</span></li>
+					</ul>
+					<h4>7. Where are information and programs stored?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">To save programs and information permanently, you need to save them to the hard drive or to another permanent storage device such as a CD, DVD, or flash drive.</span></li>
+						<li><span class="innerLi">The hard drive is your computer’s primary device for permanent storage of software and files. The hard drive is a nonvolatile storage device, meaning it holds the data and instructions your computer needs permanently, even after the computer is turned off.</span></li>
+						<li><span class="innerLi">Mechanical hard drives have spinning platters on which data is saved, whereas newer solid-state drives (SSDs) use solid-state memory, similar to that used with flash drives.</span></li>
+						<li><span class="innerLi">External hard drives are essentially internal hard drives that have been made portable by enclosing them in a protective case and making them small and lightweight.</span></li>
+					</ul>
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="39" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Optical drives that can read from and write to CD, DVD, or Blu-ray discs are another means of permanent, portable storage. Data is saved to CDs, DVDs, and Blu-ray discs as pits that are burned into the disc by a laser.</span></li>
+						<li><span class="innerLi">Flash drives are another portable means of storing data. Flash drives plug into USB ports.</span></li>
+						<li><span class="innerLi">Flash memory cards let you transfer digital data between your computer and devices such as digital cameras, smartphones, video cameras, and printers.</span></li>
+					</ul>
+						<br/>
+					<img src="assets/images/pics/medPorts.jpg" class="floatPositioned">
+					<h2 style="margin:0 0 4px">Ports and Power Controls</h2>
+					<span class="prePseudoLi preContent8 strong">How are devices connected to the computer?</span>
+
+					<ul class="dotted clearLeft TMargin25">
+						<li><span class="innerLi">There is a wide variety of ports that allow you to hook up peripheral devices (such as your monitor and keyboard) to your system.</span></li>
+						<li><span class="innerLi">The most common type of port used to connect devices to a computer is the USB port. USB 2.0 is the current standard but is quickly being replaced by the newer, faster USB 3.0 standard.</span></li>
+						<li><span class="innerLi">FireWire ports provide additional options for data transfer.</span></li>
+						<li><span class="innerLi">Connectivity ports, including Ethernet ports and modem ports, give you access to networks and the Internet and enable your computer to function as a fax machine.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<ul class="dotted">
+					<li><span class="innerLi">Multimedia ports include VGA and DVI ports. They connect the computer to monitors and other multimedia devices.</span></li>
+					<li><span class="innerLi">Audio ports are where you connect headphones, microphones, and speakers to the computer.</span></li>
+					<li><span class="innerLi">HDMI ports are used as a connection between monitors, TVs, and gaming consoles and work with both audio and video content.</span></li>
+				</ul>
+					<br/>
+					<h4>9. What’s the best way to turn my computer on and off, and when should it be done?</h4>
+				<ul class="dotted">
+					<li><span class="innerLi">Powering on your computer from a completely turned off state. In Windows 8, you can turn your computer off by pressing the computer’s power button or by using the Shut Down option from the power icon found under Settings on the Charms bar.</span></li>
+					<li><span class="innerLi">With the power-management options of Windows 8, for example, you only need to shut down your computer completely when you need to repair or install hardware in the system unit or move it to another location. However, if you use your computer only for a little while each day, it would be best to power it off completely after each daily use.</span></li>
+				</ul>
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="40" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+
+
+					<img src="assets/images/pics/meCcarptunnel.png" class="floatPositioned">
+
+					<h2 style="margin:0 0 4px">Setting It All Up</h2>
+					<span class="prePseudoLi preContent10 strong">&nbsp;&nbsp;How do I set up my computer to avoid strain and injury?</span>
+
+					<ul class="dotted clearLeft TMargin25">
+						<li><span class="innerLi"><em>Ergonomics</em> refers to how you arrange your computer and equipment to minimize your risk of injury or discomfort.</span></li>
+						<li><span class="innerLi">Ergonomics includes positioning your monitor correctly, buying an adjustable chair, assuming a proper position while typing, making sure the lighting is adequate, and not looking at the screen for long periods. Other good practices include taking frequent breaks and using specially designed equipment such as ergonomic keyboards.</span></li>
+						<li><span class="innerLi">Ergonomics is also important to consider when using mobile devices.</span></li>
+						</ul>
+					<br/>
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					<br>
+					<img src="assets/images/layout/techTouchS2.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				]]>
+			</section>
+		</page>	
+
+		<page index="41" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 2 glossary//</div>
+					
+					<span class="strongDBlue" glossary>all-in-one computer</span> 37<br/>
+					<span class="strongDBlue" glossary>all-in-one printer</span> 47<br/>
+					<span class="strongDBlue" glossary>application software</span> 36<br/>
+					<span class="strongDBlue" glossary>aspect ratio</span> 45<br/>
+					<span class="strongDBlue" glossary>binary digit (bit)</span> 35<br/>
+					<span class="strongDBlue" glossary>binary language</span> 34<br/>
+					<span class="strongDBlue" glossary="bluetooth (technology)">Bluetooth technology</span> 40<br/>
+					<span class="strongDBlue" glossary>Blu-ray disc (BD)</span> 58<br/>
+					<span class="strongDBlue" glossary>byte</span> 35<br/>
+					<span class="strongDBlue" glossary>central processing unit (CPU, or processor)</span> 53<br/>
+					<span class="strongDBlue" glossary>cold boot</span> 62<br/>
+					<span class="strongDBlue" glossary>compact disc (CD)</span> 57<br/>
+					<span class="strongDBlue" glossary>computer</span> 34<br/>
+					<span class="strongDBlue" glossary>connectivity port</span> 59<br/>
+					<span class="strongDBlue" glossary>data</span> 34<br/>
+					<span class="strongDBlue" glossary>desktop computer</span> 37<br/>
+					<span class="strongDBlue" glossary>digital video (or versatile) disc (DVD)</span> 57<br/>
+					<span class="strongDBlue" glossary>digital video interface (DVI) port</span> 60<br/>
+					<span class="strongDBlue" glossary>drive bay</span> 55<br/>
+					<span class="strongDBlue" glossary>embedded computer</span> 38<br/>
+					<span class="strongDBlue" glossary>ergonomics</span> 64<br/>
+					<span class="strongDBlue" glossary>Ethernet port</span> 59<br/>
+					<span class="strongDBlue" glossary>expansion card (adapter card)</span> 52<br/>
+					<span class="strongDBlue" glossary>external hard drive</span> 55<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>FireWire 400</span> 59<br/>
+				<span class="strongDBlue" glossary>FireWire 800</span> 59<br/>
+				<span class="strongDBlue" glossary="flash drive">flash drive (jump drive, USB drive, or thumb drive)</span> 56<br/>
+				<span class="strongDBlue" glossary>flash memory card</span> 57<br/>
+				<span class="strongDBlue" glossary>gigabyte (GB)</span> 36<br/>
+				<span class="strongDBlue" glossary>gigahertz (GHz)</span> 53<br/>
+				<span class="strongDBlue" glossary="hard disk drive (hdd)">hard disk drive (HDD, or hard drive)</span> 55<br/>
+				<span class="strongDBlue" glossary>hardware</span> 36<br/>
+				<span class="strongDBlue" glossary>Hibernate</span> 62<br/>
+				<span class="strongDBlue" glossary>high-definition multimedia interface (HDMI)</span> 60<br/>
+				<span class="strongDBlue" glossary>impact printer</span> 46<br/>
+				<span class="strongDBlue" glossary>information</span> 34<br/>
+				<span class="strongDBlue" glossary>inkjet printer</span> 46<br/>
+				<span class="strongDBlue" glossary>input device</span> 40<br/>
+				<span class="strongDBlue" glossary>internal hard drive</span> 55<br/>
+				<span class="strongDBlue" glossary>keyboard</span> 40<br/>
+				<span class="strongDBlue" glossary>kilobyte (KB)</span> 36<br/>
+				<span class="strongDBlue" glossary>laptop (or notebook) computer</span> 37<br/>
+				<span class="strongDBlue" glossary>laser printer</span> 48<br/>
+				<span class="strongDBlue" glossary>legacy technology</span> 45<br/>
+				<span class="strongDBlue" glossary>light-emitting diode (LED)</span> 45<br/>
+				<span class="strongDBlue" glossary>liquid crystal display (LCD)</span> 45<br/>
+				<span class="strongDBlue" glossary>mainframe</span> 38<br/>
+				<span class="strongDBlue" glossary>megabyte (MB)</span> 36<br/>
+				<span class="strongDBlue" glossary>microphone (mic)</span> 43<br/>
+				<span class="strongDBlue" glossary>modem port</span> 59<br/>
+				<span class="strongDBlue" glossary>monitor (display screen)</span> 45<br/>
+				
+				]]>
+			</section>
+		</page>	
+
+		<page index="42" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					
+					<span class="strongDBlue" glossary>motherboard</span> 52<br/>
+					<span class="strongDBlue" glossary>mouse</span> 40<br/>
+					<span class="strongDBlue" glossary>netbook</span> 37<br/>
+					<span class="strongDBlue" glossary>network interface card (NIC)</span> 52<br/>
+					<span class="strongDBlue" glossary>nonimpact printer</span> 46<br/>
+					<span class="strongDBlue" glossary>nonvolatile storage</span> 53<br/>
+					<span class="strongDBlue" glossary>operating system (OS)</span> 36<br/>
+					<span class="strongDBlue" glossary>optical drive</span> 57<br/>
+					<span class="strongDBlue" glossary>optical mouse</span> 41<br/>
+					<span class="strongDBlue" glossary>organic light-emitting diode (OLED) displays</span> 45<br/>
+					<span class="strongDBlue" glossary>output device</span> 45<br/>
+					<span class="strongDBlue" glossary>peripheral device</span> 37<br/>
+					<span class="strongDBlue" glossary>petabyte (PB)</span> 36<br/>
+					<span class="strongDBlue" glossary>pixel</span> 45<br/>
+					<span class="strongDBlue" glossary>plotter</span> 47<br/>
+					<span class="strongDBlue" glossary>port</span> 58<br/>
+					<span class="strongDBlue" glossary>power supply</span> 62<br/>
+					<span class="strongDBlue" glossary>printer</span> 45<br/>
+					<span class="strongDBlue" glossary>processing</span> 34<br/>
+					<span class="strongDBlue" glossary>projector</span> 60<br/>
+					<span class="strongDBlue" glossary>QWERTY keyboard</span> 40<br/>
+					<span class="strongDBlue" glossary>random access memory (RAM)</span> 52<br/>
+					<span class="strongDBlue" glossary>read-only memory (ROM)</span> 53<br/>
+					<span class="strongDBlue" glossary>resolution</span> 45<br/>
+					<span class="strongDBlue" glossary>scanner</span> 43<br/>
+					<span class="strongDBlue" glossary>Sleep mode</span> 62<br/>
+					<span class="strongDBlue" glossary>smartphone</span> 39<br/>
+					
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>software</span> 36<br/>
+				<span class="strongDBlue" glossary>solid-state drive (SSD)</span> 55<br/>
+				<span class="strongDBlue" glossary>sound card</span> 52<br/>
+				<span class="strongDBlue" glossary>speakers</span> 49<br/>
+				<span class="strongDBlue" glossary>stylus</span> 40<br/>
+				<span class="strongDBlue" glossary>supercomputer</span> 38<br/>
+				<span class="strongDBlue" glossary>surround-sound speaker</span> 49<br/>
+				<span class="strongDBlue" glossary>system software</span> 36<br/>
+				<span class="strongDBlue" glossary>system unit</span> 37<br/>
+				<span class="strongDBlue" glossary>tablet computer</span> 37<br/>
+				<span class="strongDBlue" glossary>tablet PC</span> 37<br/>
+				<span class="strongDBlue" glossary>terabyte (TB)</span> 36<br/>
+				<span class="strongDBlue" glossary>thermal printer</span> 47<br/>
+				<span class="strongDBlue" glossary>touch pad (trackpad)</span> 42<br/>
+				<span class="strongDBlue" glossary>touch screen</span> 42<br/>
+				<span class="strongDBlue" glossary>trackpoint device</span> 42<br/>
+				<span class="strongDBlue" glossary>ultrabook</span> 37<br/>
+				<span class="strongDBlue" glossary>universal serial bus (USB) port</span> 58<br/>
+				<span class="strongDBlue" glossary="video card (video adapter)">video card</span> 52<br/>
+				<span class="strongDBlue" glossary>video graphics array (VGA) port</span> 60<br/>
+				<span class="strongDBlue" glossary>volatile storage</span> 52<br/>
+				<span class="strongDBlue" glossary>warm boot</span> 63<br/>
+				<span class="strongDBlue" glossary>webcam</span> 43<br/>
+				
+				]]>
+			</section>
+		</page>	
+
+<page index="43" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">making the transition to...next semester//</div>
+			<ol>
+				<li><span class="innerLi">Watching Device Demos</span><br/><span class="innerLi notStrong">YouTube is a great resource for product demonstrations. Open your browser, navigate to YouTube (<span class="innerLi strongDBlue" onclick="window.open('http://www.youtube.com/','_blank')">youtube.com</span>), and search on any type of computer peripheral discussed in this chapter to see if you can find a demonstration of a cool product. How helpful are these demonstrations? Make a video demonstration of a computing device you have and post it to your course management system or present it to your classmates (as specified by your instructor).</span></li>
+				<li><span class="innerLi">Communicating with the Computer</span><br/><span class="innerLi notStrong">You’re involved in many group projects at school. Between your work, your classes, and other outside responsibilities, you’re finding it difficult to meet in person. Investigate the devices you would need to be able to have virtual group meetings.</span></li>
+				<li><span class="innerLi">Turn Your Monitor into a TV</span><br/><span class="innerLi notStrong">You’ve heard how easy it is to convert an LCD monitor into a TV. Your parents just bought a new computer and are giving you their old PC monitor. You need a new TV for your dorm room, so you decide to give the conversion a try.</span></li>
+					<ol>
+					<li><span class="notStrong"> What does your monitor need to retrofit it into a TV? What other devices do you need?</span></li>
+					<li><span class="notStrong">How much will it cost? How much do new LCD TVs cost?</span></li>
+					<li><span class="notStrong">What would you do if your parents gave you their old LCD TV? Could you turn it into a monitor? If so, what would you need to do that?</span></li>
+				</ol>
+			
+			</ol>
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			<div class="title">making the transition to...the workplace//</div>
+			<ol>
+				<li><span class="innerLi">Backing Up Your Work</span><br/><span class="innerLi notStrong">You’ve embarked on a position as a freelance editor. You’ll be using your own computer. Until now, you haven’t worried too much about backing up your data. Now, however, it’s extremely important that you back up all your work frequently. Research the various backup options available, including online backup services, external hard drives, and portable flash storage. What are the size limitations of each? What are the initial and ongoing costs of each? How frequently do the options allow you to perform backups? Which option would you would choose, and why?</span></li>
+				<li><span class="innerLi">What Hardware Will You Use?</span><br/><span class="innerLi notStrong">When you arrive at a new position for a company, your employer will most likely provide you with a computer. Based on the career you’re in now or are planning to pursue, answer the following questions:</span></li>
+					<ol>
+						<li><span class="notStrong">What kind of computer system would the company mostly likely provide to you—desktop, laptop, tablet PC, or something else? How does that compare with the type of system with which you prefer to work?</span></li>
+						<li><span class="notStrong">If you were required to use a type of computer you’d never used before (such as a Mac instead of a PC), how would you go about learning to use the new computer?</span></li>
+						<li><span class="notStrong">What other devices might your employer provide? Consider such items as smartphones or printers. How important is it for these devices to conform to the latest trends?</span></li>
+					</ol>	
+			</ol>
+		]]>
+	</section>
+</page>
+<page index="44" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<ol style="list-style-type:lower-alpha;">
+				<li class="liHide"></li>
+				<li class="liHide"></li>
+				<li class="liHide"></li>
+				<li><span class="notStrong">Should you be able to use employer-provided equipment, such as a smartphone, for personal benefit? Does your answer differ if you have to pay for part or all of the device?</span></li>
+			</ol>
+			
+			<div class="title">
+				team time //
+			</div>
+			<h3>Which Mobile Device Is the Best?</h3>
+			<h4>Problem</h4>
+			<p>You’ve joined a small business that’s beginning to evaluate its technology setup. Because of the addition of several new sales representatives and other administrative employees, many new computers need to be purchased. You’re trying to decide which mobile devices would be better to purchase—laptop computers, tablet PCs, tablet computers (iPads), or a combination of these devices.</p>
+			<h4>Task</h4>
+			Split your class into teams of three and assign the following tasks.
+
+			<span class="psudoUlLi">Member A explores the benefits and downfalls of laptop computers.</span>
+			<span class="psudoUlLi">Member B explores the benefits and downfalls of tablet PCs.</span>
+			<span class="psudoUlLi">Member C explores the benefits and downfalls of tablet computers.</span>
+			
+			<h4>Process</h4>
+
+			<ol>
+				<li><span class="notStrong">Think about what the technology goals are for the company and what information and resources you will need to tackle this project.</span></li>
+				<li><span class="notStrong">Research and then discuss the components of each system you’re recommending. Are any components better suited for the particular needs of certain types of employees (sales representatives versus</span></li>
+			</ol>
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			<ol class="noListStyle">
+				<li><span class="notStrong">administrative staff)? Consider all the input, output, processing, and storage devices. Are any special devices or peripherals required?</span></li>
+			</ol>
+			<ol>
+				<li class="liHide"></span></li>
+				<li class="liHide"></span></li>	
+				<li><span class="notStrong">Consider the different types of employees in the company. Would a combination of devices be better than a single solution? If so, what kinds of employees would get which type of computer?</span></li>
+				<li><span class="notStrong">As a team, write a summary position paper. Support your system recommendation for the company. Each team member should include why his or her type of computer will be part of the solution or not.</span></li>
+			</ol>
+			<h4>Conclusion</h4>
+			<p>Laptops, tablet PCs, and tablet computers have their own merits as computing systems. Being aware of the options in the marketplace, knowing how to analyze the trade-offs of different designs, and recognizing the different needs each type of computer fulfills allows you to become a better consumer as well as a better computer user.</p>
+		]]>
+	</section>
+</page>		
+
+<page index="45" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">ethics project//</div>
+			<h3>Green Computing</h3>
+			<p>Ethical conduct is a stream of decisions you make all day long. In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play may or may not match your own personal beliefs, but your research and use of logic will enable you to represent whichever view is assigned. An arbitrator will watch and comment on both sides of the arguments, and together, the team will agree on an ethical solution.</p>
+			<br/>
+			<h4>Background</h4>
+			<p>Green computing—conducting computing needs with the least possible amount of power and impact on the environment—is on everyone’s minds. Although it’s hard to argue with an environmentally conscious agenda, the pinch to our pocketbooks and the loss of some comforts sometimes makes green computing difficult. Businesses, including colleges, need to consider a variety of issues and concerns before jumping into a complete green overhaul.</p>
+			<br/>
+			<h4>Research Areas to Consider</h4>
+			<span class="psudoUlLi">End-of-life management: e-waste and recycling</span>
+			<span class="psudoUlLi">Energy-efficient devices</span>
+			<span class="psudoUlLi">Renewable resources used in computer manufacturing</span>
+			<span class="psudoUlLi">Costs of green computing</span>
+			<span class="psudoUlLi">Government funding and incentives</span>
+		
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			<h4>Process</h4>
+			<ol>				
+				<li><span class="notStrong">Divide the class into teams.</span></li>
+				<li><span class="notStrong"> Research the areas cited above and devise a scenario in which your college is considering modifying its current technology setup to a more green information technology (IT) strategy.</span></li>
+				<li><span class="notStrong">Team members should write a summary that provides background information for their character—for example, environmentalist, college IT administrator, or arbitrator—and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the role-playing event.</span></li>
+				<li><span class="notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+				<li><span class="notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+			</ol>
+			<h4>Conclusion</h4>
+			<p>As technology becomes ever more prevalent and integrated into our lives, more and more ethical dilemmas will present themselves. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+		]]>
+	</section>
+</page>
+
+
+	</chapter>
+</ebook>

@@ -1,0 +1,3616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ebook book="compTia">
+	<glossary>
+<!-- Chapter 1-->
+		<definition word="social networking"><![CDATA[
+		A means by which people use the Internet to communicate and share information among their immediate friends and to meet and connect with others through common interests, experiences, and friends.
+		]]>
+		</definition>
+
+		<definition word="crisis-mapping tool"><![CDATA[
+		A tool that collects information from e-mails, text messages, blog posts, and Twitter tweets and maps them, making the information instantly publicly available.
+		]]>
+		</definition>
+
+
+
+		<definition word="TRS-80"><![CDATA[
+		One of the first mass-produced microcomputers launched in 1977 and sold in Radio Shack stores. 
+		]]>
+		</definition>
+
+		<definition word="Altair 8800"><![CDATA[
+		A microcomputer designed in 1975 and sold in kit form (assembly required). Responsible for launching the microcomputer revolution.
+		]]>
+		</definition>
+
+		<definition word="Apple II"><![CDATA[
+		An innovative line of computers introduced by Apple in 1977 that featured unparalleled ease of use (for it time).
+		]]>
+		</definition>
+
+		<definition word="Commodore PET"><![CDATA[
+		First full-featured personal computer produced by Commodore International in 1997.
+		]]>
+		</definition>
+
+		<definition word="IBM PC"><![CDATA[
+		First personal computer developed by IBM and introduced in 1981.
+		]]>
+		</definition>
+
+
+		<definition word="network architecture"><![CDATA[
+		The design of a computer network; includes both physical and logical design.
+		]]>
+		</definition>
+		<definition word="local area network (LAN)"><![CDATA[
+		A network in which the nodes are located within a small geographic area.
+		]]>
+		</definition>
+		<definition word="peer-to-peer (P2P) network"><![CDATA[
+		A network in which each node connected to the network can communicate directly with every other node on the network.
+		]]>
+		</definition>
+		<definition word="transmission media"><![CDATA[
+		The radio waves or the physical system (cable) that transports data on a network.
+		]]>
+		</definition>
+		<definition word="twisted-pair cable"><![CDATA[
+		Cables made of copper wires that are twisted around each other and are surrounded by a plastic jacket (such as traditional home phone wire).
+		]]>
+		</definition>
+		<definition word="coaxial cable"><![CDATA[
+		A single copper wire surrounded by layers of plastic insulation, metal sheathing, and a plastic jacket; used mainly in cable television and cable Internet service.
+		]]>
+		</definition>
+		<definition word="fiber-optic cable"><![CDATA[
+		A cable that transmits data at close to the speed of light along glass or plastic fibers.
+		]]>
+		</definition>
+		<definition word="network adapter"><![CDATA[
+		A device that enables the computer (or peripheral) to communicate with the network using a common data communication language, or protocol.
+		]]>
+		</definition>
+		<definition word="packet (data packet)"><![CDATA[
+		A small segment of data that’s bundled for sending over transmission media. Each packet contains the address of the computer or peripheral device to which it’s being sent.
+		]]>
+		</definition>
+		<definition word="network navigation device"><![CDATA[
+		A device on a network such as a router, hub, or switch that moves data signals around the network.
+		]]>
+		</definition>
+		<definition word="router"><![CDATA[
+		A device that routes packets of data between two or more networks.
+		]]>
+		</definition>
+		<definition word="switch"><![CDATA[
+		A device for transmitting data on a network. A switch makes decisions, based on the media access control address of the data, as to where the data is to be sent.
+		]]>
+		</definition>
+		<definition word="network operating system (NOS)"><![CDATA[
+		Software that handles requests for information, Internet access, and the use of peripherals for the rest of the network node, providing the services necessary for the computers on the network to communicate.
+		]]>
+		</definition>
+		<definition word="Internet service provider (ISP)"><![CDATA[
+		A company that specializes in providing Internet access. ISPs may be specialized providers, like Juno, or companies that provide other services in addition to Internet access (such as phone and cable television).
+		]]>
+		</definition>
+		<definition word="digital subscriber line (DSL)"><![CDATA[
+		A type of connection that uses telephone lines to connect to the Internet and that allows both phone and data transmissions to share the same line.
+		]]>
+		</definition>
+		<definition word="network-attached storage (NAS) device"><![CDATA[
+		A specialized computing device designed to store and manage network data.
+		]]>
+		</definition>
+		<definition word="network-ready device"><![CDATA[
+		A device (such as a printer or an external hard drive) that can be attached directly to a network instead of needing to attach to a computer on the network.
+		]]>
+		</definition>
+		<definition word=""><![CDATA[
+		
+		]]>
+		</definition>
+
+
+		<definition word="Ethics"><![CDATA[
+		Generally accepted principles of right and wrong (usually defined by society) that guide behavior.
+		]]>
+		</definition>
+
+		<definition word="Personal ethics"><![CDATA[
+		Principles of right and wrong that guide a specific individual's behavior.
+		]]>
+		</definition>
+
+		<definition word="Positive psychology"><![CDATA[
+		a branch of psychology that uses theory, research and intervention techniques to decipher and foster the positive, adaptive, creative and emotionally fulfilling aspects of human behavior.
+		]]>
+		</definition>
+
+		<definition word="Whistle-blowers"><![CDATA[
+		A person who reveals information about illegal activities conducted by a business to authorities or the public.
+		]]>
+		</definition>
+
+		<definition word="Stakeholders"><![CDATA[
+		any person or entity that has an interest in a business (such as employees, customers, suppliers, etc.)
+		]]>
+		</definition>
+
+		<definition word="cyborg"><![CDATA[
+		A human being whose physiology is augmented or aided in some way by mechanical or computerized processes.
+		]]>
+		</definition>
+
+		<definition word="rotational delay"><![CDATA[
+		time required for a disk sector (to which information will be read or written) to position itself below the read-write heads of a hard disk.
+		]]>
+		</definition>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<definition word="beta version"><![CDATA[
+		Software that is feature complete but still has bugs that has been released to end users for testing. Usually the first software version tested by users outside of the company developing the software.
+		]]>
+		</definition>
+		<definition word="digital divide"><![CDATA[
+		The discrepancy between those who have access to the opportunities and knowledge that computers and the Internet offer and those who do not.
+		]]>
+		</definition>
+		<definition word="Web 2.0"><![CDATA[
+		Tools and web-based services that emphasize online collaboration and sharing among users.
+		]]>
+		</definition>
+
+		<definition word="authentication"><![CDATA[
+		Any method of confirming the identity of an authorized system user, such as requiring a logon name and password to gain access to a website.
+		]]>
+		</definition>
+		<definition word="device driver"><![CDATA[
+		Software that enables an operating system to communicate with a specific hardware device.
+		]]>
+		</definition>
+		<definition word="Microsoft account"><![CDATA[
+		A combination of an email address and a password that you allows you to sign in to Microsoft services such as Windows 8, Hotmail, Messenger, and SkyDrive.
+		]]>
+		</definition>
+
+		<definition word="cognitive surplus"><![CDATA[
+		The combination of leisure time and the tools needed to be creative.
+		]]>
+		</definition>
+
+		<definition word="crowdfunding"><![CDATA[
+		Asking for small donations from a large number of people, often using the Internet; a style of generating capital to start a business through social media.
+		]]>
+		</definition>
+
+		<definition word="QR (quick response) codes"><![CDATA[
+		Technology that lets any piece of print in the real world host a live link to online information and video content.
+		]]>
+		</definition>
+
+		<definition word="collaborative consumption"><![CDATA[
+		Joining together as a group to use a specific product more efficiently.
+		]]>
+		</definition>
+
+		<definition word="spam"><![CDATA[
+		Unwanted or junk e-mail.
+		]]>
+		</definition>
+
+		<definition word="software"><![CDATA[
+		The set of computer programs or instructions that tells the computer what to do and that enables it to perform different tasks.
+		]]>
+		</definition>
+
+		<definition word="information technology (IT)"><![CDATA[
+		The set of techniques used in processing and retrieving information.
+		]]>
+		</definition>
+
+		<definition word="data mining"><![CDATA[
+		The process by which great amounts of data are analyzed and investigated. The objective is to spot significant patterns or trends within the data that would otherwise not be obvious.
+		]]>
+		</definition>
+
+		<definition word="computer forensics"><![CDATA[
+		The application of computer systems and techniques to gather potential legal evidence; a law enforcement specialty used to fight high-tech crime.
+		]]>
+		</definition>
+
+		<definition word="augmented reality"><![CDATA[
+		A combination of our normal sense of the objects around us with an overlay of information displayed.
+		]]>
+		</definition>
+
+		<definition word="affective computing"><![CDATA[
+		A type of computing that relates to emotion or that deliberately tries to influence emotion.
+		]]>
+		</definition>
+
+<!-- Chapter 2 -->
+		<definition word="3-D sound card"><![CDATA[
+		An expansion card that enables a computer to produce omnidirectional or three-dimensional sounds.
+		]]>
+		</definition>
+		<definition word="access time"><![CDATA[
+		The time it takes a storage device to locate its stored data.
+		]]>
+		</definition>
+		<definition word="accounting software"><![CDATA[
+		An application program that helps business owners manage their finances more efficiently by providing tools for tracking accounting transactions such as sales, accounts receivable, inventory purchases, and accounts payable.
+		]]>
+		</definition>
+		<definition word="adware"><![CDATA[
+		A program that downloads on your computer when a user installs a freeware program, game, or utility. Generally, adware enables sponsored advertisements to appear in a section of a browser window or as a pop-up ad.
+		]]>
+		</definition>
+		<definition word="affective computing"><![CDATA[
+		A type of computing that relates to emotion or that deliberately tries to influence emotion.
+		]]>
+		</definition>
+		<definition word="aggregator"><![CDATA[
+		A software program that finds and retrieves the latest update of web material (usually podcasts) according to your specifications.
+		]]>
+		</definition>
+		<definition word="all-in-one computer"><![CDATA[
+		A desktop system unit that houses the computer’s processor, memory, and monitor in a single unit.
+		]]>
+		</definition>
+		<definition word="all-in-one printer"><![CDATA[
+		Combines the functions of a printer, scanner, copier, and fax into one machine.
+		]]>
+		</definition>
+		<definition word="analog"><![CDATA[
+		Waves that illustrate the loudness of a sound or the brightness of the colors in an image at a given moment in time.
+		]]>
+		</definition>
+		<definition word="analog-to-digital converter chip"><![CDATA[
+		Converts analog signals into digital signals.
+		]]>
+		</definition>
+		<definition word="antivirus software"><![CDATA[
+		Software specifically designed to detect viruses and protect a computer and files from harm.
+		]]>
+		</definition>
+		<definition word="app bars"><![CDATA[
+		Bars that float above the screen and that contain applications such as the Tabs bar and the Address bar; a new feature of Internet Explorer 10.
+		]]>
+		</definition>
+		<definition word="application programming interface (API)"><![CDATA[
+		A set of software routines that allows one software system to work with another.
+		]]>
+		</definition>
+		<definition word="application software"><![CDATA[
+		The set of programs on a computer that helps a user carry out tasks such as word processing, sending e-mail, balancing a budget, creating presentations, editing photos, taking an online course, and playing games.
+		]]>
+		</definition>
+		<definition word="aspect ratio"><![CDATA[
+		The width-to-height proportion of a monitor.
+		]]>
+		</definition>
+		<definition word="assembly language"><![CDATA[
+		A second-generation language that is easier for humans to work with than binary
+		]]>
+		</definition>
+		<definition word="audio-editing software"><![CDATA[
+		Programs that perform basic editing tasks on audio files such as cutting dead air space from the beginning or end of a song or cutting a portion from the middle.
+		]]>
+		</definition>
+		<definition word="audio MIDI interface"><![CDATA[
+		Interface technology that allows a user to connect guitars and microphones to their computer.
+		]]>
+		</definition>
+		<definition word="augmented reality"><![CDATA[
+		A combination of our normal sense of the objects around us with an overlay of information displayed.
+		]]>
+		</definition>
+		<definition word="backdoor program"><![CDATA[
+		Program that enables a hacker to take complete control of a computer without the legitimate user’s knowledge or permission.
+		]]>
+		</definition>
+		<definition word="backup"><![CDATA[
+		A copy of a computer file that can be used to replace the original if it’s lost or damaged.
+		]]>
+		</definition>
+		<definition word="backward compatibility"><![CDATA[
+		The accommodation of current devices being able to use previously issued software standards in addition to the current standards.
+		]]>
+		</definition>
+		<definition word="bandwidth"><![CDATA[
+		The maximum speed at which data can be transmitted between two nodes on a network; usually measured in megabits per second (Mbps). See also data transfer rate.
+		]]>
+		</definition>
+		<definition word="base transceiver station"><![CDATA[
+		A large communications tower with antennas, amplifiers, and receivers/transmitters.
+		]]>
+		</definition>
+		<definition word="basic input/output system (BIOS)"><![CDATA[
+		program that manages the data between a computer’s operating system and all the input and output devices attached to the computer; also responsible for loading the operating system (OS) from its permanent location on the hard drive to random access memory (RAM).
+		]]>
+		</definition>
+		<definition word="binary digit (bit)"><![CDATA[
+		A digit that corresponds to the on and off states of a computer’s switches. A bit contains a value of either 0 or 1.
+		]]>
+		</definition>
+		<definition word="binary language"><![CDATA[
+		The language computers use to process data into information, consisting of only the values 0 and 1.
+		]]>
+		</definition>
+		<definition word="black-hat hacker"><![CDATA[
+		A hacker who uses his or her knowledge to destroy information or for illegal gain.
+		]]>
+		</definition>
+		<definition word="blog"><![CDATA[
+		A personal log or journal posted on the web; short for web log.
+		]]>
+		</definition>
+		<definition word="Bluetooth (technology)"><![CDATA[
+		A type of wireless technology that uses radio waves to transmit data over short distances (approximately 3-300 feet depending on power); often used to connect peripherals such as printers and keyboards to computers or headsets to cell phones.
+		]]>
+		</definition>
+		<definition word="Blu-ray disc (BD)"><![CDATA[
+		A method of optical storage for digital data, developed for storing high-definition media. It has the largest storage capacity of all optical storage options.
+		]]>
+		</definition>
+		<definition word="Bookmarks"><![CDATA[
+		Features in some browsers that place markers of websites’ Uniform Resource Locators (URLs) in an easily retrievable list.
+		]]>
+		</definition>
+		<definition word="Boolean operator"><![CDATA[
+		A word used to refine logical searches. For Internet searches, the words AND, NOT, and OR describe the relationships between keywords in the search.
+		]]>
+		</definition>
+		<definition word="boot process"><![CDATA[
+		The process for loading  the operating system (OS) into random access memory (RAM) when the computer  is turned on.
+		]]>
+		</definition>
+		<definition word="boot-sector virus"><![CDATA[
+		A virus that replicates itself into the master boot record of a flash drive or hard drive.
+		]]>
+		</definition>
+		<definition word="botnet"><![CDATA[
+		A large group of software applications (called robots or bots) that run without user intervention on a large number of computers.
+		]]>
+		</definition>
+		<definition word="breadcrumb trail"><![CDATA[
+		A navigation aid that shows users the path they have taken to get to a web page or where the page is located within the website; it usually appears at the top of a page.
+		]]>
+		</definition>
+		<definition word="broadband"><![CDATA[
+		A high-speed Internet connection such as cable, satellite, or digital subscriber line (DSL).
+		]]>
+		</definition>
+		<definition word="business-to-business (B2B)"><![CDATA[
+		E-commerce transactions between businesses.
+		]]>
+		</definition>
+		<definition word="business-to-consumer (B2C)"><![CDATA[
+		E-commerce transactions between businesses and consumers.
+		]]>
+		</definition>
+		<definition word="byte"><![CDATA[
+		Eight binary digits (bits).
+		]]>
+		</definition>
+		<definition word="cable Internet"><![CDATA[
+		A broadband service that transmits data over coaxial cables.
+		]]>
+		</definition>
+		<definition word="cache memory"><![CDATA[
+		Small blocks of memory, located directly on and next to the central processing unit (CPU) chip, that act as holding places for recently or frequently used instructions or data that the CPU accesses the most. When these instructions or data are stored in cache memory, the CPU can more quickly retrieve them than if it had to access the instructions or data from random access memory (RAM).
+		]]>
+		</definition>
+		<definition word="Cat 6 cable"><![CDATA[
+		A UTP cable type that provides more than 1 Gb/s of throughput.
+		]]>
+		</definition>
+		<definition word="cellular (cell) phone"><![CDATA[
+		A telephone that operates over a mobile network. Cell phones can also offer Internet access, text messaging, personal information management (PIM) features, and more.
+		]]>
+		</definition>
+		<definition word="central processing unit (CPU, or processor)"><![CDATA[
+		The part of the system unit of a computer that is responsible for data processing; it is the largest and most important chip in the computer. The CPU controls all the functions performed by the computer’s other components and processes all the commands issued to it by software instructions.
+		]]>
+		</definition>
+		<definition word="charms"><![CDATA[
+		Special shortcuts for performing common tasks, such as searching or sharing information, created for Windows 8.
+		]]>
+		</definition>
+		<definition word="client"><![CDATA[
+		A computer that requests information from a server in a client/server network (such as your computer when you are connected to the Internet).
+		]]>
+		</definition>
+		<definition word="clock speed"><![CDATA[
+		The pace by which the computer moves from process to process, measured in hertz (Hz) describes how many times something happens per second. 
+		]]>
+		</definition>
+		<definition word="cloud computing"><![CDATA[
+		The process of storing data, files, and applications on the web, which allows access to and manipulation of these files and applications from any Internet-connected device.
+		]]>
+		</definition>
+		<definition word="cluster"><![CDATA[
+		The smallest increment in which data is stored on hard disks; hard disks are divided into , then wedges, then sectors, then clusters.
+		]]>
+		</definition>
+		<definition word="codec"><![CDATA[
+		A rule, implemented in either software or hardware, which squeezes a given amount of audio and video information into less space.
+		]]>
+		</definition>
+		<definition word="cognitive surplus"><![CDATA[
+		The combination of leisure time and the tools needed to be creative.
+		]]>
+		</definition>
+		<definition word="cold boot"><![CDATA[
+		The process of starting a computer from a powered-down or  off state.
+		]]>
+		</definition>
+		<definition word="collaborative consumption"><![CDATA[
+		Joining together as a group to use a specific product more efficiently.
+		]]>
+		</definition>
+		<definition word="command-driven interface"><![CDATA[
+		Interface between user and computer in which the user enters commands to communicate with the computer system.
+		]]>
+		</definition>
+		<definition word="compact disc (CD)"><![CDATA[
+		A method of optical storage for digital data; originally developed for storing digital audio.
+		]]>
+		</definition>
+		<definition word="computer"><![CDATA[
+		A data-processing device that gathers, processes, outputs, and stores data and information.
+		]]>
+		</definition>
+		<definition word="computer-aided design (CAD)"><![CDATA[
+		A 3-D modeling program used to create automated designs, technical drawings, and model visualizations.
+		]]>
+		</definition>
+		<definition word="computer forensics"><![CDATA[
+		The application of computer systems and techniques to gather potential legal evidence; a law enforcement specialty used to fight high-tech crime.
+		]]>
+		</definition>
+		<definition word="computer literate"><![CDATA[
+		Being familiar enough with computers that a user knows how to use them and understands their capabilities and limitations.
+		]]>
+		</definition>
+		<definition word="connectivity port"><![CDATA[
+		A port that enables a computing device to be connected to other devices or systems such as networks, modems, and the Internet.
+		]]>
+		</definition>
+		<definition word="consumer-to-consumer (C2C)"><![CDATA[
+		E-commerce transactions between consumers through online sites such as eBay.com.
+		]]>
+		</definition>
+		<definition word="cookie"><![CDATA[
+		A small text file that some websites automatically store on a client computer’s hard drive when a user visits the site.
+		]]>
+		</definition>
+		<definition word="copyleft"><![CDATA[
+		A simplified licensing scheme that enables copyright holders to grant certain rights to a work while retaining other rights.
+		]]>
+		</definition>
+		<definition word="core"><![CDATA[
+		A complete processing section from a central processing unit, embedded into one physical chip.
+		]]>
+		</definition>
+		<definition word="course management software"><![CDATA[
+		A program that provides traditional classroom tools, such as calendars and grade books, over the Internet, as well as areas for students to exchange ideas and information in chat rooms, discussion forums, and e-mail.
+		]]>
+		</definition>
+		<definition word="CPU benchmarks"><![CDATA[
+		Measurements used to compare performance between processors.
+		]]>
+		</definition>
+		<definition word="CPU usage"><![CDATA[
+		The percentage of time the central processing unit (CPU) is working.
+		]]>
+		</definition>
+		<definition word="CPU usage graph"><![CDATA[
+		Records your central processing unit (CPU) usage for the past several seconds.
+		]]>
+		</definition>
+		<definition word="crisis-mapping tool"><![CDATA[
+		A tool that collects information from e-mails, text messages, blog posts, and Twitter tweets and maps them, making the information instantly publicly available.
+		]]>
+		</definition>
+		<definition word="crowdfunding"><![CDATA[
+		Asking for small donations from a large number of people, often using the Internet; a style of generating capital to start a business through social media.
+		]]>
+		</definition>
+		<definition word="crowdsourcing"><![CDATA[
+		The phenomenon of consumers checking in with the voice of the crowd before making purchases.
+		]]>
+		</definition>
+		<definition word="custom installation"><![CDATA[
+		The process of installing only those features of a software program that a user wants on the hard  drive.
+		]]>
+		</definition>
+		<definition word="cybercrime"><![CDATA[
+		Any criminal action perpetrated primarily through the use of a computer.
+		]]>
+		</definition>
+		<definition word="cybercriminal"><![CDATA[
+		An individual who uses computers, networks, and the Internet to perpetrate crime.
+		]]>
+		</definition>
+		<definition word="cyberloafing"><![CDATA[
+		Doing anything with a computer that’s unrelated to a job (such as playing video games) while one’s supposed to be working. Also called cyberslacking.
+		]]>
+		</definition>
+		<definition word="data"><![CDATA[
+		Numbers, words, pictures, or sounds that represent facts, figures, or ideas; the raw input that users have at the start of a job.
+		]]>
+		</definition>
+		<definition word="data breach"><![CDATA[
+		When sensitive or confidential information is copied, transmitted, or viewed by an individual who is not authorized to handle the data.
+		]]>
+		</definition>
+		<definition word="data file"><![CDATA[
+		A file that contains stored data.
+		]]>
+		</definition>
+		<definition word="data plan"><![CDATA[
+		A connectivity plan or text messaging plan in which data charges are separate from cell phone calling charges and are provided at rates different from those for voice calls.
+		]]>
+		</definition>
+		<definition word="data transfer rate"><![CDATA[
+		The maximum speed at which data can be transmitted between two nodes on a network; measured in megabits per second (Mbps) or gigabits per second (Gbps).
+		]]>
+		</definition>
+		<definition word="database software"><![CDATA[
+		An electronic filing system best used for larger and more complicated groups of data that require more than one table and the ability to group, sort, and retrieve data and generate reports.
+		]]>
+		</definition>
+		<definition word="denial-of-service (DoS) attack"><![CDATA[
+		An attack that occurs when legitimate users are denied access to a computer system because a hacker is repeatedly making requests of that computer system that tie up its resources and deny legitimate users access.
+		]]>
+		</definition>
+		<definition word="desktop computer"><![CDATA[
+		A computer that’s intended for use at a single location. A desktop computer consists of a case that houses the main components of the computer, plus peripheral devices.
+		]]>
+		</definition>
+		<definition word="desktop publishing (DTP) software"><![CDATA[
+		Programs for incorporating and arranging graphics and text to produce creative documents.
+		]]>
+		</definition>
+		<definition word="digital convergence"><![CDATA[
+		The use of a single unifying device to handle media, Internet, entertainment, and telephony needs; expressed in the range of devices now on the market.
+		]]>
+		</definition>
+		<definition word="digital divide"><![CDATA[
+		The discrepancy between those who have access to the opportunities and knowledge that computers and the Internet offer and those who do not.
+		]]>
+		</definition>
+		<definition word="digital rights management (DRM)"><![CDATA[
+		A system of access control that allows only limited use of material that has been legally purchased.
+		]]>
+		</definition>
+		<definition word="digital signal processor"><![CDATA[
+		A specialized chip that processes digital information and transmits signals very quickly.
+		]]>
+		</definition>
+		<definition word="digital subscriber line (DSL)"><![CDATA[
+		A type of connection that uses telephone lines to connect to the Internet and that allows both phone and data transmissions to share the same line.
+		]]>
+		</definition>
+		<definition word="digital video (or versatile) disc (DVD)"><![CDATA[
+		A method of optical storage for digital data that has greater storage capacity than compact discs.
+		]]>
+		</definition>
+		<definition word="digital video–editing software"><![CDATA[
+		A program for editing digital video.
+		]]>
+		</definition>
+		<definition word="digital video interface (DVI) port"><![CDATA[
+		Video interface technology that newer LCD monitors, as well as other multimedia devices such as televisions, DVD players, and projectors, use to connect to a PC.
+		]]>
+		</definition>
+		<definition word="directory"><![CDATA[
+		A hierarchical structure that include files, folders, and drives used to create a more organized and efficient computer.
+		]]>
+		</definition>
+		<definition word="Disk Cleanup"><![CDATA[
+		A Windows utility that removes unnecessary files from the hard  drive.
+		]]>
+		</definition>
+		<definition word="disk defragmenting"><![CDATA[
+		A utility that regroups related pieces of files on the hard drive, enabling faster retrieval of the data.
+		]]>
+		</definition>
+		<definition word="distributed denial of service (DDoS) attack"><![CDATA[
+		An automated attack that’s launched from more than one zombie computer at the same time.
+		]]>
+		</definition>
+		<definition word="Distributions (distros)"><![CDATA[
+		Linux download packages.
+		]]>
+		</definition>
+		<definition word="domain name"><![CDATA[
+		A part of a Uniform Resource Locator (URL). Domain names consist of two parts: the site’s host and a suffix that indicates the type of organization (example: popsci.com, where popsci is the domain name and com is the suffix).
+		]]>
+		</definition>
+		<definition word="drawing software (illustration software)"><![CDATA[
+		Programs for creating or editing two-dimensional line-based drawings.
+		]]>
+		</definition>
+		<definition word="drive bay"><![CDATA[
+		A special shelf inside a computer that is designed to hold storage devices.
+		]]>
+		</definition>
+		<definition word="drive-by download"><![CDATA[
+		The use of malicious software to attack a computer by downloading harmful programs onto a computer, without the user’s knowledge, while they are surfing a website.
+		]]>
+		</definition>
+		<definition word="e-commerce (electronic commerce)"><![CDATA[
+		The process of conducting business online for purposes ranging from fund-raising to advertising to selling products.
+		]]>
+		</definition>
+		<definition word="electronic ink (E ink)"><![CDATA[
+		A very crisp, sharp grayscale representation of text achieved by using millions of microcapsules with white and black particles in a clear fluid.
+		]]>
+		</definition>
+		<definition word="electronic text (e-text)"><![CDATA[
+		Textual information stored as digital information so that it can be stored, manipulated, and transmitted by electronic devices.
+		]]>
+		</definition>
+		<definition word="e-mail (electronic mail)"><![CDATA[
+		Internet-based communication in which senders and recipients correspond.
+		]]>
+		</definition>
+		<definition word="e-mail client"><![CDATA[
+		A software program that runs on a computer and is used to send and receive e-mail through an Internet service provider’s server.
+		]]>
+		</definition>
+		<definition word="e-mail virus"><![CDATA[
+		A virus transmitted by  e-mail that often uses the address book in the victim’s e-mail system to distribute itself.
+		]]>
+		</definition>
+		<definition word="embedded computer"><![CDATA[
+		A specially designed computer chip that resides inside another device, such as a car. These self-contained computer devices have their own programming and typically neither receive input from users nor interact with other systems.
+		]]>
+		</definition>
+		<definition word="encryption virus"><![CDATA[
+		A malicious program that searches for common data files and compresses them into a file using a complex encryption key, thereby rendering the files unusable.
+		]]>
+		</definition>
+		<definition word="End User License Agreement (EULA)"><![CDATA[
+		See software license.
+		]]>
+		</definition>
+		<definition word="e-reader"><![CDATA[
+		A device that can display e-text and that has supporting tools, like note taking, bookmarks, and integrated dictionaries.
+		]]>
+		</definition>
+		<definition word="ergonomics"><![CDATA[
+		How a user sets up his or her computer and other equipment to minimize risk of injury or discomfort.
+		]]>
+		</definition>
+		<definition word="error-checking"><![CDATA[
+		A Windows utility that checks for lost files and fragments as well as physical errors on a hard drive.
+		]]>
+		</definition>
+		<definition word="Ethernet network"><![CDATA[
+		A network that uses the Ethernet protocol as the means (or standard) by which the nodes on the network communicate.
+		]]>
+		</definition>
+		<definition word="Ethernet port"><![CDATA[
+		A port that’s slightly larger than a standard phone jack and that transfers data at speeds of up to 10,000 Mbps; used to connect a computer to a DSL or cable modem or to a network.
+		]]>
+		</definition>
+		<definition word="event"><![CDATA[
+		The result of an action, such as a keystroke, mouse click, or signal to the printer, in the respective device (keyboard, mouse, or printer) to which the operating system responds.
+		]]>
+		</definition>
+		<definition word="expansion card (adapter card)"><![CDATA[
+		A circuit board with specific functions that augment the computer’s basic functions and provide connections to other devices; examples include the sound card and the video card.
+		]]>
+		</definition>
+		<definition word="ExpressCard"><![CDATA[
+		Laptops are often equipped with an ExpressCard slot. The ExpressCard can add a solid-state drive (SSD), new kinds of ports, and other capabilities to a system.
+		]]>
+		</definition>
+		<definition word="extension (file type)"><![CDATA[
+		In a file name, the three letters that follow the user-supplied file name after the dot (.); the extension identifies what kind of family of files the file belongs to, or which application should be used to read the file.
+		]]>
+		</definition>
+		<definition word="external hard drive"><![CDATA[
+		A hard drive that is enclosed in a protective case to make it portable; the drive is connected to the computer with a data transfer cable and is often used to back up data.
+		]]>
+		</definition>
+		<definition word="Favorites"><![CDATA[
+		A feature in Microsoft Internet Explorer that places a marker of a website’s Uniform Resource Locator (URL) in an easily retrievable list in the browser’s toolbar. (Called Bookmarks in some browsers.)
+		]]>
+		</definition>
+		<definition word="feature phones"><![CDATA[
+		Inexpensive cell phones with modest processors, simple interfaces, and, often, no touch screens.
+		]]>
+		</definition>
+		<definition word="fiber-optic service"><![CDATA[
+		Internet access that is enabled by transmitting data at the speed of light through glass or plastic fibers.
+		]]>
+		</definition>
+		<definition word="file"><![CDATA[
+		A collection of related pieces of information stored together for easy reference.
+		]]>
+		</definition>
+		<definition word="file allocation table (FAT)"><![CDATA[
+		An index of all sector numbers that the hard drive stores in a table to keep track of which sectors hold which files.
+		]]>
+		</definition>
+		<definition word="file compression utility"><![CDATA[
+		A program that takes out redundancies in a file in order to reduce the file size.
+		]]>
+		</definition>
+		<definition word="File Explorer"><![CDATA[
+		The main tool for finding, viewing, and managing the contents of your computer by showing the location and contents of every drive, folder, and file; called Windows Explorer prior to Windows 8.
+		]]>
+		</definition>
+		<definition word="File History"><![CDATA[
+		A Windows utility that automatically creates a duplicate of your libraries, desktop, contacts, and favorites and copies it to another storage device, such as an external hard drive.
+		]]>
+		</definition>
+		<definition word="file management"><![CDATA[
+		The process by which humans or computer software provide organizational structure to a computer’s contents.
+		]]>
+		</definition>
+		<definition word="file name"><![CDATA[
+		The first part of the label applied to a file; generally the name a user assigns to the file when saving it.
+		]]>
+		</definition>
+		<definition word="file path"><![CDATA[
+		The exact location of a file, starting with the drive in which the file is located and including all folders, subfolders (if any), the file name, and the extension (example: C:\Users\username\Documents\Illustrations\EBronte.jpg).
+		]]>
+		</definition>
+		<definition word="File Transfer Protocol (FTP)"><![CDATA[
+		A protocol used to upload and download files from one computer to another over the Internet.
+		]]>
+		</definition>
+		<definition word="financial planning software"><![CDATA[
+		Programs for managing finances, such as Intuit’s Quicken, which include electronic checkbook registers and automatic bill-payment tools.
+		]]>
+		</definition>
+		<definition word="firewall"><![CDATA[
+		A software program or hardware device designed to prevent unauthorized access to computers or networks.
+		]]>
+		</definition>
+		<definition word="FireWire 400"><![CDATA[
+		An interface port that transfers data at 400 Mbps.
+		]]>
+		</definition>
+		<definition word="FireWire 800"><![CDATA[
+		An interface port that transfers data at 800 Mbps.
+		]]>
+		</definition>
+		<definition word="firmware"><![CDATA[
+		System software that controls hardware devices.
+		]]>
+		</definition>
+		<definition word="flash drive"><![CDATA[
+		A drive that plugs into a universal serial bus (USB) port on a computer and that stores data digitally. Also called a USB drive, jump drive, or thumb drive.
+		]]>
+		</definition>
+		<definition word="flash memory card"><![CDATA[
+		A form of portable storage; this removable memory card is often used in digital cameras, smartphones, video cameras, and printers.
+		]]>
+		</definition>
+		<definition word="folder"><![CDATA[
+		A collection of files stored on a computer.
+		]]>
+		</definition>
+		<definition word="freeware"><![CDATA[
+		Any copyrighted software that can be used for free.
+		]]>
+		</definition>
+		<definition word="full installation"><![CDATA[
+		The process of installing all the files and programs from the distribution media to the computer’s hard drive.
+		]]>
+		</definition>
+		<definition word="geotag"><![CDATA[
+		Data attached to a photograph that indicates the latitude and longitude where you were standing when you took the photo.
+		]]>
+		</definition>
+		<definition word="gigabit Ethernet"><![CDATA[
+		The most commonly used wired Ethernet standard deployed in devices designed for home networks; provides bandwidth of up to 1 Gbps.
+		]]>
+		</definition>
+		<definition word="gigabyte (GB)"><![CDATA[
+		About a billion bytes.
+		]]>
+		</definition>
+		<definition word="gigahertz (GHz)"><![CDATA[
+		One billion hertz.
+		]]>
+		</definition>
+		<definition word="global positioning system (GPS)"><![CDATA[
+		A system of 21 satellites (plus 3 working spares), built and operated by the U.S. military, that constantly orbit the earth. The satellites provide information to GPS–capable devices to pinpoint locations on the earth.
+		]]>
+		</definition>
+		<definition word="graphical user interface (GUI)"><![CDATA[
+		Unlike the command- and menu-driven interfaces used in earlier software, GUIs display graphics and use the point-and-click technology of the mouse and cursor, making them much more user-friendly.
+		]]>
+		</definition>
+		<definition word="graphics double data rate 5 (GDDR5)"><![CDATA[
+		A standard of video memory.
+		]]>
+		</definition>
+		<definition word="graphics processing unit (GPU)"><![CDATA[
+		A specialized logic chip that’s dedicated to quickly displaying and calculating visual data such as shadows, textures, and luminosity.
+		]]>
+		</definition>
+		<definition word="grey-hat hacker"><![CDATA[
+		A cross between black and white—a hacker who will often illegally break into systems merely to flaunt his or her expertise to the administrator of the system he or she penetrated or to attempt to sell his or her services in repairing security breaches.
+		]]>
+		</definition>
+		<definition word="hacker"><![CDATA[
+		Anyone who unlawfully breaks into a computer system (whether an individual computer or a network).
+		]]>
+		</definition>
+		<definition word="hard disk drive (HDD)"><![CDATA[
+		The computer’s nonvolatile, primary storage device for permanent storage of software and  documents.
+		]]>
+		</definition>
+		<definition word="hardware"><![CDATA[
+		Any part of a computer or computer system you can physically touch.
+		]]>
+		</definition>
+		<definition word="head crash"><![CDATA[
+		Impact of the read/write head against the magnetic platter of the hard drive; often results in data loss.
+		]]>
+		</definition>
+		<definition word="hibernate"><![CDATA[
+		A power-management mode that saves the current state of the current system to the computer’s hard drive.
+		]]>
+		</definition>
+		<definition word="high definition"><![CDATA[
+		A standard of digital TV signal that guarantees a specific level of resolution and a specific aspect ratio, which is the rectangular shape of the image.
+		]]>
+		</definition>
+		<definition word="high-definition multimedia interface (HDMI)"><![CDATA[
+		A compact audio–video interface standard that carries both high-definition video and uncompressed digital audio.
+		]]>
+		</definition>
+		<definition word="home area network (HAN)"><![CDATA[
+		A network located in a home that’s used to connect all of its digital devices.
+		]]>
+		</definition>
+		<definition word="home network server"><![CDATA[
+		A device designed to store media, share media across the network, and back up files on computers connected to a home network.
+		]]>
+		</definition>
+		<definition word="host"><![CDATA[
+		The portion of a domain name that identifies who maintains a given website. For example, berkeley.edu is the domain name for the University of California at Berkeley, which maintains that site.
+		]]>
+		</definition>
+		<definition word="hyperlink"><![CDATA[
+		A type of specially coded text that, when clicked, enables a user to jump from one location, or web page, to another within a website or to another website altogether.
+		]]>
+		</definition>
+		<definition word="hyperthreading"><![CDATA[
+		A technology that permits quicker processing of information by enabling a new set of instructions to start executing before the previous set has finished.
+		]]>
+		</definition>
+		<definition word="identity theft"><![CDATA[
+		The process by which someone uses personal information about someone else (such as the victim’s name, address, and Social Security number) to assume the victim’s identity for the purpose of defrauding another.
+		]]>
+		</definition>
+		<definition word="image backup (system backup)"><![CDATA[
+		A copy of an entire computer system, created for restoration purposes.
+		]]>
+		</definition>
+		<definition word="image-editing software"><![CDATA[
+		Programs for editing photographs and other images.
+		]]>
+		</definition>
+		<definition word="impact printer"><![CDATA[
+		A printer that has tiny hammer-like keys that strike the paper through an inked ribbon, thus making a mark on the paper. The most common impact printer is the dot-matrix printer.
+		]]>
+		</definition>
+		<definition word="incremental backup (partial backup)"><![CDATA[
+		A type of backup that only backs up files that have changed since the last time files were backed up.
+		]]>
+		</definition>
+		<definition word="information"><![CDATA[
+		Data that has been organized or presented in a meaningful fashion; the result, or output that users require at the end of a job.
+		]]>
+		</definition>
+		<definition word="information technology (IT)"><![CDATA[
+		The set of techniques used in processing and retrieving information.
+		]]>
+		</definition>
+		<definition word="inkjet printer"><![CDATA[
+		A nonimpact printer that sprays tiny drops of ink onto paper.
+		]]>
+		</definition>
+		<definition word="inoculation"><![CDATA[
+		A process used by antivirus software; compares old and current qualities of files to detect viral activity.
+		]]>
+		</definition>
+		<definition word="input device"><![CDATA[
+		A hardware device used to enter, or input, data (text, images, and sounds) and instructions (user responses and commands) into a computer. Some input devices are keyboards and mice.
+		]]>
+		</definition>
+		<definition word="instant messaging (IM)"><![CDATA[
+		A program that enables users to communicate online in real time with others who are also online.
+		]]>
+		</definition>
+		<definition word="internal hard drive"><![CDATA[
+		A hard drive that resides within the computer’s system unit and that usually holds all permanently stored programs and data.
+		]]>
+		</definition>
+		<definition word="Internet"><![CDATA[
+		A network of networks that’s the largest network in the world, connecting billions of computers globally.
+		]]>
+		</definition>
+		<definition word="Internet Protocol (IP) address"><![CDATA[
+		The means by which all computers connected to the Internet identify each other. It consists of a unique set of four numbers separated by dots, such as 123.45.178.91.
+		]]>
+		</definition>
+		<definition word="Internet service provider (ISP)"><![CDATA[
+		A company that specializes in providing Internet access. ISPs may be specialized providers, like Juno, or companies that provide other services in addition to Internet access (such as phone and cable television).
+		]]>
+		</definition>
+		<definition word="interrupt"><![CDATA[
+		A signal that tells the operating system that it’s in need of immediate attention.
+		]]>
+		</definition>
+		<definition word="interrupt handler"><![CDATA[
+		A special numerical code that prioritizes requests from various devices. These requests then are placed in the interrupt table in the computer’s primary memory.
+		]]>
+		</definition>
+		<definition word="kernel (supervisor program)"><![CDATA[
+		The essential component of the operating system that’s responsible for managing the processor and all other components of the computer system. Because it stays in random access memory (RAM) the entire time the computer is powered on, the kernel is called memory resident.
+		]]>
+		</definition>
+		<definition word="keyboard"><![CDATA[
+		A hardware device used to enter typed data and commands into a computer.
+		]]>
+		</definition>
+		<definition word="keystroke logger (keylogger)"><![CDATA[
+		A type of spyware program that monitors keystrokes with the intent of stealing passwords, login IDs, or credit card information.
+		]]>
+		</definition>
+		<definition word="keyword"><![CDATA[
+		(1) A specific word a user wishes to query (or look for) in an Internet search. (2) A specific word that has a predefined meaning in a particular programming language.
+		]]>
+		</definition>
+		<definition word="kilobyte (KB)"><![CDATA[
+		A unit of computer storage equal to approximately 1,000 bytes.
+		]]>
+		</definition>
+		<definition word="laptop (or notebook) computer"><![CDATA[
+		A portable computer with a keyboard, a monitor, and other devices integrated into a single compact case.
+		]]>
+		</definition>
+		<definition word="laser printer"><![CDATA[
+		A nonimpact printer known for quick and quiet production and high-quality printouts.
+		]]>
+		</definition>
+		<definition word="latency (rotational delay)"><![CDATA[
+		The process that occurs after the read/write head of the hard drive locates the correct track and then waits for the correct sector to spin to the read/write head.
+		]]>
+		</definition>
+		<definition word="legacy technology"><![CDATA[
+		Comprises  computing devices, software, or peripherals that use techniques, parts, and methods from an earlier time that are no longer popular.
+		]]>
+		</definition>
+		<definition word="library"><![CDATA[
+		Introduced with Windows 7, a folder that’s used to display files from different locations as if they were all saved in a single folder, regardless of where they are actually stored in the file hierarchy.
+		]]>
+		</definition>
+		<definition word="light-emitting diode (LED)"><![CDATA[
+		A newer, more energy-efficient technology used in monitors. It may result in better color accuracy and thinner panels than traditional LCD monitors.
+		]]>
+		</definition>
+		<definition word="Linux"><![CDATA[
+		An open-source operating system based on UNIX. Because of the stable nature of this operating system, it’s often used on web servers.
+		]]>
+		</definition>
+		<definition word="liquid crystal display (LCD)"><![CDATA[
+		The technology used in flat-panel computer monitors.
+		]]>
+		</definition>
+		<definition word="live bookmark"><![CDATA[
+		A bookmark that delivers updates as soon as they become available, using Really Simple Syndication (RSS).
+		]]>
+		</definition>
+		<definition word="logic bomb"><![CDATA[
+		A computer virus that runs when a certain set of conditions is met, such as when a program is launched a specific number of times.
+		]]>
+		</definition>
+		<definition word="logical port"><![CDATA[
+		A virtual communications gateway or path that enables a computer to organize requests for information (such as web page downloads and e-mail routing) from other networks or computers.
+		]]>
+		</definition>
+		<definition word="logical port blocking"><![CDATA[
+		A condition in which a firewall is configured to ignore all incoming packets that request access to a certain port so that no unwanted requests will get through to the computer.
+		]]>
+		</definition>
+		<definition word="Mac OS"><![CDATA[
+		The first commercially available operating system to incorporate a graphical user interface (GUI) with user-friendly point-and-click technology.
+		]]>
+		</definition>
+		<definition word="machine cycle (processing cycle)"><![CDATA[
+		The series of steps a central processing unit goes through when it performs a program instruction.
+		]]>
+		</definition>
+		<definition word="macro"><![CDATA[
+		A small program that groups a series of commands to run as a single command.
+		]]>
+		</definition>
+		<definition word="macro virus"><![CDATA[
+		A virus that’s distributed by hiding it inside a macro.
+		]]>
+		</definition>
+		<definition word="mainframe"><![CDATA[
+		A large, expensive computer that supports hundreds or thousands of users simultaneously and executes many different programs at the same time.
+		]]>
+		</definition>
+		<definition word="malware"><![CDATA[
+		Software that’s intended to render a system temporarily or permanently useless or to penetrate a computer system completely for purposes of information gathering. Examples include spyware, viruses, worms, and Trojan horses.
+		]]>
+		</definition>
+		<definition word="master boot record"><![CDATA[
+		A small program that runs whenever a computer boots up.
+		]]>
+		</definition>
+		<definition word="megabyte (MB)"><![CDATA[
+		A unit of computer storage equal to approximately 1 million bytes.
+		]]>
+		</definition>
+		<definition word="memory module (memory card)"><![CDATA[
+		A small circuit board that holds a series of random access memory (RAM) chips.
+		]]>
+		</definition>
+		<definition word="menu-driven interface"><![CDATA[
+		A user interface in which the user chooses a command from menus displayed on the screen.
+		]]>
+		</definition>
+		<definition word="metasearch engine"><![CDATA[
+		A search engine, such as Dogpile, that searches other search engines rather than individual websites.
+		]]>
+		</definition>
+		<definition word="metropolitan area network (MAN)"><![CDATA[
+		A wide area network (WAN) that links users in a specific geographic area (such as within a city or county).
+		]]>
+		</definition>
+		<definition word="microphone (mic)"><![CDATA[
+		A device that allows you to capture sound waves, such as those created by your voice, and to transfer them to digital format on your computer.
+		]]>
+		</definition>
+		<definition word="mobile broadband"><![CDATA[
+		Connection to the Internet through the same cellular network that cell phones use to get 3G or 4G Internet access.
+		]]>
+		</definition>
+		<definition word="mobile switching center"><![CDATA[
+		A central location that receives cell phone requests for service from a base station.
+		]]>
+		</definition>
+		<definition word="modem port"><![CDATA[
+		A port that uses a traditional telephone signal to connect a computer to the Internet.
+		]]>
+		</definition>
+		<definition word="monitor (display screen)"><![CDATA[
+		A common output device that displays text, graphics, and video as soft copies (copies that can be seen only on screen).
+		]]>
+		</definition>
+		<definition word="Moore’s Law"><![CDATA[
+		A prediction, named after Gordon Moore, the co-founder of Intel; states that the number of transistors on a central processing unit chip will double every two years.
+		]]>
+		</definition>
+		<definition word="motherboard"><![CDATA[
+		A special circuit board in the system unit that contains the central processing unit, the memory (RAM) chips, and the slots available for expansion cards; all of the other boards (video cards, sound cards, and so on) connect to it to receive power and to communicate.
+		]]>
+		</definition>
+		<definition word="mouse"><![CDATA[
+		A hardware device used to enter user responses and commands into a computer.
+		]]>
+		</definition>
+		<definition word="multimedia"><![CDATA[
+		Anything that involves one or more forms of media plus text.
+		]]>
+		</definition>
+		<definition word="multimedia software"><![CDATA[
+		Programs that include image-, video-, and audio-editing software, animation software, and other specialty software required to produce computer games, animations, and movies.
+		]]>
+		</definition>
+		<definition word="multipartite virus"><![CDATA[
+		Literally meaning “multipart” virus; a type of computer virus that attempts to infect computers using more than one method.
+		]]>
+		</definition>
+		<definition word="multitask"><![CDATA[
+		The ability of an operating system to perform more than one process at a time.
+		]]>
+		</definition>
+		<definition word="multiuser operating system (network operating system)"><![CDATA[
+		An operating system that enables more than one user to access the computer system at one time by efficiently juggling all the requests from multiple users.
+		]]>
+		</definition>
+		<definition word="netbook"><![CDATA[
+		A computing device that runs a full-featured operating system but that weighs two pounds or less.
+		]]>
+		</definition>
+		<definition word="network"><![CDATA[
+		A group of two or more computers (or nodes) that are configured to share information and resources such as printers, files, and databases.
+		]]>
+		</definition>
+		<definition word="network address translation (NAT)"><![CDATA[
+		A process that firewalls use to assign internal Internet protocol addresses on a network.
+		]]>
+		</definition>
+		<definition word="network administration"><![CDATA[
+		Involves tasks such as (1) installing new computers and devices, (2) monitoring the network to ensure it’s performing efficiently, (3) updating and installing new software on the network, and (4) configuring, or setting up, proper security for a network.
+		]]>
+		</definition>
+		<definition word="network architecture"><![CDATA[
+		The design of a computer network; includes both physical and logical design.
+		]]>
+		</definition>
+		<definition word="network-attached storage (NAS) device"><![CDATA[
+		A specialized computing device designed to store and manage network data.
+		]]>
+		</definition>
+		<definition word="network interface card (NIC)"><![CDATA[
+		An expansion card that enables a computer to connect other computers or to a cable modem to facilitate a high-speed Internet connection.
+		]]>
+		</definition>
+		<definition word="network navigation device"><![CDATA[
+		A device on a network such as a router or switch that moves data signals around the network.
+		]]>
+		</definition>
+		<definition word="network-ready device"><![CDATA[
+		A device (such as a printer or an external hard drive) that can be attached directly to a network instead of needing to attach to a computer on the network.
+		]]>
+		</definition>
+		<definition word="node"><![CDATA[
+		A device connected to a network such as a computer, a peripheral (such as a printer), or a communications device (such as a modem).
+		]]>
+		</definition>
+		<definition word="nonimpact printer"><![CDATA[
+		A printer that sprays ink or uses laser beams to make marks on the paper. The most common nonimpact printers are inkjet and laser printers.
+		]]>
+		</definition>
+		<definition word="nonvolatile storage"><![CDATA[
+		Permanent storage, as in read-only memory (ROM).
+		]]>
+		</definition>
+		<definition word="open source software"><![CDATA[
+		Program code made publicly available for free; it can be copied, distributed, or changed without the stringent copyright protections of proprietary software products.
+		]]>
+		</definition>
+		<definition word="operating system (OS)"><![CDATA[
+		The system software that controls the way in which a computer system functions, including the management of hardware, peripherals, and software.
+		]]>
+		</definition>
+		<definition word="optical drive"><![CDATA[
+		A hardware device that uses lasers or light to read from, and even write to, CDs, DVDs, or Blu-ray discs.
+		]]>
+		</definition>
+		<definition word="optical media"><![CDATA[
+		Portable storage devices, such as CDs, DVDs, and Blu-ray discs, that use a laser to read and write data.
+		]]>
+		</definition>
+		<definition word="optical mouse"><![CDATA[
+		A mouse that uses an internal sensor or laser to control the mouse’s movement. The sensor sends signals to the computer, telling it where to move the pointer on the screen.
+		]]>
+		</definition>
+		<definition word="organic light-emitting diode (OLED) displays"><![CDATA[
+		Displays that use organic compounds to produce light when exposed to an electric current. Unlike LCDs, OLEDs do not require a backlight to function and therefore draw less power and have a much thinner display, sometimes as thin as 3 mm.
+		]]>
+		</definition>
+		<definition word="output device"><![CDATA[
+		A device that sends processed data and information out of a computer in the form of text, pictures (graphics), sounds (audio), or video.
+		]]>
+		</definition>
+		<definition word="overclocking"><![CDATA[
+		Running the central processing unit at a speed faster than the manufacturer recommends.
+		]]>
+		</definition>
+		<definition word="packet analyzer (sniffer)"><![CDATA[
+		A computer hardware device or software program designed to detect and record digital information being transmitted over a network.
+		]]>
+		</definition>
+		<definition word="paging"><![CDATA[
+		The process of swapping data or instructions that have been placed in the swap file for later use back into active random access memory (RAM). The contents of the hard drive’s swap file then become less active data or instructions.
+		]]>
+		</definition>
+		<definition word="path (subdirectory)"><![CDATA[
+		The information after the slash that indicates a particular file or path (or subdirectory) within the website.
+		]]>
+		</definition>
+		<definition word="path separator"><![CDATA[
+		The backslash mark (\) used by Microsoft Windows and DOS in file names. Mac files use a colon (:), and UNIX and Linux use the forward slash (/) as the path separator.
+		]]>
+		</definition>
+		<definition word="peer-to-peer (P2P) network"><![CDATA[
+		A network in which each node connected to the network can communicate directly with every other node on the network.
+		]]>
+		</definition>
+		<definition word="peer-to-peer (P2P) sharing"><![CDATA[
+		The process of users transferring files between computers.
+		]]>
+		</definition>
+		<definition word="peripheral device"><![CDATA[
+		A device such as a monitor, printer, or keyboard that connects to the system unit through a data port.
+		]]>
+		</definition>
+		<definition word="personal area network (PAN)"><![CDATA[
+		A network used for communication among devices close to one person, such as smartphones, laptops, and tablets, using wireless technologies such as Bluetooth.
+		]]>
+		</definition>
+		<definition word="personal firewall"><![CDATA[
+		A firewall specifically designed for home networks.
+		]]>
+		</definition>
+		<definition word="personal information manager (PIM) software"><![CDATA[
+		Programs such as Microsoft Outlook or Lotus Organizer that strive to replace the various management tools found on a traditional desk such as a calendar, address book, notepad, and to-do lists.
+		]]>
+		</definition>
+		<definition word="petabyte (PB)"><![CDATA[
+		A unit of data measurement equal to 1 million gigabytes or 1 thousand terabytes.
+		]]>
+		</definition>
+
+
+		<definition word="pharming"><![CDATA[
+		Planting malicious code on a computer that alters the browser’s ability to find web addresses and that directs users to bogus websites.
+		]]>
+		</definition>
+		<definition word="phishing"><![CDATA[
+		The process of sending e-mail messages to lure Internet users into revealing personal information such as credit card or Social Security numbers or other sensitive information that could lead to identity theft.
+		]]>
+		</definition>
+		<definition word="physical memory"><![CDATA[
+		The amount of random access memory (RAM) that’s installed in a computer.
+		]]>
+		</definition>
+		<definition word="piggybacking"><![CDATA[
+		The process of connecting to a wireless network without the permission of the owner of the network.
+		]]>
+		</definition>
+		<definition word="pinning"><![CDATA[
+		The process through which you choose which applications are visible on the Windows Start screen.
+		]]>
+		</definition>
+		<definition word="pixel"><![CDATA[
+		A single point that creates the images on a computer monitor. Pixels are illuminated by an electron beam that passes rapidly back and forth across the back of the screen so that the pixels appear to glow continuously.
+		]]>
+		</definition>
+		<definition word="platform"><![CDATA[
+		The combination of a computer’s operating system and processor. The two most common platform types are the PC and the Apple.
+		]]>
+		</definition>
+		<definition word="platter"><![CDATA[
+		A thin, round, metallic storage plate stacked onto the hard drive spindle.
+		]]>
+		</definition>
+		<definition word="plotter"><![CDATA[
+		A large printer that uses a computer-controlled pen to produce oversize pictures that require precise continuous lines to be drawn, such as maps and architectural plans.
+		]]>
+		</definition>
+		<definition word="Plug and Play (PnP)"><![CDATA[
+		The technology that enables the operating system, once it is booted up, to recognize automatically any new peripherals and to configure them to work with the system.
+		]]>
+		</definition>
+		<definition word="plug-in (player)"><![CDATA[
+		A small software program that “plugs in” to a web browser to enable a specific function—for example, to view and hear certain multimedia files on  the web.
+		]]>
+		</definition>
+		<definition word="podcast"><![CDATA[
+		A clip of audio or video content that’s broadcast over the Internet using compressed audio or video files in formats such as MP3.
+		]]>
+		</definition>
+		<definition word="polymorphic virus"><![CDATA[
+		A virus that changes its virus signature (the binary pattern that makes the virus identifiable) every time it infects a new file. This makes it more difficult for antivirus programs to detect the virus.
+		]]>
+		</definition>
+		<definition word="port"><![CDATA[
+		An interface through which external devices are connected to the computer.
+		]]>
+		</definition>
+		<definition word="power-on self-test (POST)"><![CDATA[
+		The first job the basic input/output system (BIOS) performs, ensuring that essential peripheral devices are attached and operational. This process consists of a test on the video card and video memory, a BIOS identification process (during which the BIOS version, manufacturer, and data are displayed on the monitor), and a memory test to ensure memory chips are working properly.
+		]]>
+		</definition>
+		<definition word="power supply"><![CDATA[
+		A power supply regulates the wall voltage to the voltages required by computer chips; it’s housed inside the system unit.
+		]]>
+		</definition>
+		<definition word="preemptive multitasking"><![CDATA[
+		When the operating system processes the task assigned a higher priority before processing a task that has been assigned a lower priority.
+		]]>
+		</definition>
+		<definition word="presentation software"><![CDATA[
+		An application program for creating dynamic slide shows, such as Microsoft PowerPoint or Apple Keynote.
+		]]>
+		</definition>
+		<definition word="pretexting"><![CDATA[
+		The act of creating an invented scenario (the pretext) to convince someone to divulge information.
+		]]>
+		</definition>
+		<definition word="printer"><![CDATA[
+		A common output device that creates tangible or hard copies of text and graphics.
+		]]>
+		</definition>
+		<definition word="processing"><![CDATA[
+		Manipulating or organizing data into information.
+		]]>
+		</definition>
+		<definition word="productivity software"><![CDATA[
+		Programs that enable a user to perform various tasks generally required in home, school, and business. Examples include word processing, spreadsheet, presentation, personal information management, and database programs.
+		]]>
+		</definition>
+		<definition word="program"><![CDATA[
+		A series of instructions to be followed by a computer to accomplish a task.
+		]]>
+		</definition>
+		<definition word="program files"><![CDATA[
+		Files that are used in the running of software programs and that do not store data.
+		]]>
+		</definition>
+		<definition word="projector"><![CDATA[
+		A device that can project images from your computer onto a wall or viewing screen.
+		]]>
+		</definition>
+		<definition word="proprietary software"><![CDATA[
+		Custom software application that’s owned and controlled by the company that created it.
+		]]>
+		</definition>
+		<definition word="quarantining"><![CDATA[
+		The placement (by antivirus software) of a computer virus in a secure area on the hard drive so that it won’t spread infection to other files.
+		]]>
+		</definition>
+		<definition word="QR (quick response) codes"><![CDATA[
+		Technology that lets any piece of print in the real world host a live link to online information and video content.
+		]]>
+		</definition>
+		<definition word="QWERTY keyboard"><![CDATA[
+		A keyboard that gets its name from the first six letters on the top-left row of alphabetic keys on the keyboard.
+		]]>
+		</definition>
+		<definition word="RAID 0"><![CDATA[
+		The strategy of running two hard drives in one system, cutting in half the time it takes to write a file.
+		]]>
+		</definition>
+		<definition word="RAID 1"><![CDATA[
+		The strategy of mirroring all the data written on one hard drive to a second hard drive, providing an instant backup of all data.
+		]]>
+		</definition>
+		<definition word="random access memory (RAM)"><![CDATA[
+		The computer’s temporary storage space or short-term memory. It’s located in a set of chips on the system unit’s motherboard, and its capacity is measured in megabytes or gigabytes.
+		]]>
+		</definition>
+		<definition word="read-only memory (ROM)"><![CDATA[
+		A set of memory chips, located on the motherboard, which stores data and instructions that cannot be changed or erased; it holds all the instructions the computer needs to start up.
+		]]>
+		</definition>
+		<definition word="read/write head"><![CDATA[
+		The mechanism that retrieves (reads) and records (writes) the magnetic data to and from a data disk.
+		]]>
+		</definition>
+		<definition word="real-time operating system (RTOS)"><![CDATA[
+		A program with a specific purpose that must guarantee certain response times for particular computing tasks or else the machine’s application is useless. Real-time operating systems are found in many types of robotic equipment.
+		]]>
+		</definition>
+		<definition word="Really Simple Syndication (RSS)"><![CDATA[
+		An XML–based format that allows frequent updates of content on the World  Wide Web.
+		]]>
+		</definition>
+		<definition word="Recycle Bin"><![CDATA[
+		A folder on a Windows desktop in which deleted files from the hard drive are held until permanently purged from the system.
+		]]>
+		</definition>
+		<definition word="redundant array of independent disks (RAID)"><![CDATA[
+		A set of strategies for using more than one drive in a system.
+		]]>
+		</definition>
+		<definition word="Refresh your PC"><![CDATA[
+		A new utility program in Windows 8 that attempts to diagnose and fix errors in your Windows system files that are causing your computer to behave improperly.
+		]]>
+		</definition>
+		<definition word="registry"><![CDATA[
+		A portion of the hard drive containing all the different configurations (settings) used by the Windows operating system as well as by other applications.
+		]]>
+		</definition>
+		<definition word="resolution"><![CDATA[
+		The clearness or sharpness of an image, which is controlled by the number of pixels displayed on the  screen.
+		]]>
+		</definition>
+		<definition word="root directory"><![CDATA[
+		The top level of the filing structure in a computer system. In Windows computers, the root directory of the hard drive is represented as C:\.
+		]]>
+		</definition>
+		<definition word="rootkits"><![CDATA[
+		Programs that allow hackers to gain access to your computer and take almost complete control of it without your knowledge. These programs are designed to subvert normal login procedures to a computer and to hide their operations from normal detection methods.
+		]]>
+		</definition>
+		<definition word="sampling rate"><![CDATA[
+		The number of times per second a signal is measured and converted to a digital value. Sampling rates are measured in kilobits per second.
+		]]>
+		</definition>
+		<definition word="satellite Internet"><![CDATA[
+		A way to connect to the Internet using a small satellite dish, which is placed outside the home and is connected to a computer with coaxial cable. The satellite company then sends the data to a satellite orbiting the Earth. The satellite, in turn, sends the data back to the satellite dish and to the computer.
+		]]>
+		</definition>
+		<definition word="scanner"><![CDATA[
+		A type of input device that inputs images into computers.
+		]]>
+		</definition>
+		<definition word="scareware"><![CDATA[
+		A type of malware that’s downloaded onto your computer and that tries to convince you that your computer is infected with a virus or other type of malware.
+		]]>
+		</definition>
+		<definition word="script"><![CDATA[
+		A list of commands (mini-programs or macros) that can be executed on a computer without user interaction.
+		]]>
+		</definition>
+		<definition word="search engine"><![CDATA[
+		A set of programs that searches the web for specific words (or keywords) you wish to query (or look for) and that then returns a list of the websites on which those keywords are found.
+		]]>
+		</definition>
+		<definition word="sector"><![CDATA[
+		A section of a hard drive platter, wedge-shaped from the center of the platter to the edge.
+		]]>
+		</definition>
+		<definition word="seek time"><![CDATA[
+		The time it takes for the hard drive’s read/write heads to move over the surface of the disk to the correct track.
+		]]>
+		</definition>
+		<definition word="semantic web (Web 3.0)"><![CDATA[
+		An evolving extension of the World Wide Web in which information is defined in such a way as to make it more easily readable by computers.
+		]]>
+		</definition>
+		<definition word="server"><![CDATA[
+		A computer that provides resources to other computers on a network.
+		]]>
+		</definition>
+		<definition word="service set identifier (SSID)"><![CDATA[
+		A network name that wireless routers use to identify themselves.
+		]]>
+		</definition>
+		<definition word="short message service (SMS)"><![CDATA[
+		Technology that enables short text messages (up to 160 characters) to be sent over mobile networks.
+		]]>
+		</definition>
+		<definition word="simulation program"><![CDATA[
+		Software, often used for training purposes, which allows the user to experience or control an event as if it’s reality.
+		]]>
+		</definition>
+		<definition word="sleep mode"><![CDATA[
+		A low-power mode for electronic devices such as computers that saves electric power consumption and saves the last-used settings. When the device is “woken up,” work is resumed more quickly than when cold booting the computer.
+		]]>
+		</definition>
+		<definition word="smartphone"><![CDATA[
+		A cell phone built on a full-featured mobile operating system that offers computing capability and connectivity beyond those offered by basic phones.
+		]]>
+		</definition>
+		<definition word="social bookmark (tagging)"><![CDATA[
+		A keyword or term that Internet users assign to a web resource such as a web page, digital image, or video.
+		]]>
+		</definition>
+		<definition word="social commerce"><![CDATA[
+		A subset of e-commerce that uses social networks to assist in marketing and purchasing products.
+		]]>
+		</definition>
+		<definition word="social engineering"><![CDATA[
+		Any technique that uses social skills to generate human interaction for the purpose of enticing individuals to reveal sensitive information.
+		]]>
+		</definition>
+		<definition word="social networking"><![CDATA[
+		A means by which people use the Internet to communicate and share information among their immediate friends and to meet and connect with others through common interests, experiences, and friends.
+		]]>
+		</definition>
+		<definition word="software"><![CDATA[
+		The set of computer programs or instructions that tells the computer what to do and that enables it to perform different tasks.
+		]]>
+		</definition>
+		<definition word="Software as a Service (SaaS)"><![CDATA[
+		Software that’s delivered on demand over the Internet.
+		]]>
+		</definition>
+		<definition word="software license"><![CDATA[
+		An agreement between the user and the software developer that must be accepted before installing the software on a computer.
+		]]>
+		</definition>
+		<definition word="software piracy"><![CDATA[
+		Violating a software license agreement by copying an application onto more computers than the license agreement permits.
+		]]>
+		</definition>
+		<definition word="software suite"><![CDATA[
+		A collection of software programs that have been bundled together as a package.
+		]]>
+		</definition>
+		<definition word="solid-state drive (SSD)"><![CDATA[
+		A storage device that uses the same kind of memory that flash drives use but that can reach data in only a tenth of the time a flash drive requires.
+		]]>
+		</definition>
+		<definition word="sound card"><![CDATA[
+		An expansion card that attaches to the motherboard inside the system unit and that enables the computer to produce sounds by providing a connection for the speakers and microphone.
+		]]>
+		</definition>
+		<definition word="spam"><![CDATA[
+		Unwanted or junk e-mail.
+		]]>
+		</definition>
+		<definition word="spam filter"><![CDATA[
+		An option you can select in your e-mail account that places known or suspected spam messages into a folder other than your inbox.
+		]]>
+		</definition>
+		<definition word="speakers"><![CDATA[
+		Output devices for sound.
+		]]>
+		</definition>
+		<definition word="spear phishing"><![CDATA[
+		A targeted phishing attack that sends e-mails to people known to be customers of a company. Such attacks have a much greater chance of successfully getting individuals to reveal sensitive data.
+		]]>
+		</definition>
+		<definition word="spooler"><![CDATA[
+		A program that helps coordinate all print jobs being sent to the printer at the same time.
+		]]>
+		</definition>
+		<definition word="spreadsheet software"><![CDATA[
+		An application program such as Microsoft Excel or Lotus 1-2-3 that enables a user to do calculations and numerical analyses easily.
+		]]>
+		</definition>
+		<definition word="spyware"><![CDATA[
+		An unwanted piggyback program that downloads with the software you want to install from the Internet and then runs in the background of your system.
+		]]>
+		</definition>
+		<definition word="Start screen"><![CDATA[
+		The first interaction you have with the Windows operating system and the pace where you begin your computing activities.
+		]]>
+		</definition>
+		<definition word="stealth virus"><![CDATA[
+		A virus that temporarily erases its code from the files where it resides and hides in the active memory of the computer.
+		]]>
+		</definition>
+		<definition word="streaming audio"><![CDATA[
+		Technology that enables audio files to be fed to a browser continuously. This lets users avoid having to download an entire file before listening.
+		]]>
+		</definition>
+		<definition word="streaming video"><![CDATA[
+		Technology that enables video files to be fed to a browser continuously. This lets users avoid having to download the entire file before  viewing.
+		]]>
+		</definition>
+		<definition word="stylus"><![CDATA[
+		A pen-shaped device used to tap or write on touch-sensitive screens.
+		]]>
+		</definition>
+		<definition word="subject directory"><![CDATA[
+		A structured outline of websites organized by topics and subtopics.
+		]]>
+		</definition>
+		<definition word="supercomputer"><![CDATA[
+		A specially designed computer that can perform complex calculations extremely rapidly; used in situations in which complex models requiring intensive mathematical calculations are needed (such as weather forecasting or atomic energy research).
+		]]>
+		</definition>
+		<definition word="SuperFetch"><![CDATA[
+		A memory-management technique used by Windows 7. Monitors the applications you use the most and preloads them into your system memory so that they’ll be ready to go.
+		]]>
+		</definition>
+		<definition word="surge protector"><![CDATA[
+		A device that protects computers and other electronic devices from power surges.
+		]]>
+		</definition>
+		<definition word="surround sound"><![CDATA[
+		A type of audio processing that makes the listener experience sound as if it were coming from all directions.
+		]]>
+		</definition>
+		<definition word="surround-sound speaker"><![CDATA[
+		A system of speakers set up in such a way that it surrounds an entire area (and the people in it) with sound.
+		]]>
+		</definition>
+		<definition word="swap file (page file)"><![CDATA[
+		A temporary storage area on the hard drive where the operating system “swaps out” or moves the data or instructions from random access memory (RAM) that haven’t recently been used. This process takes place when more RAM space is needed.
+		]]>
+		</definition>
+		<definition word="synchronizing (or syncing)"><![CDATA[
+		The process of updating data on portable devices (such as a cell phone or iPod) and a computer so that they contain the same data.
+		]]>
+		</definition>
+		<definition word="system evaluation"><![CDATA[
+		The process of looking at a computer’s subsystems, what they do, and how they perform to determine whether the computer system has the right hardware components to do what the user ultimately wants it to do.
+		]]>
+		</definition>
+		<definition word="system files"><![CDATA[
+		The main files of an operating system.
+		]]>
+		</definition>
+		<definition word="system requirements"><![CDATA[
+		The set of minimum storage, memory capacity, and processing standards recommended by the software manufacturer to ensure proper operation of a software application.
+		]]>
+		</definition>
+		<definition word="System Restore"><![CDATA[
+		A utility in Windows that restores system settings to a specific previous date when everything was working properly.
+		]]>
+		</definition>
+		<definition word="system restore point"><![CDATA[
+		In Windows, a snapshot of your entire system’s settings used for restoring your system to a prior point in time.
+		]]>
+		</definition>
+		<definition word="system software"><![CDATA[
+		The set of programs that enables a computer’s hardware devices and application software to work together; it includes the operating system and utility programs.
+		]]>
+		</definition>
+		<definition word="system unit"><![CDATA[
+		The metal or plastic case that holds all the physical parts of the computer together, including the computer’s processor (its brains), its memory, and the many circuit boards that help the computer function.
+		]]>
+		</definition>
+		<definition word="tablet computer"><![CDATA[
+		A mobile computer, such as the Apple iPad or Samsung Galaxy Tab, integrated into a flat multitouch-sensitive screen. It uses an onscreen virtual keyboard, but separate keyboards can be connected via Bluetooth or wires.
+		]]>
+		</definition>
+		<definition word="tablet PC"><![CDATA[
+		A laptop computer designed specifically to work with handwriting-recognition technology.
+		]]>
+		</definition>
+		<definition word="Task Manager"><![CDATA[
+		A Windows utility that shows programs currently running and permits you to exit nonresponsive programs when you click End Task.
+		]]>
+		</definition>
+		<definition word="taskbar"><![CDATA[
+		In later versions of Windows operating systems, a feature that displays open and favorite applications for easy access.
+		]]>
+		</definition>
+		<definition word="tax preparation software"><![CDATA[
+		An application program, such as Intuit’s TurboTax or H&amp;R Block’s At Home, for preparing state and federal taxes. Each program offers a complete set of tax forms and instructions as well as expert advice on how to complete each form.
+		]]>
+		</definition>
+		<definition word="telephony"><![CDATA[
+		The use of equipment to provide voice communications over a distance.
+		]]>
+		</definition>
+		<definition word="template"><![CDATA[
+		A form included in many productivity applications that provides the basic structure for a particular kind of document, spreadsheet, or presentation.
+		]]>
+		</definition>
+		<definition word="Terabyte (TB)"><![CDATA[
+		1,099,511,627,776 bytes or 2<sup>40</sup> bytes.
+		]]>
+		</definition>
+		<definition word="tethering"><![CDATA[
+		Approach which makes sure that as long as you have a 3G signal, your computer can access the Internet even when it tells you there are no available wireless networks. Several smartphones offer this capability.
+		]]>
+		</definition>
+		<definition word="thermal printer"><![CDATA[
+		A printer that works either by melting wax-based ink onto ordinary paper (in a process called thermal wax transfer printing or by burning dots onto specially coated paper (in a process called direct thermal printing.
+		]]>
+		</definition>
+		<definition word="thrashing"><![CDATA[
+		A condition of excessive paging in which the operating system becomes sluggish.
+		]]>
+		</definition>
+		<definition word="throughput"><![CDATA[
+		The actual speed of data transfer that’s achieved. It’s usually less than the data transfer rate and is measured in megabits per second (Mbps).
+		]]>
+		</definition>
+		<definition word="time bomb"><![CDATA[
+		A virus that’s triggered by the passage of time or on a certain date.
+		]]>
+		</definition>
+		<definition word="top-level domain"><![CDATA[
+		The suffix, often of three letters (such as .com or .edu), in the domain name that indicates the kind of organization the host is.
+		]]>
+		</definition>
+		<definition word="touch pad (trackpad)"><![CDATA[
+		A small, touch-sensitive screen at the base of a laptop keyboard that’s used to direct the cursor.
+		]]>
+		</definition>
+		<definition word="touch screen"><![CDATA[
+		A type of monitor (or display in a smartphone or tablet computer) that accepts input from a user touching the screen.
+		]]>
+		</definition>
+		<definition word="track"><![CDATA[
+		A concentric circle that serves as a storage area on a hard drive platter.
+		]]>
+		</definition>
+		<definition word="trackpoint device"><![CDATA[
+		A small, joystick-like nub that enables you to move the cursor with the tip of your finger.
+		]]>
+		</definition>
+		<definition word="Trojan horse"><![CDATA[
+		A computer program that appears to be something useful or desirable (such as a game or a screen saver), but at the same time does something malicious in the background without the user’s knowledge.
+		]]>
+		</definition>
+		<definition word="ultrabook"><![CDATA[
+		A full-featured but lightweight laptop computer that features a low-power processor and a solid-state drive; it tries to reduce its size and weight to extend battery life without sacrificing performance.
+		]]>
+		</definition>
+		<definition word="Uniform Resource Locator (URL)"><![CDATA[
+		A website’s unique address; an example is microsoft.com.
+		]]>
+		</definition>
+		<definition word="uninterruptible power supply (UPS)"><![CDATA[
+		A device designed to power a computer from large batteries for a brief period during a loss of electrical power.
+		]]>
+		</definition>
+		<definition word="universal serial bus (USB) port"><![CDATA[
+		A port that can connect a wide variety of peripheral devices to the computer, including keyboards, printers, mice, smartphones, external hard drives, flash drives, and digital cameras.
+		]]>
+		</definition>
+		<definition word="UNIX"><![CDATA[
+		An operating system originally conceived in 1969 by Ken Thompson and Dennis Ritchie of AT&amp;T’s Bell Labs. In 1974, the UNIX code was rewritten in the standard programming language C. Today there are various commercial versions of UNIX.
+		]]>
+		</definition>
+		<definition word="unshielded twisted-pair (UTP) cable"><![CDATA[
+		The most popular transmission media option for Ethernet networks. UTP cable is composed of four pairs of wires that are twisted around each other to reduce electrical interference.
+		]]>
+		</definition>
+		<definition word="user interface"><![CDATA[
+		Part of the operating system that enables individuals to interact with the computer.
+		]]>
+		</definition>
+		<definition word="utility program"><![CDATA[
+		A small program that performs many of the general housekeeping tasks for the computer, such as system maintenance and file compression.
+		]]>
+		</definition>
+		<definition word="vertical market software"><![CDATA[
+		Software that’s developed for and customized to a specific industry’s needs (such as a wood inventory system for a sawmill) as opposed to software that’s useful across a range of industries (such as word processing software).
+		]]>
+		</definition>
+		<definition word="video card (video adapter)"><![CDATA[
+		An expansion card that’s installed inside a system unit to translate binary data (the 1s and 0s the computer uses) into the images viewed on the monitor.
+		]]>
+		</definition>
+		<definition word="video graphics array (VGA) port"><![CDATA[
+		A port to which a cathode ray tube monitor connects.
+		]]>
+		</definition>
+		<definition word="video log (vlog or video blog)"><![CDATA[
+		A personal online journal that uses video as the primary content in addition to text, images, and audio.
+		]]>
+		</definition>
+		<definition word="video memory"><![CDATA[
+		Random access memory that’s included as part of a video card.
+		]]>
+		</definition>
+		<definition word="virtual memory"><![CDATA[
+		The space on the hard drive where the operating system stores data if there isn’t enough random access memory to hold all of the programs you’re currently trying to run.
+		]]>
+		</definition>
+		<definition word="virus"><![CDATA[
+		A computer program that attaches itself to another computer program (known as the host program) and attempts to spread itself to other computers when files are exchanged.
+		]]>
+		</definition>
+		<definition word="virus signature"><![CDATA[
+		A portion of the virus code that’s unique to a particular computer virus and that makes it identifiable by antivirus software.
+		]]>
+		</definition>
+		<definition word="Voice over Internet Protocol (VoIP)"><![CDATA[
+		A technology that facilitates making telephone calls across the Internet instead of using conventional telephone lines.
+		]]>
+		</definition>
+		<definition word="volatile storage"><![CDATA[
+		Temporary storage, such as in random access memory. When the power is off, the data in volatile storage is cleared out.
+		]]>
+		</definition>
+		<definition word="warm boot"><![CDATA[
+		The process of restarting the system while it’s powered on.
+		]]>
+		</definition>
+		<definition word="Web 2.0"><![CDATA[
+		Tools and web-based services that emphasize online collaboration and sharing among users.
+		]]>
+		</definition>
+		<definition word="web-based application"><![CDATA[
+		A program that’s hosted on a website and that doesn’t require installation on the computer.
+		]]>
+		</definition>
+		<definition word="web-based e-mail"><![CDATA[
+		A type of e-mail system that’s managed by a web browser and that allows access to e-mail from the web.
+		]]>
+		</definition>
+		<definition word="web browser (browser)"><![CDATA[
+		Software installed on a computer system that allows individuals to locate, view, and navigate the web.
+		]]>
+		</definition>
+		<definition word="web page–authoring software"><![CDATA[
+		Programs you can use to design interactive web pages without knowing any HyperText Markup Language (HTML) code.
+		]]>
+		</definition>
+		<definition word="webcam"><![CDATA[
+		A small camera that sits on top of a computer monitor (connected to the computer by a cable) or that’s built into a laptop computer and is usually used to transfer live video.
+		]]>
+		</definition>
+		<definition word="webcast"><![CDATA[
+		The broadcast of audio or video content over the Internet. Unlike a podcast, a webcast is not updated automatically.
+		]]>
+		</definition>
+		<definition word="website"><![CDATA[
+		A location on the web.
+		]]>
+		</definition>
+		<definition word="white-hat hacker (ethical hacker)"><![CDATA[
+		A hacker who breaks into systems just for the challenge of it (and who doesn’t wish to steal or wreak havoc on the systems). Such hackers tout themselves as experts who are performing a needed service for society by helping companies realize the vulnerabilities that exist in their systems.
+		]]>
+		</definition>
+		<definition word="whole-house surge protector"><![CDATA[
+		A surge protector that’s installed on (or near) the breaker panel of a home and that protects all electronic devices in the home from power surges.
+		]]>
+		</definition>
+		<definition word="wiki"><![CDATA[
+		A type of website that allows anyone visiting the site to change its content by adding, removing, or editing the content.
+		]]>
+		</definition>
+		<definition word="Windows"><![CDATA[
+		An operating system by Microsoft that incorporates a user-friendly, graphical interface.
+		]]>
+		</definition>
+		<definition word="Windows 8"><![CDATA[
+		Newest release of Microsoft’s operating system that provides, a new interface optimized for touch-screen devices.
+		]]>
+		</definition>
+		<definition word="Windows 8 apps"><![CDATA[
+		Applications specifically designed to run in the Windows 8 interface; these apps are displayed full screen, without borders or controls.
+		]]>
+		</definition>
+		<definition word="Windows 8 interface"><![CDATA[
+		New interface designed for Windows 8; features large type with clean, readable block images inspired by metropolitan service signs such as those found on bus stations and subways.
+		]]>
+		</definition>
+		<definition word="Windows Explorer"><![CDATA[
+		The main tool for finding, viewing, and managing the contents of your computer by showing the location and contents of every drive, folder, and file; called File Explorer in Windows 8.
+		]]>
+		</definition>
+		<definition word="Windows account"><![CDATA[
+		A tool for allowing multiple people to share a Windows 8 computer while maintaining individual settings and preferences.
+		]]>
+		</definition>
+		<definition word="wireless fidelity (WiFi)"><![CDATA[
+		The 802.11 standard for wireless data transmissions established by the Institute of Electrical and Electronics Engineers (IEEE).
+		]]>
+		</definition>
+		<definition word="wireless Internet service provider (wireless ISP)"><![CDATA[
+		An ISP that provides service to wireless devices such as smartphones.
+		]]>
+		</definition>
+		<definition word="wireless range extender"><![CDATA[
+		A device that amplifies your wireless signal to get it out to parts of your home that are experiencing poor connectivity.
+		]]>
+		</definition>
+		<definition word="wizard"><![CDATA[
+		A step-by-step guide that walks a user through the necessary steps to complete a complicated task.
+		]]>
+		</definition>
+		<definition word="word processing software"><![CDATA[
+		Programs used to create and edit written documents such as papers, letters, and résumés.
+		]]>
+		</definition>
+		<definition word="World Wide Web (WWW or the web)"><![CDATA[
+		The part of the Internet used the most. What distinguishes the web from the rest of the Internet are (1) its use of common communication protocols (such as Transmission Control Protocol/Internet Protocol, or TCP/IP) and special languages (such as the HyperText Markup Language, or HTML) that enable different computers to talk to each other and display information in compatible formats and (2) its use of special links (called hyperlinks) that enable users to jump from one place to another in the web.
+		]]>
+		</definition>
+		<definition word="worm"><![CDATA[
+		A program that attempts to travel between systems through network connections to spread infections. Worms can run independently of host file execution and are active in spreading themselves.
+		]]>
+		</definition>
+		<definition word="zombie"><![CDATA[
+		A computer that’s controlled by a hacker who uses it to launch attacks on other computer systems.
+		]]>
+		</definition>
+		<!-- chapter 3 -->
+		<definition word="Steve Wozniak"><![CDATA[
+		Co-founder of Apple Computers.
+		]]>
+		</definition>
+		<definition word="Steve Jobs"><![CDATA[
+		Co-founder of Apple Computers.
+		]]>
+		</definition>
+		<definition word="Beginners All-Purpose Symbolic Instruction Code (BASIC)"><![CDATA[
+		Early computer language featuring
+		word commands that was designed to make programming approachable for non-computer
+		scientists.
+		]]>
+		</definition>
+		<definition word="Bill Gates"><![CDATA[
+		Co-founder of Microsoft.
+		]]>
+		</definition>
+		<definition word="Paul Allen"><![CDATA[
+		Co-founder of Microsoft.
+		]]>
+		</definition>
+		<definition word="Microsoft"><![CDATA[
+		Computer software and hardware corporation best known for its development of
+		operating systems, such as Windows and DOS and the Office Suite of productivity apps.
+		]]>
+		</definition>
+		<definition word="Disk Operating System (DOS)"><![CDATA[
+		Acronym for a group of early operating systems for IBM PCs
+		and clones in the early 1980s.
+		]]>
+		</definition>
+		<definition word="Control Program for Microcomputers (CP/M)"><![CDATA[
+		Early operating system for microcomputers
+		designed by Gary Kildall of Digital Research, Inc.
+		]]>
+		</definition>
+		<definition word="MS-DOS"><![CDATA[
+		Microsoft’s DOS variant developed for IBM.
+		]]>
+		</definition>
+		<definition word="VisiCalc"><![CDATA[
+		First spreadsheet program developed for PCs.
+		]]>
+		</definition>
+		<definition word="Lotus 1-2-3"><![CDATA[
+		Early market-leading spreadsheet program developed for PCs.
+		]]>
+		</definition>
+		<definition word="Microsoft Excel"><![CDATA[
+		Spreadsheet program that eventually supplanted Lotus 1-2-3 as the market
+		leader.
+		]]>
+		</definition>
+		<definition word="WordStar"><![CDATA[
+		Dominant word processing software in the early 1980s for microcomputers and
+		PCs.
+		]]>
+		</definition>
+		<definition word="Word for MS-DOS"><![CDATA[
+		Microsoft’s first word processing software, eventually morphed into Word
+		for Windows.
+		]]>
+		</definition>
+		<definition word="WordPerfect"><![CDATA[
+		Dominant word processing software for PCs in the late 1980s.
+		]]>
+		</definition>
+		<definition word="Xerox"><![CDATA[
+		Office machinery company best known for bringing photocopies to the masses.
+		]]>
+		</definition>
+		<definition word="Internet Explorer"><![CDATA[
+		Microsoft’s Internet browser software.
+		]]>
+		</definition>
+		<definition word="Mosaic"><![CDATA[
+		Web browser that helped make the World Wide Web accessible to the masses. First
+		browser to display graphic inline with text instead of using a separate window.
+		]]>
+		</definition>
+		<definition word="Windows 95"><![CDATA[
+		Early, stable version of the Windows operating system introduced in 1995.
+		]]>
+		</definition>
+		<definition word="Netscape"><![CDATA[
+		Netscape Navigator was the dominant web browser in the 1990s.
+		]]>
+		</definition>
+		<definition word="Pascalene"><![CDATA[
+		Mechanical calculator invented by Blaise Pascal in 1642.
+		]]>
+		</definition>
+		<definition word="Blaise Pascal"><![CDATA[
+		French mathematician and inventor who invented the mechanical calculator in
+		1642.
+		]]>
+		</definition>
+		<definition word="Joseph Jacquard"><![CDATA[
+		French weaver and merchant who invented a programmable loom.
+		]]>
+		</definition>
+		<definition word="Jacquard loom"><![CDATA[
+		A programmable loom invented by Joseph Jacquard. Punch cards used for
+		data entry in early computers were based on cards used by this loom.
+		]]>
+		</definition>
+		<definition word="Charles Babbage"><![CDATA[
+		An English mathematician and inventor who invented the first mechanical
+		computer. Later designs for many types of computing machines were based on Babbage’s 
+		machines and theories.
+		]]>
+		</definition>
+		<definition word="Analytical Engine"><![CDATA[
+		A computer design by Charles Babbage that was unfinished at his death.
+		Would have been the first computer that used punched cards for programming.
+		]]>
+		</definition>
+		<definition word="Difference Engine"><![CDATA[
+		A mechanical calculator designed by Charles Babbage. Its purpose was to
+		tabulate polynomial functions.
+		]]>
+		</definition>
+		<definition word="Herman Hollerith"><![CDATA[
+		American inventor & statistician who developed a tabulating device that used punched cards to quickly compile data. His inventions provided the basis for the development of the first true computers.
+		]]>
+		</definition>
+		<definition word="Hollerith Tabulating Machine"><![CDATA[
+		An electromechanical machine designed by Herman Hollerith. It
+		used punched cards to summarize information and was developed primarily to process data for
+		the 1890 U.S. Census.
+		]]>
+		</definition>
+		<definition word="Konrad Zuse"><![CDATA[
+		German inventor and computer pioneer.
+		]]>
+		</definition>
+		<definition word="Z1"><![CDATA[
+		Developed by Konrad Zuse in 1938, the Z1 was a floating point binary mechanical
+		calculator featuring limited programmability. Its design helped pave the way for Zuse’s later
+		developments in computing.
+		]]>
+		</definition>
+		<definition word="Atanasoff-Berry Computer (ABC)"><![CDATA[
+		An early electronic digital computing device. Although not
+		programmable, it was one of the first devices to use binary arithmetic.
+		]]>
+		</definition>
+		<definition word="Howard Aiken"><![CDATA[
+		Physicist who designed IBM’s Harvard Mark I computer.
+		]]>
+		</definition>
+		<definition word="Grace Hopper"><![CDATA[
+		Naval officer and computer scientist who developed the first compiler for a
+		computer programming language. She was also one of the first programmers to work on the
+		Harvard Mark I.
+		]]>
+		</definition>
+
+		<definition word="compiler"><![CDATA[
+		A program that understands both the syntax of the programming language and the exact structure of the central processing unit and its machine language.
+		]]>
+		</definition>
+		<definition word="Harvard Mark I"><![CDATA[
+		First computing machine to automatically execute long calculations.
+		]]>
+		</definition>
+		<definition word="Alan Turing"><![CDATA[
+		Widely acknowledged as the “father” of computer science and artificial
+		intelligence, Turning was a mathematician and cryptanalyst. Developed the “Turning Machine”
+		which used the ideas of an algorithm and computation to provide the basic design for a
+		computer.
+		]]>
+		</definition>
+		<definition word="Turing Machine"><![CDATA[
+		A hypothetical (not physical) device that automatically manipulates symbols
+		according to a table of rules. This concept can be used to emulate the logic of any computer
+		algorithm.
+		]]>
+		</definition>
+		<definition word="Electronic Numerical Integrator and Computer (ENIAC)"><![CDATA[
+		First electronic computer that could be
+		reprogrammed and therefore solve a wide range of complex problems.
+		]]>
+		</definition>
+		<definition word="John W. Mauchly"><![CDATA[
+		Co-designer of the ENIAC computer.
+		]]>
+		</definition>
+		<definition word="J. Presper Eckert"><![CDATA[
+		Co-designer of the ENIAC computer.
+		]]>
+		</definition>
+		<definition word="Universal Automatic Computer (UNIVAC)"><![CDATA[
+		A line of computers developed and sold
+		commercially by Mauchly and Eckert after their development of the ENIAC and their subsequent
+		departure from the University of Pennsylvania.
+		]]>
+		</definition>
+		<definition word="First-generation computers"><![CDATA[
+		Computers deployed from 1940 to 1956 that used vacuum tubes
+		for circuitry, magnetic drums for memory, and punched cards for input.
+		]]>
+		</definition>
+		<definition word="Transistor"><![CDATA[
+		Devices made from semiconductors that can both switch and amplify electronic
+		signals. The transistor allows for the precise control of current moving through a circuit board
+		and generates much less heat than vacuum tubes.
+		]]>
+		</definition>
+		<definition word="Second-generation computers"><![CDATA[
+		Computers deployed from 1956 to 1963 that used transistors
+		instead of vacuum tubes, stored instructions in memory and used assembly languages. Still
+		used punched cards for input and printers for output.
+		]]>
+		</definition>
+		<definition word="Jack Kilby"><![CDATA[
+		Electrical engineer who helped develop the first integrated circuit. Also invented the
+		handheld calculator and the thermal printer.
+		]]>
+		</definition>
+		<definition word="Integrated circuit"><![CDATA[
+		A set of electronic circuits on a single chip of semiconductor material.
+		Modern integrated circuits can have billions of transistors.
+		]]>
+		</definition>
+		<definition word="Third-generation computers"><![CDATA[
+		Computers deployed from 1964 to 1971 that used integrated
+		circuits, input using keyboards, and output using monitors.
+		]]>
+		</definition>
+		<definition word="Microprocessor chip"><![CDATA[
+		A chip that uses binary numbers and incorporates all the basic
+		functions of a computer’s CPU on a single (or very few) integrated circuit. Microprocessors are
+		programmable devices that accept input, process data and provide output.
+		]]>
+		</definition>
+		<definition word="Fourth-generation computers"><![CDATA[
+		Computers deployed from 1971 to the present that use
+		microprocessors.
+		]]>
+		</definition>
+		<!--chapter 3b-->
+
+<definition word="client/server network"><![CDATA[
+Networks that contain both servers (powerful computers that store programs and information) and clients (less powerful computers used for viewing and accessing data contained on servers). 
+]]>
+</definition>
+
+<definition word="weblog"><![CDATA[
+Original term for a diary type website, now known as a blog.
+]]>
+</definition>
+<definition word="secure socket layer"><![CDATA[
+	Protocols that use encryption to protect data sent over the Internet.
+]]>
+</definition>
+<definition word="Hypertext Transfer Protocol (HTTP)"><![CDATA[
+The main protocol used by the World Wide Web. It facilitates communication between web browsers and web servers. 
+]]>
+</definition>
+
+<definition word="web server"><![CDATA[
+A computer running a specialized operating system that enables it to host web pages (and other information) and to provide requested web pages to clients.
+]]>
+</definition>
+
+<definition word="Tagging"><![CDATA[
+attaching keyword descriptions to entries or images on a blog or social bookmarking site to facilitate organizing information into categories.
+]]>
+</definition>
+
+<definition word="social bookmarking"><![CDATA[
+Social bookmarking sites allow users to organize bookmarks by assigning tags and sharing them with others.
+]]>
+</definition>
+
+<definition word="blog (weblog)"><![CDATA[
+A website on which users regularly post information or opinions on a regular basis. 
+]]>
+</definition>
+
+<definition word="Internet backbone"><![CDATA[
+The main high-speed data pathways on the Internet that facilitate moving vast quantities of information around the globe.
+]]>
+</definition>
+		<definition word="Brain-computer interfaces (BCIs)"><![CDATA[
+		 Establish a direct communication pathway between the brain and external devices allowing thought to director or control the device. 
+		]]>
+		</definition>
+		<definition word="Neurostimulation"><![CDATA[
+		 Techniques that involve the transplantation of devices that transmit electrical impulses to the brain for treating movement disorders such as Parkinson’s disease as well as chronic pain. 
+		]]>
+		</definition>
+		<definition word="Neural stem cells"><![CDATA[
+		 Self-renewing cells that generate the main characteristics of the central nervous system. 
+		]]>
+		</definition>
+		<definition word="Electrical switches"><![CDATA[
+		 Devices inside the computer that are flipped between the two states of 1 and 0, signifying “on” and “off”. 
+		]]>
+		</definition>
+		<definition word="Vacuum tubes"><![CDATA[
+		 Used as switches in the earliest generation of electronic computers; they allow or block the flow of electrical current. 
+		]]>
+		</definition>
+		<definition word="Transistors"><![CDATA[
+		 Electric switches built out of layers of a semiconductor such as silicon. . Much smaller than and efficient than vacuum tubes, but were soon replaced by microprocessors. 
+		]]>
+		</definition>
+		<definition word="Integrated Circuits (chips)"><![CDATA[
+		 Tiny regions of semiconductor material that support a huge number of transistors. 
+		]]>
+		</definition>
+		<definition word="Microprocessors"><![CDATA[
+		 Chips that contain a central processing unit (CPU) of a computer system. 
+		]]>
+		</definition>
+		<definition word="Number system"><![CDATA[
+		 An organized plan for representing a number. 
+		]]>
+		</definition>
+		<definition word="Base-10 number system (decimal notation)"><![CDATA[
+		 the number system used to represent values using the digits 0 – 9. 
+		]]>
+		</definition>
+		<definition word="Binary number system (Base-2 number system)"><![CDATA[
+		 Numbering system that uses two digitals to represent all the values of a base-10 number system by describing a number as the sum of powers of 2. 
+		]]>
+		</definition>
+		<definition word="Base-2 number system (Binary number system)"><![CDATA[
+		 Also known as binary number system, describes numbers in powers of 2, using just the digits of 1 and 0. 
+		]]>
+		</definition>
+		<definition word="ASCII (American Standard Code for Information Interchange)"><![CDATA[
+		 A consistent meanans of representing letters and characters in binary format. Represents each letter or character as an 8-bit (or 1-byte) bnary code. 
+		]]>
+		</definition>
+		<definition word="Unicode"><![CDATA[
+		 A new encoding scheme that uses 16 bits instead of 8 bits used in ASCII. 
+		]]>
+		</definition>
+		<definition word="Positive and negative integers"><![CDATA[
+		 whole numbers greater or less than zero. 
+		]]>
+		</definition>
+		<definition word="Decimal"><![CDATA[
+		 a portion of 100, expressed by figures placed to the right of a decimal point.,
+		]]>
+		</definition>
+		<definition word="Letters and symbols"><![CDATA[
+		 Alphabetic characters, and special graphical notations. 
+		]]>
+		</definition>
+		<definition word="Fetch"><![CDATA[
+		 The first step in the machine cycle when the binary code is moved from  Ram to the CPU. 
+		]]>
+		</definition>
+		<definition word="Decode"><![CDATA[
+		 The second step in the machine cycle when binary code is broken into commands the CPU understands. 
+		]]>
+		</definition>
+		<definition word="Execute"><![CDATA[
+		 The third step in the machine cycle when the CPU performs the work described in the commands, such as addition, subtraction, multiplication, division and other mathematical and logical operations. 
+		]]>
+		</definition>
+		<definition word="Store"><![CDATA[
+		 The fourth and last step in the machine cycle when the result of the execution is placed in one of the registers of the CPU. 
+		]]>
+		</definition>
+		<definition word="Registers"><![CDATA[
+		 Special memory storage areas built into the CPU. 
+		]]>
+		</definition>
+		<definition word="Control Unit"><![CDATA[
+		 Part of the central processing unit (CPU) that manages the switches inside the CPU and that remembers the sequence of processing stages for the CPU, and how each switch in the CPU should be set (i.e. on or off). 
+		]]>
+		</definition>
+		<definition word="System Clock"><![CDATA[
+		 A special crystal built into the motherboard that acts like a metronome to keep a steady beat and control when the CPU moves to the next stage of processing. 
+		]]>
+		</definition>
+		<definition word="Clock Cycle"><![CDATA[
+		 The steady beats or “ticks” of the system clock. 
+		]]>
+		</definition>
+		<definition word="Level 1 Cache"><![CDATA[
+		 Block of memory built onto the CPU chip to store data or commands that have just been used. 
+		]]>
+		</definition>
+		<definition word="Level 2 Cache"><![CDATA[
+		 A block of memory that is either located on the CPU chip (but slightly farther away than the Level 1 cache) or is located on a separate chip next to the CPU. 
+		]]>
+		</definition>
+		<definition word="Level 3 Cache"><![CDATA[
+		 An additional third level of cache memory storage, to which the CPU looks for instructions and data after first checking Level 1 and Level 2 cache, but before accessing RAM. 
+		]]>
+		</definition>
+		<definition word="Instruction Set"><![CDATA[
+		 Collection of commands a specific CPU can execute. 
+		]]>
+		</definition>
+		<definition word="Machine language"><![CDATA[
+		 Long strings of binary code used by the control unit to set up the hardware in the CPU for the rest of the operations the CPU needs to perform. 
+		]]>
+		</definition>
+		<definition word="Word size"><![CDATA[
+		 The number of bits a computer can work with at a time. 
+		]]>
+		</definition>
+		<definition word="Pipelining"><![CDATA[
+		 A technique that allows the CPU to work on more than one instruction (or stage of processing) at the same time. 
+		]]>
+		</definition>
+		<definition word="Parallel processing"><![CDATA[
+		 When individual computers in a large network of computers work on a portion of the same problem simultaneously. 
+		]]>
+		</definition>
+		
+		
+		
+	
+		<definition word="access card reader"><![CDATA[
+		 A device that reads information from a magnetic strip on the back of a credit card–like access card. 
+		]]>
+		</definition>
+		<definition word="access method"><![CDATA[
+		 A method to control which computer is allowed to use transmission media at a certain time.
+		]]>
+		</definition>
+		<definition word="active topology"><![CDATA[
+		 In a network, a type of topology where the nodes participate in moving data through the network.
+		]]>
+		</definition>
+		<definition word="application server"><![CDATA[
+		 A server that acts as a repository for application software.
+		]]>
+		</definition>
+		<definition word="authentication server"><![CDATA[
+		 A server that keeps track of who’s logging on to the network and which services on the network are available to each user.
+		]]>
+		</definition>
+		<definition word="bastion host"><![CDATA[
+		 A heavily secured server located on a special perimeter network between the company’s secure internal network and its firewall.
+		]]>
+		</definition>
+		<definition word="biometric authentication device"><![CDATA[
+		 A device that uses some unique characteristic of human biology to identify authorized users.
+		]]>
+		</definition>
+		<definition word="bridge"><![CDATA[
+		 A device that’s used to send data between different collision domains in a network, depending on where the recipient device is located.
+		]]>
+		</definition>
+		<definition word="brute force attack"><![CDATA[
+		An attempt to access an account by repeatedly trying different passwords.
+		]]>
+		</definition>
+		<definition word="bus (linear bus) topology"><![CDATA[
+		A system of networking connections in which all devices are connected in sequence on a single cable.
+		]]>
+		</definition>
+		<definition word="centralized"><![CDATA[
+		A characteristic of client/server networks where the server, not the individual user, coordinates data security.
+		]]>
+		</definition>
+		<definition word="client/server network (server-based network)"><![CDATA[
+		A type of network that uses servers to deliver services to computers that are requesting them (clients).
+		]]>
+		</definition>
+		<definition word="cloud server"><![CDATA[
+		A server that is maintained by a hosting company and that is connected to networks via the Internet.
+		]]>
+		</definition>
+		<definition word="communications server"><![CDATA[
+		A server that handles all communications between the network and other networks, including managing Internet connectivity.
+		]]>
+		</definition>
+		<definition word="CSMA/CD"><![CDATA[
+		The method used on Ethernet networks to avoid data collisions; short for carrier sense multiple access with collision detection. A node connected to the network uses carrier sense to verify that no other nodes are currently transmitting data signals.
+		]]>
+		</definition>
+		<definition word="data collision"><![CDATA[
+		When two computers send data at the same time and the sets of data collide somewhere in the connection media.
+		]]>
+		</definition>
+		<definition word="database server"><![CDATA[
+		A server that provides client computers with access to information stored in databases.
+		]]>
+		</definition>
+		<definition word="decentralized"><![CDATA[
+		A characteristic of peer-to-peer networks where the individual user coordinates data security.
+		]]>
+		</definition>
+		<definition word="dedicated server"><![CDATA[
+		A server used to fulfill one specific function, such as handling e-mail.
+		]]>
+		</definition>
+		<definition word="electronic data interchange (EDI)"><![CDATA[
+		The exchange of large amounts of data in a standardized electronic format.
+		]]>
+		</definition>
+		<definition word="e-mail server"><![CDATA[
+		A server whose sole function is to process and deliver incoming and outgoing e-mail.
+		]]>
+		</definition>
+		<definition word="extranet"><![CDATA[
+		An area of an intranet that only certain corporations or individuals can access; the owner of the extranet decides who will be permitted to access it.
+		]]>
+		</definition>
+		<definition word="file server"><![CDATA[
+		A server that stores and manages files for network users or that acts as a storehouse for files that users can download.
+		]]>
+		</definition>
+		<definition word="frame"><![CDATA[
+		Groups of data packets that are sent together in a package.
+		]]>
+		</definition>
+		<definition word="honey pot"><![CDATA[
+		A computer system that’s set up to attract unauthorized users by appearing to be a key part of a network or a system that contains something of great value.
+		]]>
+		</definition>
+		<definition word="hybrid topology"><![CDATA[
+		Combining multiple topologies into one network.
+		]]>
+		</definition>
+		<definition word="information assurance"><![CDATA[
+		Ensuring that information systems contain accurate information and are adequately secured against tampering.
+		]]>
+		</definition>
+		<definition word="intranet"><![CDATA[
+		A private network set up by a business or an organization that’s used exclusively by a select group of employees, customers, suppliers, volunteers, or supporters.
+		]]>
+		</definition>
+		<definition word="jam signal"><![CDATA[
+		A special signal sent to network nodes alerting them that a data collision has occurred.
+		]]>
+		</definition>
+		<definition word="media access control (MAC) address"><![CDATA[
+		The physical address, similar to a serial number, of each network adapter.
+		]]>
+		</definition>
+		<definition word="network administrator"><![CDATA[
+		Involves tasks such as (1) installing new computers and devices, (2) monitoring the network to ensure it’s performing efficiently, (3) updating and installing new software on the network, and (4) configuring, or setting up, proper security for a network.
+		]]>
+		</definition>
+		<definition word="network topology"><![CDATA[
+		The physical or logical arrangement of computers, transmission media (cable), and other network components.
+		]]>
+		</definition>
+		<definition word="Open Systems Interconnection (OSI)"><![CDATA[
+		A networking protocol established by the Institute of Electrical and Electronics Engineers (IEEE) that provides guidelines for modern networks.
+		]]>
+		</definition>
+		<definition word="packet screening"><![CDATA[
+		Having an external screening router examine incoming data packets to ensure they originated from or are authorized by valid users on the internal network.
+		]]>
+		</definition>
+		<definition word="passive topology"><![CDATA[
+		In a network, a type of topology where the nodes do nothing to move data along the network.
+		]]>
+		</definition>
+		<definition word="possessed object"><![CDATA[
+		Any object that users carry to identify themselves and that grants them access to a computer system or facility.
+		]]>
+		</definition>
+		<definition word="print queue"><![CDATA[
+		A software holding area for print jobs. Also called a print spooler.
+		]]>
+		</definition>
+		<definition word="printer server"><![CDATA[
+		A server that manages all client-requested printing jobs for all printers on a network.
+		]]>
+		</definition>
+		<definition word="protocol"><![CDATA[
+		A set of rules for exchanging communications.
+		]]>
+		</definition>
+		<definition word="proxy server"><![CDATA[
+		A server that acts as a go-between, connecting computers on the internal network with those on the external network (the Internet).
+		]]>
+		</definition>
+		<definition word="ring (loop) topology"><![CDATA[
+		A type of network topology where computers and peripherals are laid out in a configuration resembling a circle.
+		]]>
+		</definition>
+		<definition word="scalability"><![CDATA[
+		A characteristic of client/server networks where more users can be easily added without affecting the performance of other network nodes.
+		]]>
+		</definition>
+		<definition word="shielded twisted-pair (STP) cable"><![CDATA[
+		Twisted-pair cable that contains a layer of foil shielded to reduce interference.
+		]]>
+		</definition>
+		<definition word="star topology"><![CDATA[
+		The most widely deployed client/server network topology, where the nodes connect to a central communications device called a switch in a pattern resembling a star.
+		]]>
+		</definition>
+		<definition word="terminator"><![CDATA[
+		A device that absorbs a signal so that it’s not reflected back onto parts of the network that have already received it.
+		]]>
+		</definition>
+		<definition word="token"><![CDATA[
+		A special data packet used to pass data in a ring topology network.
+		]]>
+		</definition>
+		<definition word="token method"><![CDATA[
+		The access method used by ring networks to avoid data collisions.
+		]]>
+		</definition>
+		<definition word="tunneling"><![CDATA[
+		The main technology for achieving a virtual private network; the placement of data packets inside other data packets 
+		]]>
+		</definition>
+		<definition word="virtual private network (VPN)"><![CDATA[
+		A network that uses the public Internet communications infrastructure to build a secure, private network among various locations.
+		]]>
+		</definition>
+		<definition word="virtualization"><![CDATA[
+		Using specialized software to make individual physical servers behave as though they are more than one physical device.
+		]]>
+		</definition>
+		<definition word="wide area network (WAN)"><![CDATA[
+		A network made up of local area networks (LANs) connected over long distances.
+		]]>
+		</definition>
+		<definition word="wireless access point (WAP)"><![CDATA[
+		Gives wireless devices a sending and receiving connection point to the network.
+		]]>
+		</definition>
+		<definition word="wireless network interface card (wireless NIC)"><![CDATA[
+		A special network adapter card that allows a computing device to connect to a network using wireless access.
+		]]>
+		</definition>
+		
+		
+		<definition word="applet"><![CDATA[
+		A small application located on a server; when requested, the applet is downloaded to the client.
+		]]>
+		</definition>
+		<definition word="cascading style sheet"><![CDATA[
+		A list of rules that defines in one single location how to display HTML elements.
+		]]>
+		</definition>
+		<definition word="cgi-bin"><![CDATA[
+		On a web server, a directory created by the network administrator who configures the web server.
+		]]>
+		</definition>
+		<definition word="CGI script"><![CDATA[
+		A CGI program file.
+		]]>
+		</definition>
+		<definition word="circuit switching"><![CDATA[
+		Where a dedicated connection is formed between two points (such as two people on telephones) and the connection remains active for the duration of the transmission.
+		]]>
+		</definition>
+		<definition word="classless interdomain routing (CIDR)"><![CDATA[
+		An Internet addressing scheme that allows a single Internet protocol (IP) address to represent several unique IP addresses by adding a network prefix 
+		]]>
+		</definition>
+		<definition word="client/server model"><![CDATA[
+		A model of network communications where a client device such as a computer, tablet, or smartphone uses browsers to request services from networks that make up the Internet. 
+		]]>
+		</definition>
+		<definition word="client-side program"><![CDATA[
+		A program that runs on the client computer and that requires no interaction with a web server. 
+		]]>
+		</definition>
+		<definition word="commerce server"><![CDATA[
+		Computers that host software that enables users to buy goods and services over the web.
+		]]>
+		</definition>
+		<definition word="Common Gateway Interface (CGI)"><![CDATA[
+		A method of designing programs that provides a methodology by which a browser can request a program file be executed instead of just being delivered to the browser.
+		]]>
+		</definition>
+		<definition word="computer protocol"><![CDATA[
+		A set of rules for exchanging electronic information.
+		]]>
+		</definition>
+		<definition word="connectionless protocol"><![CDATA[
+		A protocol that a host computer can use to send data over the network without establishing a direct connection with any specific recipient computer.
+		]]>
+		</definition>
+		<definition word="connection-oriented protocol"><![CDATA[
+		A protocol for exchanging information that requires two computers to exchange control packets, thereby setting up the parameters of the data-exchange session, before sending packets that contain data.
+		]]>
+		</definition>
+		<definition word="Document Object Model (DOM)"><![CDATA[
+		Used by JavaScript to organize objects and page elements.
+		]]>
+		</definition>
+		<definition word="domain name system (DNS) server"><![CDATA[
+		A server that maintains a database of domain names and converts domain names to Internet protocol addresses.
+		]]>
+		</definition>
+		<definition word="dotted decimal number (dotted quad)"><![CDATA[
+		The form of an Internet protocol address, where sets of numerals are separated by decimals, i.e., 197.169.73.63.
+		]]>
+		</definition>
+		<definition word="dynamic addressing"><![CDATA[
+		A way of assigning Internet protocol addresses where a computer is assigned a temporary address from an available pool of addresses.
+		]]>
+		</definition>
+		<definition word="Dynamic Host Configuration Protocol (DHCP)"><![CDATA[
+		A protocol for assigning dynamic internet protocol addresses.
+		]]>
+		</definition>
+		<definition word="dynamic HTML (DHTML)"><![CDATA[
+		A combination of technologies—HTML, cascading style sheets, and JavaScript—used to create lively and interactive websites.
+		]]>
+		</definition>
+		<definition word="element"><![CDATA[
+		In HTML, a pair of tags and the text between them.
+		]]>
+		</definition>
+		<definition word="encryption"><![CDATA[
+		The process of coding e-mail so that only the person with the key to the code (the intended recipient) can decode the message.
+		]]>
+		</definition>
+		<definition word="eXtensible Markup Language (XML)"><![CDATA[
+		A markup language that enables designers to define their own data-based tags, making it much easier for a website to transfer the key information on its page to another site; it defines what data is being described rather than how it’s to be displayed.
+		]]>
+		</definition>
+		<definition word="handshaking"><![CDATA[
+		In a connection-oriented protocol, the process of exchanging control packets before exchanging data packets.
+		]]>
+		</definition>
+		<definition word="hexadecimal digit"><![CDATA[
+		A digit with 16 possible values: 0–9 and A–F.
+		]]>
+		</definition>
+		<definition word="HTML embedded scripting language"><![CDATA[
+		A programming language that tucks programming code directly within the HTML of a web page; the most popular example is JavaScript.
+		]]>
+		</definition>
+		<definition word="HTML tags"><![CDATA[
+		Tags that surround and define HTML content (such as &lt;b> and &lt;/b>, which indicate bolding).
+		]]>
+		</definition>
+		<definition word="Hypertext Transfer Protocol Secure (HTTPS)"><![CDATA[
+		The Internet protocol that ensures data is sent securely over the web.
+		]]>
+		</definition>
+		<definition word="Internet cache"><![CDATA[
+		A section of the hard drive that stores information that may be needed again, such as Internet protocol addresses and frequently accessed web pages.
+		]]>
+		</definition>
+		<definition word="Internet Corporation for Assigned Names and Numbers (ICANN)"><![CDATA[
+		The organization that registers Internet protocol addresses to ensure they’re unique and haven’t been assigned to other users.
+		]]>
+		</definition>
+		<definition word="Internet exchange point (IXP)"><![CDATA[
+		A way of connecting Internet service providers (ISPs) that’s made up of one or more network switches to which the ISPs connect.
+		]]>
+		</definition>
+		<definition word="Internet Protocol version 4 (IPv4)"><![CDATA[
+		The original Internet protocol addressing scheme, created in 1981.
+		]]>
+		</definition>
+		<definition word="Internet Protocol version 6 (IPv6)"><![CDATA[
+		An Internet protocol (IP) addressing scheme that makes IP addresses longer, thereby providing more available addresses.
+		]]>
+		</definition>
+		<definition word="IP address"><![CDATA[
+		The means by which all computers connected to the Internet identify each other. It consists of a unique set of four numbers separated by dots, such as 123.45.178.91.
+		]]>
+		</definition>
+		<definition word="JavaScript"><![CDATA[
+		A scripting language that’s often used to add interactivity to web pages; often used for creating Dynamic HTML effects.
+		]]>
+		</definition>
+		<definition word="key pair"><![CDATA[
+		The two keys used in public-key encryption.
+		]]>
+		</definition>
+		<definition word="Multipurpose Internet Mail Extensions (MIME)"><![CDATA[
+		Specification for sending files as attachments to e-mail.
+		]]>
+		</definition>
+		<definition word="negative acknowledgement (NAK)"><![CDATA[
+		In data exchange, the communication sent from one computer or system to another stating that it did not receive a data packet in readable form.
+		]]>
+		</definition>
+		<definition word="network prefix"><![CDATA[
+		The slash and number added to the end of an internet protocol (IP) address that allows a single IP address to represent several unique IP addresses in classless interdomain routing.
+		]]>
+		</definition>
+		<definition word="octet"><![CDATA[
+		A reference to each of the four numbers in a dotted decimal number internet protocol address, so called because each number would have eight numerals in binary form.
+		]]>
+		</definition>
+		<definition word="open system"><![CDATA[
+		A system having the characteristic of being public for access by any interested party; as opposed to a proprietary system.
+		]]>
+		</definition>
+		<definition word="positive acknowledgement (ACK)"><![CDATA[
+		In data exchange, the confirmation sent from one computer or system to another saying that the computer has received a data packet that it can read.
+		]]>
+		</definition>
+		<definition word="Pretty Good Privacy (PGP)"><![CDATA[
+		A public-key package for encryption available for download on the Internet.
+		]]>
+		</definition>
+		<definition word="private key"><![CDATA[
+		The key for decoding retained as private in public-key encryption.
+		]]>
+		</definition>
+		<definition word="private-key encryption"><![CDATA[
+		A type of encryption where only the two parties involved in sending the message have the code.
+		]]>
+		</definition>
+		<definition word="proprietary system"><![CDATA[
+		A system having the characteristic of being closed to public access (private), as opposed to an open system.
+		]]>
+		</definition>
+		<definition word="public key"><![CDATA[
+		The key for coding distributed to the public in public-key encryption.
+		]]>
+		</definition>
+		<definition word="public-key encryption"><![CDATA[
+		A type of encryption where two keys, known as a key pair, are created. One key is used for coding and the other for decoding. The key for coding is distributed as a public key, while the private key is retained for decoding.
+		]]>
+		</definition>
+		<definition word="root DNS server"><![CDATA[
+		A domain name system (DNS) server that contains the master listings for an entire top-level domain.
+		]]>
+		</definition>
+		<definition word="second-level domain"><![CDATA[
+		A domain that’s directly below a top-level domain.
+		]]>
+		</definition>
+		<definition word="Secure Sockets Layer (SSL)"><![CDATA[
+		A network security protocol that provides for the encryption of data transmitted using the Internet. The current versions of all major web browsers support SSL.
+		]]>
+		</definition>
+		<definition word="server-side program"><![CDATA[
+		A type of program that runs on a web server rather than on a computer.
+		]]>
+		</definition>
+		<definition word="Simple Mail Transfer Protocol (SMTP)"><![CDATA[
+		The protocol responsible for sending e-mail along the Internet to its destination; part of the Internet Protocol suite.
+		]]>
+		</definition>
+		<definition word="static addressing"><![CDATA[
+		A way of assigning internet protocol addresses where the address for a computer never changes and is most likely assigned manually by a network administrator or an Internet service provider.
+		]]>
+		</definition>
+		<definition word="T line"><![CDATA[
+		A communications line that carries digital data over twisted-pair wires.
+		]]>
+		</definition>
+		<definition word="TCP/IP"><![CDATA[
+		The main suite of protocols used for transmitting data over the Internet. Named after Transmission Control Protocol (TCP) and the Internet Protocol (IP).
+		]]>
+		</definition>
+		<definition word="three-way handshake"><![CDATA[
+		In Transmission Control Protocol, the process used to establish a connection between two computers before exchanging data. The steps in a three-way handshake are as follows: One computer establishes a connection to the Internet service provider (ISP) and announces it has e-mail to send, the ISP server responds that it’s ready to receive, and the computer acknowledges the ready state of the server and begins to transmit the e-mail.
+		]]>
+		</definition>
+		<definition word="Transmission Control Protocol (TCP)"><![CDATA[
+		One of the original two protocols developed for the Internet.
+		]]>
+		</definition>
+		<definition word="Transport Layer Security (TLS)"><![CDATA[
+		An updated extension of Secure Sockets Layer
+		]]>
+		</definition>
+		<definition word="User Datagram Protocol (UDP)"><![CDATA[
+		An Internet Protocol that creates data packets across the Internet.
+		]]>
+		</definition>
+		<definition word="Internet Protocol (IP)"><![CDATA[
+		One of the original two protocols developed for the Internet.
+		]]>
+		</definition>
+		<definition word="optical carrier (OC) line"><![CDATA[
+		A high-speed fiber-optic line.
+		]]>
+		</definition>
+		<definition word="packet switching"><![CDATA[
+		A communications methodology that makes computer communication efficient; in packet switching, data is broken into smaller chunks called packets.
+		]]>
+		</definition>
+		<definition word="point of presence (POP)"><![CDATA[
+		A bank of modems, servers, routers, and switches through which Internet users connect to an Internet service provider.
+		]]>
+		</definition>
+		
+		
+		<definition word="alphabetic check"><![CDATA[
+		In a database, confirms that only textual characters are entered in a field.
+		]]>
+		</definition>
+		<definition word="artificial intelligence (AI)"><![CDATA[
+		The branch of computer science that deals with the attempt to create computers that think like humans.
+		]]>
+		</definition>
+		<definition word="batch processing"><![CDATA[
+		The accumulation of transaction data until a certain point is reached, at which time several transactions are processed at once.
+		]]>
+		</definition>
+		<definition word="binary large object (BLOB)"><![CDATA[
+		See unstructured data.
+		]]>
+		</definition>
+		<definition word="business intelligence systems"><![CDATA[
+		Systems used to analyze and interpret data in order to enable managers to make informed decisions about how best to run a business.
+		]]>
+		</definition>
+		<definition word="clickstream data"><![CDATA[
+		Software used on company websites to capture information about each click that users make as they navigate through the site.
+		]]>
+		</definition>
+		<definition word="completeness check"><![CDATA[
+		In a database, ensures that all required fields have been completed.
+		]]>
+		</definition>
+		<definition word="consistency check"><![CDATA[
+		In a database, compares the values of data in two or more fields to see if those values are reasonable.
+		]]>
+		</definition>
+		<definition word="database"><![CDATA[
+		A digital collection of related data that can be stored, sorted, organized, and queried.
+		]]>
+		</definition>
+		<definition word="database administrator (database designer)"><![CDATA[
+		An information technology professional responsible for designing, constructing, and maintaining databases.
+		]]>
+		</definition>
+		<definition word="database management system (DBMS)"><![CDATA[
+		A specially designed application software used to create and mage databases.
+		]]>
+		</definition>
+		<definition word="data centralization"><![CDATA[
+		When data is maintained in only one file.
+		]]>
+		</definition>
+		<definition word="data dictionary (database schema)"><![CDATA[
+		A map of a database that defines the features of the fields in the database.
+		]]>
+		</definition>
+		<definition word="data inconsistency"><![CDATA[
+		Data for a record being different in two different lists.
+		]]>
+		</definition>
+		<definition word="data integrity"><![CDATA[
+		When the data in a database is accurate and reliable.
+		]]>
+		</definition>
+		<definition word="data mart"><![CDATA[
+		Small slices of a data warehouse grouped together and separated from the main body of data in the data warehouse so that related sets of data can be analyzed.
+		]]>
+		</definition>
+		<definition word="data redundancy"><![CDATA[
+		Duplicated data in a list.
+		]]>
+		</definition>
+		<definition word="data staging"><![CDATA[
+		The act of formatting data from source databases before fitting it into a data warehouse; it consists of three steps: extraction, transformation, and storage.
+		]]>
+		</definition>
+		<definition word="data type (field type)"><![CDATA[
+		(1) Describes the kind of data being stored at the memory location; each programming language has its own data types (although there is some degree of overlap). (2) In a database, indicates what type of data can be stored in a field and prevents the wrong type of data from being entered into the field.
+		]]>
+		</definition>
+		<definition word="data warehouse"><![CDATA[
+		A large-scale collection of data that contains and organizes in one place all the data from an organization’s multiple databases.
+		]]>
+		</definition>
+		<definition word="decision support system (DSS)"><![CDATA[
+		A type of business intelligence system designed to help managers develop solutions for specific problems.
+		]]>
+		</definition>
+		<definition word="default value"><![CDATA[
+		The value a database automatically uses for a field unless the user enters another value.
+		]]>
+		</definition>
+		<definition word="detail report"><![CDATA[
+		A report generated by a management information system that provides a list of the transactions that occurred during a certain time period.
+		]]>
+		</definition>
+		<definition word="enterprise resource planning (ERP) system"><![CDATA[
+		A business intelligence system that accumulates in a central location all information relevant to running a business and makes it readily available to whoever needs it to make decisions.
+		]]>
+		</definition>
+		<definition word="exception report"><![CDATA[
+		A report generated by a management information system that shows conditions that are unusual or that need attention by system users.
+		]]>
+		</definition>
+		<definition word="expert system"><![CDATA[
+		A system that tries to replicate the decision-making processes of human experts in order to solve specific problems.
+		]]>
+		</definition>
+		<definition word="field"><![CDATA[
+		The component of a database in which the database stores each category of information.
+		]]>
+		</definition>
+		<definition word="field constraint"><![CDATA[
+		A property that must be satisfied for an entry to be accepted into the field.
+		]]>
+		</definition>
+		<definition word="field properties"><![CDATA[
+		In an Access database table, the field name, data type, and other data elements.
+		]]>
+		</definition>
+		<definition word="field size"><![CDATA[
+		Defines the maximum number of characters that a field can hold in a database.
+		]]>
+		</definition>
+		<definition word="filter"><![CDATA[
+		In a database, temporarily displays records that match certain criteria.
+		]]>
+		</definition>
+		<definition word="foreign key"><![CDATA[
+		In a relational database, the common field between tables that’s not the primary key.
+		]]>
+		</definition>
+		<definition word="fuzzy logic"><![CDATA[
+		Enables the interjection of experiential learning into knowledge-based systems by allowing the consideration of probabilities.
+		]]>
+		</definition>
+		<definition word="information system"><![CDATA[
+		A system that includes data, people, procedures, hardware, and software that help in planning and decision making; a software-based solution used to gather and analyze information.
+		]]>
+		</definition>
+		<definition word="input form"><![CDATA[
+		A beginning point.
+		]]>
+		</definition>
+		<definition word="join query"><![CDATA[
+		A query used to extract data that’s in two or more tables in a database.
+		]]>
+		</definition>
+		<definition word="knowledge-based system"><![CDATA[
+		A business intelligence system that provides intelligence that supplements the user’s own intellect and makes the decision support system more effective.
+		]]>
+		</definition>
+		<definition word="management information system (MIS)"><![CDATA[
+		A type of business intelligence system that provides timely and accurate information that enables managers to make critical business decisions.
+		]]>
+		</definition>
+		<definition word="many-to-many relationship"><![CDATA[
+		In a relational database, records in one table are related to multiple records in a second table, and vice versa.
+		]]>
+		</definition>
+		<definition word="metadata"><![CDATA[
+		Data that describes other data.
+		]]>
+		</definition>
+		<definition word="model management system"><![CDATA[
+		Software that assists in building management models in decision support systems; an analysis tool that, through the use of internal and external data, provides a view of a particular business situation for the purposes of decision-making.
+		]]>
+		</definition>
+		<definition word="multidimensional database"><![CDATA[
+		A database that stores data from different perspectives, called dimensions, and organizes data in cube format.
+		]]>
+		</definition>
+		<definition word="natural language processing (NLP) system"><![CDATA[
+		A knowledge-based business intelligence system that enables users to communicate with computer systems using a natural spoken or written language instead of a computer programming language.
+		]]>
+		</definition>
+		<definition word="normalization"><![CDATA[
+		process to ensure data is organized most efficiently in a database.
+		]]>
+		</definition>
+		<definition word="numeric check"><![CDATA[
+		In a database, confirms that only numbers are entered in a field.
+		]]>
+		</definition>
+		<definition word="object-oriented database"><![CDATA[
+		A type of analysis in which programmers first identify all the categories of inputs that are part of the problem the program is meant to solve.
+		]]>
+		</definition>
+		<definition word="Object Query Language (OQL)"><![CDATA[
+		A query language used by many object-oriented databases.
+		]]>
+		</definition>
+		<definition word="office support system (OSS)"><![CDATA[
+		A system designed to improve communications and assist employees in accomplishing their daily tasks.
+		]]>
+		</definition>
+		<definition word="one-to-many relationship"><![CDATA[
+		In a relational database, a record appears only once in one table while having the capability of appearing many times in a related table.
+		]]>
+		</definition>
+		<definition word="one-to-one relationship"><![CDATA[
+		In a relational database, for each record in a table there’s only one corresponding record in a related table.
+		]]>
+		</definition>
+		<definition word="online analytical processing (OLAP)"><![CDATA[
+		Software that provides standardized tools for viewing and manipulating data in a data warehouse.
+		]]>
+		</definition>
+		<definition word="online transaction processing (OLTP)"><![CDATA[
+		The real-time processing of database transactions online.
+		]]>
+		</definition>
+		<definition word="primary key field"><![CDATA[
+		In a database, a field that has a value unique to a record.
+		]]>
+		</definition>
+		<definition word="query"><![CDATA[
+		In a database, a way of retrieving information that defines a particular subset of data; can be used to extract data from one or more tables.
+		]]>
+		</definition>
+		<definition word="query language"><![CDATA[
+		A specially designed computer language used to manipulate data in or extract data from a database.
+		]]>
+		</definition>
+		<definition word="range check"><![CDATA[
+		Ensures that the data entered into the field of a database falls within a certain range of values.
+		]]>
+		</definition>
+		<definition word="real-time processing"><![CDATA[
+		The processing of database transactions in which the database is updated while the transaction is taking place.
+		]]>
+		</definition>
+		<definition word="record"><![CDATA[
+		A group of related fields in a database.
+		]]>
+		</definition>
+		<definition word="referential integrity"><![CDATA[
+		In a relational database, a condition where, for each value in the foreign key table, there’s a corresponding value in the primary key table.
+		]]>
+		</definition>
+		<definition word="relational algebra"><![CDATA[
+		The use of English-like expressions that have variables and operations, much like algebraic equations, to extract data from databases using Structured Query Language.
+		]]>
+		</definition>
+		<definition word="relational database"><![CDATA[
+		A database type that organizes data into related tables based on logical groupings.
+		]]>
+		</definition>
+		<definition word="relationship"><![CDATA[
+		In a relational database, a link between tables that defines how the data is related.
+		]]>
+		</definition>
+		<definition word="select query"><![CDATA[
+		In Structured Query Language, displays a subset of data from a table (or tables) based on the criteria specified.
+		]]>
+		</definition>
+		<definition word="structured (analytical) data"><![CDATA[
+		Data such as “Bill” or “345,” as opposed to unstructured data.
+		]]>
+		</definition>
+		<definition word="Structure Query Language (SQL)"><![CDATA[
+		A database programming language used to construct queries to extract data from relational databases; one example of a fourth-generation language.
+		]]>
+		</definition>
+		<definition word="summary report"><![CDATA[
+		A report generated by a management information system that provides a consolidated picture of detailed data; these reports usually include some calculation or visual displays of information.
+		]]>
+		</definition>
+		<definition word="table (file)"><![CDATA[
+		A group of related records in a database.
+		]]>
+		</definition>
+		<definition word="time-variant data"><![CDATA[
+		Data that doesn’t pertain to one period in time.
+		]]>
+		</definition>
+		<definition word="transaction-processing system (TPS)"><![CDATA[
+		A type of business intelligence system for keeping track of everyday business activities.
+		]]>
+		</definition>
+		<definition word="unstructured data"><![CDATA[
+		Audio clips, video clips, pictures, and extremely large documents. Also called binary large object (BLOB).
+		]]>
+		</definition>
+		<definition word="validation"><![CDATA[
+		The process of ensuring that data entered into a field of a database meets specified guidelines.
+		]]>
+		</definition>
+		<definition word="validation rule"><![CDATA[
+		In a database, generally defined as part of the data dictionary and specified in the field properties for each field; violations result in an error message and a suggested action.
+		]]>
+		</definition>
+		
+		
+		<definition word="ActionScript"><![CDATA[
+		The programming language used by Adobe Flash; similar to JavaScript.
+		]]>
+		</definition>
+		<definition word="Active Server Pages (ASP)"><![CDATA[
+		Programming language used to build websites with interactive capabilities; adapts an HTML page to the user’s selections.
+		]]>
+		</definition>
+		<definition word="Adobe Flash"><![CDATA[
+		A software product for developing web-based multimedia.
+		]]>
+		</definition>
+		<definition word="AJAX (Asynchronous JavaScript and XML)"><![CDATA[
+		A collection of technologies that allow the creation of web applications that can update information on a page without requiring the user to refresh or leave the page.
+		]]>
+		</definition>
+		<definition word="algorithm"><![CDATA[
+		A set of specific, sequential steps that describe exactly what the computer program must do to complete the required work.
+		]]>
+		</definition>
+		<definition word="architecture neutral"><![CDATA[
+		A feature of Java whereby code needs to be compiled only once, after which the code can be run on many different CPUs.
+		]]>
+		</definition>
+		<definition word="base class"><![CDATA[
+		In object-oriented analysis, the original class.
+		]]>
+		</definition>
+		<definition word="binary decision"><![CDATA[
+		A type of decision point in an algorithm that can be answered in one of only two ways: yes (true) or no (false).
+		]]>
+		</definition>
+		<definition word="C"><![CDATA[
+		A programming language originally developed for system programmers.
+		]]>
+		</definition>
+		<definition word="C++"><![CDATA[
+		A programming language; takes C to an object-oriented level.
+		]]>
+		</definition>
+		<definition word="C#"><![CDATA[
+		A Microsoft programming language developed to compete with Java.
+		]]>
+		</definition>
+		<definition word="class"><![CDATA[
+		A category of input identified in object-oriented analysis; classes are defined by information and actions.
+		]]>
+		</definition>
+		<definition word="code editing"><![CDATA[
+		The step of programming in which a programmer types the code to be executed.
+		]]>
+		</definition>
+		<definition word="coding"><![CDATA[
+		Translating an algorithm into a programming language.
+		]]>
+		</definition>
+		<definition word="comment"><![CDATA[
+		A note left by a programmer in the program code to explain the purpose of a section of code, to indicate the date the program was written, or to include other important information about the code so that other programmers can more easily understand and update it.
+		]]>
+		</definition>
+		<definition word="compilation"><![CDATA[
+		The process by which code is converted into machine language—the language the central processing unit can understand.
+		]]>
+		</definition>
+		<definition word="control structure"><![CDATA[
+		General term used for a keyword in a programming language that allows the programmer to direct the flow of the program based on a decision.
+		]]>
+		</definition>
+		<definition word="data-flow diagram"><![CDATA[
+		Diagrams that trace all data in an information system from the point at which data enters the system to its final resting place (storage or output).
+		]]>
+		</definition>
+		<definition word="debugger"><![CDATA[
+		A tool in an integrated development environment that helps programmers analyze a program as it runs.
+		]]>
+		</definition>
+		<definition word="debugging"><![CDATA[
+		The process of running a program over and over to find and repair errors and to make sure the program behaves in the way it should.
+		]]>
+		</definition>
+		<definition word="decision point"><![CDATA[
+		A place where a program must choose from a list of actions based on the value of a certain input.
+		]]>
+		</definition>
+		<definition word="derived class"><![CDATA[
+		In object-oriented analysis, the modified class.
+		]]>
+		</definition>
+		<definition word="documentation"><![CDATA[
+		Description of the technical details of the software, how the code works, and how the user interacts with the program; in addition, all the necessary user documentation that will be distributed to the program’s users.
+		]]>
+		</definition>
+		<definition word="dynamic decision making"><![CDATA[
+		The ability of a web page to decide how to display itself based on the choices the reader makes.
+		]]>
+		</definition>
+		<definition word="editor"><![CDATA[
+		A special tool in an integrated development environment (IDE) that helps programmers as they enter code.
+		]]>
+		</definition>
+		<definition word="error handling"><![CDATA[
+		The part of a problem statement where programmers describe what the program should do if the input data is invalid or just gibberish.
+		]]>
+		</definition>
+		<definition word="executable program"><![CDATA[
+		The binary sequence that instructs the central processing unit to run the programmer’s code.
+		]]>
+		</definition>
+		<definition word="fifth-generation language (5GL)"><![CDATA[
+		A computer language in which a problem is presented as a series of facts or constraints instead of as a specific algorithm; the system of facts can then be queried; considered the most “natural” of languages.
+		]]>
+		</definition>
+		<definition word="first-generation language (1GL)"><![CDATA[
+		The machine language of a central processing unit (CPU); the sequence of bits that the CPU understands.
+		]]>
+		</definition>
+		<definition word="flowchart"><![CDATA[
+		Visual diagram of a process, including the decisions that need to be made along the way.
+		]]>
+		</definition>
+		<definition word="For"><![CDATA[
+		In Visual Basic, programmers use the keyword For to implement a loop; after the keyword For, an input or output item is given a starting value, and then the statements in the body of the loop are executed.
+		]]>
+		</definition>
+		<definition word="fourth-generation language (4GL)"><![CDATA[
+		A computer language type that includes database query languages and report generators.
+		]]>
+		</definition>
+		<definition word="general availability (GA)"><![CDATA[
+		The point in the release cycle, where, after release to manufacturers, software is available for purchase by the public.
+		]]>
+		</definition>
+		<definition word="Hypertext Markup Language (HTML)"><![CDATA[
+		series of tags that define how elements on a website should be displayed in a browser.
+		]]>
+		</definition>
+		<definition word="if else"><![CDATA[
+		In C++, a binary decision in the code where the program can follow one of two paths: If the decision is made one way, the program follows one path; if made the other way (else), the program follows another path.
+		]]>
+		</definition>
+		<definition word="inheritance"><![CDATA[
+		In object-oriented analysis, the ability of a new class to automatically pick up all the data and methods of an existing class and then extend and customize those to fit its specific needs.
+		]]>
+		</definition>
+		<definition word="initial value"><![CDATA[
+		A beginning point.
+		]]>
+		</definition>
+		<definition word="integrated development environment (IDE)"><![CDATA[
+		A developmental tool that helps programmers write and test their programs; one IDE can be configured to support many different languages.
+		]]>
+		</definition>
+		<definition word="interpreter"><![CDATA[
+		For a programming language, translates the source code into an intermediate form, line by line; each line is then executed as it’s translated.
+		]]>
+		</definition>
+		<definition word="Java"><![CDATA[
+		An object-oriented programming language that has a large set of existing classes.
+		]]>
+		</definition>
+		<definition word="Java applet"><![CDATA[
+		A small Java-based program.
+		]]>
+		</definition>
+		<definition word="JavaServer Pages (JSP)"><![CDATA[
+		Programming language used to build websites with interactive capabilities; adapts the HTML page to the user’s selections.
+		]]>
+		</definition>
+		<definition word="logical error"><![CDATA[
+		An error in a program that produces unintended or undesired output, where the syntax is correct but some other human error has occurred.
+		]]>
+		</definition>
+		<definition word="loop"><![CDATA[
+		A type of decision point in an algorithm. In a loop, a question is asked, and if the answer is yes, a set of actions is performed. Once the set of actions has finished, the question is asked again, creating a loop. If the answer to the question is no, the algorithm breaks free of the loop and moves on to the first step that follows the loop.
+		]]>
+		</definition>
+		<definition word="method"><![CDATA[
+		The process of how a program converts inputs into the correct outputs.
+		]]>
+		</definition>
+		<definition word="Next"><![CDATA[
+		In Visual Basic, programmers use the keyword Next to implement a loop; when the Next command is run, the program returns to the For statement and increments the value of the input or output item by 1 and then runs a test cycle.
+		]]>
+		</definition>
+		<definition word="object"><![CDATA[
+		An example of a class in object-oriented analysis.
+		]]>
+		</definition>
+		<definition word="Objective C"><![CDATA[
+		The programming language most often used to program applications to run under OS X.
+		]]>
+		</definition>
+		<definition word="object-oriented analysis"><![CDATA[
+		A database that stores data in objects rather than in tables.
+		]]>
+		</definition>
+		<definition word="operator"><![CDATA[
+		A coding symbol that represents a fundamental action of the programming language.
+		]]>
+		</definition>
+		<definition word="Pascal"><![CDATA[
+		A programming language; the only modern language that was specifically designed as a teaching language.
+		]]>
+		</definition>
+		<definition word="PHP (Hypertext Preprocessor)"><![CDATA[
+		Programming language used to build websites with interactive capabilities; adapts the HTML page to the user’s selections.
+		]]>
+		</definition>
+		<definition word="portability"><![CDATA[
+		The capability to move a completed solution easily from one type of computer to another.
+		]]>
+		</definition>
+		<definition word="problem statement"><![CDATA[
+		The starting point of programming work; a clear description of what tasks the computer program must accomplish and how the program will execute those tasks and respond to unusual situations.
+		]]>
+		</definition>
+		<definition word="program development life cycle (PDLC)"><![CDATA[
+		The process of performing a programming project, which consists of five stages: describing the problem, making a plan, coding, debugging, and testing and documentation.
+		]]>
+		</definition>
+		<definition word="program specification"><![CDATA[
+		A clear statement of the goals and objectives of the project.
+		]]>
+		</definition>
+		<definition word="programming"><![CDATA[
+		The process of translating a task into a series of commands a computer will use to perform that task.
+		]]>
+		</definition>
+		<definition word="programming language"><![CDATA[
+		A kind of “code” for the set of instructions the central processing unit knows how to perform.
+		]]>
+		</definition>
+		<definition word="prototype"><![CDATA[
+		A small model of a program built at the beginning of a large project.
+		]]>
+		</definition>
+		<definition word="pseudocode"><![CDATA[
+		A text-based approach to documenting an algorithm.
+		]]>
+		</definition>
+		<definition word="rapid application development"><![CDATA[
+		An alternative program-development method; instead of developing detailed system documents before they produce the system, developers first create a prototype, then generate system documents as they use and remodel the product.
+		]]>
+		</definition>
+		<definition word="release to manufacturers (RTM)"><![CDATA[
+		The point in the release cycle, where, after beta testing, a manufacturer makes changes to the software and releases it to other manufacturers, for installation on new machines, for example.
+		]]>
+		</definition>
+		<definition word="reusability"><![CDATA[
+		In object-oriented analysis, the ability to reuse existing classes from one project for another project.
+		]]>
+		</definition>
+		<definition word="runtime error"><![CDATA[
+		An error in a program that occurs when a programmer accidentally writes code that divides by zero, a mathematical error.
+		]]>
+		</definition>
+		<definition word="scope creep"><![CDATA[
+		An ever-changing set of requests from clients for additional features as they wait longer and longer to see a working prototype.
+		]]>
+		</definition>
+		<definition word="scripting language"><![CDATA[
+		A simple programming language that’s limited to performing a set of specialized tasks.
+		]]>
+		</definition>
+		<definition word="second-generation language (2GL)"><![CDATA[
+		A computer language that allows programmers to write programs using a set of short, English-like commands that speak directly to the central processing unit and that give the programmer direct control of hardware resources; also called assembly language.
+		]]>
+		</definition>
+		<definition word="service pack"><![CDATA[
+		A software update.
+		]]>
+		</definition>
+		<definition word="source code"><![CDATA[
+		The instructions programmers write in a higher-level language.
+		]]>
+		</definition>
+		<definition word="statement"><![CDATA[
+		A sentence in a code.
+		]]>
+		</definition>
+		<definition word="Structured Query Language"><![CDATA[
+		A database programming language used to construct queries to extract data from relational databases; one example of a fourth-generation language.
+		]]>
+		</definition>
+		<definition word="syntax"><![CDATA[
+		An agreed-on set of rules defining how a language must be structured.
+		]]>
+		</definition>
+		<definition word="syntax error"><![CDATA[
+		A violation of the strict set of rules that define the programming language.
+		]]>
+		</definition>
+		<definition word="system development life cycle (SDLC)"><![CDATA[
+		A process used to develop information systems; it consists of the following six steps: problem and opportunity identification, analysis, design, development, testing and installation, and maintenance and evaluation.
+		]]>
+		</definition>
+		<definition word="test condition"><![CDATA[
+		A check to see whether the loop in an algorithm is completed.
+		]]>
+		</definition>
+		<definition word="testing plan"><![CDATA[
+		The part of the problem statement that lists specific input numbers the programmers would typically expect the user to enter; the plan then lists the precise output values that a perfect program would return for those input values.
+		]]>
+		</definition>
+		<definition word="third-generation language (3GL)"><![CDATA[
+		A computer language that uses symbols and commands to help programmers tell the computer what to do, making 3GL languages easier for humans to read and remember; examples of 3GL languages include BASIC, FORTRAN, COBOL, C/C++, and JAVA.
+		]]>
+		</definition>
+		<definition word="top-down design"><![CDATA[
+		A systematic approach in which a problem is broken into a series of high-level tasks.
+		]]>
+		</definition>
+		<definition word="variable"><![CDATA[
+		Each input and output item the program manipulates.
+		]]>
+		</definition>
+		<definition word="variable declaration"><![CDATA[
+		Tells the operating system that the program needs to allocate storage space in RAM.
+		]]>
+		</definition>
+		<definition word="VBScript"><![CDATA[
+		A subset of Visual Basic, used to introduce dynamic decision making into web pages.
+		]]>
+		</definition>
+		<definition word="Visual Basic (VB)"><![CDATA[
+		A programming language used to build a wide range of Windows applications.
+		]]>
+		</definition>
+		<definition word="visual programming"><![CDATA[
+		In programming languages that support Windows programming, programmers can use the mouse to lay out on the screen where the scroll bars and buttons will be in the application; the code needed to explain this to the computer is then written automatically.
+		]]>
+		</definition>
+		<definition word="web service"><![CDATA[
+		Part of the Microsoft .NET Framework, programs that a website uses to make information available to other websites.
+		]]>
+		</definition>
+		<definition word="database administrators (DBAs)"><![CDATA[
+		An information technology professional responsible for designing, constructing, and maintaining databases.
+		]]>
+		</definition>
+		<definition word="enablers"><![CDATA[
+		Employees with skill sets beyond the IT realm that are critical to getting projects accomplished (such as project managers).
+		]]>
+		</definition>
+		<definition word="graphic designers"><![CDATA[
+		People who create images for visual communication of ideas.
+		]]>
+		</definition>
+		<definition word="network administrators"><![CDATA[
+		Responsible for ensuring the smooth functioning of computer networks including selection and installation of equipment, development and implementation of back-up and disaster recovery strategies, and diagnosing problems.
+		]]>
+		</definition>
+		<definition word="system development"><![CDATA[
+		Encompasses all jobs integral to the creation and deployment of computer systems.
+		]]>
+		</definition>
+		<definition word="web development"><![CDATA[
+		Any job that involves creating content for or programming a website.
+		]]>
+		</definition>
+		<definition word="animators"><![CDATA[
+		People who create a series of images, either by hand or with a computer, to illustrate concepts and ideas usually with motion.
+		]]>
+		</definition>
+		<definition word="Customer interaction"><![CDATA[
+		Any job that involves direct communication with a company's customers or supporting systems that customers utilize.
+		]]>
+		</definition>
+		<definition word="customer interaction technicians"><![CDATA[
+		Facilitate communication with customers providing all levels of customer service.
+		]]>
+		</definition>
+		<definition word="Computer support technicians"><![CDATA[
+		Diagnose problems and repair computer equipment and software at an employee's or customer's location.
+		]]>
+		</definition>
+		<definition word="database developers"><![CDATA[
+		Designers and creators of databases.
+		]]>
+		</definition>
+		<definition word="infrastructure jobs"><![CDATA[
+		Jobs that involve installing or supporting IT hardware infrastructure such as servers, network components and information storage systems.
+		]]>
+		</definition>
+		<definition word="helpdesk analysts"><![CDATA[
+		Responsible for answering employee or customer questions regarding the function of IT systems, software or hardware.
+		]]>
+		</definition>
+		<definition word="interface designers"><![CDATA[
+		Create schemes such as visual interfaces or menus that enable human beings to communicate with machines and software.
+		]]>
+		</definition>
+		<definition word="offshoring"><![CDATA[
+		Outsourcing jobs to utilizing employees or firms located in other countries.
+		]]>
+		</definition>
+		<definition word="project managers"><![CDATA[
+		Responsible for coordinating and managing all personel on a systems development team to ensure the project is completed on budget and in a timely manner.
+		]]>
+		</definition>
+		<definition word="programmers"><![CDATA[
+		Generate the software code that enables computers perform tasks.
+		]]>
+		</definition>
+		<definition word="social media directors"><![CDATA[
+		Responsible for developing and coordinating a company's strategy on all social media outlets on which the company has a presence.
+		]]>
+		</definition>
+		<definition word="systems analysts"><![CDATA[
+		Document systems (either manual or computer) and propose solutions to problems by designing computerized solutions.
+		]]>
+		</definition>
+		<definition word="technical writers"><![CDATA[
+		Generate computer systems documentation for end users and programmers
+		]]>
+		</definition>
+		<definition word="telecommunications technicians"><![CDATA[
+		Plan, install equipment and diagnose problems for a company's communications system.
+		]]>
+		</definition>
+		<definition word="video producers"><![CDATA[
+		People who generate video media.
+		]]>
+		</definition>
+		<definition word="web content creators"><![CDATA[
+		People who generate the words and images that appear on websites.
+		]]>
+		</definition>
+		<definition word="web programmers"><![CDATA[
+		Design and generate the software code that makes websites function.
+		]]>
+		</definition>
+		<definition word="web server administrators"><![CDATA[
+		Responsible for the setup, configuration and smooth operation of servers that host websites.
+		]]>
+		</definition>
+		<definition word="distributed denial-of-service (DDoS)"><![CDATA[
+		An automated attack that’s launched from more than one zombie computer at the same time.
+		]]>
+		</definition>
+		<definition word="arithmetic logic unit (ALU)"><![CDATA[
+		Part of the CPU, responsible for performing all the arithmetic calculations (addition, subtraction, multiplication, and division). It also makes logic and comparison decisions. 
+		]]>
+		</definition>
+		<definition word="bit"><![CDATA[
+		see binary digit
+		]]>
+		</definition>
+		<definition word="decimal notation"><![CDATA[
+		see base-10 number system.
+		]]>
+		</definition>
+		<definition word="hexadecimal notation"><![CDATA[
+		A base-16 number system that uses 16 digits (0-9, A-F)  to represent numbers instead of the 10 digits used in base 10 or the 2 digits used in base 2. 
+		]]>
+		</definition>
+		<definition word="semi-conductor"><![CDATA[
+		Any material that can be controlled either to conduct electricity or to act as an insulator (to prohibit electricity from passing through). 
+		]]>
+		</definition>
+		<definition word="multiuser OS (network OS)"><![CDATA[
+		An operating system that enables more than one user to access the computer system at one time by efficiently juggling all the requests from multiple users.
+		]]>
+		</definition>
+		<definition word="Alto"><![CDATA[
+		A personal computer designed by Xerox that included a word processor, file management system with directories and folders. It also included a mouse and could connect to a network. The Alto was not popular because of its very high cost. 
+		]]>
+		</definition>
+		<definition word="Apple I"><![CDATA[
+		The first personal computer built by  Steve Wozniak and Steve Jobs in Wozniak’s garage. 
+		]]>
+		</definition>
+		<definition word="Lisa"><![CDATA[
+		The first successful personal computer brought to market by Apple in 1983.  Lisa incorporated many of the same features of the Alto. 
+		]]>
+		</definition>
+		<definition word="Macintosh"><![CDATA[
+		Introduced a year after the Lisa, included the features of the Lisa, as well as a 3.5 floppy disk with a hard cover that replaced the larger 5.25-inch floppy. 
+		]]>
+		</definition>
+		<definition word="Osborne"><![CDATA[
+		The first portable computer made by the Osborne Company in 1981. The computer weighed 24.5 pounds and cost $1,795. 
+		]]>
+		</definition>
+		<definition word="social bookmarking (tagging)"><![CDATA[
+		A keyword or term that Internet users assign to a web resource such as a web page, digital image, or video.
+		]]>
+		</definition>
+		<definition word="hard drive"><![CDATA[
+		a type of non-volatile storage system (data is maintained when the power is turned off). Usually meant to imply a mechanical drive, using motors to rotate discs to read and write data.
+		]]>
+		</definition>
+		<definition word="game designers"><![CDATA[
+		 anyone who works on the creation of a video game such as programmers
+		]]>
+		</definition>
+		<definition word="outsourcing"><![CDATA[
+		 contracting an external party to perform an internal service for a business (such as hiring a company to clean your offices).
+		]]>
+		</definition>
+		<definition word="webmaster"><![CDATA[
+		 a person responsible for maintaining an entire (or any portion of) website.
+		]]>
+		</definition>
+		<definition word="Altair 800"><![CDATA[
+		 microcomputer introduced in 1975 as a do-it-yourself kit (assembly required). Sparked the microcomputer revolution.
+		]]>
+		</definition>
+		<definition word="Beginner All Purpose Symbolic"><![CDATA[
+		 early computer language designed to use English words instead of complex code to make computer programming accessible to the masses.
+		]]>
+		</definition>
+		<definition word="packet filtering"><![CDATA[
+		 used in firewalls, the process of examining packets to ensure they are from legitimate sources or belong to a particular (legitimate) stream of data.
+		]]>
+		</definition>
+		<definition word="multimedia message service (MMS)"><![CDATA[
+		 extends SMS to include photos, video and audio as well as text.
+		]]>
+		</definition>
+		<definition word="Game programmer"><![CDATA[
+		 IT professional who creates computer code for video games.
+		]]>
+		</definition>
+		<definition word="Play testing"><![CDATA[
+		 The process of allowing people to try out a prototype of a game in order to assess the playability and functionality of the game
+		]]>
+		</definition>
+	</glossary>
+</ebook>

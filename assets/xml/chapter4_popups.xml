@@ -1,0 +1,1176 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="4">
+	
+	
+	
+	
+		<popup page="3" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.1Big.jpg') no-repeat scroll center 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.1</span>
+						Application software lets you perform a variety of tasks.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		<!--there seems to another header that's automaticly in this slide. I don't know where it's reading it from.-->
+		<popup page="4" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText" style="line-height: 24px;
+										   right: 68px;
+										   text-align: right;
+										   top: 15px;">
+										   Moblie Commerce: What Have You<br/>Bought with Your Phone Lately?</div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Most people own a mobile phone, so it’s no surprise that companies regard <em>mobile commerce</em>—using applications on smartphones and tablets to buy and sell products—as a trend that shouldn’t be ignored.</p>
+					  		<p class="start">Making purchases from a mobile device is on the rise, but mobile commerce hasn’t taken over traditional methods of e-commerce just yet. Why? Many say most mobile applications aren’t yet as user-friendly as traditional websites accessed via a browser. Over time, that will change, especially as the functionality of mobile devices and their software continue to adapt. Consider two trends some predict will gain more acceptance in the near future in the mobile commerce market:</p>
+					  		
+							<ol>
+								<li><em>Mobile payments</em>: Instead of using your credit card or debit card to buy something, consider using your smartphone (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 4.2</span>). Google Wallet stores credit card information so that you can use the app on your smartphone to make a payment in retail locations that have a special reader. Starbucks and Target have also joined the mobile payment bandwagon, letting you use their mobile apps to pay for your super macchiato or Jason Wu dress.</li>
+								<li><em>Mobile coupons and barcodes</em>: Many consumers use mobile device apps to look up information by scanning special quick response (QR) codes on products. Many stores also have virtual store loyalty cards on their apps that let you access coupons, product information, and store discount programs.</li>
+							</ol>
+							<p class="start">Although many mobile device owners feel it’s not as safe to use their mobile devices to make purchases, it’s just as safe as making purchases with your computer on the web. Time and education will help to relieve those fears.</p>	
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig4.2.jpg) no-repeat scroll 0px 0px transparent;
+						  	height: 458px;margin: 0px 0 0 0px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 4.2</span>
+							  Have you made a payment using your smartphone instead of a credit card yet? <em>(Dai Sugano/MCT/Newscom)</em>
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig4.2Big.jpg) no-repeat scroll 0 0 transparent">
+							  <figcaption class="topPos" style="margin-left:350px;">
+							  <span>Figure 4.2</span>
+								 Have you made a payment using your smartphone instead <br/>of a credit card yet? <em>(Dai Sugano/MCT/Newscom)</em>
+							 
+							</figcaption>
+							</figure>
+						</div></div>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="5" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">The individual programs within a suite work well together because they share common features, toolbars, and menus. For example, when using applications in the Microsoft Office suite, you can seamlessly create a spreadsheet in Excel, import it into Access, and then link a query created in Access to a Word document. It would be much harder to do the same thing using different applications from a variety of software developers.</p>
+						</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						  </div>
+						</div>
+				</div></div>
+					
+
+						</div>
+			]]></section>
+		</popup>
+		
+		<popup page="5" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							<p><strong class="larger">Finding the Right Software</strong></p>
+							
+							<p>There are millions of applications, and new ones are developed and released every day. How can you find the right ones to meet your needs? What are the cool new applications or the ones that just don’t work? The editors and analysts at <em>PC Magazine</em> have put together AppScout (<span class="strongDBlue" onclick="window.open('http://appscout.com','_blank')">appscout.com</span>), a site that provides reviews of the best software, websites, and web applications. Next time you’re looking for a new application, check out AppScout.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+						</div>
+					</div>
+			  	</div>
+
+	 		 ]]>
+		</section>
+	</popup>
+	
+	<popup page="5" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Productivity Software Suites</div>
+			<div class="figureHeader"><strong>Figure 4.3</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="productTable">
+						<thead>
+						<th><div class="blueGradHeading doubleLine">Productivity<br/>Suite</div></th>
+						<th><div class="blueGradHeading doubleLine">Word<br/>Processing</div></th>
+						<th><div class="blueGradHeading">Spreadsheet</div></th>
+						<th><div class="blueGradHeading">Presentation</div></th>
+						<th><div class="blueGradHeading">Database</div></th>
+						<th><div class="blueGradHeading">Note-taking</div></th>
+						<th><div class="blueGradHeading">PIM/E-mail</div></th>
+						</thead>
+						
+						<tr>
+							<td colspan="7"><div class="greyishBlueGrad">Installed: Proprietary</div></td>					
+						</tr>	
+						
+						<tr class="lightBlueGrad">
+							<td><div>
+								<span class="vertMiddleImg"><img src="assets/images/charts/office.png"/></span>
+								<span class="suite">Microsoft Office</span>
+								<div class="slideNext" col="2">NEXT</div>
+						</div></td>
+							
+							<td><div col="2">Word</div></td>
+							<td><div col="2">Excel</div></td>
+							<td><div col="2">PowerPoint</div></td>
+							<td><div col="2">Access</div></td>
+							<td><div col="2">OneNote</div></td>
+							<td><div col="2">Outlook</div></td>
+						</tr>
+				
+						<tr class="lightBlueGrad">
+							<td><div>
+							<span class="vertMiddleImg"><img src="assets/images/charts/iwork.png"/></span>
+							<span class="suite">Apple iWork</span>
+							<div class="slideNext" col="3">NEXT</div>
+							
+						</div></td>
+							
+							<td><div col="3">Pages</div></td>
+							<td><div col="3">Numbers</div></td>
+							<td><div col="3">Keynote</div></td>
+							<td><div col="3"></div></td>
+							<td><div col="3"></div></td>
+							<td><div col="3"></div></td>
+						</tr>
+						
+						<tr>
+							<td colspan="7"><div class="greyishBlueGrad">Installed: Open Source</div></td>
+						</tr>	
+						
+						<tr class="lightBlueGrad">
+							<td><div>
+								<span class="vertMiddleImg"><img src="assets/images/charts/apache.png"/></span>
+								<span class="suite">Apache OpenOffice</span>
+								<div class="slideNext" col="5">NEXT</div>
+						</div></td>
+
+							<td><div col="5">Writer</div></td>
+							<td><div col="5">Calc</div></td>
+							<td><div col="5">Impress</div></td>
+							<td><div col="5">Base</div></td>
+							<td><div col="5"></div></td>
+							<td><div col="5"></div></td>
+						</tr>
+						
+						<tr>
+							<td colspan="7"><div class="greyishBlueGrad">Web-Based</div></td>
+							
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>
+								<span class="vertMiddleImg"><img src="assets/images/charts/office365.png"/></span>
+								<span class="suite">Microsoft Office 365</span>
+								<div class="slideNext" col="7">NEXT</div>
+						</div></td>
+							
+							<td><div col="7">Word</div></td>
+							<td><div col="7">Excel</div></td>
+							<td><div col="7">PowerPoint</div></td>
+							<td><div col="7"></div></td>
+							<td><div col="7">OneNote</div></td>
+							<td><div col="7">Outlook</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>
+								<span class="vertMiddleImg">
+									<img src="assets/images/charts/googleDoc.png"/></span>
+								<span class="suite">Google Docs</span>
+								<div class="slideNext" col="8">NEXT</div>
+						</div></td>
+							
+							<td><div col="8">Documents</div></td>
+							<td><div col="8">Spreadsheets</div></td>
+							<td><div col="8">Presentation</div></td>
+							<td><div col="8"></div></td>
+							<td><div col="8"></div></td>
+							<td><div col="8">Gmail</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>
+							<span class="vertMiddleImg"><img src="assets/images/charts/zoho.jpg"/></span>
+							<span class="suite">Zoho</span>
+							<div class="slideNext" col="9">NEXT</div>
+						</div></td>
+							
+							<td><div col="9">Writer</div></td>
+							<td><div col="9">Sheet, Books</div></td>
+							<td><div col="9">Show</div></td>
+							<td><div col="9">Creator</div></td>
+							<td><div col="9">Notebook</div></td>
+							<td><div col="9"></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>
+							<span class="vertMiddleImg"><img src="assets/images/charts/thinkfree.jpg"/></span>
+							<span class="suite">ThinkFree</span>
+							<div class="slideNext" col="10">NEXT</div>
+						</div></td>
+							
+							<td><div col="10">Document</div></td>
+							<td><div col="10">Spreadsheet</div></td>
+							<td><div col="10">Presentation</div></td>
+							<td><div col="10"></div></td>
+							<td><div col="10">Note</div></td>
+							<td><div col="10"></div></td>
+						</tr>
+					</table>
+					<em>(Microsoft Corporation; AP Photo/PRNewsFoto/Apple; StfW/Alamy; REUTERS/Ray Stubblebine; Google, Inc.; Editorial Image, LLC/Alamy; AP photo/PRNewsFoto/ThinkFree)</em>
+					
+				]]>
+				</section>
+				</popup>
+				
+				<popup page="6" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Formatting Options</div>
+			<div class="figureHeader shiftUp5"><strong>Figure 4.4</strong> Click the highlighted areas to pop-up description</div>
+			
+			<figure style="	width:826px;height:486px;
+							background:url(assets/images/figures/fig4.4/fig4.4Big.jpg) 192px 5px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 270px; width: 301px; top: 83px; height: 23px;" roll="callout1.png"></div>
+						<div style="left: 296px; width: 249px; top: 110px; height: 23px;" roll="callout2.png"></div>
+						<div style="height: 28px; top: 135px; width: 28px; left: 297px;" roll="callout3.png"></div>
+						<div style="top: 171px; height: 66px; left: 297px; width: 87px;" roll="callout4.png"></div>
+						<div style="left: 473px; width: 48px; top: 312px; height: 16px;" roll="callout5.png"></div>
+						<div style="height: 28px; top: 328px; left: 430px; width: 91px;" roll="callout6.png"></div>
+						<div style="top: 338px; height: 16px; width: 100px; left: 297px;" roll="callout7.png"></div>
+						<div style="left: 272px; top: 451px; height: 23px; width: 23px;" roll="callout8.png"></div>
+						<div style="left: 410px; top: 390px; width: 392px; height: 29px;" roll="callout9.png"></div>
+
+					</div>
+					<div class="overlayImages">
+
+						<div roll="callout1.png" style="background-image: url(assets/images/figures/fig4.4/callout1.png); width: 534px; height: 36px; left: 273px; top: 70px;"></div>
+						<div roll="callout2.png" style="background-image: url(assets/images/figures/fig4.4/callout2.png); width: 511px; height: 31px; left: 295px; top: 105px;"></div>
+						<div roll="callout3.png" style="background-image: url(assets/images/figures/fig4.4/callout3.png); width: 290px; height: 34px; left: 37px; top: 130px;"></div>
+						<div roll="callout4.png" style="background-image: url(assets/images/figures/fig4.4/callout4.png); height: 78px; width: 351px; left: 36px; top: 170px;"></div>
+						<div roll="callout5.png" style="background-image: url(assets/images/figures/fig4.4/callout5.png); width: 335px; height: 31px; left: 472px; top: 298px;"></div>
+						<div roll="callout6.png" style="background-image: url(assets/images/figures/fig4.4/callout6.png); width: 367px; height: 43px; top: 326px; left: 431px;"></div>
+						<div roll="callout7.png" style="background-image: url(assets/images/figures/fig4.4/callout7.png); height: 40px; width: 363px; top: 331px; left: 35px;"></div>
+						<div roll="callout8.png" style="background-image: url(assets/images/figures/fig4.4/callout8.png); width: 257px; height: 29px; left: 37px; top: 449px;"></div>
+						<div roll="callout9.png" style="background-image: url(assets/images/figures/fig4.4/callout9.png); width: 392px; height: 29px; top: 390px; left: 413px;"></div>
+
+					</div>
+			</figure>
+			]]>
+				</section>
+				</popup>
+				
+				<popup page="6" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Spreadsheet Software</div>
+			<div class="figureHeader"><strong>Figure 4.5</strong> Click the highlighted areas to pop-up description</div>
+			
+			<figure style="	width:878px;height:486px;
+							background:url(assets/images/figures/fig4.5/fig4.5Big.jpg) 125px 25px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div roll="callout1.png" style="top: 206px; left: 575px; height: 17px; width: 41px;"></div>
+						<div roll="callout2.png" style="top: 310px; left: 465px; width: 225px; height: 19px;"></div>
+						<div roll="callout3.png" style="left: 259px; top: 129px; width: 49px; height: 15px;"></div>
+						<div roll="callout4.png" style="left: 281px; top: 351px; height: 16px; width: 42px;"></div>
+						<div roll="callout5.png" style="left: 282px; top: 228px; height: 15px; width: 41px;z-index:300"></div>
+						<div roll="callout6.png" style="top: 188px; width: 118px; left: 281px; height: 55px;"></div>
+						<div roll="callout7.png" style="height: 16px; top: 239px; left: 173px; width: 42px;"></div>
+						<div roll="callout8.png" style="left: 174px; height: 14px; top: 166px; width: 110px;"></div>
+						<div roll="callout9.png" style="top: 363px; left: 356px; height: 15px; width: 42px;"></div>
+						<div roll="callout10.png" style="left: 574px; top: 361px; width: 114px; height: 25px;"></div>
+					</div>
+					<div class="overlayImages">
+						<div style="background-image: url(assets/images/figures/fig4.5/callout1.png); top: 194px; width: 294px; height: 41px; left: 574px;" roll="callout1.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout2.png); top: 304px; height: 23px; width: 401px; left: 464px;" roll="callout2.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout3.png); height: 34px; top: 122px; width: 311px; left: -4px;" roll="callout3.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout4.png); height: 78px; width: 351px; top: 333px; left: 0px;" roll="callout4.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout5.png); width: 335px; top: 220px; left: -2px; height: 30px;" roll="callout5.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout6.png); width: 367px; height: 43px; top: 186px; left: -1px;" roll="callout6.png"></div>
+						<div roll="callout7.png" style="background-image: url(assets/images/figures/fig4.5/callout7.png); left: -2px; width: 216px; top: 239px; height: 44px;"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout8.png); width: 257px; height: 29px; top: 156px; left: -4px;" roll="callout8.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout9.png); height: 79px; width: 397px; left: -1px; top: 298px;" roll="callout9.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.5/callout10.png); height: 41px; width: 325px; left: 573px; top: 354px;" roll="callout10.png"></div>
+					</div>
+			</figure>
+			
+			]]>
+				</section>
+				</popup>
+				
+				<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.6Big.jpg') no-repeat scroll center 80px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.6</span>
+						(a) Column charts show comparisons. (b) Pie charts show how parts contribute to the whole. <br/>(c) Line charts show trends over time.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+			<popup page="8" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.7Big.jpg') no-repeat scroll center 98px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.7</span>
+						Sparklines, a feature of Microsoft Excel 2010, are tiny graphs that fit into a single cell.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="8" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Alternatives to PowerPoint</strong>
+								<p>If you’re looking for an open source or web-based alternative to PowerPoint, consider using Apache OpenOffice Impress or Zoho Show (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 4.9</span>), which are similar to PowerPoint in functionality. Another cool alternative is Prezi (<span class="strongDBlue" onclick="window.open('http://prezi.com','_blank')">prezi.com</span>), a web-based program that uses an innovative way to produce presentations. Rather than using a set of slides, Prezi uses a large canvas in which you connect ideas. By using the zoom and navigation features, you can move over the canvas, focusing on individual aspects, then zoom in on the finer details and zoom out to see the bigger concept. You can add videos as well as rotate the canvas for added visual interest.</p>
+							</div>
+						  </div>
+						  
+							<div class="column">
+						<div class="innerColRight">
+							
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig4.9.png) no-repeat scroll -7px 0px transparent;
+						  	height: 380px;margin: -29px 0 0 -18px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 4.9</span>
+							  (a) Apache OpenOffice Impress and (b) Zoho Show are alternatives to Microsoft PowerPoint. <em>Akhilesh Sharma/Fotolia; Scanrail/Fotolia; HaywireMedia/Fotolia; ThinkGeek, Inc.; Gladcov Vladimir/Fotolia; Maksym Dykha/Fotolia; Scanrail/Fotolia; Scanrail/Fotolia)</em>
+							</figcaption></figure>
+							
+				</div></div></div></div>
+
+
+						<div class="additional">
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig4.9Big.png) no-repeat scroll -12px 0 transparent; padding-bottom:32px; margin-top:-13px;">
+							  <figcaption class="topPos" style="margin-left:350px; margin-top:22px;">
+							  <span>Figure 4.9</span>
+								 (a) Apache OpenOffice Impress and (b) Zoho Show <br/>are alternatives to Microsoft PowerPoint. <em>Akhilesh Sharma/Fotolia; Scanrail/Fotolia; <br/>HaywireMedia/Fotolia; ThinkGeek, Inc.; Gladcov Vladimir/Fotolia; Maksym Dykha/Fotolia; <br/>Scanrail/Fotolia; Scanrail/Fotolia)</em>
+							 
+							</figcaption>
+							</figure>
+						</div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="8" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						<ul class="dotted">
+							<li><span class="innerLi"><em>Use bullets for key points</em>: Limit the number to four to six bulleted points per slide. Avoid full sentences and paragraphs.</span></li>
+							<li><span class="innerLi"><em>Use images</em>: Images can convey a thought or illustrate a point. Make sure any text over an image can be read easily.</span></li>
+							<li><span class="innerLi"><em>Consider font size and style</em>: Keep the font size large enough to read from the back of the room. Avoid script or fancy font styles. Use only one or two font styles per presentation.</span></li>
+							<li><span class="innerLi"><em>Keep animation and/or background audio to a minimum</em>: They can be distracting.</span></li>
+							
+						</ul>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+
+
+		<popup page="8" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Spreadsheet Software</div>
+			<div class="figureHeader"><strong>Figure 4.8</strong> Click the highlighted areas to pop-up description</div>
+			
+			<figure style="	width:878px;height:460px;
+							background:url(assets/images/figures/fig4.8/fig4.8.jpg) 154px 25px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 298px; top: 154px; width: 16px; height: 14px;" roll="callout1.png"></div>
+						<div style="left: 347px; top: 231px; width: 63px; height: 56px;" roll="callout2.png"></div>
+						<div style="left: 172px; top: 265px; height: 67px; width: 89px;" roll="callout3.png"></div>
+						<div style="top: 369px; left: 271px; height: 50px; width: 337px;" roll="callout4.png"></div>
+					</div>
+					<div class="overlayImages">
+						<div roll="callout1.png" style="background-image: url(assets/images/figures/fig4.8/callout1.png); width: 311px; top: 132px; left: 3px; height: 56px;"></div>
+						<div roll="callout2.png" style="background-image: url(assets/images/figures/fig4.8/callout2.png); height: 56px; left: 5px; top: 231px; width: 405px;"></div>
+						<div roll="callout3.png" style="background-image: url(assets/images/figures/fig4.8/callout3.png); height: 66px; top: 265px; left: 5px; width: 255px;"></div>
+						<div roll="callout4.png" style="background-image: url(assets/images/figures/fig4.8/callout4.png); width: 611px; height: 52px; left: 2px; top: 368px;"></div>
+					</div>
+			</figure>
+			<em>(Akhilesh Sharma/Fotolia; Scanrail/Fotolia; HaywireMedia/Fotolia; ThinkGeek, Inc.; Gladcov Vladimir/Fotolia; Maksym Dykha/Fotolia; Scanrail/Fotolia; Scanrail/Fotolia)</em>
+			]]></section>
+		</popup>
+		
+		<popup page="9" distinction="popupFeature" customscript="compTia.features.setupVideo()" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Database Software</div>
+		<div class="figureHeader"><strong>Figure 4.10</strong> Click the highlighted areas to pop-up description</div>
+			
+			<figure style="	width:878px;height:486px;
+							background:url(assets/images/figures/fig4.10/fig4.10Big.jpg) 147px 143px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div roll="callout1.png" style="left: 148px; top: 214px; width: 648px; height: 22px;z-index:313"></div>
+						<div roll="callout2.png" style="left: 192px; top: 145px; height: 145px; width: 85px;z-index:312"></div>
+						<div roll="callout3.png" style="top: 143px; height: 146px; left: 147px; width: 649px;z-index:311"></div>
+					</div>
+					<div class="overlayImages">
+						<div style="background-image: url(assets/images/figures/fig4.10/callout1.png); height: 45px; width: 796px; left: 0px; top: 197px;" roll="callout1.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.10/callout2.png); width: 286px; left: -5px; top: 139px; height: 150px;" roll="callout2.png"></div>
+						<div style="background-image: url(assets/images/figures/fig4.10/callout3.png); left: -2px; width: 797px; top: 142px; height: 165px;" roll="callout3.png"></div>
+					</div>
+			</figure>
+					
+		  ]]></section>
+		</popup>
+		
+		<popup page="9" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.11Big.jpg') no-repeat scroll center 98px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.11</span>
+						<span class="strongDBlue" onclick="window.open('http://www.microsoft.com/office/onenote','_blank')">Microsoft OneNote</span> a great way to collect and organize notes and other information. The files are readily searchable and easy to share.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="10" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  
+						  <p class="start">Many web-based e-mail clients, such as Yahoo! and Google, also include coordinating calendar and contacts similar to Microsoft Outlook. Yahoo! includes Notepad for jotting down notes and tasks. Google’s calendar and contacts sync with Outlook so you can access your Outlook calendar information by logging into Google. This gives you access to your schedule anywhere you have access to a computer and an Internet connection.</p>
+						<p class="start">There are a wide variety of other to-do lists and simple organizers that work with all your mobile and computing devices. For example, Toodledo (<span class="strongDBlue" onclick="window.open('http://toodledo.com','_blank')">toodledo.com</span>) is a free program that coordinates well with Microsoft Outlook, and OmniFocus (<span class="strongDBlue" onclick="window.open('http://omnifocus.com','_blank')">omnifocus.com</span>) is a more full-featured option for Mac devices.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="10" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Beyond Microsoft One-Note: Alternative Note-Taking Applications</div>
+			<div class="figureHeader"><strong>Figure 4.12</strong></div>
+			
+			<figure style="background:url(assets/images/figures/fig4.12Big.jpg) center center no-repeat;height: 484px;">
+			
+			<div onclick="window.open('http://www.evernote.com/','_blank')" style="position: absolute; left: 304px; width: 250px; top: 1px; height: 40px;"></div>
+			<div onclick="window.open('http://www.springpad.com/','_blank')" style="position: absolute; left: 304px; width: 250px; top: 126px; height: 40px;"></div>
+			<div onclick="window.open('http://www.simplenoteapp.com/','_blank')" style="position: absolute; left: 304px; width: 250px; top: 252px; height: 40px;"></div>
+			<div onclick="window.open('http://www.soundnote.com/','_blank')" style="position: absolute; left: 304px; width: 250px; top: 378px; height: 40px;"></div>
+
+			</figure>
+			</div>
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftTotalLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Microsoft Outlook: The Outlook Today</div>
+			<div class="figureHeader"><strong>Figure 4.13</strong> the highlighted areas to pop-up description</div>
+			
+			<figure style="	height:486px;
+							background:url(assets/images/figures/fig4.12/fig4.12Big.jpg) 163px 77px no-repeat">
+
+				<div class="overlayButtons">
+					<div roll="callout1.png" style="z-index: 313; top: 183px; height: 174px; left: 297px; width: 290px;"></div>
+					<div roll="callout2.png" style="z-index: 312; top: 225px; left: 179px; width: 59px; height: 18px;"></div>
+					<div roll="callout3.png" style="z-index: 311; left: 594px; width: 162px; top: 184px; height: 66px;"></div>
+					<div style="z-index: 310; left: 594px; width: 171px; top: 251px; height: 143px;" roll="callout4.png"></div>
+				</div>
+				<div class="overlayImages">
+					<div roll="callout1.png" style="background-image: url(assets/images/figures/fig4.12/callout1.png); width: 587px; left: 0px; top: 181px; height: 176px;"></div>
+					<div roll="callout2.png" style="background-image: url(assets/images/figures/fig4.12/callout2.png); height: 30px; left: 10px; width: 226px; top: 219px;"></div>
+					<div roll="callout3.png" style="background-image: url(assets/images/figures/fig4.12/callout3.png); width: 350px; height: 165px; left: 593px; top: 183px;"></div>
+					<div roll="callout4.png" style="background-image: url(assets/images/figures/fig4.12/callout4.png); width: 350px; top: 249px; left: 591px; height: 143px;"></div>
+				</div>
+			</figure>
+		</div>	
+		  ]]></section>
+		</popup>
+		
+		<popup page="12" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  
+						  <p>Each company also offers free web-based versions of federal forms and instructions. In addition, error-checking features are built into the programs to catch mistakes. TurboTax can also run a check for audit alerts, file your return electronically, and offer financial planning guidance to help you plan and manage your financial resources effectively in the following year.</p>
+						<p class="start">Some financial planning applications also coordinate with tax preparation software. Both Quicken and Mint, for example, integrate seamlessly with TurboTax, so you never have to go through your debit card statements and bills to find tax deductions, tax-related income, or expenses. Many banks and credit card companies also offer online services that download a detailed monthly statement into Quicken and Mint. Remember, however, that the tax code changes annually, so you must obtain an updated version of the software each year.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="12" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.14Big.jpg') no-repeat scroll center 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.14</span>
+						Mint (<span class="strongDBlue noRPadding" onclick="window.open('http://mint.com','_blank')">mint.com</span>) is an online financial management tool. An extensive online community provides helpful tips <br/>and discussions with other people in similar situations. <em>(Courtesy of Mint.com)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="12" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Productivity Software Tips and Tricks</strong>
+								<p>Looking for tips on how to make better use of your productivity software? Some websites send subscribers periodic e-mails full of tips, tricks, and shortcuts for their favorite software programs:</p>
+								<ul class="dotted">
+									<li><span class="innerLi">Microsoft’s website includes many tips and tricks for its Office applications (<span class="strongDBlue" onclick="window.open('http://office.microsoft.com','_blank')">office.microsoft.com</span>).</span></li>
+									<li><span class="innerLi">MakeTechEasier (<span class="strongDBlue" onclick="window.open('http://maketecheasier.com','_blank')">maketecheasier.com</span>) has tidbits for a variety of applications, including Windows and Mac products, Apache OpenOffice, and cellphone applications.</span></li>
+									<li><span class="innerLi">GCFLearnFree.org (<span class="strongDBlue" onclick="window.open('http://gcflearnfree.org','_blank')">gcflearnfree.org</span>) offers free instructional tutorials on a variety of technology topics, including Microsoft Office applications.</span></li>
+									<li><span class="innerLi">You can also find tips as videos on YouTube. To take any videos from YouTube, TED, and other websites on the road with you for future offline reference, check out TubeSock (<span class="strongDBlue" onclick="window.open('http://stinkbot.com','_blank')">stinkbot.com</span>) to download, convert, and copy videos to your personal media player.</span></li>
+								</ul>
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+						
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="12" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.15Big.jpg') no-repeat scroll center 65px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.15</span>
+						Tax preparation software such as Intuit TurboTax lets you prepare and file your taxes using a guided, systematic process. <em>(Vika Sabo/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="13" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  
+						  <p>More experienced users can take advantage of these applications’ advanced features to make the web content current, interactive, and interesting. Microsoft Expression Web and Adobe Dreamweaver are two programs that both professionals and casual web page designers use.</p>
+						<p class="start">Note that if you need to produce only the occasional web page, you’ll find that many applications include features that let you convert your document into a web page. For example, in some Microsoft Office applications, you can choose to save a file as a web page.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="13" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Need to Work on Files Together? Try These Real-Time Collaboration Tools</strong>
+								<p>You’re part of a group working together on a project. You could share files via e-mail, but you’ve found that can lead to confusion, with multiple versions of the document being revised at the same time. Consider some of these other methods to share and collaborate on files:</p>
+								<ul class="dotted">
+									<li><span class="innerLi">Skype (<span class="strongDBlue" onclick="window.open('http://skype.com','_blank')">skype.com</span>) lets users work together through video calling and share desktops remotely with other Skype users. This lets two users view the same file at the same time, and the remote user can follow the cursor on the screen of the host user to see exactly what the host user is doing, just as if they were working together in the same room.</span></li>
+									<li><span class="innerLi">Google Docs (<span class="strongDBlue" onclick="window.open('http://docs.google.com','_blank')">docs.google.com</span>) and wikis allow multiple users to work together in real time on the same document and to communicate with project members via live text chat.</span></li>
+									<li><span class="innerLi"> Scribblar (<span class="strongDBlue" onclick="window.open('http://scribblar.com','_blank')">scribblar.com</span>) is a multiuser whiteboard with live audio chat, which is great for holding virtual brainstorm sessions.</span></li>
+								</ul>
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+						
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="13" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Common Types of Large Business–Related Software</div>
+			<div class="figureHeader">Figure 4.16</div>
+			<br>
+					<table border="0" cellpadding="0" cellspacing="10" class="bsTable">
+						<tbody>
+							<tr>
+								<td><div class="blueGradHeading">Project Management</div></td>
+								<td><div class="blueGradHeading double">Customer Relationship <br/>Management (CRM)</div></td>
+								<td><div class="blueGradHeading double">Enterprise Resource <br/>Planning (ERP)</div></td>
+							</tr>
+							<tr class="lightBlueGrad">
+								<td><div>
+									<span>Creates scheduling charts to plan and track specific tasks and to coordinate resources</span> 
+									<img src="assets/images/charts/project.jpg"/></div></td>
+								<td><div>
+									<span>Stores sales and client contact information in one central database</span> 
+									<img src="assets/images/charts/CRM.jpg"/></div></td>
+								<td><div>
+									<span>Controls many “back office” operations and processing functions such as billing, production, inventory management, and human resources management</span> 
+									<img src="assets/images/charts/ERPsystem.jpg"/></div></td>
+							</tr>	
+							
+							<tr>
+								<td><div class="blueGradHeading">E-commerce</div></td>
+								<td><div class="blueGradHeading">Computer-Aided Design (CAD)</div></td>
+								<td><div class="blueGradHeading">Vertical Market</div></td>
+							</tr>
+							<tr class="lightBlueGrad">
+								<td><div>
+									<span>Facilitates website creation and hosting services, shopping cart setup, and credit card–processing services</span> 
+									<img src="assets/images/charts/shopping.jpg"/></div></td>
+								<td><div>
+									<span>Creates automated designs, technical drawings, and 3-D model visualizations for architecture, automotive, aerospace, and medical engineering industries</span> 
+									<img src="assets/images/charts/design.jpg"/></div></td>
+								<td><div>
+									<span>Addresses the needs of businesses in a specific industry or market such as the real estate, banking, and automotive industries</span> 
+									<img src="assets/images/charts/vertical.jpg"/></div></td>
+							</tr>	
+						
+						</tbody></table>
+					<em class="font_9" style="margin-left:-21px;">(John T Takai/Shutterstock; Toro Attila/Shutterstock; designdepot/Shutterstock; Helder Almeida/Shutterstock; cybrain/Shutterstock; nmedia/Shutterstock)</em>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="17" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.17Big.jpg') no-repeat scroll center 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.17</span>
+						There are many varieties of multimedia and entertainment software.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="18" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  
+						  <p class="start">Several other online photo-sharing and photostoring sites, such as Snapfish (<span class="strongDBlue" onclick="window.open('http://snapfish.com','_blank')">snapfish.com</span>), Kodak (<span class="strongDBlue" onclick="window.open('http://kodak.com','_blank')">kodak.com</span>), and Shutterfly (<span class="strongDBlue" onclick="window.open('http://shutterfly.com','_blank')">shutterfly.com</span>), let you upload your digital images from your computer, create photo albums, and share them with friends and family. These sites offer printing services as well, letting you create customized cards, stationery, books, and even iPhone cases with your images.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.18Big.jpg') no-repeat scroll center 35px transparent">
+						
+					<figcaption class="normalFont">
+					  <span>Figure 4.18</span> You can create collages of your favorite images using <span class="strongDBlue" onclick="window.open('http://picasa.google.com/','_blank')">Google Picasa</span>. <em>(Mary Anne Poatsy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="19" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.19Big.jpg') no-repeat scroll 140px 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.19</span>
+						Video-editing programs such as <span class="strongDBlue" onclick="window.open('http://www.apple.com/ilife/imovie/','_blank')">Apple iMovie</span> make it easy to create and edit movies. <em>(Press Association/AP Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="19" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Video File Formats for Portable Media Players</strong>
+								<p>If you’re converting video files to play on your iPod or other portable media player, be aware of the video file format you choose. Video files for portable media players are either in the MP4 or H.264 video format. Both formats store digital audio and video streams as well as other files, such as text for subtitles and still images. Similar to the MP3 format, MP4 and H.264 compress the audio and video content into a more manageable file size. While MP4 files are certainly of sufficient video quality, H.264 is best for delivery of high definition video and can also be applied to a wider variety of networks and systems than MP4.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+						
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="20"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText">How Cloud Computing Works</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>
+							Have you ever done any of the following?</p>
+						<ul class="dotted">
+							<li><span class="innerLi">Posted pictures on Facebook that your friends accessed from their iPhone</span></li>
+							<li><span class="innerLi">Used Dropbox or SkyDrive to store your files instead of carrying around a flash drive</span></li>
+							<li><span class="innerLi">Used Google Docs or Microsoft Office Web Apps to collaborate on a team project</span></li>
+							<li><span class="innerLi">Used Carbonite to back up your data online</span></li>
+						</ul>	
+					  	<p class="start">By doing any of these activities, you have participated in cloud computing. So what exactly is <span class="strongDBlue" glossary>cloud computing</span>?</p>
+					 	<p class="start">Cloud computing refers to storing data, files, and applications on the web and being able to access and manipulate these files and applications from any Internet-connected device. Being able to work from the cloud eliminates the need to have everything stored on your own computer’s drives and lets you access your pictures, music, files, and programs as long as you have access to the Internet. In addition, cloud computing makes it easier to collaborate and communicate with others, and it can cut down on administrative tasks for organizations maintaining large amounts of computer hardware and software.</p>
+						<p class="start">There are two sides to cloud computing:</p>
+						<ol>
+							<li><span class="innerLi">The <em>front end</em> is the side we see as users. It involves a web browser like Internet Explorer, Firefox, or Google Chrome.</li></span>
+							<li><span class="innerLi">The <em>back end</em> consists of various data centers and server farms that house the files and programs you access “on the cloud” (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 4.20</span>). These data centers and server farms are warehouses full of computers and servers, and they are being created all over the world, providing us with “cloud storage.” The computers in the data centers or server farms are designed to work together, adjusting to the varying degrees of demand placed on them at any time.</span></li>
+						</ol>
+						<p class="start">Google is one of the first true explorers in the cloud, building applications such as Google Docs, Gmail, and the Chrome web browser in an effort to create a completely virtual operating environment. A fully functioning operating environment would enable users to sign in on any computer and have “their” computer setup (desktop configurations and images, programs, files, and other personalized settings) display. Additionally, cloud computing would reduce the need for all of us to have the fastest computers with the most memory and storage capabilities. Instead, we could all have simple frontend terminals with basic input and output devices because the computers on the back end will be providing all the computing muscle.</p>
+					  	<p class="start">Chromebooks are Google’s first attempts at a notebook (called a netbook) where all the applications and files are stored on the web. Nothing is installed or saved to a hard drive. All programs are accessed and all work is done through the browser, so sending e-mail, editing photos, and working on documents are all done via web-based applications. Since the Chromebooks require an Internet connection to get most tasks done, users must be near a WiFi connection or pay for a data plan.</p>
+
+					  	<p class="start">There are some considerations with cloud computing of which you need to be aware:</p>
+						<ul class="dotted">
+							<li><span class="innerLi"><em>Security and privacy</em>: Right now, the security of information stored on the web is built on trusting that the passwords we set and the security systems that the data centers put in place are able to keep our information away from unauthorized users. Caution is always warranted, as nothing is completely safe and private.</span></li>
+							<li><span class="innerLi"><em>Backup</em>: Because even the devices in these large data centers and server farms inevitably will break down, the cloud computing systems have redundant systems to provide backup. However, for critical files that you must have, it might be a good idea not to completely rely on the cloud but to have your own backup files, as well.</span></li>
+							<li><span class="innerLi"><em>Access issues</em>: With cloud computing, you access your files and programs only through the Internet. If you couldn’t access the Internet due to a power failure or system failure with your Internet service provider, you wouldn’t be able to access your files. Storing your most critical files and programs offline will help reduce the inconvenience and loss of productivity while access to the Internet is being restored.</span></li>
+						</ul>
+						<p class="start">Before relying on cloud computing, consider the above concerns against the advantages of the convenience of having your information when and where you want it and the ability to promote better collaboration.</p>
+
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+
+							<figure style="
+								    background: url(assets/images/figures/fig4.20.png) no-repeat 0 0 transparent;
+    								height: 380px;
+    								margin-top: 465px;"
+    								onclick="compTia.additionalPopupContent(1)">
+							  <figcaption class="bottomPos">
+								<span>Figure 4.20</span> There are two sides to cloud computing: the side we see as users and the banks of computers and servers that house the files and programs we access. <em>(Jupiterimages/Photos.com/Thinkstock; Neil Fraser/Alamy; Monashee Frantz/Alamy; zentilia/Shutterstock; PhotoEdit/Alamy; digitallife/Alamy; Google, Inc.; Anatolii Babii/Alamy; PhotoEdit/Alamy)</em>
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+			<div class="additional">
+						<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig4.20Big.png) no-repeat scroll 0px 0 transparent">
+								<figcaption class="topPos rightPos" style="width: 350px; margin-right:15px;">
+								<span>Figure 4.20</span> There are two sides to cloud computing: the side we see as users and the banks of computers and servers that house the files and programs we access. <em>(Jupiterimages/Photos.com/Thinkstock; Neil Fraser/Alamy; Monashee Frantz/Alamy; zentilia/Shutterstock; PhotoEdit/Alamy; digitallife/Alamy; Google, Inc.; Anatolii Babii/Alamy; PhotoEdit/Alamy)</em>
+							  </figcaption>
+							  </figure>
+
+						</div>
+					</div>
+				</div>
+			]]></section>
+		</popup>
+		
+		<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.21Big.jpg') no-repeat scroll -9px 67px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.21</span>
+						Software programs such as <span class="strongDBlue" onclick="window.open('http://iTunes.com','_blank')">iTunes</span> help you manage all the music files on your computer. You can sort, filter, and search your collection by artist, album, or category, and you can create playlists.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="21" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  
+						  <p class="start">If you want to try your hand at creating your own video games, multimedia applications such as Unity, Adobe Flash, and RPG Maker VX provide the tools you need to explore game design and creation. The program GameMaker (<span class="strongDBlue" onclick="window.open('http://yoyogames.com','_blank')">yoyogames.com</span>) is a free product that lets you build a game without any programming; you drag and drop key elements of the new game creation into place. Alice (<span class="strongDBlue" onclick="window.open('http://alice.org','_blank')">alice.org</span>) is another free environment to check out; it lets you easily create 3-D animations and simple games. See the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/storytelling_in_alice/index.html','_blank')">Sound Byte on 3-D Programming the Easy Way</span>.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+			</popup>
+			
+			<popup page="21" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  
+						  <p class="start">Students who will be taking standardized tests like the SAT often use test preparation software. In addition, many computer and online brain-training games and programs are designed to improve the health and function of your brain. Lumosity (<span class="strongDBlue" onclick="window.open('http://lumosity.com','_blank')">lumosity.com</span>) is one such site that has a specific “workout” program that you can play on your PC or smartphone. Brain Age2 (<span class="strongDBlue" onclick="window.open('http://brainage.com','_blank')">brainage.com</span>) has software for the Nintendo DS and is designed for players of all ages.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+			</popup>
+			
+			<popup page="21" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Educational and Reference Software: A Sample of What’s Available</div>
+			<div class="shiftUp5 figureHeader">Figure 4.22</div>
+			<br>
+					<table border="0" cellpadding="0" cellspacing="10" class="eduRef Lmargin30">
+						<tbody>
+							
+							<tr class="lightestBlueGrad">
+								<td><div><span>Test Preparation</span>
+									<div class="imgVert"><img src="assets/images/charts/testprep.jpg"/></div>
+										Designed to improve your performance on standardized tests</div></td>
+								<td><div><span>Simulation</span>
+									<div class="imgVert"><img src="assets/images/charts/simulate.jpg"/></div>
+										Allows you to experience a real situation through a virtual environment</div></td>
+								<td><div><span>Instructional</span> 
+									<div class="imgVert"><img src="assets/images/charts/instructional.jpg"/></div>
+										Designed to teach you almost anything from playing a musical instrument to learning a language or cooking</div></td>
+								<td><div><span>Trip Planning</span>
+									<div class="imgVert"><img src="assets/images/charts/tripplanning.jpg"/></div>
+										Generates maps and provides driving instructions; some incorporate hotel, restaurant, and other trip information</div></td>	
+							</tr>	
+							
+							<tr class="lightBlueGrad">
+								<td><div><span>Home Design/Improvement</span>
+									<div class="imgVert"><img src="assets/images/charts/homedesign.jpg"/></div>
+										Provides 2-D or 3-D templates and images to let you better visualize indoor and outdoor remodeling projects and landscaping ideas</div></td>
+								<td><div><span>Course Management</span>
+									<div class="imgVert"><img src="assets/images/charts/coursemanagement.jpg"/></div>
+										Web-based software system that creates a virtual learning experience, including course materials, tests, and discussion boards</div></td>
+								<td><div><span>Brain Training</span>
+									<div class="imgVert"><img src="assets/images/charts/braintraining.png"/></div>
+										Features games and activities to exercise your brain to improve your memory, processing speed, attention, and multitasking capabilities</div></td>
+								<td><div><span>Genealogy</span>
+									<div class="imgVert"><img src="assets/images/charts/genealogy.jpg"/></div>
+										Helps chart the relationships between family members through multiple generations</div></td>	
+							</tr>	
+						
+						</tbody></table>
+					<em class="font_9 Lmargin5">(Amy Strycula/Alamy; Greg Pease/Getty Images; iQoncept/Shutterstock; almagami/Shutterstock; Zack Clothier/Shutterstock; Scott Maxwell/LuMaxArt/Shutterstock; julien tromeur/Fotolia; sassyphotos/Fotolia)</em>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.23Big.jpg') no-repeat scroll 60px 90px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.23</span>
+						<span class="strongDBlue" onclick="window.open('http://www.sketchup.com/','_blank')">SketchUp</span> is a free, web-based 3-D modeling application. <em>(Archipoch/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="24" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.24Big.jpg') no-repeat scroll center 35px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.24</span>
+						Windows 8 Consumer Preview, the beta for the newest version of the operating system, became available for users to try months before the final version was released. <em>(REUTERS/Gustau Nacarino (SPAIN - Tags: BUSINESS TELECOMS SCIENCE TECHNOLOGY))</em>
+					</figcaption>
+					</figure>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="24" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">How to Open Unknown File Types</strong>
+								<p>Normally, when you double-click a file to open it, the program associated with the file runs automatically. For example, when you double-click a file with a .doc or.docx extension, the file opens in Microsoft Word. However, if the file has no extension or Windows has no application associated with that file type, an “Open with” dialog box appears and asks what program you want to use to open the file. In other cases, a document may open with a program other than the one you wanted to use. This is because many applications can open several file types, and the program you expected the file to open in is not currently the program associated with that file type. To assign a program to a file type or to change the program to open a particular file type, follow these instructions:</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							<ol>
+								<li>Use the search and navigation tools in File Explorer previously called Windows Explorer) to locate the file you want to change. (For example, you can search for all Word files by searching for *.doc or *.docx.) Right-click on the file, and then point to <strong>Open With</strong>.</li>
+								<li>A list of programs installed on your computer appears. Click the program you want to use to open this file type. If you’re sure the selected program is the one that should always be used for this file type, then instead select <strong>Choose default program</strong>, and make sure to check “<strong>Use this app for all [extension] files</strong>,” and click the default program from the list.</li>
+							</ol>
+							
+							<p class="start">When you double-click that file in the future, the file will open in the program you selected.</p>	
+						
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Run versus Save When Downloading Software</strong>
+								<p>When you download software from the web, often you’re given the choice to run or save it (<span class="strongDBlue">see Figure 4.26</span>). What’s the difference? When you select Run, the program is downloaded to your machine and generally stored in Temporary Internet Files. Then the file is “run,” meaning that it is loaded into memory and the operating system runs it. Use the Run option when you need to use the downloaded file on a limited basis, such as a song or video that you only plan to watch once or twice. Some installation programs instead install the software on your machine in a permanent location when Run is selected.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							<p class="start">When you select Save (or sometimes Save As) on a download, the file will be copied to your hard disk. There may be an AutoRun program associated with the file that starts the installation automatically. Otherwise, you may need to navigate to the stored location and execute (or run) the file independently. The big difference is that the saved file is not downloaded into a temporary location. Use Save when you want to keep the file for a longer period of time or when you want to control where the file or program is saved.</p>	
+							
+								<figure class="leftFloat" style="
+								    background: url(assets/images/figures/fig4.26.jpg) no-repeat 0 0 transparent;
+    								height: 65px; margin-left:-413px; margin-right:-7px; margin-top:56px;">
+							  <figcaption class="bottomPos">
+								<span>Figure 4.26</span> When downloading software, you have the choice to Run or Save.
+							  </figcaption>
+							</figure>
+							
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.25Big.jpg') no-repeat scroll center 55px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.25</span>
+						You must accept the terms of the software license before using the product. 
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="27" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig4.27Big.jpg') no-repeat scroll center 55px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4.27</span>
+						By pinning an application to the Start screen in Windows 8, you have easy access to your most frequently used programs.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="27" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_21" style="top:14px;">Can I Borrow <br/>Software That I Don’t Own?</div>
+
+				<div class="content"><div class="columnContain">
+				
+				  <div class="column">
+					<div class="innerColLeft">
+						
+						
+						<p>As noted in the chapter, when you purchase software, you’re purchasing a license to use it rather than purchasing the actual software. That license tells you how many times you can install the software, so it is important to read it. If you make more copies of the software than the license permits, you’re participating in <span class="strongDBlue" glossary>software piracy</span> (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 4.28</span>). Historically, the most common way software has been pirated has been by borrowing installation CDs from others and installing the software on other computers. Larger-scale illegal duplication and distribution by counterfeiters are quite common as well. In addition, the Internet provides various ways to copy and distribute pirated software illegally.</p>
+					  	<p class="start">Is it really a big deal to copy a program or two? As reported by the Business Software Alliance, over 40% of all software used is pirated. Not only is pirating software unethical and illegal, the practice has financial impacts on all software consumers. The financial loss to the software industry was estimated to be over $63 billion for 2011. This loss decreases the amount of money available for further software research and development, while increasing the up-front costs to legitimate consumers.</p>
+						<p class="start">To determine whether you have a pirated copy of software installed on your computer, conduct a software audit. The Business Software Alliance website (<span class="strongDBlue" onclick="window.open('http://bsa.org','_blank')">bsa.org</span>) has several free third-party software audit tools that help you identify and track software installed on your computer and networks. These programs check the serial numbers of the software installed on your computer against software manufacturer databases of officially licensed copies and known fraudulent copies. Any suspicious software installations are flagged for your attention.</p>
+						<p class="start">As of yet, there’s no such thing as an official software police force, but if you’re caught with pirated software, severe penalties do exist. A company or individual can pay up to $150,000 for each software title copied. In addition, you can be criminally prosecuted for copyright infringement, which carries a fine of up to $250,000, a five-year jail sentence, or both.</p>
+						<p class="start">Efforts to stop groups involved with counterfeit software are in full force. Software manufacturers also are becoming more aggressive in programming mechanisms into software to prevent illegal installations. For instance, with many Microsoft products, installation requires you to activate the serial number of your software with a database maintained at Microsoft. This is different from the traditional “registration” that enrolled you voluntarily and allowed you to be notified of product updates. Failure to activate your serial number or attempting to activate a serial number used previously results in the software going into a “reduced functionality mode” after the 50th time you use it. Therefore, without activation or after activating a used serial number, you would not be able to save documents in Office.</p>
+						
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  <figure onclick="compTia.additionalPopupContent(1)" style="
+						  	    background: url(assets/images/figures/fig4.28.png) no-repeat 0 0 transparent;
+						  	    height: 349px; margin-top: 40px; margin-right:-25px;" >
+							<figcaption class="bottomPos">
+							  <span>Figure 4.28</span>
+							  Making more copies than the software license permits is pirating and is illegal? <em>(Igor Prole/Lepro/iStockphoto)</em>
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+									<div class="additional">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig4.28Big.png) no-repeat scroll 0px 0 transparent">
+							<figcaption class="rightRos topPos" style="margin-left:372px;">
+							  <span>Figure 4.28</span>
+							  Making more copies than the software license permits is pirating <br/>and is illegal? <em>(Igor Prole/Lepro/iStockphoto)</em>
+							  </figcaption>
+							  </figure>
+
+						</div>
+			]]></section>
+		</popup>
+		
+		<popup page="28" distinction="bbFeature">
+			<section><![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Ridding Your Computer of “Bloat”</strong>
+								
+								<p> Manufacturers often include software on new computers that you don’t want or need. Called <em>bloatware</em>, this software can slow down your computer and degrade its performance. How do you get rid of it? Install an application such as PC Decrapifier (<span class="strongDBlue" onclick="window.open('http://pcdecrapifier.com','_blank')">pcdecrapifier.com</span>), or, if you’d rather do it yourself, consider some of these tips:</p>
+								<ul class="dotted">
+									<li><span class="innerLi"><em>Uninstall preinstalled antivirus software</em>: If you have antivirus software on your old computer, you may be able to transfer the unexpired portion of your software license to your new computer. If this is the case, you can uninstall the preinstalled trial version on your new computer.</span></li>
+									<li><span class="innerLi"><em>Uninstall unwanted toolbars</em>: Many computers come with Google, Bing, and other toolbars preinstalled. Go through Programs and Features in the Control Panel to uninstall any toolbars you don’t want.</span></li>
+								</ul>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								<ul class="dotted">
+									<li><span class="innerLi"><em>Remove manufacturer-specific software</em>: Some computer manufacturers install their own software. Some of these programs can be useful, but others are help features and update reminders that are also found in your operating system. You can remove any or all of these support applications and instead just check the manufacturer’s website periodically for updates or new information.</span></li>
+								</ul>
+							</div>
+						  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+	</chapter>
+</ebook>

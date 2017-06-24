@@ -1,0 +1,977 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="8">
+		
+		<popup page="3" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.1Big.jpg') no-repeat scroll 80px 95px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.1</span>
+						 (a) The <span class="strongDBlue" onclick="window.open('http://www.asus.com/Mobile/PadFone/','_blank')">Asus Padfone</span> lets you share the processor of the phone with a tablet shell. The phone can function on its own, or you can place it into the tablet shell and run the tablet off the same data plan. (b) Some refrigerators are now equipped with touch screens that connect to the Internet. <em>(Gustavo Arias R./La Nacion de Costa Rica/Newscom; Steve Marcus/Reuters/Landov)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.2Big.jpg') no-repeat scroll center 18px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.2</span> Digital convergence has brought us single devices like smartphones that play the role of many separate devices.
+						<em>(Handout/MCT/Newscom; fsketch/Fotolia; Maksym Yemelyanov/Fotolia; RLG; mrgarry/Fotolia; frank peters/Fotolia;JERMVUT KITCHAICHANK/Fotolia; Leonid Dorfman/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+	<!--activegraphic-->	
+		<popup page="5" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes">Inside Your Smartphone</div>
+			<div class="figureHeader"><strong>Figure 8.3</strong> Click on highlighted areas to pop-up description</div>
+			
+			<figure style="	width:826px;height:486px;
+							background:url(assets/images/figures/fig8.3/fig8.3.png) 162px 5px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 604px; width: 40px; top: 294px; height: 26px;" roll="blueAudio.png"></div>
+						<div style="left: 341px; width: 101px; top: 37px; height: 106px;" roll="blueLED.png"></div>
+						<div style="height: 27px; top: 103px; width: 36px; left: 496px;" roll="orangeCPU.png"></div>
+						<div style="top: 197px; height: 173px; left: 450px; width: 121px;" roll="greenBattery.png"></div>
+						<div style="left: 572px; width: 48px; top: 206px; height: 32px;" roll="pinkCamera.png"></div>
+						<div style="height: 43px; top: 138px; left: 357px; width: 91px;" roll="pinkTouch.png"></div>
+						<div style="top: 120px; height: 32px; width: 38px; left: 562px;" roll="yellowMemory.png"></div>
+						
+					</div>
+					<div class="overlayImages">
+
+						<div roll="blueAudio.png" style="background-image: url(assets/images/figures/fig8.3/blueAudio.png); width: 192px; height: 41px; left: 636px; top: 279px;"></div>
+						<div roll="blueLED.png" style="background-image: url(assets/images/figures/fig8.3/blueLED.png); width: 511px; height: 46px; left: 51px; top: 55px;"></div>
+						<div roll="orangeCPU.png" style="background-image: url(assets/images/figures/fig8.3/orangeCPU.png); width: 290px; height: 72px; left: 497px; top: 36px;"></div>
+						<div roll="greenBattery.png" style="background-image: url(assets/images/figures/fig8.3/greenBattery.png); height: 78px; width: 351px; left: 103px; top: 268px;"></div>
+						<div roll="pinkCamera.png" style="background-image: url(assets/images/figures/fig8.3/pinkCamera.png); width: 335px; height: 38px; left: 611px; top: 198px;"></div>
+						<div roll="pinkTouch.png" style="background-image: url(assets/images/figures/fig8.3/pinkTouch.png); width: 367px; height: 56px; top: 126px; left: 35px;"></div>
+						<div roll="yellowMemory.png" style="background-image: url(assets/images/figures/fig8.3/yellowMemory.png); height: 46px; width: 363px; top: 104px; left: 590px;"></div>
+						
+					</div>
+			</figure>
+			]]></section>
+		</popup>
+		
+		<popup page="6" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.4Big.jpg') no-repeat scroll center 35px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.4</span> (a) Apple iOS, (b) Windows Phone 8, and (c) Android 4 are all mobile operating systems.
+						<em>(Greg Gard/Alamy; NoahBerger/Reuters/Landov; AnonymousAP Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.5Big.jpg') no-repeat scroll center 40px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.5</span> Micro SD flash cards add memory to some phones.
+						<em>(Clifford Farrugia/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.6Big.jpg') no-repeat scroll center 35px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.6</span>  (a) The Samsung Impression includes a touch screen and a built-in keyboard. (b) The Apple iPhone has a touch keyboard that supports more than 40 languages and a range of character sets.
+						<em>(Jae C. Hong/AP Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.7Big.jpg') no-repeat scroll center 130px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.7</span> <span class="strongDBlue" onclick="window.open('http://play.google.com','_blank')">Google Play</span> is one of many online stores delivering software for mobile devices. 
+						<em>(Google Inc./AP Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="8" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">How Smart Is Your Phone?</strong>
+								<p>Your smartphone may seem really smart when it can answer your questions! Voice recognition–based apps—Siri for iOS phones and Andy for Android phones—let your phone behave like a digital assistant. These apps translate your oral request into a search through information stored on your phone or into an Internet search request and format the results for you.</p>
+								<p class="start">For information that needs the human touch, consider using the ChaCha service. You can either call 1-800-2chacha or text 242 242 with any kind of question, and real human “guides” will find the answer for you. So let your smartphone start acting smart!</p>
+								
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="9" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.8Big.jpg') no-repeat scroll center 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.8</span> A cloud service lets you keep the information on your phone instantly in sync with your other computing devices. 
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="10" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage textInfoTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes" style="margin-left: -84px;">Text Messaging Information Services</div>
+			<div class="figureHeader" style="margin-left:-20px;"><strong>Figure 8.9</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="textInfoTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>SIMS CODE</div></th>
+								<th><div>SERVICE NAME</div></th>
+								<th><div>WEBSITE</div></th>
+								<th><div>DESCRIPTION</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>466453 (google)</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Google SMS Search</span></div></td>
+							<td><div class="hide" col="1"><span><span class="strongDBlue" onclick="window.open('http://google.com/mobile/sms','_blank')">google.com/mobile/sms</span></span></div></td>
+							<td><div class="hide" col="1"><span>Obtains information such as addresses, phone numbers, driving directions, sports scores, and movie listings from the Google search engine</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>44636 (4Info)</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>4INFO</span></div></td>
+							<td><div class="hide" col="2"><span><span class="strongDBlue" onclick="window.open('http://alerts.4info.com','_blank')">alerts.4info.com</span></span></div></td>
+							<td><div class="hide" col="2"><span>Similar to Google SMS, but also handles flight information and mobile coupons</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>242 242 (cha cha)</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>ChaCha</span></div></td>
+							<td><div class="hide" col="3"><span><span class="strongDBlue" onclick="window.open('http://chacha.com','_blank')">chacha.com</span></span></div></td>
+							<td><div class="hide" col="3"><span>Human “guides” answer any question in conversational English</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>3109043113</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							<td><div class="hide" col="4"><span>411sms</span></div></td>
+							<td><div class="hide" col="4"><span><span class="strongDBlue" onclick="window.open('http://411sms.com','_blank')">411sms.com</span></span></div></td>
+							<td><div class="hide" col="4"><span>Offers address and phone listings, turn-by-turn directions, movie show times, stock quotes, hot spot locations, dictionary definitions, horoscopes, and foreign language translations</span></div></td>
+						</tr>
+						
+						
+					</table>
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="10" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						<ul class="dotted">
+							<p>MMS messages actually arrive as a series of messages; you view the text, then the image, then the sound, and so on. You can then choose to save just one part of the message (such as the image), all of it, or none of it. MMS users can subscribe to financial, sports, and weather services that will “push” information to them, sending it automatically to their phones in MMS format.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="10" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Texting for Change</strong>
+								<p>Can texting cause social change? Crisis-texting hotlines are opening to reach and respond to violence, rape, and bullying that young people experience. The site DoSomething.org (<span class="strongDBlue" onclick="window.open('http://dosomething.org','_blank')">dosomething.org</span>) opened a Crisis Text Line to organize its response to crisis text messages it was receiving. In addition, police around the country are establishing anonymous texting tip lines to take advantage of the prevalence of texting.</p>
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Looking for the Perfect <br/>Cell Phone Plan? Try Bill Shrink</strong>
+								<p>Cell phone plans are confusing enough before adding the choices for texting plans, data plans, and supporting multiple devices. Before you give up in confusion, let Bill Shrink (<span class="strongDBlue" onclick="window.open('http://billshrink.com','_blank')">billshrink.com</span>) help you pick the perfect plan. Bill Shrink is a free service that collects your latest billing information, compares your usage and fees with other plans, and writes a report with specific recommendations for you. It also has options to analyze your credit card choices, television packages, and even your gas usage!</p>
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="12" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.10Big.jpg') no-repeat scroll center 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.10</span> Online tools can help you estimate your monthly data usage. 
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="12" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.11Big.jpg') no-repeat scroll 70px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.11</span> The range of speeds you achieve when connecting to the Internet with your smartphone or mobile device depends on the type of connection.
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.12Big.jpg') no-repeat scroll 155px 70px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.12</span> VoIP technology lets your computing device behave like a phone/video phone, using the Internet instead of the telephone system to transmit data.
+						<em>(jd-photodesign)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_20" style="margin-right:-40px;">NFC Chips: Do You Have a Digital Wallet?</div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Your mobile device performs many tasks, and now, thanks to near field communication (NFC) technology, it will feature yet another form of convergence: the integration of your wallet into your phone. How so? NFC technology allows a device with an NFC chip (such as a smartphone) to communicate with another NFC device (such as a checkout machine) with a single touch. In fact, with NFC, you can forget your wallet: Financial transactions can be processed just by bringing the devices within an inch of each other. </p>
+					  		<p class="start">Because NFC has such a short range (up to 1.5 inches), it is being used for secure credit card transactions. Both MasterCard and Visa are piloting programs that would allow cell phones to “tap and go,” meaning phone owners would no longer need to carry physical credit cards. Instead, they could simply tap their phone near an NFC checkout device and have it automatically transmit the proper loyalty card information, select and process any coupon offers, and pay all at once (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 8.14</span>).</p>
+					  		<p class="start">In countries like Japan, Spain, and Germany, NFC ticketing programs are already in place. The Deutsche Bahn rail system allows users to tap their phones to an NFC tag when they get on the train and to another on departing. The fare is automatically calculated and billed to their credit card monthly. The new “digital wallet” would be a single storage place for all your financial needs.</p>
+							<p class="start">But you also use your wallet to carry ID information. NFC can handle that as well. The swipe cards that verify your identity for entry into secure areas can be replaced using NFC to exchange stored virtual credentials. The same technology could replace doors protected with PIN numbers or anywhere a user name/password verification is used. So, opening a door or logging into a computer could all be managed with a tap of your NFC–enabled phone.</p>
+							<p class="start">Google has already announced a mobile app known as <span class="strongDBlue" onclick="window.open('http://www.google.com/wallet/','_blank')">Google Wallet</span> that will conduct NFC transactions as well as collect your loyalty cards, gift cards, receipts, boarding passes, tickets, and keys within your phone. To use Google Wallet to pay in stores, you need to have a phone with an NFC chip.</p>
+							<p class="start">So imagine a time, soon, when you’re out to dinner with friends and need to split the bill. Your NFC phone is already linked to your PayPal account or credit card, and you simply wave your phone next to your friend’s phone to transfer him your share of the bill. Some are predicting the worldwide NFC market will grow to be worth $50 billion over the next few years, making this a trend to watch.</p>
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure  onclick="compTia.additionalPopupContent(1)"
+						 		style="background: url(assets/images/figures/fig8.14.png) no-repeat scroll 0px 0px transparent;
+						  	height: 265px;margin: 200px 0 0 0px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 8.14</span> NFC–equipped phones will shift how we handle financial transactions and identify ourselves. <em>(YOSHIKAZU TSUNO/AFP/Getty Images/Newscom)</em>
+							  
+							</figcaption></figure>
+				
+				</div></div></div></div>
+					<div class="additional">
+						<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig8.14Big.png) no-repeat scroll 116px 35px transparent;">
+								<figcaption class="bottomPos">
+								<span>Figure 8.14</span> NFC–equipped phones will shift how we handle financial transactions and identify ourselves. <em>(YOSHIKAZU TSUNO/AFP/Getty Images/Newscom)</em>
+							  </figcaption>
+							  </figure>
+
+						
+
+						</div>
+					</div>
+				</div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="16" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p>For example, AT&T’s Family Maps service lets parents track all the phones on their family plan in real time. Locations of all phones are displayed over the web on a map or to an app for your phone, or the service will send an automatic text message alert with the phones’ locations at a specific time each day. So a parent could have a text or e-mail sent with his or her daughter’s phone location each day at 3 p.m. to be sure she made it home from school. The person being tracked can’t turn off the service.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="16" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.13Big.jpg') no-repeat scroll 115px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.13</span> GPS computes your location anywhere on Earth from a system of orbiting satellites.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="17" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.15Big.jpg') no-repeat scroll 175px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.15</span> iPad . . . Xoom . . . Galaxy? There are over 75 tablets on the market now. Finding the right digital device can be a challenge. <br/><em>(oliver leedham/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="18" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage TvsU2Table">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes" style="margin-left: -92px;">Tablets versus Ultrabooks</div>
+			<div class="figureHeader" style="margin-left: -25px;"><strong>Figure 8.16</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="TvsU2Table">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>FEATURE</div></th>
+								<th><div>TABLET</div></th>
+								<th><div>ULTRABOOK</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Operating System</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Mobile OS <br/>(iOS, Andriod, Windows)</span></div></td>
+							<td><div class="hide" col="1"><span>Traditional OS (Windows or OS X)</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Interface</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Touch screen</span></div></td>
+							<td><div class="hide" col="2"><span>Non-touch screen and full-size keyboard</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Screen Size</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>7 to 10 inches</span></div></td>
+							<td><div class="hide" col="3"><span>13 to 15 inches</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Processing Power</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Mobile Processor</span></div></td>
+							<td><div class="hide" col="4"><span>Full quad-core Intel i5, i7</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Storage</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>&lt;/=64 GB</span></div></td>
+							<td><div class="hide" col="5"><span>128 to 500 GB</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Software</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>Specialized applications custom designed for touch interface</span></div></td>
+							<td><div class="hide" col="6"><span>Standard versions of software for desktop environments (Microsoft Office, etc.)</span></div></td>
+						</tr>
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="19" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.17Big.jpg') no-repeat scroll 70px 80px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.17</span> A full spectrum of mobile devices is available. <em>(Peter Dazeley/Getty Images; Bloomberg/Getty Images; Ethan Miller/Getty Images; Josep lago/ Stringer/Getty Images; Sean Gallup/Getty Images;Sean Gallup/Getty Images; Alan Evans; Alan Evans;Alan Evans)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="22" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage TvsUTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Analog versus Digital Entertainment</div>
+			<div class="figureHeader"><strong>Figure 8.18</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="TvsUTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div></div></th>
+								<th><div>ANALOG</div></th>
+								<th><div>DIGITAL</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Publishing</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Magazines, books</span></div></td>
+							<td><div class="hide" col="1"><span>E-books, e-zines</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Music</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Vinyl record albums and cassette tapes</span></div></td>
+							<td><div class="hide" col="2"><span>CDs, MP3 files, and streaming music stations</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Photography</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>35-mm single-lens reflex (SLR) cameras Photos stored on film</span></div></td>
+							<td><div class="hide" col="3"><span>Digital cameras, including digital SLRs <br/>Photos stored as digital files</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Video</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>8-mm, VHS, and Hi8 camcorders <br/>Film stored on tapes</span></div></td>
+							<td><div class="hide" col="4" style="line-height:15px;"><span>HD digital video (DV) cameras <br/>Film stored as digital files; distributed on DVD and Blu-ray discs and streamed</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Radio</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>AM/FM radio</span></div></td>
+							<td><div class="hide" col="5"><span>HD Radio, SiriusXM satellite radio</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Television</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>Analog TV broadcast</span></div></td>
+							<td><div class="hide" col="6"><span>High-definition digital television (HDTV)</span></div></td>
+						</tr>
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8.19Big.jpg') no-repeat scroll 95px 5px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.19</span> (a) This is an analog wave showing the simple, pure sound of a piano playing middle C. (b) This is the complex wave produced when a person says “Hello.”
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+<!--Active Graphic-->
+		<popup page="24" distinction="popupFeature" customscript="compTia.features.setupVideo('8_20_analog')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Analog & Digital Waves</div>
+					<div class="padding70">
+					  <a style="padding-left:250px; padding-right: 160px;color:#01567a" data="8_20_analog">ANALOG</a>
+						<a data="8_20_digital">DIGITAL</a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.21Big.jpg') no-repeat scroll 270px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.21</span>
+						 E-Readers are popularizing the digital e-book. <em>(Kristoffer Tripplaar/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="26" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.22Big.jpg') no-repeat scroll 120px 55px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.22</span>
+						 The two main technologies for e-text display are (a) E Ink grayscale displays, like on the Amazon Kindle, and (b) high-resolution backlit color screens, like on the Amazon Fire. <em>(EMMANUEL DUNAND/Getty Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="27" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.23Big.jpg') no-repeat scroll 290px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.23</span>
+						 E-books and audio books can be borrowed for free at most public libraries. <em>(Olaf Speier/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="28" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<ul class="dotted">
+							<li><span class="innerLi">Use a company like <em>Smashwords</em> (<span class="strongDBlue" onclick="window.open('http://smashwords.com','_blank')">smashwords.com</span>). It accepts a Microsoft Word document from you and then makes your book available through a number of vendors like the Apple iBooks store, Barnes and Noble, and the Sony eReader store. Your book can also be distributed as an app to mobile marketplaces like Google Play or the Apple App Store.</span></li>
+							<li><span class="innerLi">Use a site like <em>Lulu</em> (<span class="strongDBlue" onclick="window.open('http://lulu.com','_blank')">lulu.com</span>) to do social marketing for your book so that you can promote it. In addition, it offers services from editors, designers, and marketers.</span></li>
+						</ul>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+	
+	<!--Active Graphic-->	
+		<popup page="28" distinction="popupFeature" customscript="compTia.features.setupVideo('8_24_singer')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">The Recording Process</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="8_24_singer">SINGER</a> 
+						<a data="8_24_adc">ADC</a>
+						<a data="8_24_digital">DIGITAL</a>
+						<a data="8_24_mp3">MP3</a>
+						<a data="8_24_dac">DAC</a>
+						<a data="8_24_speaker">SPEAKER</a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		  </popup>
+		
+		<popup page="29" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.25Big.jpg') no-repeat scroll 120px 40px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.25</span>
+						 Apple reports over 1 billion iPods have been sold since they were first introduced. <em>(Bloomberg/Getty Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="30" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.26Big.jpg') no-repeat scroll 150px 43px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.26</span>
+						 A wide range of mobile docking stations, like the Bag of Rhythm from The House of Marley, use MP3 players or phones to store music files. <em>(Ethan Miller/Getty Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="31" distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_20" >The Shift to Digital Music: A Bumpy Ride</div>
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>The shift to digital music wasn’t an easy transition for the recording industry. The initial MP3 craze was fueled by sites such as MP3.com, which originally stored its song files on a public server with the permission of the original artists or recording companies. Therefore, you weren’t infringing on a copyright by downloading songs from sites such as MP3.com (which still exists and now provides free music in streaming format).</p>
+							<p class="start">Napster was a file-exchange site created to correct some of the annoyances found by users of MP3.com (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 8.27</span>). One such annoyance was the limited availability of popular music in MP3 format. Napster differed from MP3.com because songs or locations of songs were not stored in a central public server, but instead were “borrowed” directly from other users’ computers. This process of users transferring files between computers is referred to as <span class="strongDBlue" glossary>peer-to-peer (P2P) sharing</span>. Napster also provided a search engine dedicated to finding specific MP3 files. This direct search and sharing eliminated the inconvenience of searching links only to find them unavailable. </p>
+							<p class="start">The problem with Napster was that it was so good at what it did. The rapid acceptance and use of Napster—at one point, it had nearly 60 million users—led the music industry to sue the site for copyright infringement, and Napster was closed in June 2002. Napster has since reopened as a music site that sells music downloads and is now sanctioned by the recording industry.</p>
+							<p class="start">The music industry has needed to reinvent itself since the demise of Napster. The initial reaction of the recording industry was to continue to enforce its absolute ownership over digital forms of its music. The industry even filed legal actions against individuals who had downloaded large amounts of music from Internet sites. This heavy-handed reaction to the new era of digital music ultimately backfired and left the music industry scrambling. Overall music sales have dropped significantly each year for the last decade. The recording industry is still trying to counter losing CD sales. The approach they took early on did not allow them to adapt quickly enough to the new business models required by the shift to digital technologies.</p>
+							<p class="start">P2P sharing sites are still operating today. Napster was “easy” to shut down because it used a central index server that queried other Napster computers for requested songs. Current P2P protocols (such as BearShare) differ from Napster in that they don’t limit themselves to sharing only MP3 files. Video files are easily obtainable on P2P sites. More importantly, these sites don’t have a central computer acting to index all this information. Instead, they operate in a true P2P sharing environment in which computers connect directly to other computers. This makes them a prime source of unwanted viruses and spyware.</p>
+							<p class="start">The argument these P2P networks make to defend their legality is that they do not run a central server like the original Napster, but only facilitate connections between users. Therefore, they have no control over what the users choose to trade. These legal nuances weren’t enough to keep the LimeWire service active, and it was shut down by court order in 2010. Note that not all P2P file sharing is illegal. For example, it is legal to trade photos or movies you’ve created with other users over a P2P site.</p>
+							<p class="start">People who oppose such file-sharing sites contend that the sites know their users are distributing files illegally and breaking copyright laws. Be aware that having illegal content on your computer, deliberately or by accident, is a criminal offense in many jurisdictions.</p>
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)"
+						 		style="background: url(assets/images/figures/fig8.27.png) no-repeat scroll 0px 0px transparent;
+						  	height: 364px;margin-top:175px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 8.27</span>
+							   Napster was one of the original P2P music-sharing sites. <em>(Mike Fanous/Getty Images)</em>
+							</figcaption></figure>
+						</div>
+					</div>
+				</div></div>
+				
+				<div class="additional">
+						<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig8.27Big.png) no-repeat scroll 0px 30px transparent; margin-top:-31px; padding-bottom:34px;">
+								<figcaption class="topPos rightPos" style="width:233px;margin-top: 25px; margin-right:60px">
+								<span>Figure 8.27</span> Napster was one of the original P2P music-sharing sites. <em>(Mike Fanous/Getty Images)</em>
+							  </figcaption>
+							  </figure>
+
+						
+
+						</div>
+					</div>
+				</div>
+
+						
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="31" distinction="bbFeature">
+			<section><![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Need Money for Your Band? Try Indiegogo</strong>
+								
+								<p>What if your band has already built up a fan base but just needs to have the up-front money to go into the studio to record? Indiegogo (<span class="strongDBlue" onclick="window.open('http://indiegogo.com','_blank')">indiegogo.com</span>) is a crowd-funding website specializing in creative projects and causes. Musicians have a platform to go to their fan base and raise money before a recording session or a tour, or even when tragedy strikes. When cellist Mike Block had a serious accident, he used Indiegogo to raise money to pay off his medical bills. Mike offered copies of an upcoming album or personal lessons as rewards to funders. He raised over $48,000 using Indiegogo and was able to repay years of accumulated medical expenses.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								
+							</div>
+						  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="32" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.28Big.jpg') no-repeat scroll 185px 50px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.28</span>
+						 The Nikon D3200 is a digital SLR with 24.2MP resolution. <em>(Yoshikazu Tsuno/Getty Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="33" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.29Big.jpg') no-repeat scroll 285px 50px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.29</span>
+						 <span class="strongDBlue" onclick="window.open('http://www.eye.fi/','_blank')">Eye-Fi</span> combines memory storage and wireless transfer of your photos. Eye-Fi wirelessly transfers your photos to <span class="strongDBlue" onclick="window.open('http://picasa.google.com/','_blank')">Google Picasa</span>, <span class="strongDBlue" onclick="window.open('http://facebook.com/','_blank')">Facebook</span>, or a number of other web destinations. Eye-Fi Mobile X2 uploads images directly from your camera to your tablet or phone, as well. It also backs up the photos and videos you take with your camera to your home computer. And when you’re away from home, Eye-Fi comes with hotspot access so you can upload for free from any McDonald’s, Starbucks, hotel, or airport. <em>(Handout/MCT/Newscom).</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="34" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p>You can send your digital photos directly to local merchants such as CVS and Walgreens for printing using Windows Photo Gallery. Online services, such as Flickr (<span class="strongDBlue" onclick="window.open('http://flickr.com','_blank')">flickr.com</span>) and Shutterfly (<span class="strongDBlue" onclick="window.open('http://shutterfly.com','_blank')">shutterfly.com</span>), store your images and allow you to create hard-copy prints, albums, mugs, T-shirts, or calendars.</p>
+						
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="35" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.30Big.jpg') no-repeat scroll 105px 55px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.30</span>
+						 Adobe Premiere Elements allows you to build a movie from video clips and to add sound tracks and special effects.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="36" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage DVTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Typical File Formats for Digital Video</div>
+			<div class="figureHeader"><strong>Figure 8.31</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="DVTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>FORMAT</div></th>
+								<th><div>FILE EXTENSION</div></th>
+								<th><div>NOTES</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>QuickTime</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>.qt <br/>.mov</span></div></td>
+							<td><div class="hide" col="1"><span>You can download the QuickTime player without charge from <span class="strongDBlue" onclick="window.open('http://apple.com/quicktime','_blank')">apple.com/quicktime</span>. The Pro version allows you to build your own QuickTime files.</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Moving Picture <br/>Experts Group (MPEG)</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>.mpg <br/>.mpeg <br/>.mp4</span></div></td>
+							<td><div class="hide" col="2"><span>The MPEG-4 video standard was adopted <br/>internationally in 2000; it’s recognized by most video player software.</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Windows Media Video</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>.wmv</span></div></td>
+							<td><div class="hide" col="3"><span>This is a Microsoft file format recognized by Windows Media Player (included with the Windows OS).</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Microsoft Video for Windows</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>.avi</span></div></td>
+							<td><div class="hide" col="4"><span>This is a Microsoft file format recognized by Windows Media Player (included with the Windows OS).</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>RealMedia</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>.rm</span></div></td>
+							<td><div class="hide" col="5"><span>This format is from RealNetworks and is popular for streaming video. You can download the player for free at <span class="strongDBlue" onclick="window.open('http://real.com','_blank')">real.com</span>.</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Adobe Flash Video</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>.flv</span></div></td>
+							<td><div class="hide" col="6"><span>This is the Adobe Flash video format, sometimes embedded in Shockwave files (*.swf).</span></div></td>
+						</tr>
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				<popup page="37" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.32Big.jpg') no-repeat scroll 123px 68px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.32</span>
+						 Webcams are small enough to make them part of any activity (check the quarterback’s helmet!). <em>(AP Photo/New York Giants)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="37" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.33Big.jpg') no-repeat scroll 185px 15px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.33</span>
+						(a) Standard-definition TV has a more “square” aspect ratio, whereas (b) HDTV matches the 16:9 ratio used in the motion picture industry without resorting to (c) letterboxing. <em>(Pichugin Dmitry/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="37" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content">
+				<div class="headerText font_18 shiftUp10">Managing Your Copyrights: <br/>Copyleft Might Simplify Your Life</div>
+				<div class="columnContain">
+				
+				  <div class="column">
+					<div class="innerColLeft">
+						
+						<p>You just returned from your trip to the Grand Canyon, and your friends are raving about the photos you took. You decide to put them on <span class="strongDBlue"  onclick="window.open('http://www.flickr.com/','_blank')">Flickr</span> so others can see them. You also think that someone might see your photos and want to use them in a commercial publication such as a magazine. Because you own the copyright to your photos, you control how they can be used—and you want to protect your rights. You add a disclaimer to Flickr indicating that all rights are reserved on your photos. Anyone who wants to use them will need to contact you and request permission.</p>
+						<p class="start">All of a sudden, you’re bombarded by requests for permission to use your photos. A high school student in Illinois wants to feature one on her travel blog. A church in Georgia wants to use a photo for its newsletter. An ad agency in Seattle wants to modify your sunrise photo and use it in an ad. How are you going to manage all these permission requests?</p>
+						<p class="start"><span class="strongDBlue" glossary>Copyleft</span>, a play on the word copyright, is designed for this situation. Copyleft  is a term for various licensing plans that enable copyright holders to grant certain rights to the work while retaining other rights. Creative Commons (<span class="strongDBlue" onclick="window.open('http://creativecommons.org','_blank')">creativecommons.org</span>), a nonprofit organization, has developed various licenses you can use based on the rights you wish to grant. Simply decide which type of license best fits your goals for the work, and Creative Commons provides you with HTML you can use to add the specific licensing information to your site.</p>
+						<p class="start">The advantage to using Creative Commons licenses is that people won’t constantly send you permission requests to use your work. The licenses explain how your work can be used. Also, many advocates of copyleft policies feel that creativity is encouraged when people are free to modify other people’s work instead of worrying about infringing on copyright.</p>
+						<p class="start">Opponents of Creative Commons licenses complain that the licenses have affected their livelihoods. If millions of images are out on Flickr with Creative Commons licenses that permit free commercial use, professional photographers might have a tougher time selling their work. Furthermore, Creative Commons licenses are irrevocable. If you make a mistake and select the wrong license for your work, or you later find out a work is valuable and you’ve already selected a license that allows commercial use, you’re out of luck.</p>
+						<p class="start">Each of us needs to carefully consider the value of our intellectual property and decide how best to conduct our digital livelihood. Understanding the meaning of copyright, and copyleft, is important both so that you respect the rights of others and so that you can simplify your life in granting permission rights to the works you create.</p>
+						
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  
+					</div>
+				</div>
+			</div></div>
+									
+			]]></section>
+		</popup>
+		
+		<popup page="38" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig8.34Big.jpg') no-repeat scroll 145px 90px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8.34</span>
+						 Slingbox can send your digital television content to your tablet, notebook, or phone, wherever you may be. <em>(AP Photo/Paul Sakuma)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+	</chapter>
+</ebook>	

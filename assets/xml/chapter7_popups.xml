@@ -1,0 +1,1476 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="7">
+		
+		<popup page="3" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.1Big.jpg') no-repeat scroll 7px 42px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.1</span>
+						With a home network, all family members can connect their computing devices whenever and wherever they want.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.2Big.jpg') no-repeat scroll 145px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.2</span>
+						File Explorer (previously called Windows Explorer) shows five networked computers set up for sharing.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+	<!--needs motionGraphic-->
+		<popup page="5" distinction="popupFeature" customscript="compTia.features.setupVideo('7_3_1')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Networks</div>
+		<div class="padding70">
+		  <a data="7_3_1" style="padding-left:99px;color:#01567a; padding-right:100px;">PAN</a>
+		  <a data="7_3_2" style="padding-right:100px;">LAN</a>
+		  <a data="7_3_3" style="padding-right:100px;">HAN</a>
+		  <a data="7_3_4" style="padding-right:100px;">MAN</a>
+		  <a data="7_3_5" style="padding-right:100px;">WAN</a>
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="6" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">PAN Clothing: Organization and Power for Portable Gear</strong>
+								<br/>
+								<p class="lessSpacing">Now that people carry so many portable computing devices, clothing designers are starting to offer clothing that facilitates the storage, transportation, charging, and networking of their digital gadgets. The Scottevest is one of a line of vests and jackets designed to hold iPods, smartphones, and even iPads. It also features a built-in PAN to help maintain connectivity of your devices. And because all the devices in your PAN need power, accessories such as the Voltaic Backpack (shown here) help recharge your digital devices using renewable energy sources. So don’t forget to consider the perfect fashion accessory for your latest digital acquisition!</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+						 		<figure style="background: url(assets/images/figures/Vbackpack.jpg) no-repeat scroll 55px 0px transparent;
+						  	height: 370px;">
+							<figcaption class="bottomPos" style="width:335px;">
+							  <span></span>
+							  The <span class="strongDBlue"  onclick="window.open('http://www.voltaicsystems.com/','_blank')">Voltaic Backpack</span> recharges your mobile devices using solar cells. <em style="margin-left:0px;">(Ashley Cooper pics/Global Warming Images/Alamy)</em>
+							</figcaption></figure>
+							
+				</div></div></div></div>
+
+
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="6" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p>When printing, for example, a computer on a P2P network doesn’t have to go through the computer that’s connected to the printer. Instead, it can communicate directly with the printer. Because they’re simple to set up, cost less than client/server networks, and are easier to configure and maintain, P2P networks are the most common type of home network. Very small schools and offices may also use P2P networks.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<!--needs motionGraphic-->
+		<popup page="6" distinction="popupFeature" customscript="compTia.features.setupVideo('7_4_1')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Client/Server and P2P Networks</div>
+		<div class="padding70">
+		  <a data="7_4_1" style="color:#01567a;padding-left:240px; padding-right:200px;">CLIENT/SERVER NETWORK</a>
+		  <a data="7_4_2" >P2P NETWORK</a>
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="8" distinction="popupImage">
+			<section><![CDATA[
+			
+			<figure style="
+							background:url(assets/images/figures/fig7.5Big.jpg) 138px 81px no-repeat">
+
+					
+			
+			<figcaption class="normalFont"><span>Figure 7.5</span> Network Components <em style="margin-left:0px;">(Okea/iStockphoto.com;Sergii Korolko/Shutterstock; Epson; vectorlib-com/Shutterstock; hanibaram/ iStockphoto; Norman Chan/Shutterstock)</em></figcaption>
+			</figure>
+			]]></section>
+		</popup>
+		
+		
+		<popup page="9" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.6Big.jpg') no-repeat scroll 25px 153px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.6</span>
+						Wired Transmission Media <em>(deepspacedave/Shutterstock; zwola fasola/ Shutterstock; zentilia/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="9" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.7Big.jpg') no-repeat scroll 0px 35px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.7</span>
+						The three main UTP cable types used in home networks have different data transfer rates.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.8Big.jpg') no-repeat scroll 20px 100px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.8</span>
+						A simplified explanation of the function of switches is that, together with NICs, they act like traffic signals or traffic cops. They enforce the rules of the data road on an Ethernet network and help prevent data packets from crashing into each other.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.9Big.jpg') no-repeat scroll 40px 10px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.9</span>
+						A small network with a wired/wireless router attached. <em>(Beboy/Fotolia; Norman Chan/Shutterstock; Arkadiusz Stachowski/ iStockphoto; KO/Shutterstock; Luca di Filippo/iStockPhoto.com; duckycards/Jill Fromer/iStockphoto)into each other.</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="13" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage WBBTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Comparing Common Wired Broadband Internet Connection Options</div>
+			<div class="figureHeader shiftLeft25"><strong>Figure 7.10</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="WBBTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Broadband <br/>Type</div></th>
+								<th><div>Transmission <br/>Medium</div></th>
+								<th><div>Speed <br/>Considerations</div></th>
+								<th><div>Average and Maximum <br/>Download Speeds</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span><br/>Cable</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Coaxial cable, similar to cable TV wire</span></div></td>
+							<td><div class="hide" col="1"><span>Cable connections are shared, so speed can drop during high-usage periods</span></div></td>
+							<td><div class="hide" col="1"><span>Average speed of 10 Mbps, with maximum of 30 Mbps</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div style="padding-bottom:5px;"><span>DSL</span><br/><span style="margin-left:-12px;">(Digital Subscriber Line)</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2" style="padding-bottom:5px;"><span>Copper wire phone line</span></div></td>
+							<td><div class="hide" col="2" style="padding-bottom:5px;"><span>Speed drops as distance from the main signal source increases</span></div></td>
+							<td><div class="hide" col="2" style="padding-bottom:5px;"><span>Average speed of 3.7 Mbps, with maximum of 15 Mbps</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span><br/>Fiber-Optic</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>Strands of optically pure glass or plastic</span></div></td>
+							<td><div class="hide" col="3"><span>Transmits data via light signals, which do not degrade over long distances</span></div></td>
+							<td><div class="hide" col="3"><span>Average speed of 20 Mbps, with maximum of 150 Mbps</span></div></td>
+						</tr>
+						
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="14" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Blazingly Fast Wireless Connections on <br/>the Horizon</strong>
+								<p>Although most people want wireless connectivity throughout their home, wired connections still provide the best throughput. But the next generation of wireless standards, called WiGig and WirelessHD, will be designed to provide between 7 and 25 Gbps of throughput. This speed will blow away current WiFi standards and wired gigabit connectivity. Whereas WiFi currently operates in the 5 GHz and 2.4 GHz bands, WiGig and WirelessHD will operate in the 60 GHz band, which is currently unlicensed by the FCC. This should prevent many of the interference issues that WiFi users experience. But don’t start looking in the stores for this equipment just yet; we’re still a few years away from devices using these standards.</p>
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="14" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p class="start">Often, the most difficult decision is choosing between high-speed plans offered by the same company. For instance, at the time of printing, Verizon offered three different fiber-optic plans that featured download speeds of 15, 25, or 50 Mbps. Although 15 Mbps is fine for streaming standard definition video, it may not be fast enough for streaming HD movies, especially if there are two people in the house streaming movies at the same time. Finally, you may also need to consider what other services you want bundled into your payment, such as phone or TV. Consulting with friends and neighbors about the plan they have and whether it’s meeting their needs can help you decide on the right plan for you.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="14" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.11Big.jpg') no-repeat scroll 250px 0px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.11</span>
+						ISPs that offer satellite Internet can provide Internet access even in remote areas. <em>(Ilene 1).</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">How Do You Find Your WiFi?</strong>
+								<br/><br/>
+								<p class="lessSpacing">Detecting a nearby WiFi signal is important if your device doesn’t have 3G/4G connectivity. Here are a few tips:</p>
+								<ul class="dotted">
+									<li><span class="innerLi">Some laptops have a built-in WiFi scanner that displays a row of lights on the case whenever a WiFi signal is available.</span></li>
+									<li><span class="innerLi">There are also WiFi keychain fobs that light up when they detect WiFi signals.</span></li>
+									<li><span class="innerLi">If you’re running Windows 8, the Networks bar (accessible from the desktop by clicking on the wireless network icon on the taskbar) shows the strength of all wireless networks within range of your computer.</span></li>
+									<li><span class="innerLi">At ThinkGeek (<span class="strongDBlue" onclick="window.open('http://thinkgeek.com','_blank')">thinkgeek.com</span>), you can find the easiest-to-use WiFi detector ever. The WiFi Detector t-shirt and the WiFi Detector baseball cap have a logo that lights up to indicate he signal strength of a nearby WiFi network (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 7.13</span>). Find your WiFi and look … well, look geeky while doing it!</span></li>
+								</ul>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+						 		<figure onclick="compTia.additionalPopupContent(1)" style="background: url(assets/images/figures/fig7.13.png) no-repeat scroll 35px 0px transparent;
+						  	height: 387px;">
+							<figcaption class="bottomPos">
+							  <span></span>
+							<span>Figure 7.13</span> The WiFi Detector T-shirt and cap make a statement—a geeky statement. <em>(ThinkGeek, Inc.)</em>
+							</figcaption></figure>
+							
+				</div></div></div>
+				<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig7.13Big.png) no-repeat scroll 0px 0 transparent;
+								height: 100%;
+								width: 777px;">
+								<figcaption class="topPos rightPos" style="margin-right:50px;">
+								<span>Figure 7.13</span> The WiFi Detector T-shirt and cap make a <br/>statement—a geeky statement. <em>(ThinkGeek, Inc.)</em>
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="16" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.12Big.jpg') no-repeat scroll 20px 50px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.12</span>
+						 A MiFi device turns your phone signal into a 4G LTE mobile hotspot for you and four of your friends. <em>(PRNewsFoto/Verizon Wireless/AP Photos)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="19" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.14Big.jpg') no-repeat scroll 30px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.14</span>
+						802.11n wireless routers offer the fastest connection speeds and a greater wireless signal range. <em>(Scanrail/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.15Big.jpg') no-repeat scroll 190px 0px transparent;height:500px;">
+					<figcaption class="normalFont">
+					  <span>Figure 7.15</span>
+						The Windows Device Manager shows the wireless and wired network adapters installed on a computer.
+					</figcaption>
+					</figure>
+					<p><em>>To access the Device Manager, with the cursor in the bottom-left corner of your screen, right-click to display the shortcut menu, and select <strong>Control Panel</strong>. <br/>Then click <strong>Hardware and Sound</strong>, and select <strong>Device Manager</strong> from the <strong>Devices and Printers</strong> group.</em></p>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="21" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.16Big.jpg') no-repeat scroll 230px 0px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.16</span>
+						You can add additional ports to your network by connecting a switch to your router. <em>(Sergey Dashkevich/Fotolia; sergey makarenko/Fotolia; Bart/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="21" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.17Big.jpg') no-repeat scroll 65px 40px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.17</span>
+						The AirPort Extreme router can be used for home networks with Windows PC and Apple computers. Multiple Ethernet ports enable several devices to access wired Internet connectivity. <em>(bmcent1/Brian McEntire/ iStockphoto; bmcent1/Brian McEntire/iStockphoto)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="22" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">Wake Up Your Mac Remotely</strong></p>
+							<p>Having your computer on a home network with a shared Internet connection makes it possible for you to access your computer and its files even when you aren’t at home. But if your computer is asleep, you need some way to “wake it up.” Otherwise, you can’t access it through the Internet.</p> 
+							<p class="start">Fortunately for Mac users, there’s an application called iNet WOL (Wake on LAN) designed to do this (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 7.19</span>). iNet WOL is compatible with the iPhone, iPod Touch, and iPad. The application lets you use your portable device to wake up your computer via the Internet. Once your computer is awake, you can then use your remote access software to access it. Think of iNet WOL as an alarm clock for your computer.</p> 
+							
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(1)" style="
+							background: url('assets/images/figures/fig7.19.png') no-repeat scroll 0 0 transparent;
+							height: 310px;
+							margin-left: -20px;">
+							<figcaption class="bottomPos">
+							<span>Figure 7.19</span> The application iNet WOL lets you use your iPhone, iPod Touch, or iPad to wake up your Mac from a remote location. <em>(duckycards/Jill Fromer/iStockphoto.com)</em>
+							
+							</figcaption>
+							</figure>
+							
+				  		</div>
+					</div>
+			  	</div>
+				<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig7.19Big.png) no-repeat scroll 165px 0 transparent;
+								height: 100%;
+								width: 777px;">
+								<figcaption class="bottomPos">
+								<span>Figure 7.19</span> The application iNet WOL lets you use your iPhone, iPod Touch, or iPad to wake up your Mac from a remote location. <em>(duckycards/Jill Fromer/iStockphoto.com)</em>
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+
+	  ]]>
+	</section>
+		</popup>
+		
+		<popup page="22" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.18Big.jpg') no-repeat scroll 225px 5px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.18</span>
+						Wired and wireless connections can use the same router.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="23" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_20 shiftUp10" style="margin-top: -15px;">Where Should You Store <br/>Your Files? The Cloud Is Calling!</div>
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>You need to store your files where they’re backed up regularly and secure. You also need to access your files whenever you need them. So should you store your files on your home network? That might work if your network-attached storage is accessible via the Internet. The latest trend, however, is to store your files in the cloud. Deciding which cloud option to use depends on a number of factors.</p>
+					  		
+					  		<h2 class="blueHeading">For Files Currently Being Used</h2>
+					  		
+					  		<p>Having the latest version of a file accessible on any device you use is important. However, constantly saving a file on multiple devices or carrying around a flash drive can be cumbersome and time consuming. When you store your files on the cloud, you avoid the hassle of saving the same file on multiple devices.</p> 
+							<p class="start">A popular web-based application for storing files on the cloud is Dropbox. Dropbox supports computers running Windows, OS X, and Linux, as well as many smartphones and tablets. After installing the Dropbox software on your devices, any files you save in the Dropbox folder are accessible to all your other devices via the Internet. You can also share folders in Dropbox with other Dropbox users, making it ideal for group projects.</p>
+							<p class="start">Dropbox storage capacity is limited to between 2 GB and 8 GB for free accounts. Other alternatives include Microsoft SkyDrive, which provides 7 GB of free space, and Apple iCloud and Google Drive, which each offer 5 GB of free storage.</p>
+							
+							<h2 class="blueHeading">For Media on the Go</h2>
+							<p>You might like to view/listen to your media on the go, and storing it out in the cloud and streaming it over the Internet to your device may make a lot of sense. Companies like Apple and Amazon with their iCloud and Cloud Drive offerings let you store all your files on their servers. Both iCloud and Cloud Drive offer limited amounts of space for free, but you can pay a fee for additional storage. However, with limited free storage, these might not be the best options for large media collections.</p>
+							
+							<h2 class="blueHeading">For Large Media Collections That Need to Be Shared</h2>
+							<p>For large media collections that you want to share with others, sites like ADrive and MediaFire are popular choices. ADrive offers 50 GB of storage for free, but there is no limit to the amount of files you can store on MediaFire (even with its free account). You can easily share files with other people on either site. You can also post links to the files directly to Facebook or Twitter from MediaFire (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 7.21</span>). However, with the MediaFire free account, you can’t upload files larger than 200 MB. This limit won’t impact music or photos, but if you’re planning on uploading HD movies, you’ll need a pay account. MediaFire does not allow sharing of any copyrighted content.</p>
+							<p class="start">The advantage of these sites is the amount of free storage and the sharing capabilities. The drawback is that they can’t play streaming media (like iCloud and Cloud Drive can), so you need to download files before playing them.</p>
+							<p class="start">When you choose which option is best for you, make sure to carefully investigate the site’s file backup policies. Some free accounts don’t feature guaranteed backups of your media, or the site might delete files that you haven’t accessed for a certain period of time. The pay accounts generally guarantee that the files are backed up regularly. So don’t ignore backup policies—you want your files to be there when you need them!</p>
+								
+						
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)"
+						 		style="background: url(assets/images/figures/fig7.21.png) no-repeat scroll 0px 0px transparent;
+						  	height: 255px;margin: 813px 0 0 -24px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 7.21</span>
+							  <span class="strongDBlue" onclick="window.open('http://www.mediafire.com/','_blank')">MediaFire</span> offers free unlimited storage and file sharing.
+							</figcaption></figure>
+					</div></div></div></div>
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig7.21Big.png) no-repeat scroll 160px 30px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 7.21</span>
+								<span class="strongDBlue" onclick="window.open('http://www.mediafire.com/','_blank')">MediaFire</span> offers free unlimited storage and file sharing.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+				
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="23" distinction="readMoreFeature">
+			<section><![CDATA[
+					  <div class="content"><div class="columnContain">
+						<div class="column">
+						  <div class="innerColLeft">
+						
+							<p>The Time Capsule looks very similar to the AirPort router, and it works in conjunction with the Time Machine backup feature of OS X. If you buy a Time Capsule, you won’t need to buy an AirPort router (or other router) because the Time Capsule also fulfills this function on your network. When the Time Capsule is installed on your network, Macs connected to the network will ask the user if they want to use the Time Capsule as their source for Time Machine backups. The Time Capsule is another type of NAS device.</p>
+						  </div>
+						</div>
+						<div class="column">
+						  <div class="innerColRight"></div>
+						</div>
+					  </div></div>
+					]]>
+				</section>
+		</popup>
+		
+		<popup page="23" distinction="readMoreFeature">
+			<section><![CDATA[
+					  <div class="content"><div class="columnContain">
+						<div class="column">
+						  <div class="innerColLeft">
+							
+							<p>Home servers have more sophisticated functionality than NAS devices and often handle the following tasks:</p> 
+							<ul class="dotted">
+								<li><span class="innerLi">Automatically back up all computers connected to the network</span></li>
+								<li><span class="innerLi">Act as a repository for files to be shared across the network</span></li>
+								<li><span class="innerLi">Function as an access gateway to allow any  computer on the network to be accessed from a remote location via the Internet (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 7.23</span>)</span></li>
+							</ul>
+							<p class="start">Note that even though these devices are servers, they don’t convert a home P2P network into a client/server network because these servers don’t perform all the functions performed on client/server networks. Also note that you can access the media stored on your Windows Home Server through your Xbox 360 as long as the Xbox is also connected to your home network.</p> 
+							
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(1)" style="
+							background: url('assets/images/figures/fig7.23.png') no-repeat scroll 0 0 transparent;
+							height: 190px;
+							margin-left: -20px;">
+							<figcaption class="bottomPos">
+							<span>Figure 7.23</span> Windows Home Server remote access interface.
+							
+							</figcaption>
+							</figure>
+							
+				  		</div>
+					</div>
+			  	</div></div>
+				<div class="additional">
+					
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig7.23Big.png) no-repeat scroll 0px 0 transparent;
+								height: 100%;
+								width: 777px;">
+								<figcaption class="bottomPos">
+								<span>Figure 7.23</span> Windows Home Server remote access interface.
+					  			</figcaption>
+							</figure>
+						</div>
+						  </div>
+						</div>
+
+
+	  ]]>
+	</section>
+		</popup>
+		
+			<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.20Big.jpg') no-repeat scroll 130px 65px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.20</span>
+						The LinkStation series from Buffalo Technology features NAS devices that can store 2 TB (terabytes) of data. <em>(Buffalo Technology)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.21Big.jpg') no-repeat scroll 188px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.22</span>
+						Home network servers can perform a variety of tasks that simplify file management on a home network. <em>(Sashkin/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.21Big.jpg') no-repeat scroll 188px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.22</span>
+						Home network servers can perform a variety of tasks that simplify file management on a home network. <em>(Sashkin/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="24" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.24Big.jpg') no-repeat scroll 80px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.24</span>
+						 Smart TVs have their own apps and let you directly access the web so you can play games, connect with your social networking accounts, and view on-demand and online videos. <em>(Ingo Schulz Image Broker/Newscom)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.25Big.jpg') no-repeat scroll 75px 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.25</span>
+						 The TiVo Desktop software facilitates transfer of recorded shows to portable devices so you can enjoy your content on the go.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.26Big.jpg') no-repeat scroll 65px 65px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.26</span>
+						  The Remote Play feature of the PS Vita and the PS3 lets you access PS3 features, like the Play- Station Store, directly from your Vita. <em>(Kyodo/AP Images)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+			<popup page="26" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.27Big.jpg') no-repeat scroll 128px 23px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.27</span>
+						  Logitech security systems can help you monitor your home’s security from your mobile devices. <em>(Logitech)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="26" distinction="readMoreFeature">
+			<section><![CDATA[
+					  <div class="content"><div class="columnContain">
+						<div class="column">
+						  <div class="innerColLeft">
+							<p class="start">The software can be configured to alert you via e-mail or text message when the cameras detect movement, such as a vehicle entering your driveway. Some systems also allow you to receive alerts when there is a lack of movement. This can be useful for monitoring an aging relative or for monitoring the arrival of children coming home from school.</p>
+							<p class="start">As time goes on, many more types of entertainment devices and home gadgets will be connected to your home network.</p>
+						  </div>
+						</div>
+						<div class="column">
+						  <div class="innerColRight"></div>
+						</div>
+					  </div></div>
+					]]>
+				</section>
+		</popup>
+		
+		<popup page="26" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.28Big.jpg') no-repeat scroll 15px 125px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.28</span>
+						  Connecting a Windows 8 computer to a network for the first time is fairly automated.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="27" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Want to Use Your Phone as a Remote Control?</strong>
+								<br/>
+								<p>Companies are developing apps that let your portable devices act as remote controls. The Media Remote app by Sony for the iPhone, iPod Touch, or iPad lets you control Sony Blu-ray players and TVs. And the Remote app from Apple lets you use your iPhone or iPad to control your iTunes or Apple TV from your handheld device over your WiFi network.</p>
+								
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+				</div></div></div></div>
+	
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="28" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_16 shiftUp10">Sharing Your Internet Connection <br/>with Your Neighbors: Legal? Ethical? Safe?</div>
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>With the advances in wireless equipment, signals can travel well beyond the walls of your home. This makes it possible for a group of neighbors to share a wireless signal and potentially save money by splitting the cost of one Internet connection among them. However, before jumping into this venture, you need to weigh a few issues carefully:</p>
+						<ul class="dotted" style="padding-left: 13px;">
+							<li><span class="innerLi"><strong>State and local laws:</strong> You probably aren’t legally prohibited from sharing an Internet connection, but check on state and local laws. Most laws are designed to prohibit piggybacking—using a network without the network owner’s consent. However, if you’re giving neighbors permission to share your connection, you probably aren’t violating any piggybacking laws.</span></li>
+							<li><span class="innerLi"><strong>ISP restrictions:</strong> The terms of your agreement with your ISP might prohibit you from sharing your connection with people outside your household. If you aren’t allowed to share the type of account you have now, your ISP probably offers an account (such as a small business account) that lets you share a connection, but it will most likely be more expensive. You might be able to share a personal account without being detected by your ISP, but that would be unethical because you should be paying for a higher level of access.</span></li>
+							<li><span class="innerLi"><strong>Range of access:</strong> You also need to consider whether the shared access should be open to all neighbors or just to the neighbors contributing to the cost of the Internet connection (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 7.31</span>). You could leave the connection open, like the connections at your local coffee shop, and let anyone who finds it log on and surf. You could register your free hotspot with a service like JiWire (<span class="strongDBlue" onclick="window.open('http://www.jiwire.com','_blank')">jiwire.com</span>), and then people would be able to find it. However, neighbors who are helping pay for the connection might not want to fund free surfing for everyone. Make sure you work this out before proceeding.</span></li>
+							<li><span class="innerLi"><strong>Security:</strong> If you’re going to host a free and open hotspot, you need to make sure you set it up safely. You want to maintain a secure network for you and your neighbors while still allowing the occasional visiting surfer to use the connection. There are WiFi sharing services such as Fon (<span class="strongDBlue" onclick="window.open('http://corp.fon.com','_blank')">corp.fon.com</span>) and Chillifire (<span class="strongDBlue" onclick="window.open('http://www.chillifire.net','_blank')">chillifire.net</span>) that provide hardware and software that let you configure your hotspot so your network remains secure.</span></li>
+						</ul>
+						
+						<p class="start">Although offering free access to anyone will earn you lots of good karma, additional risks exist because you don’t know what mischief or criminal activities someone might engage in while connected to the Internet through your account. Think carefully before you proceed down the sharing path, and make sure you set up your hotspot to protect your internal network.</p>
+					  	
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  <figure class="neg25LMargin" onclick="compTia.additionalPopupContent(1)"
+						  	style="
+						  	    background: url(assets/images/figures/fig7.31.png) no-repeat 45px 0 transparent;
+						  	    height: 395px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 7.31</span>
+							  You can probably receive many wireless signals from neighbors inside your home (as shown here), but deciding whether to share Internet access requires careful consideration.
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+					<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig7.31Big.png) no-repeat scroll 40px 5px transparent">
+							  <figcaption class="topPos rightPos" style="margin-right: 105px; width:305px;">
+							  <span>Figure 7.31</span>
+								You can probably receive many wireless signals from neighbors inside your home (as shown here), but deciding whether to share Internet access requires careful consideration.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+
+			]]></section>
+		</popup>
+		
+		<popup page="28" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.30Big.jpg') no-repeat scroll -4px 125px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.30</span>
+						  Because a wireless range extender is installed in the den, Laptop C on the back porch can now connect to the wireless network.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="31" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7.32Big.jpg') no-repeat scroll 65px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7.32</span>
+						 By accessing your router, you can configure the security protocols available on your router and change the SSID.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+
+
+<!--chapter 7B-->
+	<popup page="46" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p>The first high-speed digital computer, the Electronic Numerical Integrator and Computer (ENIAC), was deployed in 1945. It used nearly 18,000 vacuum tubes as switches and was about half the size of a basketball court! In addition to being large, the vacuum tubes produced a lot of heat and burned out frequently.</p>
+						<p class="start">Since the introduction of ENIAC’s vacuum tubes, two major revolutions have occurred in the design of switches, and consequently computers, to make them smaller and faster:</p>
+						<ol>
+							<li><span>The invention of the <em>transistor</em></span></li>
+							<li><span>The fabrication of <em>integrated circuits</em></span></li>
+						</ol>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="46" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7b_1Big.jpg') no-repeat scroll center 60px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 1</span>
+						Water faucets can be used to illustrate binary switches.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="46" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7b_2Big.jpg') no-repeat scroll center 60px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2</span>
+						Early computers were constructed using vacuum tubes (see inset). The difference in size achieved by moving from tubes to transistors allowed computers to become desktop devices instead of room-sized machines. <em>(CORBIS)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="47" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7b_3Big.jpg') no-repeat scroll center 35px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 3</span>
+						A silicon wafer like the one shown here holds the transistor circuitry for hundreds of devices. <em>(Justin Sullivan/Staff/Getty Images News)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="47" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7b_4Big.jpg') no-repeat scroll center 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4</span>
+						An integrated circuit is packaged in a small case but holds billions of transistors. <em>(Gudellaphoto/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="48" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7b_5Big.jpg') no-repeat scroll center 50px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5</span>
+						Computer humor—the value <i>2&nbsp;</i> is written as <i>10&nbsp;</i> in binary! <em>(GroovyGearShop.com/CafePress.com)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="49" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p class="start">Using Windows 8, you can access the Scientific Calculator that supports conversion between decimal (base 10) and binary (base 2) by accessing Search from the Charms bar and typing “calc” on the Start screen. From the App search results, choose the Calculator. From the Calculator menu, select View and then Programmer. You can enter your calculation in decimal and instantly see the binary representation in 64 bits, as shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 6</span>.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						
+							<figure onclick="compTia.additionalPopupContent(1)"
+						 		style="background: url(assets/images/figures/fig7b_6.png) no-repeat scroll 2px 0px transparent;
+						  	height: 335px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 6</span>
+							  The Windows Calculator in Programmer mode instantly converts values from decimal to binary.
+							</figcaption></figure>
+						  </div>
+						  </div>
+						</div>
+					  </div>
+						<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig7b_6Big.png) no-repeat scroll 185px 0 transparent;
+								height: 100%;
+								width: 777px;">
+								<figcaption class="bottomPos">
+								<span>Figure 6</span> The Windows Calculator in Programmer mode instantly converts values from decimal to binary.
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			
+
+
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="50" distinction="popupFeature" closescript="">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage hexTable">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes leftPadding20">Sample Hexadecimal Values</div>
+
+
+
+			<div class="figureHeader font_18" style="margin-left:-45px;"><strong>Figure 7</strong></div>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class="hexTable">
+						<thead><tr>
+							<th><div class="blueGradHeading">Decimal Number</div></th>
+							<th><div class="blueGradHeading">Binary Value</div></th>
+							<th><div class="blueGradHeading">Hexadecimal Value</div></th>
+						</tr></thead>
+						<tbody class="font_17">
+						
+						<tr class="lightBlueGrad">
+							<td><div>00</div></td>
+							<td><div>0000</div></td>
+							<td><div>00</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>01</div></td>
+							<td><div>0001</div></td>
+							<td><div>01</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>02</div></td>
+							<td><div>0010</div></td>
+							<td><div>02</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>03</div></td>
+							<td><div>0011</div></td>
+							<td><div>03</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>04</div></td>
+							<td><div>0100</div></td>
+							<td><div>04</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>05</div></td>
+							<td><div>0101</div></td>
+							<td><div>05</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>06</div></td>
+							<td><div>0110</div></td>
+							<td><div>06</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>07</div></td>
+							<td><div>0111</div></td>
+							<td><div>07</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>08</div></td>
+							<td><div>1000</div></td>
+							<td><div>08</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>09</div></td>
+							<td><div>1001</div></td>
+							<td><div>09</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>10</div></td>
+							<td><div>1010</div></td>
+							<td><div>A</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>11</div></td>
+							<td><div>1011</div></td>
+							<td><div>B</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>12</div></td>
+							<td><div>1100</div></td>
+							<td><div>C</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>13</div></td>
+							<td><div>1101</div></td>
+							<td><div>D</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>14</div></td>
+							<td><div>1110</div></td>
+							<td><div>E</div></td>
+						</tr>
+						<tr class="lightestBlueGrad">
+							<td><div>15</div></td>
+							<td><div>1111</div></td>
+							<td><div>F</div></td>
+						</tr>
+					</tbody></table>
+					
+		</div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="51" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage asTable">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes">ASCII Standard Code for a Sample of Letters and Characters</div>
+
+
+
+			<div class="figureHeader font_18"><strong>Figure 8</strong></div>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class="asTable">
+						<thead><tr class=>
+							<th><div class="blueGradHeading">ASCII <br/>CODE</div></th>
+							<th><div class="blueGradHeading">Represents <br/>This Symbol</div></th>
+							<th><div class="blueGradHeading">ASCII <br/>Code</div></th>
+							<th><div class="blueGradHeading">Represents <br/>This Symbol</div></th>
+						</tr></thead>
+						<tbody class=" font_15">
+						
+						<tr class="lightBlueGrad">
+							<td><div>01000001</div></td>
+							<td><div>A</div></td>
+							<td><div>01100001</div></td>
+							<td><div>a</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>01000010</div></td>
+							<td><div>B</div></td>
+							<td><div>01100010</div></td>
+							<td><div>b</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>01000011</div></td>
+							<td><div>C</div></td>
+							<td><div>01100011</div></td>
+							<td><div>c</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>01011010</div></td>
+							<td><div>Z</div></td>
+							<td><div>00100011</div></td>
+							<td><div>#</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>00100001</div></td>
+							<td><div>!</div></td>
+							<td><div>00100100</div></td>
+							<td><div>$</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>00100010</div></td>
+							<td><div>"</div></td>
+							<td><div>00100101</div></td>
+							<td><div>%</div></td>
+						</tr>
+						
+						
+					</tbody></table>
+					
+		</div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="51" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p class="start"> The first 128 characters of Unicode are identical to ASCII, but because of its depth, Unicode is also able to represent the alphabets of all modern and historic languages and notational systems, including such languages and writing systems as Tibetan, Tagalog, and Canadian Aboriginal syllabics. As we continue to become a more global society, it’s anticipated that Unicode will replace ASCII as the standard character formatting code.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						
+							
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		<popup page="51" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7_9Big.jpg') no-repeat scroll 150px 29px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9</span> The written languages of the world require thousands of different characters, shown here. The Unicode Code Chart (<span class="strongDBlue" onclick="window.open('http://unicode.org/charts','_blank')">unicode.org/charts</span>) shows how Unicode provides a system allowing digital representation of over 1,100,000 unique characters.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		<popup page="52" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p class="start">How does the computer know which interpretation to use for the 1 s and 0 s? When your mind processes language, it takes the sounds you hear and uses the rules of English, along with other clues, to build an interpretation of the sound as a word. If you’re in New York City and hear someone shout, “Hey, Lori!” you expect that someone is saying hello to a friend. If you’re in London and hear the same sound—“Hey! Lorry!”—you jump out of the way because a truck is coming at you! You knew which interpretation to apply to the sound because you had some other information—the fact that you were in England.</p>
+						<p class="start">Likewise, the CPU is designed to understand a specific language or set of instructions. Certain instructions tell the CPU to expect a negative number next or to interpret the following bit pattern as a character. Because of this extra information, the CPU always knows which interpretation to use for a series of bits.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						
+							
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="53" distinction="popupFeature" customscript="compTia.features.setupVideo('7b_1_step1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">The CPU Machine Cycle</div>
+					<div class="padding70">
+					  <a style="padding-left:99px; padding-right:135px;color:#01567a" data="7b_1_step1">FETCH</a>
+						<a data="7b_1_step2" style="padding-right:135px;">DECODE</a>
+						<a data="7b_1_step3" style="padding-right:135px;">EXECUTE</a>
+						<a data="7b_1_step4" style="padding-right:135px;">STORE</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+	
+		
+		<popup page="56" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig7b_11Big.jpg') no-repeat scroll center 50px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 11</span>
+						The CPU has multiple stages of internal memory, which is just a part of the overall
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="56" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Using a Little Hideaway</strong>
+								<br/><br/>
+								<p class="lessSpacing">Taking data you think you’ll be using soon and storing it nearby is a simple but powerful idea. This strategy shows up in places in your computer system other than cache memory. For example, when you’re browsing web pages, it takes longer to download images than text. Your browser software automatically stores images on your hard drive so that you don’t have to download them again if you want to go back and view a page you’ve already visited. Although this cache of files is not related to the cache storage space designed into the CPU chip, the idea is the same. The word <em>cache</em> is derived from the French word <em>cacher</em>, which means “to hide,” and a little bit of memory space used as a hideaway can give performance a big boost.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+							
+				</div></div></div></div>
+
+
+						
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="57" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage cpuTable">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes leftPadding20">Representations of Sample CPU Commands</div>
+
+
+
+			<div class="figureHeader font_18" style="margin-left:-45px;"><strong>Figure 12</strong></div>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class="cpuTable">
+						<thead><tr class="font_17">
+							<th><div class="blueGradHeading"><br/>Human <br/>Language <br/>for Command</div></th>
+							<th><div class="blueGradHeading">CPU Command in Assembly Language (Language Used by Programmers)</div></th>
+							<th><div class="blueGradHeading">CPU Command in<br/>Machine Language<br/>(Language Used in the<br/>CPU’s Instruction Set)</div></th>
+						</tr></thead>
+						<tbody class="font_19">
+						
+						<tr class="lightBlueGrad">
+							<td><div>Add</div></td>
+							<td><div>ADD</div></td>
+							<td><div>1110 1010</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>Subtract</div></td>
+							<td><div>SUB</div></td>
+							<td><div>0001 0101</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>Multiply</div></td>
+							<td><div>MUL</div></td>
+							<td><div>1111 0000</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>Divide</div></td>
+							<td><div>DIV</div></td>
+							<td><div>0000 1111</div></td>
+						</tr>
+						
+					</tbody></table>
+					
+		</div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="58" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Does Your Computer Need More Power? <br/>Team It Up!</strong>
+								<br/><br/>
+								<p>If one computer is powerful, then two are twice as powerful—if you can get them to work together. A <em>computing cluster</em> is a group of computers, connected by specialized clustering software, that works together to solve complex equations. Most clusters work on something called the <em>balancing principle</em>, whereby computational work is transferred from overloaded (busy) computers in the cluster to computers that have more computing resources available. Although not as fast as supercomputers (single computers with extremely high processing capabilities), computing clusters can perform computations faster than one computer working alone and are used for complex calculations such as weather forecasting and graphics rendering. You can now rent time on computing clusters, so if you need a 30,472-core cluster computer for a few hours, visit Cycle Computing (<span class="strongDBlue" onclick="window.open('http://cyclecomputing.com','_blank')">cyclecomputing.com</span>) and rent some time. Only $1,300 an hour!</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+							
+				</div></div></div></div>
+
+
+						
+				]]>
+			</section>
+		</popup>
+			
+			<popup page="59" distinction="popupFeature" customscript="compTia.features.setupVideo('7b_13_1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Non-Pipelined vs Pipelined Instruction Cycles</div>
+					<div class="padding70">
+					  <a style="padding-left:240px; padding-right: 180px;color:#01567a" data="7b_13_1">Non-Pipelined</a>
+						<a data="7b_13_2">Pipelined</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+			
+		
+		<popup page="59" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p class="start">Hardware engineers have redesigned the chip so that the instruction set contains new commands customized to speed up the work needed for video and audio processing. For example, Intel has integrated into its second-generation Core processor designs the Advanced Encryption Standard (AES) instruction set. These seven new instructions work to allow the CPU to deliver faster data protection.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						
+							
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="60" distinction="bbFeature">
+			<section><![CDATA[
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+					  	<strong class="font_16">Today’s Supercomputers: The Fastest of the Fast</strong>
+								<br/><br/>
+						
+						<p>Supercomputers are the biggest and most powerful type of computer. Scientists and engineers use these computers to solve complex problems or to perform massive computations. Some supercomputers are single computers with multiple processors, whereas others consist of multiple computers that work together.</p>
+						<p class="start">The Sequoia BlueGene/Q was recently ranked as the world’s fastest supercomputer. It features a whopping 1,572,864 cores and runs the Linux operating system. Sequoia is deployed at the National Nuclear Security Administration and is used primarily to run nuclear weapons simulations, but it’s also available for other research projects requiring large-scale computing power, such as human genome research.</p>
+						<p class="start">The rankings of supercomputers change frequently as new models are deployed or older models are upgraded. You can keep up with the rankings at <span class="strongDBlue" onclick="window.open('http://top500.org','_blank')">top500.org</span>.</p>
+						
+						</div>
+					  </div>
+					   <div class="column">
+						<div class="innerColRight">
+							
+							<figure
+						 		style="background: url(assets/images/figures/7image5.png) no-repeat scroll 2px 0px transparent;
+						  	height: 354px;">
+							<figcaption class="bottomPos">
+							  <span></span>
+							  <em>(Yabresse/Fotolia)</em>
+							</figcaption></figure>
+							
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="60" distinction="bbFeature">
+			<section><![CDATA[
+
+				 <div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+					  	<strong class="font_16">CPU Wars</strong>
+								<br/><br/>
+						
+						<p>Most PCs have an Intel series CPU inside—Intel has dominated the CPU market for years. In fact, even Apple computers now run on Intel CPUs. But the ARM processor, which is used in tablets and smartphones, is emerging as a CPU contender. In fact, Microsoft has released a version of Windows 8 for the ARM processor, which consumes less power and is cheaper than Intel processors. Look for prices on tablets and laptops to begin to drop as the competition between these two processors heats up!</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+	</chapter>
+</ebook>

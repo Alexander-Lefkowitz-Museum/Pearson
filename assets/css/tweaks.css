@@ -1,0 +1,234 @@
+.start {		text-indent: 33px }
+.hide {			display:none}
+.hideToggle {	display:none  !important}
+.block {		display:block !important}
+.displayTCell { display: table-cell}
+.displayNone {	display:none}
+.inline {		display:inline !important}
+.inlineBlock {	display:inline-block !important}
+.noWrap {		white-space: nowrap !important}
+
+.TLMargin5	  { margin-left:5px !important;
+				margin-top:5px !important }
+.neg20TMargin {	margin-top:-20px !important }
+.neg20LMargin {	margin-left:-20px !important }
+.neg25LMargin {	margin-left:-25px !important }
+
+.Lmargin260 {	margin-left:260px !important }
+.Lmargin45 {	margin-left:45px !important }
+.Lmargin30 {	margin-left:30px !important }
+.Lmargin22 {	margin-left:22px !important }
+.Lmargin15 {	margin-left:15px !important }
+.Lmargin10 {	margin-left:10px !important }
+.Lmargin5 {		margin-left:5px !important }
+.Lmargin3 {		margin-left:5px !important }
+.noLMargin {	margin-left:0 !important }
+.shiftLeft5  {	margin-left:-5px !important}
+.shiftLeft7  {	margin-left:-7px !important}
+.shiftLeft10  {	margin-left:-10px !important}
+.shiftLeft12  {	margin-left:-12px !important}
+.shiftLeft17 {	margin-left:-17px !important}
+.shiftLeft20  {	margin-left:-20px !important} 
+.TBMargin10 {	margin-top:10px !important;
+				margin-bottom:10px !important }
+
+.Rmargin32 {	margin-right:32px !important }
+.Rmargin22 {	margin-right:22px !important }
+.Rmargin15 {	margin-right:15px !important }
+.Rmargin10 {	margin-right:10px !important }
+.Rmargin7 {		margin-right:7px !important }
+.Rmargin5 {		margin-right:5px !important }
+.Rmargin3 {		margin-right:5px !important }
+.shiftRight12 {	margin-right:-12px !important }
+.shiftRight55 {	margin-right:-55px !important }
+
+
+.TMargin25 {	margin-top:25px !important }
+.TMargin20 {	margin-top:20px !important }
+.TMargin15 {	margin-top:15px !important }
+.TMargin12 {	margin-top:12px !important }
+.TMargin10 {	margin-top:10px !important }
+.TMargin5 {		margin-top:5px !important }
+.TMargin4 {		margin-top:4px !important }
+.noTMargin {	margin-top:0 !important }
+.shiftUp5 {		margin-top:-5px !important }
+.shiftUp7 {		margin-top:-7px !important }
+.shiftUp8 {		margin-top:-8px !important }
+.shiftUp10 {	margin-top:-10px !important }
+
+.BMargin25 {	margin-bottom:25px !important}
+.BMargin20 {	margin-bottom:20px !important}
+.BMargin15 {	margin-bottom:15px !important}
+.BMargin10 {	margin-bottom:10px !important}
+.BMargin8 {		margin-bottom:8px !important}
+.BMargin5 {		margin-bottom:5px !important}
+.BMargin4 {		margin-bottom:4px !important}
+.noBMargin {	margin-bottom:0 !important}
+
+.bgPosition00 { background-position: 0 0 !important}
+.lineSpacing40 {line-height: 40px !important }
+.moreSpacing {	line-height:23px !important }
+.lessSpacing,
+.lessSpacing li {	line-height:21px !important }
+.lineSpacing20,
+.lineSpacing20 li {	line-height:20px !important }
+.lineSpacing15 {	line-height:15px !important }
+.lineSpacing17 {	line-height: 17px !important }
+.TBpadding7 {	padding-top:7px;padding-bottom:7px}
+.Lpadding12 {	padding-left: 12px !important }
+.noLPadding {	padding-left:0 !important;}
+.noRPadding {	padding-right:0 !important;}
+.moreLpadding {	padding-left: 13px !important }
+.moreRpadding {	padding-right: 13px !important }
+.tallerOrangeHead {padding: 6px 0 6px 13px !important}
+.topPadding10 {	padding-top:10px !important;}
+.topPadding20 {	padding-top:20px !important;}
+.rightPadding20 {	padding-right:20px !important;}
+
+.leftPadding10 {padding-left:10px !important;}
+.leftPadding13 {padding-left:13px !important;}
+.leftPadding15 {padding-left:15px !important;}
+.leftPadding20 {padding-left:20px !important;}
+.leftPadding6 { padding-left:6px !important;}
+.leftPadding5 { padding-left:5px !important;}
+.leftPadding4 { padding-left:4px !important;}
+.transform90deg {	-moz-transform: rotate(-90deg);
+					-ms-transform: rotate(-90deg);
+					-webkit-transform: rotate(-90deg);
+					transform: rotate(-90deg);}
+.lefttransform90deg {	-moz-transform: rotate(90deg);
+					-ms-transform: rotate(90deg);
+					-webkit-transform: rotate(90deg);
+					transform: rotate(90deg);}
+.normalFontFamily {font-family: MyriadPro !important }
+.boldCond {		font-family: MyriadPro-boldCond !important }
+.semiboldCond {	font-family: MyriadPro-semiboldCond !important }
+.semibold {		font-family: MyriadPro-semibold !important}
+.cond {			font-family: MyriadPro-Cond!important}
+.toRelative {	position:relative !important }
+.toAbsolute {	position:absolute !important }
+.toStatic {		position:static !important }
+.bottomPos {	bottom:0 !important}
+.topPos {		top:0 !important}
+.leftPos {		left:0 !important}
+.rightPos {		right:0 !important}
+.clearLeft { 	clear:left;}
+.clearRight { 	clear:right;}
+.italic {		font-style: italic;}
+.alignCenter {	text-align: center !important}
+.alignLeft {	text-align: left !important}
+.alignRight {	text-align: right !important}
+.widthAuto {	width:auto !important}
+.strong {		font-weight: bold !important}
+.strike	{		text-decoration: line-through;}
+.disable	{	text-decoration: line-through;
+				font-size:smaller;}
+.notStrong {	font-weight: normal !important}
+.showOverflow {	overflow:visible !important}
+.hideOverflow {	overflow:hidden !important}
+.height100 {	height:100% !important}
+.width100 {		width:100% !important}
+.height50 {		height:50% !important}
+.width50 {		width:50% !important}
+.textBlack {	color:#000;}
+.floatLeft {	float:left;}
+.floatRight {	float:right;}
+
+.font_9 {		font-size:9px !important}
+.font_11 {		font-size:11px !important}
+.normalFont {	font-size:13px !important}
+.font_14 {		font-size:14px !important}
+.font_15 {		font-size:15px !important}
+.font_16 {		font-size:16px !important}
+.font_17 {		font-size:17px !important}
+.font_18 {		font-size:18px !important}
+.font_19 {		font-size:19px !important}
+.font_20 {		font-size:20px !important}
+.font_21 {		font-size:21px !important}
+.font_23 {		font-size:23px !important}
+.font_24 {		font-size:24px !important}
+.font_31 {		font-size:31px !important}
+.font_grey {	color:#535353}
+.font_fff {		color:#fff !important}
+.font_000 {		color:#000 !important}
+.font_dBlu {	color:#0275C6 !important;}
+.centerBlock { 	margin-left:auto !important; margin-right:auto !important;}
+
+
+.liHide {		height: 0 !important;
+    			visibility: hidden !important;}
+.noListStyle {	list-style: none outside none !important;}
+.discListStyle {list-style-type: disc !important;}
+.prePseudoLi:before {
+				display: block;
+				float: left;
+				height: 32px;
+				width: 15px;}
+.prePseudoLi,.preContent1,.preContent2,
+.preContent3,.preContent4,.preContent5,
+.preContent6,.preContent7,.preContent8,
+.preContent9{display:block;}
+
+.preContent1:before {content: "1."}
+.preContent2:before {content: "2."}
+.preContent3:before {content: "3."}
+.preContent4:before {content: "4."}
+.preContent5:before {content: "5."}
+.preContent6:before {content: "6."}
+.preContent7:before {content: "7."}
+.preContent8:before {content: "8."}
+.preContent9:before {content: "9."}
+.preContent10:before {content: "10. "}
+.preContent11:before {content: "11. "}
+
+
+[onclick],[glossary] {
+	cursor:pointer;
+}
+
+.locked *{
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+.selection *::selection {
+	background: #FFFF00; /* Safari */
+}
+.selection *::-moz-selection {
+	background: #FFFF00; /* Firefox */
+}
+.selection .whiteOnBlack *::selection {
+	background: #757500; /* Safari */
+}
+.selection .whiteOnBlack *::-moz-selection {
+	background: #757500; /* Firefox */
+}
+.eraser *::selection {
+	background: #000 !important; /* Safari */
+}
+.eraser *::-moz-selection {
+	background: #000 !important; /* Firefox */
+}
+.eraser .whiteOnBlack *::selection {
+	background: #fff; /* Safari */
+}
+.eraser .whiteOnBlack *::-moz-selection {
+	background: #fff; /* Firefox */
+}
+input, textarea  {
+	-webkit-user-select: text !important;
+	-ms-user-select: text !important;
+	-moz-user-select: text !important;
+	-o-user-select: text !important;
+	user-select: text !important;
+
+}
+
+/*p,
+.bottomMediaText,
+.verticalRightCreds,
+.page, .popup
+{cursor: default}*/
+

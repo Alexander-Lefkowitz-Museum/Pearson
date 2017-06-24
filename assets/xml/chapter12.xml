@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+	<chapter index="12" title="" glossary="38">		
+		<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top: 30px;">
+							Behind the Scenes:<br/>Network and Security<br/>in the Business World</div>	
+				<div class="chapterStartNumber floatLeft" style="letter-spacing: -35px;">12</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Client/Server Networks and Topologies</span>
+					<img src="assets/images/pics/clientServer.jpg" style="margin-top:-27px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">Client/Server Network Basics</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li class="shiftRight55"><span class="ul1DigNumber">1.</span> What are the advantages of a business network? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(pp. 577-578)</span></li>
+						<li style="width:400px;" class="shiftRight55"><span class="ul1DigNumber">2.</span> How does a client/server network differ from a peer-to-peer network? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,4)">(pp. 578-579)</span></li>
+						<li style="width:400px;"><span class="ul1DigNumber">3.</span> What are the different classifications of client/server networks? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,5)">(pp. 579-581)</span></li>
+						<li style="width:400px;"><span class="ul1DigNumber">4.</span> What components are needed to construct a client/server network? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,7)">(pp. 581-584)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/topologies.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,8)">Servers and Network Topologies</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li style="width:350px;"><span class="ul1DigNumber">5.</span> What do the various types of servers do? <span class="strongDBlue" onclick="compTia.switchPage(0,8)">(pp. 582-577)</span></li>
+						<li><span class="ul1DigNumber">6.</span> What are the various network topologies, and why is network topology important in planning a network? <span class="strongDBlue" onclick="compTia.switchPage(0,11)">(pp. 585-590)</span></li>
+					</ul>
+					
+					<div class="soundByte floatRight" style="width:184px;"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/network_topology_navigation_devices/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Network Topology and <br/>Navigation Devices
+					</div>
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_24.html')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Using Servers
+					</div>
+					
+					<hr class="clearRight TMargin20">
+					
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,19)">Setting Up Business Networks</span>
+					<img src="assets/images/pics/transmission.jpg" style="margin-top:-27px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,19)">Transmission Media</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="width:350px;"><span class="ul1DigNumber">7.</span> What types of transmission media are used in client/server networks? <span class="strongDBlue" onclick="compTia.switchPage(0,19)">(pp. 593-596)</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<img src="assets/images/pics/clientNavigation.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,22)">Network Adapters and Network <br/>Navigation Devices</span>
+					<span class="semiBoldGrey noBMargin">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">8.</span> How do network adapters enable computers to participate in a client/server network? <span class="strongDBlue" onclick="compTia.switchPage(0,22)">(pp. 596-598)</span></li>
+						<li style="width:350px;"><span class="ul1DigNumber">9.</span> What devices assist in moving data around a client/server network? <span class="strongDBlue" onclick="compTia.switchPage(0,24)">(pp. 598-600)</span></li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/whats_my_ip_address/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						What’s My IP Address? (And Other Interesting Facts About Networks)
+					</div>
+					
+					<hr class="TMargin20">
+					
+					<img src="assets/images/pics/NOS.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,27)">Network Operating Systems</span>
+					<span class="semiBoldGrey noBMargin">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">10.</span> What software needs to run on computers attached to a client/ server network, and how does this software control network communications? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,27)">(p. 601)</span></li>
+					</ul>
+					
+					<hr>
+					
+					<img src="assets/images/pics/clientSecurity.jpg" style="margin-right:0px; margin-top:0px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,28)">Client/Server Network Security</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">11.</span>  What measures are employed to keep large networks secure? <span class="strongDBlue" onclick="compTia.switchPage(0,28)">(pp. 602-607)</span></li>
+					</ul>
+					
+					<div class="soundByte shiftRight55"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/day_in_the_life_network_technician/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						A Day in the Life of a NetworkTechnician
+					</div>
+					
+					<hr>
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown noShadow" style="margin-right:-45px; margin-top:1px;box-shadow: 1px 1px 3px white;" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+					
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right:-85px;margin-bottom:103px;">
+							(Alex Slobodkin/iStockphoto; mostafa fawzy/Fotolia; iLexx/iStockphoto; Sarah Lee/Creativeye99/iStockphoto; Alex Slobodkin/iStockphoto; <br/>Reuben Schulz/digitalhallway/iStockphoto)
+					</span>
+					<div class="loader"></div>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+					
+					<div style="width:110%;height:100%;
+							background:no-repeat url(assets/images/figures/cellComputer.jpg) 0px 115px"></div></div>
+							<div class="font_9 transform90deg floatRight"
+								 style="margin-top:-207px;margin-right:-5px;font-style: italic;">(Neirfy/Shutterstock)
+								 </div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">Are you away from home but <strong>need a file</strong> on your computer? Want to <strong>check the webcam</strong> on your computer to make sure nothing is amiss in your home? Watching a movie online but need to go into the kitchen and check on dinner? Well, help is just <strong>a phone call away</strong> with PhoneMyPC. This app lets any Android phone control or view a computer remotely over the Internet.</p>
+					<p class="TMargin10"><strong>Finger movements</strong> on your touch screen phone are <strong>translated into mouse movements</strong> on your computer. Onscreen keyboard input on the phone becomes real keyboard input on your PC. You can copy and edit files or <strong>view the computer’s webcam</strong> to check on your pet. You can also monitor what’s happening on the computer, like checking if your e-mail was sent or if someone else (like your child) is using the computer and you want to see what they’re doing. So take <strong>full control</strong> over your computer even if you’re <strong>not at home</strong> with PhoneMyPC!</p>
+					
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap12ArrSchip_computer.png')" onclick="window.open('http://softwareforme.com','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Client/Server Networks and Topologies</div>
+					<p class="digCompP">You learned about peer-to-peer networks and home networking in <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>. In this chapter, you’ll expand your knowledge about networks by delving into the client/server networks typically used in businesses.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/clientServerSmall.jpg)">
+						<div class="orange">client/server network</div>
+						<div class="blue" style="margin-left:120px;">BASICS</div>
+					</div>
+					
+					<p>Recall that a <em>network</em> is a group of two or more computing devices (or nodes) that are configured to share information and resources such as printers, files, and databases. Businesses such as your school or an insurance company gain advantages from deploying networks, similar to the advantages gained with a home network.</p>
+					
+					<h2 class="blueHeading">Networking Advantages</h2>
+					<p><strong>What advantages do businesses gain from networks?</strong> Networked computers have many advantages over individual stand-alone computers (<span class="strongDBlue" onclick="compTia.togglePopup(3,0)">see Figure 12.1</span>):</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Networks enable expensive resources to be shared.</strong> Networks enable people to share peripherals such as printers or share resources such as an Internet connection. Without a network, each computer would have to be individually connected to a printer and to the Internet. Attaching the computers to a network avoids the cost of providing each computer with duplicate resources.</span></li>
+					</ul>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Networks facilitate knowledge sharing.</strong> The databases you learned about in <span class="strongDBlue" onclick="compTia.generatePages(11)">Chapter 11</span> become especially powerful when deployed on a network. Networked databases can serve the needs of many people at one time and can increase the availability of data. Your college’s databases are much more useful when all college employees can look up student records at the same time.</span></li>
+					</ul>
+					
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight"><span style="font-size:22px;">Benefits of Business Networks</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(3,0)" style="    background: url(assets/images/figures/fig12.1.jpg) no-repeat scroll 11px 42px #FFFFFF; height: 352px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.1</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Networks enable software sharing.</strong> Installing a new version of software on everyone’s desktop in a business with 800 employees can be time consuming. However, if the computers are networked, all employees and students can access the same copy of a program from the server. Although the college must still purchase a software license for each user, with a network it can avoid having to install the program on every computer.</span></li>
+						<li><span class="innerLi"><strong>Networks enable enhanced communication.</strong> Social networking tools, e-mail, and instant messaging are powerful applications when deployed on a network, especially one that’s connected to the Internet. Business colleagues can easily exchange information with each other and can share valuable data by transferring files to other users. </span></li>
+					</ul>
+					
+					<p class="start"><strong>Are there disadvantages to using networks?</strong> Because business networks are often complex, additional personnel are usually required to maintain them. These people, called <span class="strongDBlue" glossary>network administrators</span>, have training in computer and peripheral maintenance and repair, networking design, and the installation of networking software.</p>
+					<p class="start">Another disadvantage is that operating a network requires special equipment and software. However, most companies feel that the cost savings of peripheral sharing and the ability to give employees simultaneous access to information outweigh the costs associated with network administrators and equipment.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Comparing Client/Server and <br/>Peer-to-Peer Networks</h2>
+					<p><strong>Where do I find client/server networks?</strong> Aside from the smallest networks, such as peer-to-peer (P2P) networks, which are typically used in homes and small businesses, the majority of computer networks are based on the client/server model of computing. As you learned in <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>, a <span class="strongDBlue" glossary>client/server network</span> (also called a <span class="strongDBlue" glossary="client/server network (server-based network)">server-based network</span>) contains servers as well as client computers. A server is a computer that both stores and shares resources on a network, whereas a <em>client</em> is a computer that requests those resources.</p>
+					<p class="start lessSpacing">Recall that in a P2P network, each node connected to the network communicates directly with every other node rather than using a server to exercise central control over the network. Many tasks that individual users must handle on a P2P network can be handled centrally at the server in a client/server network.</p>
+					<p class="start lessSpacing">For instance, data files are normally stored on a server. Therefore, backups for all users on a business network can be performed by merely backing up all the files on that server. Security, too, can be exercised over the server instead of on each user’s computer; this way, the server, not the individual user, coordinates data security. Therefore, client/ server networks are said to be <span class="strongDBlue" glossary>centralized</span>. P2P networks, on the other hand, are <span class="strongDBlue" glossary>decentralized</span>.</p>
+					
+					<div onclick="compTia.togglePopup(4,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						The Doctor Isn’t In: Virtual Doctors
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Why do businesses use client/server networks?</strong> The main advantage of a client/server relationship is that it makes data flow more efficiently than in P2P networks. Servers can respond to requests from a large number of clients at the same time. In addition, servers can be configured to perform specific tasks, such as handling e-mail or database requests, efficiently.</p>
+					<p class="start"><strong>Why aren’t P2P networks used more in business settings?</strong> P2P networks become difficult to administer when they’re expanded beyond 10 users. Each computer may require updating if there are changes to the network, which isn’t efficient with large numbers of computers. And as noted previously, security can’t be implemented centrally on a P2P network but instead must be handled by each user.</p>
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(5,0)">Figure 12.2</span> shows a small client/server arrangement. The server in this figure provides printing and Internet connection services for all the client computers connected to the network. The server is performing tasks that would need to be done by each of the client computers in a P2P network. This frees resources on the client computers so that they can more efficiently perform processor-intensive tasks such as viewing a video or accessing a database.</p>
+					<p class="start"><strong>Besides having a server, what makes a client/server network different from a P2P network?</strong> Client/server networks also have increased scalability. <span class="strongDBlue" glossary>Scalability</span> means that more users can be added easily without affecting the performance of the other network nodes. Because servers handle the bulk of the printing, Internet access, and other tasks performed </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight"><span style="font-size:22px;">Small Client/Server Network</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(5,0)" style="    background: url(assets/images/figures/fig12.2.jpg) no-repeat scroll 49px 42px #FFFFFF; height: 266px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.2</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.2</span>This small client/server network enables users to share a printer and an Internet connection.
+						</figcaption></figure>
+					</div>
+					
+					<p class="TMargin10 moreSpacing">on the network, it’s easy to accommodate more users by installing additional servers to help with the increased workload. Installing additional servers on a network is relatively simple and can usually be done without disrupting services for existing users.</p>
+					
+					<h2 class="blueHeading">Types of Client/Server Networks</h2>
+					<p class="moreSpacing">As you learned in <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>, networks are generally classified according to their size and the distance between the physical parts of the network. <span class="strongDBlue" onclick="compTia.togglePopup(6,0)">Figure 12.3</span> lists the five most common types of client/server network classifications.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_17"><span>Classifications of Client/Server Networks</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(6,0)" style="    background: url(assets/images/figures/fig12.3.jpg) no-repeat scroll 19px 37px #FFFFFF; height: 262px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.3</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+					
+					<p class="start TMargin10 moreSpacing"><strong>What are the most common types of client/server networks encountered in businesses?</strong> The two types of client/server networks most commonly encountered in businesses are <em>local area networks (LANs) and wide area networks (WANs):</em></p>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><span class="strongDBlue" glossary>Local area network (LAN)</span>: A LAN is generally a small group of computers and peripherals linked together over a relatively small geographic area. The computer lab at your school or the network serving the floor of the office building where you work is probably a LAN.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><span class="strongDBlue" glossary>Wide area network (WAN)</span>: A WAN comprises large numbers of users over a wider physical area or separate LANs that are miles apart. Businesses often use WANs to connect two or more geographically distant locations. For example, a college might have a west and an east campus located in two different towns. The LAN at the west campus is connected to the LAN at the east campus, forming one WAN connected either by dedicated telecommunications lines or by satellite links. Students on both campuses can share data and collaborate through the WAN.</span></li>
+					</ul>
+					
+					<p class="start moreSpacing"><strong>What other sort of networks do businesses use?</strong> An <span class="strongDBlue" glossary>intranet</span> is a private network set up by a business or an organization that’s used exclusively by a select group of employees, customers, suppliers, volunteers, or supporters. It can facilitate information sharing, database access, group scheduling, videoconferencing, and other employee collaborations. An intranet isn’t accessible by unauthorized individuals; a firewall protects it from unauthorized access through the Internet.</p>
+					<p class="start moreSpacing">An area of an intranet that only certain corporations or individuals can access is called an <span class="strongDBlue" glossary>extranet</span>. The owner of an extranet decides who will be permitted to access it. For example, a company’s customers and suppliers may be permitted to access information on the company’s extranet.</p>
+					<p class="start moreSpacing">Extranets are useful for enabling <span class="strongDBlue" glossary>electronic data interchange (EDI)</span>, which allows the exchange of large amounts of business data (such as </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">orders for merchandise) in a standardized electronic format. Walmart has an extranet that allows its employees, vendors, and contractors to easily share information. Other uses of extranets include providing access to catalogs and inventory databases and sharing information among partners or industry trade groups.</p>
+					<p class="start moreSpacing"><strong>How is information kept secure on intranets and extranets?</strong> Intranets and extranets often use virtual private networks to keep information secure. A <span class="strongDBlue" glossary>virtual private network (VPN)</span> uses the public Internet communications infrastructure to build a secure, private network among various locations. Although WANs can be set up using private leased communications lines, these lines are expensive and tend to increase in price as the distance between points increases. VPNs use special security technologies and protocols that enhance security, enabling data to traverse the Internet as securely as if it were on a private leased line. Installing and configuring a VPN requires special hardware such as VPN–optimized routers and firewalls. In addition, VPN software must be installed on users’ computing devices.</p>
+					<p class="start moreSpacing"><strong>How do VPNs work?</strong> The main technology for achieving a VPN is called <span class="strongDBlue" glossary>tunneling</span>. In tunneling, data packets are placed inside other data packets. The format of these external data packets is encrypted and can be understood only by the sending and receiving hardware, which is known as a <em>tunnel interface</em>. The hardware is optimized to seek efficient routes of transmission through the Internet. This provides a high level of security and </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">makes information much more difficult to intercept and decrypt. Using a VPN is the equivalent of hiring a limousine and an armed guard to drive a package (your data) through a private tunnel directly to the destination (<span class="strongDBlue" onclick="compTia.togglePopup(7,0)">see Figure 12.4</span>).</p>
+					<p class="start moreSpacing"><strong>What are the key components of a client/server network?</strong> The key components of a client/server network are as follows:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">servers,</span></li>
+						<li><span class="innerLi">network topologies (the layout of the components),</span></li>
+						<li><span class="innerLi">transmission media,</span></li>
+					</ul>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_22 TMargin10"><span>Local Area Networks (LANs)</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(7,0)" style="    background: url(assets/images/figures/fig12.4.jpg) no-repeat scroll 19px 40px #FFFFFF; height: 262px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.4</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.4</span> Local area networks (LANs) in different cities can communicate securely over the Internet using VPN technology.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">network adapters,</span></li>
+						<li><span class="innerLi">network navigation devices, and</span></li>
+						<li><span class="innerLi">a network operating system</span></li>
+					</ul>
+					
+					<p class="start moreSpacing"><span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 12.5</span> shows the components of a simple client/server network. In the following sections, we’ll explore each component in more detail.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight TMargin10 font_23"><span>Typical Client/Server Network</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(8,0)" style="    background: url(assets/images/figures/fig12.5.jpg) no-repeat scroll 14px 38px #FFFFFF; height: 313px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.5</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.5</span> The basic components of a typical client/server network.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/topologiesSmall.jpg); padding-bottom:15px">
+						<div class="orange"></div>
+						<div class="blue" style="margin-left:58px;padding-top:8px;">SERVERS</div>
+					</div>
+					
+					<p class="moreSpacing">Servers are the workhorses of the client/server network. They interface with many network users and assist them with a variety of tasks. The number and types of servers on a client/server network depend on the network’s size and workload. Small networks such as the one pictured in <span class="strongDBlue" onclick="compTia.togglePopup(5,0)">Figure 12.2</span> would have just one server to handle all server functions.</p>
+					<p class="start moreSpacing"><strong>What types of servers are found on larger client/server networks?</strong> A <span class="strongDBlue" glossary>dedicated server</span> is a server used to fulfill one specific function, such as handling e-mail. When more users are added to a network, dedicated servers are also added in order to reduce the load on the main server. Once dedicated servers are deployed, the original server can become a dedicated server.</p>
+					<p class="start moreSpacing"><strong>What functions do dedicated servers handle?</strong> Any task that’s repetitive or demands a lot of time from a computer’s processor (CPU) is a good candidate to relegate to a dedicated server. Common types of dedicated servers are authentication servers, file servers, print servers, application servers, database servers, email servers, communications servers, web servers, and cloud servers. Servers are connected to a client/server network so that all client computers that need to use their services can access them, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(9,0)">Figure 12.6</span>.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19"><span>Large-Scale Client/Server Network</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(9,0)" style="    background: url(assets/images/figures/fig12.6.jpg) no-repeat scroll 60px 38px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.6</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.6</span> A typical large-scale client/server network with several dedicated servers installed.
+						</figcaption></figure>
+					</div>
+					
+					<h2 class="blueHeading TMargin15">Authentication and File Servers</h2>
+					<p class="moreSpacing"><strong>What are authentication and file servers?</strong> An <span class="strongDBlue" glossary>authentication server</span> is a server that keeps track of who is logging on to the network and which services on the network are available to each user. Authentication servers also act as overseers for the network. They manage and coordinate the services provided by all other dedicated servers located on the network.</p>
+					<p class="start moreSpacing">A <span class="strongDBlue" glossary>file server</span> is a server that stores and manages files for network users. On the network at your workplace or school, you may be provided with space on a file server to store files you create.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Print Servers</h2>
+					<p class="moreSpacing"><strong>How does a print server function?</strong> <span class="strongDBlue" glossary="printer server">Print servers</span> manage all client-requested printing jobs for all printers on a network, which helps client computers complete more productive work by relieving them of printing duties. When you tell your computer to print a document, it passes off the task to the print server. This frees the CPU on your computer to do other jobs.</p>
+					<p class="start moreSpacing"><strong>How does the printer know which documents to print?</strong> A <span class="strongDBlue" glossary>print queue</span> (or <em>print spooler</em>) is a software holding area for print jobs. When the print server receives a printing request from a client computer, it puts the job into a print queue on the print server. Normally, each printer on a network has its own uniquely named print queue. Jobs receive a number when they enter the queue and go to the printer in the order in which they were received. Thus, print servers organize print jobs into an orderly sequence to make printing more efficient on a shared printer.</p>
+					<p class="start moreSpacing">Another useful aspect of print servers is that network administrators can set them to prioritize print jobs. Different users and types of print jobs can be assigned different priorities so that higher-priority jobs will be printed first. For instance, in a company in which documents are printed on demand for clients, you would want those print jobs to take precedence over routine employee correspondence.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Application Servers</h2>
+					<p class="moreSpacing"><strong>What function does an application server perform?</strong> In many networks, all users run the same application software on their computers. In a network of thousands of personal computers, installing application software on each computer is time consuming. An <span class="strongDBlue" glossary>application server</span> acts as a repository for application software. </p>
+					<p class="start moreSpacing">When a client computer connects to the network and requests an application, the application server delivers the software to the client computer. Because the software doesn’t reside on the client computer itself, this eases the task of installation and upgrading. The application needs to be installed or upgraded only on the application server, not on each client computer.</p>
+					
+					<h2 class="blueHeading">Database Servers</h2>
+					<p class="moreSpacing"><strong>What does a database server do?</strong> A <span class="strongDBlue" glossary>database server</span> provides client computers with access to information stored in databases. Often, many people need to access a database at the same time. For example, multiple college advisers can serve students at the same time because the advisers all have access to the student information database. This is made possible because the database resides on a database server that each adviser’s computer can access through the network. If the database were on a stand-alone computer instead of a network, only one adviser could use it at a time.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_24.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Using Servers
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about various types of servers and client/server software.
+					</div></div>
+					
+					<h2 class="blueHeading">E-Mail Servers</h2>
+					<p class="moreSpacing"><strong>How is e-mail handled on a large client/ server network?</strong> The sole function of an <span class="strongDBlue" glossary>e-mail server</span> is to process and deliver incoming and outgoing e-mail. The volume of e-mail on a large network could quickly overwhelm a server that was attempting to handle other functions as well. On a network with an e-mail server, when you send or receive an e-mail, it goes through the e-mail server, which then handles the routing and delivery of your message.</p>
+					
+					<h2 class="blueHeading">Communications Servers</h2>
+					<p class="moreSpacing"><strong>What types of communications does a communications server handle?</strong> A <span class="strongDBlue" glossary>communications server</span> handles all communications between the network and other networks, including managing Internet connectivity. All requests for information from the Internet and all messages being sent through the Internet pass through the communications server. Because Internet traffic is substantial at most organizations, the communications server has a heavy workload.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">The communications server often is the only device on the network connected to the Internet. E-mail servers, web servers, and other devices needing to communicate with the Internet usually route all their traffic through the communications server. Providing a single point of contact with the outside world makes it easier to secure the network from hackers.</p>
+					
+					<h2 class="blueHeading">Web Servers and Cloud Servers</h2>
+					<p class="moreSpacing"><strong>What function does a web server perform?</strong> A <span class="strongDBlue" glossary>web server</span> is used to host a website so that it will be available through the Internet. Web servers run specialized software such as Apache HTTP Server or Microsoft Internet Information Services (IIS) that enable them to host web pages. Not every large network has a web server; many businesses use a third-party web hosting company to host their websites instead.</p>
+					<p class="start moreSpacing"><strong>What is a cloud server?</strong> Servers no longer need to be physically located at a company’s offices. <span class="strongDBlue" glossary="cloud server">Cloud servers</span> are servers that are maintained by hosting companies, such as Rackspace Hosting, and that are connected to networks via the Internet. A company could choose to have any of the server types discussed previously hosted on cloud servers instead of maintaining them locally. Small businesses that don’t have a large staff of computer professionals often choose to use cloud servers to save money.</p>
+					
+					<img onclick="compTia.togglePopup(11,0)" src="assets/images/layout/TrendsinItchapter12.0.png" class="TMargin10" />
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/topologiesSmall.jpg)">
+						<div class="orange">network</div>
+						<div class="blue" style="margin-left:115px;">Topologies</div>
+					</div>
+					
+					<p>Just as buildings have different floor plans depending on their uses, networks have different layouts according to their purpose. <span class="strongDBlue" glossary>Network topology</span> refers to the physical or logical arrangement of computers, transmission media (cable), and other network components. <em>Physical topology</em> refers to the layout of the “real” components of the network, whereas <em>logical topology</em> refers to the virtual connections among network nodes. Logical topologies usually are determined by network protocols instead of the physical layout of the network or the paths that electrical signals follow on the network.</p>
+					<p class="start"><strong>What are network protocols?</strong> A <span class="strongDBlue" glossary>protocol</span> is a set of rules for exchanging communications. Although many people think that Ethernet is a type of network topology, it’s actually a communications protocol. Therefore, an Ethernet network could be set up using almost any type of physical topology.</p>
+					<p class="start">In this section, we’ll explore the most common network topologies (bus, ring, and star) and discuss when each topology is used. The type of network topology used is important because it can affect a network’s performance and scalability. Knowing how the basic topologies work—and knowing the strengths and weaknesses of each one—will help you understand why particular network topologies were chosen on the networks you use.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Bus Topology</h2>
+					<p><strong>What does a bus topology look like?</strong> In a <span class="strongDBlue" glossary="bus (linear bus) topology">bus</span> (or <span class="strongDBlue" glossary="bus (linear bus) topology">linear bus</span>) <span class="strongDBlue" glossary="bus (linear bus) topology">topology</span>, all computers are connected in sequence on a single cable, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Figure 12.8</span>. This topology has largely become legacy technology because star topologies are more efficient on Ethernet networks and a bus topology isn’t designed to easily support wireless connections. However, bus topologies are still found in some manufacturing facilities where groups of computer-controlled machines are connected.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19 TMargin10"><span>Linear Bus Topology</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(12,0)" style="    background: url(assets/images/figures/fig12.8.jpg) no-repeat scroll 13px 33px #FFFFFF; height: 285px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.8</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.8</span> In a linear bus topology, all computers are connected in a sequence.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Each computer on the bus network can communicate directly with every other computer on the network. <span class="strongDBlue" glossary="data collision">Data collisions</span>, which happen when two computers send data at the same time and the sets of data collide somewhere in the connection media are a problem on all networks. When data collides, it’s often lost or damaged. A limitation of bus networks is that data collisions can occur fairly easily because a bus network is essentially composed of one main communication medium (a single cable).</p>
+					<p class="start moreSpacing">Because two signals transmitted at the same time on a bus network may cause a data collision, an <span class="strongDBlue" glossary>access method</span> has to be established to control which computer is allowed to use the transmission media at a certain time. Computers on a bus network behave like a group of people having a conversation. The computers “listen” to the network data traffic on the media. When no other computer is transmitting data (that is, when the “conversation” stops), the computer knows it’s allowed to transmit data. This means of taking turns “talking” prevents data collisions.</p>
+					<p class="start moreSpacing"><strong>How does data get from point to point on a bus network?</strong> The data is broadcast throughout the network via the media to all devices connected to the network. The data is broken into small segments, each called a <em>packet</em>. Each packet contains the address of the computer or peripheral device to which it’s being sent. Each computer or device connected to the network listens for data that contains its address. When it “hears” data addressed to it, it takes the data off the media and processes it.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">The devices (nodes) attached to a bus network do nothing to move data along the network. This makes a bus network a <span class="strongDBlue" glossary>passive topology</span>. The data travels the entire length of the medium and is received by all network devices. The ends of the cable in a bus network are capped off by terminators (as shown in <span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Figure 12.8</span>). A <span class="strongDBlue" glossary>terminator</span> is a device that absorbs a signal so that it’s not reflected back onto parts of the network that have already received it.</p>
+					<p class="start moreSpacing"><strong>What are the advantages and disadvantages of bus networks?</strong> The simplicity and low cost of bus network topology are its key advantages. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Figure 12.8</span>, the major disadvantage is that if there is a break in the cable, the bus network is effectively disrupted because some computers are cut off from others on the network. Also, because only one computer can communicate at a time, adding a large number of nodes to a bus network limits performance and causes delays in sending data.</p>
+					
+					<h2 class="blueHeading">Ring Topology</h2>
+					<p class="moreSpacing"><strong>What does a ring topology look like?</strong> Not surprisingly, given its name, the computers and peripherals in a <span class="strongDBlue" glossary="ring (loop) topology">ring</span> (or <span class="strongDBlue" glossary="ring (loop) topology">loop</span>) <span class="strongDBlue" glossary="ring (loop) topology">topology</span> are laid out in a configuration resembling a circle, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 12.9</span>. Data flows around the circle from device to device in one direction only. Because data is passed using a special data packet called a <span class="strongDBlue" glossary>token</span>, this type of topology was once commonly called a <em>token-ring topology</em>.</p>
+					
+					<p class="start"><strong>How does a token move data around a ring?</strong> A token is passed from computer to computer around the ring until it’s grabbed by a </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>computer that needs to transmit data. The computer “holds” on to the token until it has finished transmitting data. Only one computer on the ring can “hold” the token at a time, and usually only one token exists on each ring.</p>
+					<p class="start">If a node has data to send, such as a document that needs to go to the printer, it waits for the token to be passed to it. The node then takes the token out of circulation and sends the data to its destination. When the receiving node receives a complete transmission of the data</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19 TMargin10"><span>Ring Topology</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(13,0)" style="    background: url(assets/images/figures/fig12.9.jpg) no-repeat scroll 29px 37px #FFFFFF; height: 326px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.9</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.9</span> A ring topology provides a fair allocation of resources.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>(in this example, when the document is received by the printer), it transmits an acknowledgment to the sending node. The sending node then generates a new token and starts it going around the ring again. This is called the <span class="strongDBlue" glossary>token method</span> and is the access method that ring networks use to avoid data collisions.</p>
+					<p class="start">A ring topology is an <span class="strongDBlue" glossary>active topology</span>, which means that nodes participate in moving data through the network. Each node on the network is responsible for retransmitting the token or the data to the next node on the ring. Large ring networks have the capability to use multiple tokens to help move data faster.</p>
+					<p class="start"><strong>What are the advantages and disadvantages of a ring topology?</strong> A ring topology provides a fairer allocation of network resources than does a bus topology. By using a token, a ring network enables all nodes on the network to have an equal chance to send data. One “chatty” node can’t monopolize the network bandwidth as easily as in a bus topology because it must pass the token on after sending a batch of data. In addition, a ring topology’s performance remains acceptable even with large numbers of users.</p>
+					<p class="start lessSpacing">As shown in <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 12.9</span>, one disadvantage of a ring network is that if one computer fails, the entire network can come to a halt because the failed computer is unavailable to retransmit tokens and data. Another disadvantage is that problems in the ring can be hard for network administrators to find. It’s easier to expand a ring topology than a bus topology, but adding a node to a ring causes the ring to cease to function while the node is being installed.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Star Topology</h2>
+					<p><strong>What is the layout for a star topology?</strong> A <span class="strongDBlue" glossary>star topology</span> is the most widely deployed client/server network topology because it offers the most flexibility for a low price. In a star topology, the nodes connect to a central communications device called a <em>switch</em> in a pattern resembling a star, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(14,0)">Figure 12.10</span>. The switch receives a signal from the sending node and retransmits it to the node on the network that needs to receive the signal. Each network node picks up only the transmissions addressed to it. Because the switch retransmits data signals, a star topology is an active topology. The only drawback is that if the switch fails, the network no longer functions. However, it’s relatively easy to replace a switch.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19 TMargin10"><span>Star Topology</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(14,0)" style="    background: url(assets/images/figures/fig12.10.jpg) no-repeat scroll 70px 39px #FFFFFF; height: 239px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.10</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.10</span> In a star topology, network nodes are connected through a central switch.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/network_topology_navigation_devices/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Network Topology and Navigation Devices
+						</div>
+						In this Sound Byte, you’ll learn about common network topologies, the types of networks they are used with, and various network navigation devices.
+					</div></div>
+					
+					<p class="start lessSpacing"><strong>How do computers on a star network avoid data collisions?</strong> Because most star networks are Ethernet networks, they use the method used on all Ethernet networks to avoid data collisions: <span class="strongDBlue" glossary>CSMA/CD</span> (short for <em>carrier sense multiple access with collision detection</em>). With CSMA/CD, a node connected to the network uses carrier sense (that is, it “listens”) to verify that no other nodes are currently transmitting data signals. If the node doesn’t hear any other signals, it assumes that it’s safe to transmit data. All devices on the network have the same right (that is, they have multiple access) to transmit data when they deem it safe. It’s therefore possible for two devices to begin transmitting data signals at the same time. If this happens, the two signals collide.</p>
+					<p class="start lessSpacing"><strong>What happens when the signals collide?</strong> As shown in <span class="strongDBlue" onclick="compTia.togglePopup(15,0)">Figure 12.11</span>, when two nodes (#1 and #2) begin transmitting data signals at the same time (Step 1), signals collide, and a node on the network (#3) detects the collision. Node #3 then sends a special signal called a <span class="strongDBlue" glossary>jam signal</span> to all network nodes, alerting them that a collision has occurred (Step 2). The original nodes #1 and #2 then stop transmitting and wait a random amount of time before retransmitting their data signals (Step 3). The wait times need to be random; otherwise, both nodes would start retransmitting at the same time and another collision would occur. </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What are the advantages and disadvantages of a star topology?</strong> The major advantages of a star network are as follows:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">The failure of one computer doesn’t affect the rest of the network. This is extremely important in a large network, where having one disabled computer affect the operations of several hundred other computers would be unacceptable.</span></li>
+						<li><span class="innerLi">It’s easy to add nodes to star networks.</span></li>
+						<li><span class="innerLi">Performance remains acceptable even with large numbers of nodes.</span></li>
+						<li><span class="innerLi">Centralizing communications through a switch makes troubleshooting and repairs easier. Technicians can usually pinpoint a communications problem just by examining the switch, as opposed to searching for a particular length of cable that has broken in a ring network.</span></li>
+					</ul>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19"><span>Jam Signals</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(15,0)" style="    background: url(assets/images/figures/fig12.11.jpg) no-repeat scroll 60px 25px #FFFFFF; height: 217px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.11</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.11</span> Jam signals are used to handle data collisions on an Ethernet network.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">The disadvantage of star networks used to be cost. Because of the complexity of the layout of star networks, they require more cable and used to be more expensive than bus or ring networks. However, the price of cable has fallen and wireless nodes are replacing many wired nodes on networks, removing cost as a barrier in most cases.</p>
+					
+					<h2 class="blueHeading">Comparing Topologies</h2>
+					<p><strong>Which topology is the best one?</strong> <span class="strongDBlue" onclick="compTia.togglePopup(16,0)">Figure 12.12</span> lists the advantages and disadvantages of bus, ring, and star topologies. Star topologies are the most common, mainly because large networks are constantly </p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_15 TMargin10"><span>Advantages and Disadvantages of Topologies</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(16,0)" style="    background: url(assets/images/figures/fig12.12.jpg) no-repeat scroll 8px 32px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.12</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>adding new users. The ability to add new users easily—by installing an additional switch—without affecting users already on the network is the most common, mainly because large networks are constantly adding new users. The ability to add new users easily—by installing an additional switch—without affecting users already on the network is the deciding factor. Bus topologies have become all but extinct now that most home networks utilize a star topology. Ring topologies are still popular in certain businesses where fair allocation of network access is a major requirement of the network.</p>
+					<p class="start"><strong>Can topologies be combined within a single network?</strong> Because each topology has its own unique advantages, topologies are often combined to construct business networks. Combining multiple topologies into one network is known as constructing a <span class="strongDBlue" glossary>hybrid topology</span>. For instance, fair allocation of resources may be critical for reservation clerks at an airline (thereby requiring a ring network), but the airline’s purchasing department may require a star topology.</p>
+					
+					<br/>	
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_12_Part_1/Chapter_12_Part_1.html','_blank')" >Replay Video 12.1</span>.</span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(41)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Consider the various types of area networks (PAN, LAN, HAN, MAN, WAN). How many different types of networks do you interact with every day?</div>
+					<ol class="pollQuestions">
+						<li>1</li>
+						<li>2</li>
+						<li>3</li>
+						<li>4 or more</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="18" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(42)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+				<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes font_19">Setting Up Business Networks</div>
+					<p class="digCompP">Setting up business networks is similar to configuring home networks. You need to consider the type of transmission media, ensure all nodes have network adapters, and install the appropriate network communication devices.</p>
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO"
+						 style="background-image:url(assets/images/pics/transmissionSmall.jpg)">
+						<div class="dblue">transmission</div>
+						<div class="orange" style="margin-left: 153px;">Media</div>
+					</div>
+					
+					
+					<p class="moreSpacing"><span class="strongDBlue" glossary>Transmission media</span>, whether for wired or wireless communications technology, comprise the physical system that data takes to flow between devices on the network. Without transmission media, network devices would be unable to communicate. Most corporate networks contain a combination of wired andwireless media.</p>
+					
+					<h2 class="blueHeading">Wired Transmission Media</h2>
+					<p class="moreSpacing"><strong>Why are wired connections used in business networks?</strong> Wired connections are popular in business networks because they generally provide higher throughput and better security than wireless connections. Desktop computers still provide more computing power for less money than laptops, which makes desktop computers popular choices for business networks. Because desktops aren’t often moved around, they’re usually connected to a network with a wired connection.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What are the important factors in choosing a cable type?</strong> For business networks,the three main cable types that are used are <em>twisted-pair, coaxial,</em> and <em>fiber-optic</em>. Although each cable type is different, the same six factors always need to be considered when choosing a cable type (<span class="strongDBlue" onclick="compTia.togglePopup(19,0)">see Figure 12.13</span>): maximum run length, bandwidth, bend radius (flexibility), cable cost, installation cost, and interference.</p>
+					
+					<div class="HeadingOrangeBackDiagDashesTable headingOrangeFullheight font_17 cond TMargin10"><span>Factors to Consider When Choosing Network Cable</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(19,0)" style="    background: url(assets/images/figures/fig12.13.jpg) no-repeat scroll 72px 38px #FFFFFF; height: 350px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.13</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span><em>(Maridav/Fotolia; Victoria/Fotolia; Nicholas Piccillo/Fotolia; Ion Popa/Fotolia; auremar/Fotolia; ermess/Fotolia)</em>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What causes interference with data signals?</strong> Signals traveling down a cable are subject to two types of interference:</p>
+					<ol>
+						<li><span class="innerLi"><em>Electromagnetic interference (EMI)</em>, which is caused when the cable is exposed to strong electromagnetic fields, can distort or degrade signals on the cable. Fluorescent lights and machinery with motors or transformers are the most common sources of EMI emissions.</span></li>
+						<li><span class="innerLi">Cable signals also can be disrupted by <em>radio frequency interference (RFI)</em>, which is usually caused by broadcast sources (TV and radio signals) located near the network. </span></li>
+					</ol>
+					
+					<p class="start">Both coaxial cable and twisted-pair cable send electrical impulses down conductive material to transmit data signals, making them more subject to interference. Fiber-optic cable transmits data signals as pulses of light. Because EMI and RFI don’t affect light waves, fiber-optic cable is virtually immune to interference.</p>
+					<p class="start">In the sections that follow, we’ll discuss the characteristics of each of the three major types of cable. We’ll also discuss the use of wireless media as an alternative to cable.</p>
+					
+					<h2 class="blueHeading">Twisted-Pair Cable</h2>
+					<p><strong>Why are the wires in twisted-pair cable twisted?</strong> <span class="strongDBlue" glossary>Twisted-pair cable</span> consists of pairs of copper wires twisted around each other and covered by a protective sheath (jacket). The twists are important because they </p>
+					
+					<div onclick="compTia.togglePopup(20,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Use Mobile Networking … to Report Abandoned Vehicles?
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>cause the magnetic fields that form around the copper wires to intermingle, making them less susceptible to outside interference. The  twists also reduce the amount of crosstalk interference (the tendency of signals on one wire to interfere with signals on a wire next to it).</p>
+					<p class="start">If the twisted-pair cable contains a layer of foil shielding to reduce interference, it’s called <span class="strongDBlue" glossary>shielded twisted-pair (STP) cable</span>. Most home networks use unshielded twisted-pair (UTP) cable that doesn’t have the foil shielding. UTP cable is more susceptible to interference than STP cable. <span class="strongDBlue" onclick="compTia.togglePopup(20,1)">Figure 12.15</span> shows illustrations of both types of twisted-pair cable. Because of its lower price, UTP is used in business networks unless significant sources of interference must be overcome, such as in a production environment where machines create magnetic fields.</p>
+					
+					<figure onclick="compTia.togglePopup(20,1)" class="TMargin10"
+						style="height: 270px;background: url(assets/images/figures/fig12.15.jpg) no-repeat scroll 30px 0 transparent;">
+						<figcaption class="bottomPos">
+						<span>Figure 12.15</span> Anatomy of (a) unshielded twisted-pair (UTP) cable and (b) shielded twisted-pair (STP) cable.</figcaption>
+					</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Coaxial Cable</h2>
+					<p><strong>Is coaxial cable still used in business networks?</strong> Although not as popular as it once was, coaxial cable is still used in some manufacturing facilities where machinery creates heavy electrical interference. <span class="strongDBlue" glossary>Coaxial cable</span> (as shown in <span class="strongDBlue">Figure 12.16</span>) consists of four main components:</p>
+					<ol class="strong">
+						<li><span class="innerLi notStrong">A core (usually copper) is in the very center and is used for transmitting the signal.</span></li>
+						<li><span class="innerLi notStrong">A solid layer of nonconductive insulating material (usually a hard, thick plastic) surrounds the core.</span></li>
+						<li><span class="innerLi notStrong">A layer of braided metal shielding covers the insulation to reduce interference with signals traveling in the core.</span></li>
+						<li><span class="innerLi notStrong">An external jacket of lightweight plastic covers the internal cable components to protect them from damage.</span></li>
+					</ol>
+					
+					<span class="captionGreenHeading">Click on highlighted areas to pop-up description</span>
+					
+				 <figure style="height: 217px; width:440px; background: url(assets/images/figures/fig12.16/fig12.16.jpg) no-repeat scroll 50px 15px transparent;">
+
+					<div class="overlayButtons">
+						<div style="width: 42px; left: 271px; top: 122px; height: 20px;" roll="popup1.png"></div>
+						<div style="left: 233px; top: 98px; height: 41px; width: 40px;" roll="popup2.png"></div>
+						<div style="left: 83px; top: 51px; width: 29px; height: 24px;" roll="popup3.png"></div>
+						<div style="left: 192px; top: 90px; width: 28px; height: 26px;" roll="popup4.png"></div>
+					</div>
+					<div class="overlayImages">
+						<div roll="popup1.png" style="top:71px;left:288px;width:100%;height:100%;background-image:url(assets/images/figures/fig12.16/popup1.png)"></div>
+						<div roll="popup2.png" style="top:25px;left:248px;width:100%;height:100%;background-image:url(assets/images/figures/fig12.16/popup2.png)"></div>
+						<div roll="popup3.png" style="top:27px;left:8px;width:100%;height:100%;background-image:url(assets/images/figures/fig12.16/popup3.png)"></div>
+						<div roll="popup4.png" style="top:94px;left:55px;width:100%;height:100%;background-image:url(assets/images/figures/fig12.16/popup4.png)"></div>
+					</div>	
+						<figcaption class="bottomPos" style="margin-left:0px;">
+						<span>Figure 12.16</span> Coaxial cable consists of four main components: a core, <br/>an insulated covering, a braided metal shielding, and a plastic jacket.</figcaption>
+					</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Fiber-Optic Cable</h2>
+					<p><strong>What does fiber-optic cable look like?</strong> As shown in <span class="strongDBlue">Figure 12.17</span>, <span class="strongDBlue" glossary>fiber-optic cable</span> is composed of the following:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">A glass (or plastic) fiber (or a bundle of fibers called a core) through which the data is transmitted</span></li>
+						<li><span class="innerLi">A protective layer of glass or plastic cladding wrapped around the core to protect it</span></li>
+						<li><span class="innerLi">For additional protection, an outer jacket (sheath), which is often made of a durable material such as Kevlar (the substance used to make bulletproof vests)</span></li>
+					</ul>
+					
+					<p class="start">Data transmissions can pass through fiber-optic cable in only one direction. Therefore, at least two fibers (or cores) are contained in most fiber-optic cables to enable transmission of data in both directions.</p>
+					
+					<span class="captionGreenHeading">Click on highlighted areas to pop-up description</span>
+					
+					<figure style="height: 217px;background: url(assets/images/figures/fig12.17/fig12.17.jpg) no-repeat scroll 0px -15px transparent;">
+						
+						<div class="overlayButtons">
+						<div style="width: 34px; left: 305px; top: 119px; height: 30px;" roll="fig12.17popup1.png"></div>
+						<div style="left: 207px; top: 88px; height: 31px; width: 33px;" roll="fig12.17popup2.png"></div>
+						<div style="left: 94px; top: 54px; width: 29px; height: 31px;" roll="fig12.17popup3.png"></div>
+					</div>
+					<div class="overlayImages">
+						<div roll="fig12.17popup1.png" style="top:25px;left:274px;width:100%;height:100%;background-image:url(assets/images/figures/fig12.17/fig12.17popup1.png)"></div>
+						<div roll="fig12.17popup2.png" style="top:99px;left:126px;width:100%;height:100%;background-image:url(assets/images/figures/fig12.17/fig12.17popup2.png)"></div>
+						<div roll="fig12.17popup3.png" style="top:63px;left:50px;width:100%;height:100%;background-image:url(assets/images/figures/fig12.17/fig12.17popup3.png)"></div>
+					</div>	
+						<figcaption class="bottomPos">
+						<span>Figure 12.17</span> Fiber-optic cable is made up of a glass or plastic fiber (or a bundle of fibers), a glass or plastic cladding, and a protective sheath.</figcaption>
+					</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Wireless Media Options</h2>
+					<p class="moreSpacing"><strong>What wireless media options are there?</strong> Most business networks use the same Ethernet standards as home networks. Therefore, the wireless options for business networks are very similar to those available for home networks. <em>Wireless access points</em> are installed to provide coverage wherever employees will be working with portable devices, such as in conference rooms.</p>
+					
+					<h2 class="blueHeading">Comparing Transmission Media</h2>
+					<p class="moreSpacing"><strong>Which medium is best for business networks?</strong> Network engineers specialize in the design and deployment of networks and are responsible for selecting the appropriate network topologies and media types. Their decision as to which transmission medium a network will use is based on the topology selected, the length of the cable runs needed, the amount of interference present, and the need for wireless connectivity.</p>
+					<p class="start moreSpacing">As noted above, most large networks use a mix of media types. For example, fiber-optic cable may be appropriate for the portion of a network that traverses the factory floor, where interference from magnetic fields is significant. However, UTP cable may work fine in a general office area. Wireless media may be required in areas where employees are likely to connect their portable computing devices or where it’s impractical or expensive to run cable.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/clientNavigationSmall.jpg);padding-bottom:3px;">
+						<div class="orange">network</div>
+						<div class="blue" style="margin-left:120px;">Adapters</div>
+					</div>
+					
+					<p>As noted in <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>, client and server computers and peripherals need an interface to connect with and communicate on the network. <span class="strongDBlue" glossary="network adapter">Network adapters</span> are devices that perform specific tasks to enable nodes to communicate on a network. Network adapters are installed inside computers and peripherals. These adapters are referred to as <em>network interface cards (NICs)</em>.</p>
+					<p class="start"><strong>What do network adapters do?</strong> Network adapters perform three critical functions:</p>
+					<ol class="strong">
+						<li><span class="innerLi">They generate high-powered signals to enable network transmissions.</span><span class="innerLi notStrong"> Digital signals generated inside the computer are fairly low powered and would not travel well on cable or wireless network media without network adapters. Network adapters convert the signals from inside the computer into higherpowered signals that have no trouble traversing the network media.</span></li>
+						<li><span class="innerLi">They’re responsible for breaking the data into packets and transmitting and receiving data.</span><span class="innerLi notStrong"> They also are responsible for receiving incoming data packets and, in accordance with networking protocols, reconstructing them, as shown in <span class="innerLi strongDBlue" onclick="compTia.togglePopup(23,0)">Figure 12.18</span>.</span></li>
+						<li><span class="innerLi">They act as gatekeepers for information flowing to and from the client computer.</span><span class="innerLi notStrong"> Much like a security guard in a gated community, a</span></li>
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_20"><span>Network Interface Card (NIC)</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(23,0)" style="    background: url(assets/images/figures/fig12.18.jpg) no-repeat scroll 25px 40px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.18</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.18</span> A network interface card (NIC) is responsible for breaking down <br/>data into packets, preparing packets for transmission, receiving incoming data packets, and reconstructing them.
+						</figcaption></figure>
+					</div>
+					
+					<ol class="noListStyle">
+						<li><span class="innerLi">network adapter is responsible for permitting or denying access to the client computer (the community) and controlling the flow of data (visitors).</span></li>
+					</ol>
+					<p class="start">You should note that there won’t always be the same number of response packets as there are request packets. The number of packets depends on the volume of the data being sent. A simple response may have less data than a complex one.</p>
+					<p class="start lessSpacing"><strong>Are there different types of network adapters?</strong> Although there are different types of network adapters, almost without exception Ethernet is the standard communications protocol used on most client/server networks. Therefore, the adapter cards that ship with computers today are Ethernet compliant.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Do wireless networks require network adapters?</strong> A computing device that connects to a network using wireless access needs to have a special network adapter card, called a <span class="strongDBlue" glossary>wireless network interface card (wireless NIC)</span>, installed in it. Laptop computers and other portable computing devices contain wireless NICs.</p>
+					<p class="start moreSpacing">To allow wireless connections, a network also must be fitted with devices called wireless access points. A <span class="strongDBlue" glossary>wireless access point (WAP)</span> gives wireless devices a sending and receiving connection point to the network.</p>
+					<p class="start moreSpacing"><span class="strongDBlue" onclick="compTia.togglePopup(23,1)">Figure 12.19</span> shows an example of a typical corporate network with a wireless access point. The access point is connected to the wired network</p>
+				
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_20 TMargin10"><span>Wireless Access Point</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(23,1)" style="    background: url(assets/images/figures/fig12.19.jpg) no-repeat scroll 49px 36px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.19</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.19</span> This small corporate network has an added wireless access point.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>through a conventional cable. When a laptop or other device with a wireless NIC is powered on near a wireless access point, it establishes a connection with the access point using radio waves. Many devices can communicate with the network through a single wireless access point.</p>
+					<p class="start"><strong>Do network adapters require software?</strong> Special communications software called a <span class="strongDBlue" glossary>device driver</span> is installed on all client computers in the client/server network. Device drivers enable the network adapter to communicate with the server’s OS and with the OS of the computer in which the adapter is installed.</p>
+					
+					<div class="soundByteContain TMargin10">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/whats_my_ip_address/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							What’s My IP Address? (And Other Interesting <br/>Facts About Networks)
+						</div><br/>
+						In this Sound Byte, you’ll learn how to determine your Internet Protocol (IP) address, which is commonly required in order to set up online gaming. You’ll also explore several websites that can reveal interesting information about your connection to the Internet.
+					</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/clientNavigationSmall.jpg); padding-bottom:3px;">
+						<div class="dblue">network navigation</div>
+						<div class="orange" style="margin-left:120px;">Devices</div>
+					</div>
+					
+					<p>As mentioned earlier, data flows through the network in packets. Data packets are like postal letters. They don’t get to their destinations without some help. In this section, we explore the various conventions and devices that help speed data packets on their way through the network.</p>
+					
+					<h2 class="blueHeading">MAC Addresses</h2>
+					<p><strong>How do network adapters know where to send data packets?</strong> Each network adapter has a physical address, similar to a serial number on an appliance. This address is called a <span class="strongDBlue" glossary>media access control (MAC) address</span>, and it’s made up of six two position characters, such as 01:40:87:44:79:A5. (Don’t confuse this MAC with the Apple computers of the same name.) The first three sets of characters (in this case, 01:40:87) specify the manufacturer of the network adapter, and the second set of characters (in this case, 44:79:A5) makes up a unique address. Because all MAC addresses must be unique, there is an IEEE (Institute of Electrical and Electronics Engineers) committee responsible for allocating blocks of numbers to network adapter manufacturers.</p>
+					<p class="start"><strong>Are MAC addresses the same as IP addresses?</strong> MAC addresses and IP (Internet Protocol) addresses are not the same thing. A MAC address is used for identification purposes <em>internally</em> on a network. An IP address is </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>the address <em>external</em> entities use to communicate with your network. Think of it this way: The postal carrier delivers a package (data packet) to your dorm building based on its street address (IP address). The dorm’s mail clerk delivers the package to your room because it has your name on it (MAC address) and not that of your neighbor. Both pieces of information are necessary to ensure that the package (or data) reaches its destination.</p>
+					<p class="start"><strong>How are data packets packaged for transmission?</strong> Data packets aren’t necessarily sent alone. Sometimes groups of data packets are sent together in a package called a <span class="strongDBlue" glossary>frame</span>. A frame is a container that can hold multiple data packets. This is similar to placing several letters going to the same postal address in a big envelope. While the data packets are being assembled into frames, the network operating system (NOS) software assigns the appropriate MAC address to the frame. The NOS keeps track of all devices and their addresses on the network. Much like an envelope that’s entrusted to the postal service, the frame is delivered to the MAC address that the NOS assigned to the frame.</p>
+					<p class="start"><strong>What delivers the frames to the correct device on the network?</strong> In a small bus network, frames just bounce along the transmission medium until the correct client computer notices that the frame is addressed to it and pulls the signal off the medium. However, this is inefficient in a larger network. Therefore, many types of devices have been developed to deliver data to its destination efficiently. These devices are designed to route signals and exchange data with other networks.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Are MAC addresses useful for anything besides identifying a particular network device?</strong> On networks with wireless capabilities, MAC addresses can be used to enhance network security. Because each MAC address is unique, you can input a list of authorized MAC addresses into the router. If someone who is using an unauthorized network adapter attempts to connect to the network, he or she will be unable to make a connection.</p>
+					
+					<h2 class="blueHeading">Switches and Bridgess</h2>
+					<p><strong>Which devices are used to route signals through a single network?</strong> Switches are used to send data on a specific route through the network. A <span class="strongDBlue" glossary>switch</span> makes decisions, based on the MAC address of the data, as to where the data is to be sent and rebroadcasts it to the appropriate network node. This improves network efficiency by helping to ensure that each node receives only the data intended for it. <span class="strongDBlue" onclick="compTia.togglePopup(26,0)">Figure 12.20</span> shows a switch being used to rebroadcast a message.</p>
+					<p class="start"><strong>Do all networks need a switch?</strong> Switches are needed on Ethernet networks whether installed in a home or a business. (Routers sold for home use have switches built in to them.)</p>
+					<p class="start"><strong>Are switches sufficient for moving data efficiently across all sizes of networks?</strong> When a corporate network grows in size, performance can decline because many devices compete for transmission time on, the network media. To solve this problem, a network can be broken into multiple segments known as <em>collision domains</em>. A <span class="strongDBlue" glossary>bridge</span> is a device that’s used to send data between different collision domains, depending on </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_20"><span>Switches</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(26,0)" style="    background: url(assets/images/figures/fig12.20.jpg) no-repeat scroll 72px 36px #FFFFFF; height: 217px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.20</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.20</span> Switches rebroadcast messages—but only to the devices to which the messages are addressed.
+						</figcaption></figure>
+					</div>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_20 TMargin10"><span>Bridges</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(26,1)" style="    background: url(assets/images/figures/fig12.21.jpg) no-repeat scroll 53px 36px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.21</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.21</span> Bridges are devices used to send data between different network collision domains.
+						</figcaption></figure>
+					</div>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>where the recipient device is located, as indicated in <span class="strongDBlue" onclick="compTia.togglePopup(26,1)">Figure 12.21</span>. Signals received by the bridge from Collision Domain A are forwarded to Collision Domain B only if the destination computer is located in that domain. (Note that most home networks contain only one segment and therefore do not require bridges.) </p>
+					
+					<h2 class="blueHeading">Routers</h2>
+					<p><strong>What device does a network use to move data to another network?</strong> Whereas switches and bridges perform their functions within a single network, as you learned in <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>, a <span class="strongDBlue" glossary>router</span> is designed to send information between two networks. To accomplish this, the router must look at higher-level network addresses (such as IP addresses), not MAC addresses. When the router notices data with an address that doesn’t belong to a device on the network from which it originated, it sends the data to another network to which it is attached or out to the Internet.</p>
+					
+					<div class="greenHorzButton" onclick="compTia.togglePopup(26,2)">
+						<span class="largeBoldWhite">DIG DEEPER</span>
+						<strong class="font_11">The OSI Model: Defining Protocol Standards</strong>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/NOSSmall.jpg); padding-bottom:3px;">
+						<div class="orange">network operating</div>
+						<div class="blue" style="margin-left: 205px;">Systems</div>
+					</div>
+					
+					<p>Merely using media to connect computers and peripherals does not create a client/server network. Special software known as a <span class="strongDBlue" glossary>network operating system (NOS)</span> needs to be installed on each client computer and server that’s connected to the network to provide the services necessary for them to communicate. The NOS provides a set of common rules (a <em>protocol</em>) that controls communication among devices on the network. Modern operating systems, such as Windows and OS X, include NOS client software as part of the basic installation. However, large networks, such as those found in businesses, require more sophisticated NOS server software.</p>
+					<p class="start"><strong>Why is a NOS needed on large networks?</strong> OS software is designed to facilitate communication between the software and hardware components of your computer. NOS software is specifically designed to provide server services, network communications, management of network peripherals, and storage. NOSs that include server software include Windows Server, Linux, UNIX, and SUSE Linux Enterprise Server. NOS software is installed on servers.</p>
+					<p class="start moreSpacing">To provide network communications, the client computers must run a small part of the NOS in addition to their OS. Windows and OS X contain network communication capabilities and therefore no other NOS software is usually installed on these client computers.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Do P2P networks need special NOS software?</strong> The software that P2P networks require is built into the Windows, Linux, and Macintosh operating systems. Therefore, if you have a simple P2P network, there is no need to purchase specialized NOS software.</p>
+					<p class="start moreSpacing"><strong>How does the NOS control network communications?</strong> Each NOS has its own proprietary communications language, file-management structure, and device-management structure. The NOS also sets and controls the protocols for all devices wishing to communicate on the network. Proprietary protocols from one vendor’s NOS won’t work with another vendor’s NOS.</p>
+					<p class="start moreSpacing">However, because the Internet uses an open protocol (called TCP/IP) for communications, many corporate networks use TCP/IP as their standard networking protocol regardless of the manufacturer of their NOS. All modern NOSs support TCP/IP.</p>
+					<p class="start moreSpacing"><strong>Can a network use two different NOSs?</strong> Many large corporate networks use several different NOSs at the same time. This is because different NOSs provide different features, some of which are more useful in certain situations than others. For instance, although the employees of a corporation may be using a Windows environment for their desktops and e-mail, the file servers and web servers may be running a Linux NOS.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO"
+						 style="background-image:url(assets/images/pics/clientSecuritySmall.jpg)">
+						<div class="dblue">client/server network</div>
+						<div class="orange" style="margin-left: 153px;">security</div>
+					</div>
+						
+					<p>A major advantage that client/server networks have over P2P networks is that they offer a higher level of security. With client/server networks, users can be required to enter a user ID and a password to gain access to the network. The security can be centrally administered by network administrators, freeing individual users of the responsibility of maintaining their own data security, as they must do on a P2P network.</p>
+					<p class="start">In the following sections, we’ll explore the challenges network administrators face in keeping a client/server network secure.</p>
+					<p class="start"><strong>What sources of security threats do all network administrators need to watch for?</strong> Threats can be classified into three main groups:</p>
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><em>Human errors and mistakes</em>: Everyone makes mistakes. For example, a member of the computer support staff could mistakenly install an old database on top of the current one. Even physical accidents fall into this category; for example, someone could lose control of a car and drive it through the wall of the main data center.</span></li>
+						<li><span class="innerLi notStrong"><em>Malicious human activity</em>: Malicious actions can be perpetrated by current employees, former employees, or third parties. For example, a disgruntled employee could introduce a virus to the network or a hacker could break into the student database server to steal credit card records.</span></li>
+					</ol>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong"><em>Natural events and disasters</em>: Some events—such as floods and fires—are beyond human control. All can lead to the inadvertent destruction of data. </span></li>
+					</ol>	
+					<p class="start">Because networks are vulnerable to such security threats, one of the network administrator’s key functions is to keep network data secure.</p>
+					
+					<h2 class="blueHeading">Authentication</h2>
+					<p><strong>How do network administrators ensure that only authorized users access the network?</strong> <span class="strongDBlue" glossary>Authentication</span> is the process whereby users prove they have authorization to use a computer network. For example, correctly entering the user ID and password on your college network proves to the network that you have authorized access. The access is authorized because the ID was generated by a network administrator when you became an authorized user of the network.</p>
+					<p class="start">However, authentication can also be achieved through the use of biometric devices (discussed later in this chapter) and through possessed objects. A <span class="strongDBlue" glossary>possessed object</span> is any object that users carry to identify themselves and that grants them access to a computer system or computer facility. Examples include identification badges, magnetic key cards, and smart keys (similar to flash drives).</p>
+					<p class="start"><strong>Can hackers use my account to log in to the network?</strong> If a hacker knows your user ID and password, he or she can log in and impersonate you. Impersonation can also happen if you fail to log out of a terminal on a network and someone comes along and uses your account. Sometimes</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">network user IDs are easy to figure out because they have a certain pattern, such as your last name and the first initial of your first name.</p>
+					<p class="start moreSpacing">If a hacker can deduce your user ID, he or she might use a software program that tries millions of combinations of letters and numbers as your password in an attempt to access your account. Attempting to access an account by repeatedly trying different passwords is known as a <span class="strongDBlue" glossary>brute force attack</span>. To prevent these attacks from succeeding, network administrators often configure accounts so that they’ll disable themselves after a set number of login attempts using invalid passwords have been made.</p>
+					
+					<h2 class="blueHeading">Access Privileges</h2>
+					<p class="moreSpacing"><strong>How can I gain access to everything on a network?</strong> The simple answer is that you can’t! When your account is set up on a network, certain access privileges are granted to indicate which systems you’re allowed to use. For example, on your college network, your access privileges probably include the ability to access the Internet. However, you definitely weren’t granted access to the grade-entering system, because this would enable you to change your grades.</p>
+					<p class="start moreSpacing"><strong>How does restricting access privileges protect a network?</strong> Because network access accounts are centrally administered on the authentication server, it’s easy for the network administrator to set up accounts for new users and grant them access only to the systems and </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>software they need. The centralized nature of the network-access creation and the ability to restrict access to certain areas of the network make a client/server network more secure than a P2P network.</p>
+					<p class="start"><strong>Aside from improper access, how else do data theft and destruction occur?</strong> A major problem that portable devices such as flash drives pose is theft of data or intellectual property. Because these devices are so easy to conceal and have such large memory capacity, it’s easy for a disgruntled employee to walk out the front door with stacks of valuable documents tucked in his or her pocket. Industrial espionage has never been easier—and no spy cameras are needed!</p>
+					<p class="start moreSpacing">Flash drives can also introduce viruses or other malicious programs to a network, either intentionally or unintentionally. Secure Network Technologies, a security consulting firm, decided to test a client’s security procedures by leaving 20 flash drives at random locations around the client’s office. By the end of the day, employees had picked up 15 of the flash drives and plugged them into computers on the company network. The flash drives contained a simple program to display images as well as a Trojan horse program. While the employees were viewing the images, the Trojan horse program enabled the consultants to access the company network and steal or compromise data. It isn’t hard to imagine hackers leaving flash drives around your school that could act as “skeleton keys” to your school’s network.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How should network administrators protect their networks from portable storage devices?</strong> To head off problems with portable storage devices, the following actions should be taken:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Educate employees about the dangers posed by portable media devices.</span></li>
+						<li><span class="innerLi">Create policies regulating the use of portable media devices in the workplace.</span></li>
+						<li><span class="innerLi">Install security measures such as personal firewalls or antivirus software to protect all computers in the company. The firewalls should be able to prevent malicious programs from running, even if they’re introduced to a computer via a flash drive.</span></li>
+						<li><span class="innerLi">Limit and monitor the use of portable media devices. Although Microsoft networking software allows network administrators to shut off access to the USB ports on computers, this prevents employees from using flash drives and other USB devices for legitimate purposes.</span></li>
+						<li><span class="innerLi">Inform employees that their use of portable media devices is being monitored. This alone will often be enough to scare employees away from connecting untrusted devices to the network.</span></li>
+					</ul>
+					
+					<p class="start moreSpacing">Other software products, such as DeviceLock and Safend Data Protection Suite, can be deployed on a network to provide options such as detailed security policies. Such products can also monitor USB device connections and track which users have connected devices to the network (including devices other than flash drives).</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Physical Protection Measures</h2>
+					<p class="moreSpacing"><strong>What physical measures are used to protect a network?</strong> Restricting physical access to servers and other sensitive equipment is critical to protecting a network. Where are the servers that power your college network? They’re most likely behind locked doors to which only authorized personnel have access. Likewise, the network’s switches are securely tucked away in ceilings, walls, or closets, safe from anyone who might tamper with them in an attempt to sabotage the network or breach its security.</p>
+					<p class="start moreSpacing">As shown in <span class="strongDBlue" onclick="compTia.togglePopup(31,0)">Figure 12.23</span>, a number of different devices can be used to control access:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">An <span class="strongDBlue" glossary>access card reader</span> is a relatively cheap device that reads information from a magnetic strip on the back of a credit card–like access card, such as your student ID card. The card reader, which can control the lock on a door, is programmed to admit only authorized personnel to the area. Card readers are easily programmed by adding authorized ID card numbers.</span></li>
+					</ul>
+					
+					<div class="soundByteContain TMargin10">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/day_in_the_life_network_technician/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							A Day in the Life of a Network Technician
+						</div>
+						In this Sound Byte, you’ll learn firsthand about the exciting, fast-paced job of a computer technician. Interviews with network technicians and tours of networking facilities will provide you with a deeper appreciation for the complexities of the job.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(31,0)"
+						style="height: 269px;background: url(assets/images/figures/fig12.23.jpg) no-repeat scroll 112px 0px transparent;">
+						<figcaption class="bottomPos">
+						<span>Figure 12.23</span> Access card readers provide a relatively inexpensive solution to security for areas needing low-level security. Biometric authentication devices, such as fingerprint/palm, retinal, and facial recognition scanners, are used to protect high-security areas such as a server room. <em>(twobee/Fotolia)</em></figcaption>
+					</figure>
+					
+					<ul class="dotted TMargin10">
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>biometric authentication device</span> uses a unique characteristic of human biology to identify authorized users. Some devices read fingerprints or palm prints when you place your hand on a scanning pad. Other devices shine a laser beam into your eye and read the unique patterns of your retina. Facial recognition systems store unique characteristics of an individual’s face for later comparison and identification. When an authorized individual uses a device for the first time, his or her fingerprints, retinal patterns, or face patterns are scanned and stored in a database.</span></li>
+					</ul>
+					
+					<p class="start">Financial institutions and retail stores are considering using such devices to attempt to eliminate the growing fraud problems of identity </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">theft and counterfeiting of credit and debit cards. If fingerprint authorization were required at the supermarket to make a purchase, a thief who stole your wallet and attempted to use your credit card would be unsuccessful.</p>
+					
+					<p class="start moreSpacing"><strong>What are the problems with biometric devices?</strong> The biometric devices currently on the market don’t always function as intended. Facial recognition and retinal-scanning systems can sometimes be fooled by pictures or videos of an authorized user. Researchers have fooled biometric fingerprint readers by using fingers made out of modeling clay, using the fingers of cadavers, or by having unauthorized persons breathe on the sensor, which makes the previous user’s fingerprint visible.</p>
+					<p class="start moreSpacing">Next-generation fingerprint readers will use specially designed algorithms that will detect moisture patterns on a person’s fingers. Another approach may involve readers that detect an electrical current when a finger touches the reader, which is possible because the human body conducts electrical current. Future retinal readers may check whether a person blinks or if his or her pupils contract when a bright light shines on them.</p>
+					
+					<h2 class="blueHeading">Firewalls</h2>
+					<p class="moreSpacing"><strong>Are Internet connections on client/ server networks vulnerable to hackers?</strong> Just like a home network, any company’s network that’s connected to the Internet can attract hackers. For this reason, a well-defended business network, just like a well-defended home network, includes a firewall. Firewalls can be composed of software or hardware, and </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">many sophisticated firewalls include both. Routers are often equipped to act as hardware firewalls.</p>
+					<p class="start moreSpacing"><strong>Does a firewall on a client/server network work the same way as a personal firewall installed on a home network does?</strong> Although a firewall on a business network may contain a few extra security options, making it even harder to breach than a personal firewall, the firewalls for business networks work on the same basic principles as a personal firewall. At a minimum, most firewalls work as packet screeners. <span class="strongDBlue" glossary>Packet screening</span> involves having an <em>external screening router</em> examining incoming data packets to ensure that they originated from or are authorized by valid users on the internal network. Unauthorized or suspect packets are discarded by the firewall before they reach the network.</p>
+					<p class="start moreSpacing">Packet screening also can be configured for outgoing data to ensure that requests for information to the Internet are from legitimate users. This is done by an <em>internal screening router</em> and helps detect Trojan horse programs that may have been installed by hackers. Trojan horses often try to disguise where they’re sending data from by using bogus IP addresses on the packets the programs send instead of using an authorized IP address belonging to the network.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">With packet screening in place, packets going into and out of the network are checked to ensure they’re either from or addressed to a legitimate IP address on the network. If the addresses aren’t valid addresses on the network, the firewall (or the screening routers) discards them.</p>
+					<p class="start moreSpacing"><strong>What other security measures does the firewall on a client/server network use?</strong> To increase security even further, most large networks add a <span class="strongDBlue" glossary>bastion host</span>, which is a heavily secured server located on a special perimeter network between the company’s secure internal network and the firewall.</p>
+					<p class="start moreSpacing">To external computers, the bastion host gives the appearance of being the internal network server. Hackers can waste a lot of time and energy attacking the bastion host. However, even if a hacker breaches the bastion host server, the internal network isn’t vulnerable because the bastion host isn’t on the internal network. Moreover, during the time the hackers spend trying to penetrate the bastion host, network administrators can detect and thwart their attacks.</p>
+					<p class="start moreSpacing"><strong>How do bastion hosts help protect systems from hackers?</strong> Bastion hosts are a type of honey pot. A <span class="strongDBlue" glossary>honey pot</span>  is a computer system that’s set up to attract unauthorized users by appearing to be a key part of a network or a system that contains something of great value.</p>
+					
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(32,0)">
+						<span class="largeBoldWhite">ethics</span>
+						<span class="medBoldGrey">in IT</span>
+						<strong style="font-size:14px;" class="shiftUp10">How Should Companies Handle Data Breaches?</strong>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">Bastion hosts are often configured as proxy servers. A <span class="strongDBlue" glossary>proxy server</span> acts as a go-between, connecting computers on the internal network with those on the external network (the Internet). All requests from the internal network for Internet services are directed through the proxy server. Similarly, all incoming requests from the internet must pass through the proxy server. It’s much easier for network administrators to maintain adequate security on one server than it is to ensure that security is maintained on hundreds or thousands of computers in a college network, for example.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight TMargin10 font_20"><span>Business Firewalls</span></div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(33,0)" style="    background: url(assets/images/figures/fig12.24.jpg) no-repeat scroll 9px 46px #FFFFFF; height: 275px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 12.24</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 12.24</span> Business firewalls provide sophisticated protection from hackers.
+						</figcaption></figure>
+					</div>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(33,0)">Figure 12.24</span> shows a network secured by a firewall, a bastion host and proxy server, and a screening router. Now that you know a bit more about business networks, you should be able to comfortably navigate the network at your college or your place of employment and understand why certain security measures have been taken to protect network data.</p>
+					
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_12_Part_2/Chapter_12_Part_2.html','_blank')" >Replay Video 12.2</span>.</span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(43)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="34" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Do you have facial or fingerprint detection devices on your laptop?</div>
+					<ol class="pollQuestions">
+						<li>Yes</li>
+						<li>No</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h1><span class="chapter shiftLeft5">12</span> Chapter Review</h1>
+					<div class="largerTitle">summary//</div>
+					
+					<img src="assets/images/pics/clientServerThumbnail.jpg" class="floatPositioned">
+					<h2>Basics of Client/Server Networks</h2>
+					<span class="prePseudoLi preContent1 strong">What are the advantages of a business network?</span>
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi">Networks enable resources, such as printers, to be shared, avoiding the cost of providing these resources to individual employees.</span></li>
+						<li><span class="innerLi">Networks facilitate knowledge sharing between employees because multiple people can access data at the same time.</span></li>
+						<li><span class="innerLi">Software can be shared from a network server, thereby reducing the costs of installation on each user’s computer.</span></li>
+						<li><span class="innerLi">Information sharing is more effective when employees are connected via networks.</span></li>
+					</ul>	
+					
+					<h4>2. How does a client/server network differ from a peer-to-peer</h4>
+					<h4 class="Lmargin15">networks?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">In a peer-to-peer network, each node connected to the network can communicate directly with every other node on the network. In a client/server network, a separate device (the server) exercises control over the network.</span></li>
+						<li><span class="innerLi">Data flows more efficiently in client/server networks than in peer-to-peer networks.</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						
+						<li><span class="innerLi">In addition, client/server networks have increased scalability, meaning users can be added to the network easily.</span></li>
+					</ul>	
+					
+					<h4>3. What are the different classifications of client/server networks?</h4>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Local area networks (LANs) are small groups of computers (as few as two) and peripherals linked together over a small geographic area. A group of computers in rooms on one floor of a campus building is most likely a LAN.</span></li>
+						<li><span class="innerLi">Wide area networks (WANs) comprise large numbers of users (or of separate LANs) that are miles apart and linked together. Colleges often use WANs to connect two or more campuses in separate towns.</span></li>
+					</ul>
+					
+					<h4>4. What components are needed to construct a client/server</h4>
+					<h4 class="Lmargin15">network?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">Client/server networks have many of the same components as peer-to-peer networks as well as some components specific to client/server networks, including servers, a network topology, transmission media, network adapters, network navigation devices, and network operating system (NOS) software.</span></li>
+					</ul>	
+					
+					<img src="assets/images/pics/topologiesThumbnail.jpg" class="floatPositioned" style="margin-top:20px;">
+					<h2>Servers and Network Topologies</h2>
+					<span class="prePseudoLi preContent5 strong">What do the various types of servers do?</span>
+					<br/>
+					<ul class="dotted">
+						<li class="clearLeft"><span class="innerLi">Dedicated servers are used on large networks to increase efficiency.</span></li>
+						<li><span class="innerLi">Authentication servers control access to the network and ensure that only authorized users can log in.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">File servers provide storage and management of user files.</span></li>
+						<li><span class="innerLi">Print servers manage and control all printing jobs initiated on a network.</span></li>
+						<li><span class="innerLi">Application servers provide access to application software.</span></li>
+						<li><span class="innerLi">Database servers store database files and provide access to users who need the information in the databases.</span></li>
+						<li class="moreSpacing"><span class="innerLi">E-mail servers control all incoming and outgoing e-mail traffic.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Communications servers are used to control the flow of information from the internal network to outside networks.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Web servers are used to host websites.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Cloud servers provide storage and access to data on the Internet.</span></li>
+					</ul>
+					
+					<h4>6. What are the various network topologies, and why is network</h4>
+					<h4 class="Lmargin15">topology important in planning a network?</h4>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">In a bus topology, all nodes are connected to a single linear cable.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Ring topologies are made up of nodes arranged roughly in a circle. The data flows from node to node in a specific order.</span></li>
+						<li class="moreSpacing"><span class="innerLi">In a star topology, nodes are connected to a central communication device (a switch) and branch out like points of a star.</span></li>
+						<li class="moreSpacing"><span class="innerLi">A hybrid topology blends two or more topologies in one network.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Each topology has its own advantages and disadvantages. Topology selection depends on two main factors: (1) the network budget and (2) the specific needs of network users, such as speed or fair allocation of resources.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<img src="assets/images/pics/transmissionThumbnail.jpg" class="floatPositioned" >
+					<h2>Transmission Medias</h2>
+					<span class="prePseudoLi preContent7 strong">What types of transmission media are used in <br/>client/server networks?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">In addition to wireless media, three main cable types are used: twisted-pair cable, coaxial cable, and fiber-optic cable.</span></li>
+						<li><span class="innerLi">Twisted-pair cable consists of pairs of wires twisted around each other in order to reduce interference.</span></li>
+						<li><span class="innerLi">Coaxial cable is the same type of cable used by your cable TV company to run a signal into your house.</span></li>
+						<li><span class="innerLi">Fiber-optic cable uses bundles of glass or plastic fiber to send signals using light waves. It provides the largest bandwidth but is expensive and difficult to install.</span></li>
+						<li><span class="innerLi">Wireless media uses radio waves to send data between nodes on a network.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/clientNavigationThumbnail.jpg" class="floatPositioned" style="margin-top:20px;">
+					<h2>Network Adapters and Network <br/>Navigation Devices</h2>
+					<span class="prePseudoLi preContent8 strong">How do network adapters enable computers to participate in a client/server network?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Without a network adapter, a computer could not communicate on a network. A network adapter provides three critical functions. First, it takes low-power data signals generated by the computer and converts them into higher-powered signals that can traverse network media easily. Second, it breaks the data generated by the computer into </span></li>
+					</ul>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="37" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="noListStyle">
+						<li><span class="innerLi">packets and packages them for transmission across the network media. Last, it acts as a gatekeeper to control the flow of data to and from the computer.</span></li>
+					</ul>
+					
+					<h4>9. What devices assist in moving data around a client/server </h4>
+					<h4 style="margin-left:14px;">network?</h4>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Switches are devices that read the addresses of data packets and retransmit a signal to its destination instead of to every device connected to the switch.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Bridges are devices used to send data between two different segments (collision domains) of the same network.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Routers are used to route data between two different networks, such as between a business network and the Internet.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/NOSThumbnail.jpg" class="floatPositioned" style="margin-top:20px;">
+					<h2>Network Operating Systems</h2>
+					<span class="prePseudoLi preContent10 strong">&nbsp;What software needs to run on computers attached to a client/server network, and how does this</span>
+						<h4 style="margin-top:0px;margin-left:95px;">software control network communications?</h4>
+					
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Network operating system (NOS) software needs to be installed on each computer and server connected to a client/server network in order to provide the services necessary for the devices to communicate.</span></li>
+						<li class="moreSpacing"><span class="innerLi">The NOS provides a set of common rules (called a <em>protocol</em>) that controls communication between devices on the network.</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<img src="assets/images/pics/clientSecurityThumbnail.jpg" class="floatPositioned" style="margin-top:20px;">
+					<h2>Network Security for Client/Servers Networks</h2>
+					<span class="prePseudoLi preContent11 strong">&nbsp;What measures are employed to keep large networks secure?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Access to most networks requires authentication procedures, such as having users enter a user ID and password, to ensure that only authorized users access the network.</span></li>
+						<li><span class="innerLi">The system administrator defines access privileges for users so that they can access only specific files.</span></li>
+						<li><span class="innerLi">Network equipment is physically secured behind locked doors, which are often protected by biometric authentication devices. Biometric devices, such as fingerprint/palm, facial-recognition, and retinal scanners, use unique physical characteristics of individuals for identification purposes. Firewalls are employed to keep hackers from attacking networks through Internet connections. Packets screeners review traffic going to and from the network to as certain whether the communication was generated by a legitimate user.</span></li>
+					</ul>
+					
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					<br>
+					<img src="assets/images/layout/techTouchS7.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+		</page>
+		
+		<page index="38" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 12 glossary//</div>
+					
+					<span class="strongDBlue" glossary>access card reader</span> 604<br/>
+					<span class="strongDBlue" glossary>access method</span> 586<br/>
+					<span class="strongDBlue" glossary>active topology</span> 588<br/>
+					<span class="strongDBlue" glossary>application server</span> 584<br/>
+					<span class="strongDBlue" glossary>authentication</span> 602<br/>
+					<span class="strongDBlue" glossary>authentication server</span> 583<br/>
+					<span class="strongDBlue" glossary>bastion host</span> 606<br/>
+					<span class="strongDBlue" glossary>biometric authentication device</span> 605<br/>
+					<span class="strongDBlue" glossary>bridge</span> 599<br/>
+					<span class="strongDBlue" glossary>brute force attack</span> 603<br/>
+					<span class="strongDBlue" glossary>bus (linear bus) topology</span> 586<br/>
+					<span class="strongDBlue" glossary>centralized</span> 578<br/>
+					<span class="strongDBlue" glossary>client/server network (server-based network)</span> 578<br/>
+					<span class="strongDBlue" glossary>cloud server</span> 585<br/>
+					<span class="strongDBlue" glossary>coaxial cable</span> 595<br/>
+					<span class="strongDBlue" glossary>communications server</span> 584<br/>
+					<span class="strongDBlue" glossary>CSMA/CD</span> 589<br/>
+					<span class="strongDBlue" glossary>data collision</span> 586<br/>
+					<span class="strongDBlue" glossary>database server</span> 584<br/>
+					<span class="strongDBlue" glossary>decentralized</span> 578<br/>
+					<span class="strongDBlue" glossary>dedicated server</span> 582<br/>
+					<span class="strongDBlue" glossary>device driver</span> 598<br/>
+					<span class="strongDBlue" glossary>electronic data interchange (EDI)</span> 580<br/>
+					<span class="strongDBlue" glossary>e-mail server</span> 584<br/>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="ColShiftSpacer"></div>
+				<span class="strongDBlue" glossary>extranet</span> 580<br/>
+				<span class="strongDBlue" glossary>fiber-optic cable</span> 595<br/>
+				<span class="strongDBlue" glossary>file server</span> 583<br/>
+				<span class="strongDBlue" glossary>frame</span> 599<br/>
+				<span class="strongDBlue" glossary>honey pot</span> 606<br/>
+				<span class="strongDBlue" glossary>hybrid topology</span> 590<br/>
+				<span class="strongDBlue" glossary>information assurance</span> 606<br/>
+				<span class="strongDBlue" glossary>intranet</span> 580<br/>
+				<span class="strongDBlue" glossary>jam signal</span> 589<br/>
+				<span class="strongDBlue" glossary>local area network (LAN)</span> 580<br/>
+				<span class="strongDBlue" glossary>media access control (MAC) address</span> 598<br/>
+				<span class="strongDBlue" glossary>network adapter</span> 596<br/>
+				<span class="strongDBlue" glossary>network administrator</span> 578<br/>
+				<span class="strongDBlue" glossary>network operating system (NOS)</span> 601<br/>
+				<span class="strongDBlue" glossary>network topology</span> 585<br/>
+				<span class="strongDBlue" glossary>Open Systems Interconnection (OSI)</span> 600<br/>
+				<span class="strongDBlue" glossary>packet screening</span> 606<br/>
+				<span class="strongDBlue" glossary>passive topology</span> 587<br/>
+				<span class="strongDBlue" glossary>possessed object</span> 602<br/>
+				<span class="strongDBlue" glossary>print queue</span> 583<br/>
+				<span class="strongDBlue" glossary>printer server</span> 583<br/>
+				<span class="strongDBlue" glossary>protocol</span> 585<br/>
+				<span class="strongDBlue" glossary>proxy server</span> 607<br/>
+				<span class="strongDBlue" glossary>ring (loop) topology</span> 587<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="39" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					
+					
+					
+					<span class="strongDBlue" glossary>router</span> 600<br/>
+					<span class="strongDBlue" glossary>scalability</span> 579<br/>
+					<span class="strongDBlue" glossary>shielded twisted-pair (STP) cable</span> 594<br/>
+					<span class="strongDBlue" glossary>star topology</span> 588<br/>
+					<span class="strongDBlue" glossary>switch</span> 599<br/>
+					<span class="strongDBlue" glossary>terminator</span> 587<br/>
+					<span class="strongDBlue" glossary>token</span> 587<br/>
+					<span class="strongDBlue" glossary>token method</span> 588<br/>
+					<span class="strongDBlue" glossary>transmission media</span> 593<br/>
+					<span class="strongDBlue" glossary>tunneling</span> 581<br/>
+					<span class="strongDBlue" glossary>twisted-pair cable</span> 594<br/>
+					<span class="strongDBlue" glossary>virtual private network (VPN)</span> 581<br/>
+					<span class="strongDBlue" glossary>virtualization</span> 585<br/>
+					<span class="strongDBlue" glossary>web server</span> 585<br/>
+					<span class="strongDBlue" glossary>wide area network (WAN)</span> 580<br/>
+					<span class="strongDBlue" glossary>wireless access point (WAP)</span> 597<br/>
+					<span class="strongDBlue" glossary>wireless network interface card (wireless NIC)</span> 597<br/>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="40" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...next semester//</div>
+					
+					<ol>
+						<li class="moreSpacing"><span class="innerLi">A Truly Wireless Campus</span><br/><span class="innerLi notStrong">Most schools have wireless networks mainly for students. School employees are still using desktop computers with wired connections because desktop computers are cheaper than laptops (for the same amount of computing power), and desktop computers don’t require as much maintenance and repair. Assuming your school decides to provide all employees with portable computing devices, draft a plan that covers:</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="innerLi notStrong">Which two departments should be converted to wireless first?</span></li>
+							<li><span class="innerLi notStrong">What benefits will the employees in these departments gain from wireless connectivity?</span></li>
+							<li><span class="innerLi notStrong">How will wireless devices allow these employees to better serve or interact with the students?</span></li>
+							<li><span class="innerLi notStrong">What guidelines should the school establish for use of the devices when they are off campus?</span></li>
+							<li><span class="innerLi notStrong">What precautions should the school take to help recover the devices in the event they are lost or stolen?</span></li>
+						</ol>
+						<li class="moreSpacing"><span class="innerLi">Establishing a Business Network</span><br/><span class="innerLi notStrong">You and your three friends want to market a new line of clothing to college students. You all attend colleges in different states. Ultimately, you might establish a manufacturing facility/sales office in each town where you all currently go to college. Therefore, you’ll </span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="noListStyle">
+						<li><span class="innerLi notStrong">eventually need networks in your businesses in four varied geographic locations. Research ISPs that operate in multiple states and find one that you think can support your business networking needs. Consider using VPNs for increased security. How much will it cost you to establish connectivity in a secure environment for four point-to-point connections? When you establish the offices, how much will it cost to connect four networks (in different states) with 20 nodes at each network? What speed of data lines will you need to use between the offices?</span></li>
+					</ol>
+					
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol>
+						<li class="moreSpacing"><span class="innerLi">Transitioning to Cloud Hosting</span><br/><span class="innerLi notStrong">The network administrator at the company for which you work has just quit. The company network has authentication, web, and database servers. The owner has asked you to investigate whether it’s feasible to use cloud servers to host the network. Investigate companies such as Rackspace Hosting (<span class="innerLi strongDBlue" onclick="window.open('http://rackspace.com','_blank')">rackspace.com</span>), GoGrid (<span class="innerLi strongDBlue" onclick="window.open('http://www.gogrid.com','_blank')">www.gogrid.com</span>), and NetDepot (<span class="innerLi strongDBlue" onclick="window.open('http:/netdepot.com','_blank')">netdepot.com</span>). Consider the following:</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="innerLi notStrong">Do these companies offer turnkey services that will manage entire networks? If turnkey services aren’t available, what servers can be hosted by these companies? What would be the cost of hosting services?</span></li>
+							<li><span class="innerLi notStrong">Research cloud hosting. What risks are posed by having servers hosted in the cloud?</span></li>
+							</ol>
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="41" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...the workplace//</div>
+					<ol class="noListStyle">
+						
+						<ol style="list-style-type:lower-alpha;">
+							<li class="liHide"></li>
+							<li class="liHide"></li>
+							<li class="moreSpacing"><span class="innerLi notStrong">Do you think it’s feasible to use cloud-hosting services and not hire a local network administrator? What potential problems do you see arising with this scenario?</span></li>
+						</ol></ol>
+						<ol class="noListStyle">
+						<li><span class="innerLi">Authentication on a Client/Server Network</span><br/><span class="innerLi notStrong">Authentication with login IDs and passwords is only secure if the login IDs are difficult to deduce and the passwords are secure. The company you work for establishes all login IDs as the first initial of the given name and the full surname of the employee (i.e., John Smith would have the login ID jsmith). Passwords can be as few as four letters or numbers and never have to be changed. Research password security and draft a memo for management that addresses the following:</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li class="moreSpacing"><span class="innerLi notStrong">Suggest a new scheme for creating login IDs that would be difficult for a hacker to ascertain.</span></li>
+							<li class="moreSpacing"><span class="innerLi notStrong">What length of passwords would you recommend? What combination of letters, numbers, and other symbols should they include?</span></li>
+							<li class="moreSpacing"><span class="innerLi notStrong">How often would you recommend that employees be required to change their passwords? Would employees ever be allowed to repeat previous passwords?</span></li>
+						</ol>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">team time//</div>
+					
+					<h3>Protecting Yourself from Data Breaches</h3>
+					
+					<h4>Problem</h4>
+					<p class="moreSpacing">Individuals are constantly supplying personal data to companies that store it in networks. Data breaches are a continuing concern for both individuals and the companies that need to protect the privacy of their customers.</p>
+					
+					<h4>Task</h4>
+					<p class="moreSpacing">Your campus bookstore recently suffered a major data breach, and a number of students subsequently had their identities stolen. The vice president of academic affairs has asked your instructor to have your class prepare guidelines that students can use to guard against identity theft from data breaches.</p>
+					
+					<h4>Process</h4>
+					<ol>
+						<li><span class="innerLi notStrong">Divide the class into small teams.</span></li>
+						<li><span class="innerLi notStrong">Research major data breaches that have occurred recently. Determine what types of information were illegally accessed and determine how this information could be misused, such as identity theft, spear phishing, and so on. Prepare a suggested list of information that either should never be given out or should only be given out to trusted, reputable companies with no history of data breaches. </span></li>
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="42" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">team time//</div>
+					<ol class="noListStyle">
+						<li><span class="innerLi notStrong">Determine if anyone in your group has personal experience with identity theft, either through being a victim or by having family or friends who were victims of identity theft. Research ways to prevent identity theft and to resolve the problems associated with identity theft after it has occurred.</span></li>
+					</ol>
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong">Meet as a class to discuss each group’s findings. Do you feel most students are aware of the consequences of data breaches and identity theft? Would most students know what to do if their identities had been stolen? Try to obtain a consensus about which precautions are the most important ones to take to protect yourself.</span></li>
+						<li><span class="innerLi notStrong">Have each group prepare a multimedia presentation (PowerPoint, video, etc.) to educate the college community about data breaches and identity theft based on the results of the class discussion. Make sure that the presentations adequately explain any potentially unfamiliar concepts (such as what exactly is a data breach) to ensure all viewers of the presentation will be on an equal footing.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p class="moreSpacing">Having our personal data stored in more networks with more companies is a fact of life in the twenty-first century. But the best defense against misuse of your data is to understand the consequences of data breaches and the ways to protect yourself against cybercrimes such as identity theft.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+					
+					<h3>Using Wireless Networks Without Permission</h3>
+					<p class="moreSpacing">In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play might not match your own personal beliefs, but your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the argument, and together, the team will agree on an ethical solution.</p>
+					
+					<h4>Problem</h4>
+					<p class="moreSpacing">Piggybacking occurs when people use a wireless network without the permission of the owner. Although piggybacking is illegal in many jurisdictions, it’s often hard to detect. Piggybacking often happens inadvertently when people trying to connect to their own home network accidentally connect to their neighbor’s wireless network. With the proliferation of wireless networks, many businesses have set up networks for their customers. However, because of the close proximity of many businesses to each other in areas such as shopping centers, the potential for inadvertent (or intentional) piggybacking of wireless networks exists. Sharing wireless connections between two entities (whether they be two households or two businesses) may violate the terms of service of the Internet service provider. And although wireless networks can be secured, it’s often easier on the customers to leave them completely open, which can encourage piggybacking. </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="43" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+					
+					<h4>Research Areas to Consider</h4>
+					<span class="psudoUlLi">Detecting wireless piggybacking</span>
+					<span class="psudoUlLi">Piggybacking laws (legality of piggybacking)</span>
+					<span class="psudoUlLi">Securing wireless networks</span>
+					
+					<h4>Process</h4>
+					<ol>
+						<li class="moreSpacing"><span class="innerLi notStrong">Divide the class into teams.</span></li>
+						<li class="moreSpacing"><span class="innerLi notStrong">Research the areas cited above and devise a scenario in which the owner of a coffee shop at a shopping center has accused the proprietor of the sandwich shop next door of encouraging the sandwich shop’s patrons to piggyback on the coffee shop’s wireless network.</span></li>
+						<li class="moreSpacing"><span class="innerLi notStrong">Team members should write a summary that provides background  information for their character—for example, coffee shop owner, sandwich shop owner, and shopping center manager (arbitrator)— and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the roleplaying event.</span></li>
+						<li class="moreSpacing"><span class="innerLi notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="moreSpacing"><span class="innerLi notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p class="moreSpacing">As technology becomes ever more prevalent and integrated into our lives, ethical dilemmas will present themselves to an increasing extent. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+				]]>
+			</section>
+		</page>
+
+	
+	
+	</chapter>
+</ebook>	

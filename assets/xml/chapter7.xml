@@ -1,0 +1,2292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+<chapter index="7" title="" glossary="38" secondGlossary="62">
+
+<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top:32px;">
+						Networking:<br/>Connecting<br/>Computing Devices</div>	
+				<div class="chapterStartNumber">7</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">How Networks Function</span>
+					<img src="assets/images/pics/networkFun.jpg" style="margin-top:-27px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">Networking Fundamentals</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">1.</span> What is a network, and what are a network’s advantages and disadvantages?<span class="strongDBlue" onclick="compTia.switchPage(0,3)"> (pp. 294-295)</span></li>
+					</ul>
+					
+					<div class="activeHelpdesk TMargin5"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_17.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Understanding Networking
+					</div>
+					
+					<hr class="clearRight" style="margin-top:2px;">
+					
+					<img src="assets/images/pics/networkArch.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,5)">Network Architecture and Components</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">2.</span> What are the different ways to classify networks? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,5)">(pp. 296-297)</span></li>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">3.</span> Which type of network is most commonly found in the home? <span class="strongDBlue" onclick="compTia.switchPage(0,6)">(pp. 297-298)</span></li>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">4.</span> What are the main components of every network? <span class="strongDBlue" onclick="compTia.switchPage(0,8)">(pp. 299-303)</span></li>
+					</ul>
+						
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/internetConnection.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,12)">Connecting to the Internet</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">5.</span> What are my options for connecting to the Internet? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,12)">(pp. 303–307)</span></li>
+					</ul>
+					
+					<div class="soundByte TMargin5"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/connecting_to_the_internet/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Connecting to the Internet
+					</div>
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_08.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Connecting to the Internet
+					</div>
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,19)">Your Home Network</span>
+					<img src="assets/images/pics/houseNetwork.jpg" style="margin-right:0px;margin-bottom:8px;margin-top:-27px;"/>
+					<span class="orangeHeading" style="margin-bottom:0px;" onclick="compTia.switchPage(0,19)">Installing and <br/>Configuring Home Networks</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber lessSpacing">6.</span> How do I tell if my home network is up to date, and how do I identify the devices on the network? <span class="strongDBlue" onclick="compTia.switchPage(0,19)">(pp. 310-311)</span></li>
+						<li style="margin-right:-55px;width:380px;"><span class="ul1DigNumber lessSpacing">7.</span> Besides computers, what other devices can I connect to a home network? <span class="strongDBlue" onclick="compTia.switchPage(0,20)">(pp. 311-316)</span></li>
+						<li style="margin-right:-55px;width:380px;"><span class="ul1DigNumber lessSpacing">8.</span> How do I configure the software on my computer and set up other devices to get my network up and running? <span class="strongDBlue" onclick="compTia.switchPage(0,26)">(pp. 317-318)</span></li>
+						<li style="margin-right:-55px;width:380px;"><span class="ul1DigNumber lessSpacing">9.</span> What problems might I encounter when setting up a wireless network? <span class="strongDBlue" onclick="compTia.switchPage(0,27)">(pp. 318-320)</span></li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/installing_a_home_network/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Installing a Home Computer Network
+					</div>
+					
+					
+					<hr>
+					
+					<img src="assets/images/pics/wirelessSecuring.jpg" style="margin-right:0px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,30)" style="margin-bottom:0px;">Securing Wireless Networks</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">10.</span> Why are wireless networks more vulnerable to security risks than wired networks, and what special precautions are required to ensure my wireless network is secure? <span class="strongDBlue" onclick="compTia.switchPage(0,30)">(pp. 321–323)</span></li>
+					</ul>
+					
+					<div class="soundByte TMargin5"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/securing_your_wireless_network/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Securing Wireless Networks
+					</div>
+					
+					
+					<hr>
+					
+					
+					
+					
+					
+
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right:-29px;margin-bottom:25px;">
+							(Sergej Khackimullin/Fotolia; AKS/Fotolia; ktsimage/iStockphoto; Norebbo/Shutterstock; alengo/iStockphoto)
+					</span>
+					<div class="loader"></div>
+				]]>
+			</section>
+		</page>	
+		
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+					
+					<div style="width:110%;height:100%;
+							background:no-repeat url(assets/images/figures/worldConnection.jpg) -16px 0"></div></div>
+							<div class="font_9 floatLeft"
+								 style="margin-top:-7px;font-style: italic;">
+								 </div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">As you know, wireless connectivity isn’t always free. You may have <strong>multiple mobile devices</strong>, each requiring Internet access. Some may need a 3G/4G monthly data plan, whereas others may be WiFi only. <strong>Connectify</strong> is software that takes an <strong>existing Internet connection</strong> and turns it into a wireless <strong>hotspot</strong>. So if you’re connected to the Internet on your Windows notebook or Android phone or tablet, the Connectify software turns your computing device into a wireless hotspot so that you can <strong>connect all your WiFi-enabled devices</strong>, such as a phone or gaming system, through the <strong>same Internet connection</strong>. The hotspot you create features easy connectivity and encryption of data for solid security.</p>
+					
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap7ArrSchip_computer.png')" onclick="window.open('http://www.connectify.me','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">How Networks Function</div>
+					<p class="digCompP">You access wired and wireless networks all the time—when you use an ATM, print out a document, or use the Internet (the world’s largest network). It’s important to understand the fundamentals of networking, such as how networks are set up, what devices are necessary to establish a network, and how you can access a network so that you can share, collaborate, and exchange information between your friends, family, and colleagues.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/networkFunThumbnail.jpg)">
+						<div class="orange">networking</div>
+						<div class="blue" style="margin-left:102px;">Fundamentals</div>
+					</div>
+					
+					<p class="moreSpacing">Many of today’s homes have more than one computing device capable of connecting to the Internet. A typical family engages in many activities that involve sharing and accessing files over and from the Internet and using a variety of Internet-connected devices (<span class="strongDBlue" onclick="compTia.togglePopup(3,0)">see Figure 7.1</span>). What makes all this technology transfer and sharing possible? A computer network!</p>
+					<p class="start moreSpacing">A computer <span class="strongDBlue" glossary>network</span> is simply two or more computers that are connected via software and hardware so they can communicate with each other. Each device connected to a network is referred to as a <span class="strongDBlue" glossary>node</span>. A node can be a computer, a peripheral such as a printer or a game console, or a network device such as a router.</p>
+					<p class="start moreSpacing"><strong>What are the benefits of networks?</strong> There are several benefits to having computers networked:</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Sharing an Internet connection:</em> A network lets you share the high-speed Internet connection coming into your home.</span></li>
+						<li><span class="innerLi"><em>Sharing printers and other peripherals:</em> Networks let you share printers and other peripheral devices. For example, say you have a laptop that isn’t connected to a printer. To print a document from your laptop without a network, you would need to transfer the file using a flash drive or other device to another computer that’s connected to a printer or carry your laptop to the printer and connect your laptop to it. With a network, you can print directly from your device even if it’s not physically connected to the printer.</span></li>
+					</ul>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(3,0)"
+						style="height: 265px;background: url(assets/images/figures/fig7.1.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.1</span> With a home network, all family members can connect their computing devices whenever and wherever they want.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Sharing files:</em> You can share files between networked computers without having to use portable storage devices such as flash drives to transfer the files. In addition, you can set sharing options in Windows or OS X that let the user of each computer on the network access files stored on any other computer on the network. For example, the Windows network in <span class="strongDBlue" onclick="compTia.togglePopup(4,0)">Figure 7.2</span> has five computers attached to it. ALANDESKTOP, ALAN-NOTEBOOK, and PAT-NOTEBOOK are running Windows. The two MACBOOKs are running OS X. The Public folders enable file sharing because the user of any computer on the network can access the Public folder’s contents.</span></li>
+						<li><span class="innerLi"><em>Common communications:</em> As illustrated in <span class="strongDBlue" onclick="compTia.togglePopup(4,0)">Figure 7.2</span>, computers running different operating systems can communicate on the same network.</span></li>
+					</ul>
+					
+					<p class="start"><strong>Are there disadvantages to setting up networks?</strong> Fortunately, after most home networks have been set up, there isn’t much else that needs to be done to maintain or administer the network; therefore, the benefits of using a network outweigh the disadvantages. However, large networks involve an initial purchase of equipment to set them up. They also need to be administered, which can be costly and time consuming. <span class="strongDBlue" glossary>Network administration</span> involves tasks such as:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Installing new computers and devices</span></li>
+						<li><span class="innerLi">Monitoring the network to ensure it’s performing efficiently</span></li>
+						<li><span class="innerLi">Updating and installing new software on the network, and</span></li>
+						<li><span class="innerLi">Configuring, or setting up, proper security for a network</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_17.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Understanding Networking
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about home networks—their advantages, their main components, and the most common types—as well as about wireless networks and how they are created.
+					</div></div>
+				
+					<p class="start"><strong>How fast does data move through networks?</strong> <span class="strongDBlue" glossary>Data transfer rate</span> (also called <span class="strongDBlue" glossary>bandwidth</span>) is the maximum speed at which data can be transmitted between two nodes on a network. <span class="strongDBlue" glossary>Throughput</span> is the actual speed of data transfer that is achieved. Throughput is always less than or equal to the data transfer rate. Data transfer rate and throughput are usually measured in <em>megabits per second</em> (<em>Mbps</em>). A megabit is one million bits. One of the main factors that determines how fast data moves is the type of network, which we’ll discuss later in this chapter.</p>
+					
+					
+					<figure style="background:url(assets/images/figures/fig7.2.jpg) no-repeat scroll 106px 0px transparent;
+							    height: 235px;
+								margin-bottom: 5px;">
+								<div onclick="compTia.togglePopup(4,0)" style="
+									height: 182px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_7_2.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 7.2</span> File Explorer (previously called Windows Explorer) shows five networked computers set up for sharing.
+						</figcaption></figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO shiftLeft12" style="background-image:url(assets/images/pics/networkArchThumbnail.jpg)">
+						<div class="dblue">network</div>
+						<div class="orange" style="margin-left:108px;">Architectures</div>
+					</div>
+					
+					<p class="lessSpacing">The network you have in your home differs greatly in terms of its size, structure, and cost from the one on your college campus. This difference is based in part on their network architectures. <span class="strongDBlue" glossary="Network architecture">Network architectures</span>, or network designs, are classified according to:</p>
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi">The distance between their nodes</span></li>
+						<li class="lessSpacing"><span class="innerLi">The way in which they are managed (or administered)</span></li>
+						<li class="lessSpacing"><span class="innerLi">The set of rules (or <em>protocol</em>) used to exchange data between network nodes, and</span></li>
+						<li class="lessSpacing"><span class="innerLi">The communications medium used to transport the data</span></li>
+					</ul>
+					
+					<p class="lessSpacing">Next we’ll look at all of these factors plus the hardware that is often used on networks.</p>
+					
+					<h2 class="blueHeading noTMargin">Network Architectures Defined by Distance</h2>
+					<p class="lessSpacing"><strong>How does the distance between nodes define a network?</strong> The distance between nodes on a network is one way to describe a network. The following are common types of networks (<span class="strongDBlue" onclick="compTia.togglePopup(5,0)">see Figure 7.3</span>):</p>
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>personal area network (PAN)</span> is a network used for communication among devices close to one person, such as smartphones, notebooks, and tablets using wireless technologies such as Bluetooth and WiFi.</span></li>
+						<li class="lessSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>local area network (LAN)</span> is a network in which the nodes are located within a small geographic area. Examples include a network in a computer lab at school or at a fast-food restaurant.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>home area network (HAN)</span> is a specific type of LAN located in a home. HANs are used to connect all of a home’s digital devices, such as computers, peripherals, phones, gaming devices, digital video recorders (DVRs), and televisions.</span></li>
+						<li class="lessSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>metropolitan area network (MAN)</span> is a large network designed to provide access to a specific geographic area, such as an entire city. Many U.S. cities are now deploying MANs to provide Internet access to residents and tourists. Some MANs employ WiMAX wireless technology that extends local WiFi networks across greater distances.</span></li>
+					</ul>
+					<br/>
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight">Networks</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(5,0)" style="    background: url(assets/images/figures/fig7.3.jpg) no-repeat scroll 68px 34px #FFFFFF; height: 274px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 7.3</strong> Click to view the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 7.3</span> Networks can be classified by the distance between their nodes. <br/><em>(Fenton/Fotolia; redline1980/Fotolia; SiuWing/Shutterstock; lucadp/Shutterstock)</em>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>wide area network (WAN)</span> spans a large physical distance. The Internet is the largest WAN, covering the globe. A WAN is also a networked collection of LANs. If a school has multiple campuses located in different towns, each with its own LAN, connecting the LANs of each campus by telecommunications lines allows the users of the LANs to communicate. All the connected LANs would be described as a single WAN.</span></li>
+					</ul>
+					
+					<br/>
+					<h2 class="blueHeading">Network Architectures Defined by Levels of Administration</h2>
+					<p><strong>How does the level of administration define a network?</strong> A network can be administered, or managed, in two main ways—centrally or locally (<span class="strongDBlue" onclick="compTia.togglePopup(6,2)">see Figure 7.4</span>):</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Central administration:</em> In a centrally administered network, tasks performed from one computer can affect the other computers on the network. A <span class="strongDBlue" glossary>client/server network</span> is an example. In a client/server network, a <em>client</em> is a computer on which users accomplish tasks and make requests, whereas the <em>server</em> is the computer that provides information or resources to the client computers as well as central administration for network functions such as printing. Most networks that have 10 or more nodes are client/server networks.</span></li>
+					</ul>
+					
+					<div onclick="compTia.togglePopup(6,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						PAN Clothing: Organization and Power for Portable Gear
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Local administration:</em> In a locally administered network, the configuration and maintenance of the network must be performed on each individual computer attached to the network. A <span class="strongDBlue" glossary>peer-to-peer (P2P) network</span> is an example. In a P2P network, each node connected on the network can communicate directly with every other node on the network. Thus, all nodes on this type of network are peers (equals).</span></li>
+					</ul>
+					
+					<a onclick="compTia.togglePopup(6,1)" class="readMore TMargin5 BMargin10"></a>
+					
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19">Client/Server and P2P Networks</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(6,2)" style="    background: url(assets/images/figures/fig7.4.jpg) no-repeat scroll 11px 37px #FFFFFF; height: 310px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 7.4</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span><em>(Scanrail/Fotolia; Scanrail/Fotolia; tuulijumala/Fotolia; Scanrail/Fotolia; Sashkin/Fotolia; Maksym  Dykha/Fotolia)</em>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Ethernet Protocols</h2>
+					<p class="moreSpacing"><strong>What network standard is used in my home network?</strong> The vast majority of home and corporate networks are Ethernet networks. An <span class="strongDBlue" glossary>Ethernet network</span> is so named because it uses the Ethernet protocol as the means (or standard) by which the nodes on the network communicate.</p>
+					<p class="start moreSpacing">The Ethernet protocol was developed by the Institute of Electrical and Electronics Engineers (IEEE), which develops many standard specifications for electronic data transmission that are adopted throughout the world. Establishing standards for networking is important so that devices from different manufacturers will work well together. The standard for wired Ethernet networks is 802.3. The standard for wireless Ethernet networks, also known as WiFi, is 802.11. The current version of wireless Ethernet is 802.11n. Previous versions included 802.11g, 802.11b, and 802.11a.</p>
+					
+					<p class="start moreSpacing"><strong>How is the 802.11n version different from the previous versions?</strong> The current wireless Ethernet standard, 802.11n, is faster and has a better signal range than the earlier 802.11g standard. In addition, the 802.11n standard operates at either a 2.4 GHz or a 5 GHz frequency, whereas most prior standards operated only at the 2.4 GHz frequency.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">This means the 802.11n standard is more resistant to signal interference from outside sources. 802.11n is now the most desirable wireless option for home networks; however, a newer standard, 802.11ac, is currently being reviewed. 802.11ac is proposed to be twice as fast as 802.11n and will run at a 5-GHz bandwidth.</p>
+					
+					<p class="start moreSpacing"><strong>Will my device that has 802.11g WiFi still work on an 802.11n network?</strong> Devices using older standards, such as 802.11g, will still work with 802.11n networks, but they’ll operate with slower data transfer rates and may run into some frequency interference. The ability of current devices to use earlier standards in addition to the current standard is known as <span class="strongDBlue" glossary>backward compatibility</span>.</p>
+					
+					<p class="start moreSpacing"><strong>Are there different standards for wired Ethernet?</strong> The most commonly used wired Ethernet standard for home networks is the <span class="strongDBlue" glossary>gigabit Ethernet</span> standard. A data transfer rate of up to 1 gigabit per second (Gbps) is possible using this standard. Computers generally ship with gigabit Ethernet cards installed in them.</p>
+					<p class="start moreSpacing">For even faster data transfer speeds, <em>10 gigabit Ethernet</em> is available. It provides a maximum data transfer rate of 10 Gbps. But 10-gigabit Ethernet networks are primarily used in businesses with large data throughput needs.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/networkArchThumbnail.jpg)">
+						<div class="orange">network</div>
+						<div class="blue" style="margin-left: 98px;">COMPONENTS</div>
+					</div>
+					
+					<p class="lessSpacing">To function, all networks must include:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">A means of connecting the nodes on the network (cables or wireless technology)</span></li>
+						<li><span class="innerLi">Special hardware devices that allow the nodes to communicate with each other and to send data</span></li>
+						<li><span class="innerLi">Software that allows the network to run (<span class="strongDBlue" onclick="compTia.togglePopup(8,0)">see Figure 7.5</span>)</span></li>
+					</ul>
+					
+					<h2 class="blueHeading">Transmission Media</h2>
+					<p class="lessSpacing"><strong>How do nodes connect to each other?</strong> All network nodes are connected to each other and to the network by transmission media. <span class="strongDBlue" glossary>Transmission media</span> can be either wired or wireless; they establish a communications channel between the nodes on a network. The media used depend on the requirements of a network and its users.</p>
+					<p class="start lessSpacing"><strong>What transmission media is used on a wired network?</strong> Wired networks use various types of cable (wire) to connect nodes (<span class="strongDBlue" onclick="compTia.togglePopup(9,0)">see Figure 7.6</span>). The type of network and the distance between nodes determines the type of cable used:</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><span class="strongDBlue" glossary>Twisted-pair cable</span> is made up of copper wires that are twisted around each other and surrounded by a plastic jacket. Normal telephone cable is a type of twisted-pair cable, although phone cable won’t work for connecting a LAN or HAN. A slightly different type of twisted-pair </span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+						<figure onclick="compTia.togglePopup(8,0)" style="    background: url(assets/images/figures/fig7.5.jpg) no-repeat scroll 58px 20px #FFFFFF; height: 250px; overflow: hidden;">
+							
+							<figcaption class="bottomPos"><span>Figure 7.5</span> Network Components <em style="margin-left:0px;">(Okea/iStockphoto.com;Sergii Korolko/Shutterstock; Epson; vectorlib-com/Shutterstock; hanibaram/ iStockphoto; Norman Chan/Shutterstock)</em></figcaption>
+						</figure>
+					
+					
+					<p class="Lmargin15 TMargin15">cable, called <span class="strongDBlue" glossary="unshielded twisted-pair (utp) cable">unshielded twisted pair (UTP) cable</span>, is used for networks. UTP is composed of four pairs of wires twisted around each other to reduce electrical interference.</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><span class="strongDBlue" glossary>Coaxial cable</span> consists of a single copper wire surrounded by layers of plastic. If you have cable TV, the cable running into your TV or cable box is most likely coaxial cable.</span></li>
+						<li><span class="innerLi"><span class="strongDBlue" glossary>Fiber-optic cable</span> is made up of plastic or glass fibers that transmit data at extremely fast speeds.</span></li>
+					</ul>
+					
+					<p class="start"><strong>What type of cable is used in most wired home networks?</strong> The most popular transmission media option for wired Ethernet networks is UTP cable. You can buy UTP cable in varying lengths with Ethernet connectors </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(9,0)"
+						style="height: 170px;background: url(assets/images/figures/fig7.6.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.6</span>  Wired Transmission Media <em>(deepspacedave/Shutterstock; zwola fasola/ Shutterstock; zentilia/Shutterstock)</em></figcaption>
+   			</figure>
+					
+				<br/>	
+					<p>(called RJ-45 connectors) already attached. Ethernet connectors resemble standard phone connectors (called RJ-11 connectors) but are slightly larger and have contacts for eight wires (four pairs) instead of four wires.</p>
+					<p class="start"><strong>Do all wired Ethernet networks use the same kind of UTP cable?</strong> The three main types of UTP cable you would consider using 
+in wired Ethernet home networks and their data transfer rates are as follows (<span class="strongDBlue" onclick="compTia.togglePopup(9,1)">see Figure 7.7</span>):</p>
+					
+					<ol>
+						<li><span><em>Cat 5E</em>: Although Cat 5E cable is the cheapest of the three types and is sufficient for many home networking tasks, it was designed for 100 Mbps–wired Ethernet networks that were popular before gigabit Ethernet networks became the standard. Therefore, you should probably not install Cat 5E cable even though it’s still available in stores.<span></li>
+						<li><span><em>Cat 6</em>: Because <span class="strongDBlue" glossary>Cat 6 cable</span> is designed to achieve data transfer rates that support a gigabit Ethernet network, it’s probably the best choice for home networking cable, though it’s more expensive and more difficult to work with than Cat 5E cable.<span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(9,1)"
+						style="height: 250px;background: url(assets/images/figures/fig7.7.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.7</span> The three main UTP cable types used in home networks have <br/>different data transfer rates.</figcaption>
+   			</figure>
+					
+				<br/>
+					
+					<ol>
+						<li class="liHide"><span></span></li>
+						<li class="liHide"><span></span></li>
+						<li><span><em>Cat 6a</em>: Cat 6a cable is designed for ultra-fast Ethernet networks that run at speeds as fast as 10 Gbps. Installing a 10-gigabit Ethernet network in the home is probably unnecessary because today’s home applications (even gaming and streaming media) don’t require this rate of data transfer.<span></li>
+					</ol>
+					
+					<p class="start"><strong>What transmission media is used to connect nodes on a wireless network?</strong> <span class="strongDBlue" glossary>Wireless fidelity (WiFi)</span> is a standard for wireless transmissions using radio waves to connect computing devices to wireless networks and the Internet. With so many portable devices being connected to networks, a network with wireless connectivity is used in businesses as well as in most homes. However, note that wireless networks generally have decreased throughput compared with that of wired networks.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					
+					<p class="start moreSpacing"><strong>Why are wireless networks slower than wired networks?</strong> Some common reasons why wireless signals may have decreased throughput are:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Wireless signals are more susceptible to interference from magnetic and electrical sources.</span></li>
+						<li><span class="innerLi">Other wireless networks (such as your neighbor’s network) can interfere with the signals on your network.</span></li>
+						<li><span class="innerLi">Certain building materials (such as concrete and cinder block) and metal (such as a refrigerator) can decrease throughput.</span></li>
+						<li><span class="innerLi">Throughput varies depending on the distance between your networking equipment.</span></li>
+						<li><span class="innerLi">Wireless networks usually use specially coded signals to protect their data, whereas wired connections don’t protect their signals. This process of coding signals can slightly decrease throughput, although once coded, data travels at usual speeds.</span></li>
+					</ul>
+					
+					<p class="start moreSpacing"><strong>Can I have both wired and wireless nodes on the same network?</strong> One network can support nodes with both wireless and wired connections. Most people use wireless connections for portable devices such as laptops. However, many of the devices connected to a network, such as printers and TVs, usually stay in one location. Although these devices probably feature wireless connectivity, hooking them up to wired connections lets you take advantage of the faster throughput achieved by wired connectivity. And in situations where you want to achieve the highest</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>possible throughput on your portable device, you may want to use a wired connection temporarily.</p>
+					
+					<br/>
+					<h2 class="blueHeading">Basic Network Hardware</h2>
+					<p><strong>What hardware is needed for different nodes on the network to communicate?</strong> For the different nodes on a network to communicate with each other and access the network, each node needs a <span class="strongDBlue" glossary>network adapter</span>. All desktop and laptop computers (and many peripherals) sold today contain network adapters installed <em>inside</em> the device. This type of integrated network adapter is referred to as a <span class="strongDBlue" glossary>network interface card (NIC)</span>. Different NICs are designed to use different types of transmission media. Most NICs included in computing devices today are built to use wireless media, but many can use wired media as well.</p>
+					<p class="start"><strong>What equipment do I need in order to hook up to broadband?</strong> A broadband Internet connection requires a modem. Depending on the type of broadband service you have, you’ll have either a cable modem or a DSL modem. Often, your Internet service provider will rent the appropriate modem to you or specify what type of modem you have to buy to work properly with the Internet service provider’s technology. The modem translates the broadband signal into digital data and back again.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start lessSpacing"><strong>What hardware is necessary to transmit data through a network?</strong> Data is sent through a network in bundles called <span class="strongDBlue" glossary="packet (data packet)">packets</span>. For computers to communicate, these packets of data must be able to flow between network nodes. <span class="strongDBlue" glossary="network navigation device">Network navigation devices</span>, such as a router or a switch, facilitate and control the flow of data through a network:</p>
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>router</span> transfers packets of data between two or more networks. On a home network, you need a router to transfer data between your home network and the Internet, which is considered a separate network. To add WiFi to your home network, you need a router that features wireless capabilities.</span></li>
+						<li class="lessSpacing"><span class="innerLi">A  <span class="strongDBlue" glossary>switch</span> acts like a traffic signal on a network (<span class="strongDBlue" onclick="compTia.togglePopup(11,0)">see Figure 7.8</span>). All routers sold for home use have integrated switches. Switches receive data packets and send them to their intended nodes on the same network (not between different networks). During the transmission process, data packets can suffer collisions; subsequently, the data in them is damaged or lost and the network doesn’t function efficiently. The switch keeps track of the data packets and, in conjunction with NICs, helps the data packets find their destinations without running into each other. The switch also keeps track of all the nodes on the network and sends the data packets directly to the node for which they’re headed. This keeps the network running efficiently.</span></li>
+					</ul>
+					
+					<p class="start lessSpacing"><strong>Where should you place the router on your network?</strong> Your router should be connected directly to your broadband (cable/DSL) modem (<span class="strongDBlue" onclick="compTia.togglePopup(11,1)">see Figure 7.9</span>). The connection should be an Ethernet cable running from </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(11,0)"
+						style="height: 256px;background: url(assets/images/figures/fig7.8.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.8</span> A simplified explanation of the function of switches is that, together with NICs, they act like traffic signals or traffic cops. They enforce the rules of the data road on an Ethernet network and help prevent data packets from crashing.</figcaption>
+   			</figure>
+			
+			<br/>
+				<figure onclick="compTia.togglePopup(11,1)"
+						style="height: 263px;background: url(assets/images/figures/fig7.9.jpg) no-repeat scroll 15px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.9</span> A small network with a wired/wireless router attached. <em>(Beboy/Fotolia; Norman Chan/Shutterstock; Arkadiusz Stachowski/ iStockphoto; KO/Shutterstock; Luca di Filippo/iStockPhoto.com; duckycards/Jill Fromer/iStockphoto)into each other.</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">an Ethernet port on your modem to the modem port on your router. Then, all computing devices—such as an HDTV, a tablet, and a laptop—are connected to the router via a wired or wireless connection. Some routers have integrated modems so that you only need one device.</p>
+				<br/>	
+					<h2 class="blueHeading">Network Software</h2>
+					<p class="moreSpacing"><strong>What network software do home networks require?</strong> Because home networks are P2P networks, they need operating system software that supports P2P networking. Windows, OS X, and Linux all support P2P networking. You can connect computers running any of these operating systems to the same home network.</p>
+					<p class="start moreSpacing"><strong>Is the same network software used in client/server networks?</strong> As opposed to P2P networks, the nodes on a client/server network don’t communicate directly with each other; rather, they communicate through a centralized server. Communicating through a server is more efficient in a network with a large number of nodes, but it requires more complex software than is necessary for P2P networks. Therefore, the servers on client/server networks have specialized <span class="strongDBlue" glossary>network operating system (NOS)</span> software installed. This software handles requests for information, Internet access, and the use of peripherals for the rest of the network nodes. Examples of NOS software include Windows Server and SUSE Linux Enterprise Server.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO bgPosition00" style="background-image:url(assets/images/pics/internetConnectionThumbnail.jpg)">
+						<div class="dblue" style="margin-left:59px; color:#166beb">connecting</div>
+						<div class="orange" style="margin-left: 100px">to the Internet</div>
+					</div>
+					
+					<p>One of the main reasons for setting up a network is to share an Internet connection. Some businesses and large organizations have a dedicated connection to the Internet, but other businesses and homeowners purchase Internet access from <span class="strongDBlue" glossary="internet service provider (isp)">Internet service providers (ISPs)</span>. ISPs may be specialized providers, like Juno, or companies like Comcast that provide additional services, such as phone and cable TV. Broadband is the preferred way to access the Internet, but in some situations, cellular or dial-up access may be necessary.</p>
+					<br/>
+					<h2 class="blueHeading">Wired Broadband Internet Connections</h2>
+					<p class="lessSpacing"><strong>What exactly is broadband Internet access?</strong> <span class="strongDBlue" glossary>Broadband</span>, often referred to as “high-speed Internet,” refers to a type of connection that offers a faster means to connect to the Internet. Broadband usually has a data transmission rate of 5 Mbps (megabits per second) or greater. This high rate of access is in contrast to dial-up Internet access, which has a maximum transmission speed of 56 Kbps (kilobits per second).</p>
+					<p class="start lessSpacing"><strong>What types of broadband are available?</strong> As shown in <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 7.10</span>, the standard wired broadband technologies in most areas are <em>cable, DSL (digital subscriber line), and fiber-optic service. Satellite broadband</em> is used mostly in rural or mountain areas that can’t get DSL, cable, or fiber-optic service.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">There are also wireless broadband options. <em>Mobile broadband</em> is offered through many cell-phone service providers through 3G and 4G networks. <em>Wireless Internet (WiFi)</em> is also available via radio waves. We’ll discuss these options later in the chapter.</p>
+					<p class="start"><strong>How does cable Internet work?</strong> <span class="strongDBlue" glossary>Cable Internet</span> is a broadband service that transmits data over the coaxial cables that also transmit cable television signals; however, cable TV and cable Internet are separate services. Cable TV is a one-way service in which the cable company feeds programming signals to your television. To bring two-way Internet connections to homes, cable companies had to upgrade their networks with two-way data-transmission capabilities.</p>
+					
+				<br/>	
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19">Wired Broadband Internet Options</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(13,0)" style="    background: url(assets/images/figures/fig7.10.jpg) no-repeat scroll 12px 37px #FFFFFF; height: 218px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 7.10</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/connecting_to_the_internet/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Connecting to the Internet
+						</div>
+						In this Sound Byte, you’ll learn the basics of connecting to the Internet from home, including useful information on the various types of Internet connections and selecting the right ISP.
+					</div></div>
+					
+					<p class="start"><strong>How does DSL work?</strong> <span class="strongDBlue" glossary="digital subscriber line (dsl)">DSL (digital subscriber line)</span> uses twisted-pair cable, the same as that used for regular telephones, to connect your computer to the Internet. The bandwidth of the wires is split into three sections, like a three-lane highway. One lane is used to carry voice data. DSL uses the remaining two lanes to send and receive data separately at much higher frequencies than voice data. Although DSL uses a standard phone line, having a traditional phone line in your house doesn’t mean you have access to DSL service. Your local phone company must have special DSL technology to offer you the service.</p>
+					<p class="start"><strong>How does fiber-optic service work?</strong> <span class="strongDBlue" glossary>Fiber-optic service</span> uses fiber-optic lines, which are strands of optically pure glass or plastic that are as thin as a human hair. They’re arranged in bundles called <em>optical cables</em> and transmit data via light signals over long distances. Because light travels so quickly, this technology can transmit an enormous amount of data at superfast speeds. When the data reaches your house, it’s converted to electrical pulses that transmit digital signals your computer can “read.” Fiber-optic cable is not usually run inside the home. On a fiber-optic network, twisted-pair or coaxial cable is still used inside the home to transport the network signals.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(14,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Blazingly Fast Wireless Connections on the Horizon
+					</div>
+					
+					<p class="start"><strong>How does satellite Internet work?</strong> To take advantage of <span class="strongDBlue" glossary>satellite Internet</span>, you need a satellite dish (<span class="strongDBlue" onclick="compTia.togglePopup(14,2)">see Figure 7.11</span>), which is placed outside your home and connected to your computer with coaxial cable, the same type of cable used for cable TV. Data from your computer is transmitted between your personal satellite dish and the satellite company’s receiving satellite dish by a satellite that sits in a geosynchronous orbit thousands of miles above the Earth.</p>
+					<p class="start"><strong>How do I choose which broadband connection option is best for me?</strong> Depending on where you live, you might not have a choice of the broadband connection available. Check with your local cable TV provider, phone company, and satellite TV provider(s) to determine what broadband options are available and what the transfer rates are in your area.</p>
+					
+					<a onclick="compTia.togglePopup(14,1)" class="readMore"></a>
+					
+					<h2 class="blueHeading">Wireless Internet Access</h2>
+					<p><strong>How can I access the Internet wirelessly at home?</strong> To access the Internet wirelessly at home, you need to establish WiFi on your home network by using a router that features wireless capabilities. You also need the right equipment on your mobile device. Virtually all laptops, smartphones, game systems, and personal media players sold today are WiFi enabled and come with wireless capability built in.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(14,2)"
+						style="height: 288px;background: url(assets/images/figures/fig7.11.jpg) no-repeat scroll 118px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.11</span> ISPs that offer satellite Internet can provide Internet access even in remote areas. <em>(Ilene MacDonald/Alamy)</em></figcaption>
+   			</figure>
+				
+				<br/>
+					<p class="start"><strong>How can I access WiFi when I’m away from home?</strong> When you’re away from home, you need to find a WiFi hotspot. Many public places, such as libraries, hotels, airports, and fast-food and coffee shops, offer WiFi access. Most locations are free, though a few still charge or require a special password to access the connection. Websites like Wi-Fi-FreeSpot (<span class="strongDBlue" onclick="window.open('http://wififreespot.com','_blank')">wififreespot.com</span>) and Wi-Fi Planet (<span class="strongDBlue" onclick="window.open('http://wi-fiplanet.com','_blank')">wi-fiplanet.com</span>) help you locate a free hotspot wherever you’re planning to go. When you have to buy WiFi access, you can pay for a single session or a monthly membership through services such as Boingo (<span class="strongDBlue" onclick="window.open('http://boingo.com','_blank')">boingo.com</span>). Boingo has over 400,000 hotspots worldwide, including airports, hotels, and restaurants.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(15,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						How Do You Find Your WiFi?
+					</div>
+					<br/>
+					
+					<p class="start moreSpacing">Even wireless in-flight Internet service is available! Gogo (<span class="strongDBlue" onclick="window.open('http://gogoair.com','_blank')">gogoair.com</span>) is a wireless broadband network that provides coverage on participating airlines across the continental United States. So, when you are cleared to use your portable electronic devices, you can comfortably access wireless Internet from 35,000 feet.</p>
+					<p class="start moreSpacing"><strong>How can I access the Internet when WiFi isn’t available?</strong> There are often occasions when you’re not in a WiFi hotspot but still need to access the Internet. In these instances, you may want to consider signing up for mobile broadband. <span class="strongDBlue" glossary>Mobile broadband</span> connects you to the Internet through the same cellular network that cell phones use to get 3G or 4G Internet access.</p>
+					<p class="start moreSpacing">3G and 4G can be thought of as “WiFi everywhere” in that they provide Internet access to your mobile devices in the same way they provide voice service to your mobile phone. <em>3G</em> and <em>4G</em> refer to the third and fourth generations, respectively, of cell-phone networks. 4G is the latest service standard and offers the fastest data-access speeds over cell-phone networks. To utilize the 3G or 4G capabilities of a mobile device, you need to sign up for an access plan with a mobile data provider such as Verizon or AT&T.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_08.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Connecting to the Internet
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer. You’ll field calls about various options for connecting to the Internet and how to choose an Internet service provider.
+					</div></div>
+					
+					<p class="start moreSpacing"><strong>How does mobile broadband Internet compare with wired Internet access?</strong> 3G performs similarly to a standard DSL connection (roughly 3 Mbps). According to the standards set for 4G, the data transfer rate you would get while in a moving vehicle is approximately 100 Mbps; from a fixed location, you can expect up to a 1 Gbps data transfer rate. Some of the early 4G systems released in the market support less than the required 1 Gbit/s rate and are not fully compliant with the 4G standards, and so are being tagged as 4G LTE. They are still faster than 3G, however.</p>
+					<p class="start moreSpacing"><strong>How can I get 3G/4G service if my device doesn’t have the right equipment?</strong> Many devices such as the iPad, Kindle Fire, Chromebook, and some laptops are available with built-in 3G or 4G capabilities. If your computer doesn’t have built-in 3G or 4G equipment, you can buy a <em>USB modem</em>. USB modems fit into a USB port on your computer and let you access 3G or 4G networks. Like a smartphone, they also require a service plan.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(16,0)"
+						style="height: 188px;background: url(assets/images/figures/fig7.12.jpg) no-repeat scroll 49px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.12</span> A MiFi device turns your phone signal into a 4G LTE mobile hotspot for you and four of your friends. <em>(PRNewsFoto/Verizon Wireless/AP Photos)</em></figcaption>
+   			</figure>
+				
+					<p class="start TMargin5">Alternatively, instead of buying a USB modem that works on one device, you can buy a <em>mobile hotspot</em> (<span class="strongDBlue" onclick="compTia.togglePopup(16,0)">see Figure 7.12</span>). These mobile hotspots let you connect more than one device to the Internet with either WiFi or mobile broadband. Mobile hotspots require you to purchase a data plan, but the monthly fee may be less than paying for individual monthly plans on multiple devices. So, if you have several mobile devices that need wireless Internet access, this may be the most economical and functional way to access the Internet while on the road.</p>
+				<br/>	
+					<h2 class="blueHeading">Dial-Up Connections</h2>
+					<p><strong>Why would I ever want to consider a dial-up connection to the Internet?</strong> Although about 70% of Internet users in the United States use high-speed Internet connections such as DSL, cable, or fiber-optic, there are still some areas (usually rural) where broadband service isn’t available. A dial-up connection needs only a standard phone line and a modem to</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>access the Internet. Therefore, some people choose to use a dial-up connection when there’s no high-speed service in their area. Additionally, a dial-up connection is the least costly way to connect to the Internet, so for those who don’t use the Internet frequently, the extra cost of broadband may be unnecessary.</p>
+					<p class="start"><strong>What are the disadvantages of dial-up?</strong> The major downside to dial-up is speed. Dial-up modems transfer data about 600 times slower than a fiber-optic broadband connection. Also, dial-up uses a traditional phone line to connect to the Internet; therefore, unless you have a separate phone line just for your dial-up connection, when you’re using dial-up, you tie up your phone line.</p>
+					
+					<br/>	
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_7_Part_1/Ch7Pt1.html','_blank')" >Replay Video 7.1</span>.</span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(24)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">How do you protect against hackers when using public wireless networks? </div>
+					<ol class="pollQuestions">
+						<li style="margin-bottom:-20px;">I don't bother and hope for the best</li>
+						<li>I don't use public computers, only my own laptop or smartphone, so I'm good. </li>
+						<br/>
+						<li>I don't do online banking or transactions that require sensitive personal data to be exchanged while on a public network.</li>
+						<br/><br/>
+						<li class="TMargin5">I make sure the address bar indicates a secure connection before I do anything on a public network. </li>
+					</ol><br/>
+					<div class="blueSubmit TMargin10 Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="18" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(25)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashesPlain">Your Home Network</div>
+					<p class="digCompP">You know what a network is and the advantages of having one. In this section, we look at installing or updating a home network and keeping it safe.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/houseNetworkThumbnail.jpg)">
+						<div class="orange">installing and configuring</div>
+						<div class="blue" style="margin-left:85px;">home Networks</div>
+					</div>
+					
+					<p class="lessSpacing">Now that you understand the basic components of a network and your Internet connection options, you’re ready to install a network in your home. If you already have a network in your home, it’s useful to examine your network settings and configuration to make sure they’re still meeting your needs, especially if you’ve added new devices.</p>
+					<p class="start lessSpacing">Only a few years ago, most home networks included just a few computers and a printer. However, a network that can manage those devices is often very different from one that can support the smartphones, gaming consoles, tablets, and smart TVs many homes have added to their networks since. If you’re using any of these additional devices and you haven’t updated your network equipment or setup in a while, it may be time to do so.</p>
+					
+					<h2 class="blueHeading">Planning Your Home Network</h2>
+					<p class="lessSpacing"><strong>Where do I start?</strong> One of the first things you should do to evaluate your network is list all the devices you’re using, as well as any devices you think you may add in the near future. Then, determine whether your network is sufficiently up to date to support all your devices.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What wireless Ethernet standard should my network be using?</strong> For a home network to run most efficiently and to provide the fastest experience, it’s best that all network nodes—computers, network adapters (NICs), routers, and so on—use the latest Ethernet standard. Devices that support the 802.11n standard have been around for a while, so if you’ve bought a laptop or other portable device in the past few years, it most likely has an 802.11n NIC.</p>
+					<p class="start">However, your router may still be supporting the 802.11g standard. If you have the fastest 802.11n NIC in your laptop, but the router is the slower 802.11g standard, then data will be sent at the speeds supported by the lower standard. If you haven’t updated your router in a while, you may want to consider getting an 802.11n router (<span class="strongDBlue" onclick="compTia.togglePopup(19,0)">Figure 7.14</span>) to get the fastest connection speeds. </p>
+					<p class="start lessSpacing">Additionally, the higher standard gives your wireless signal more range, so if you feel that some of your devices aren’t connecting properly to the Internet from certain parts of your home, you may want to upgrade to the higher standard.</p>
+				
+					<figure onclick="compTia.togglePopup(19,0)"
+						style="height: 176px;background: url(assets/images/figures/fig7.14.jpg) no-repeat scroll 45px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.14</span> 802.11n wireless routers offer the fastest connection speeds and a greater wireless signal range. <em>(Scanrail/Fotolia)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How can I tell what wireless standard my router supports?</strong> You may be able to tell whether your router is supporting the faster 802.11n standard just by looking at it. Many routers have the wireless standard indicated on the device. If you’re still not sure, you can search for more information on your router by entering the model number into a search engine. If your router is provided by your ISP and it’s an older standard, you should consider having your ISP provide you with a new router.</p>
+					<p class="start"><strong>How can I tell what network adapters are installed in my computer?</strong> To see which network adapters are installed in your Windows computer, use the Device Manager utility (<span class="strongDBlue" onclick="compTia.togglePopup(20,0)">see Figure 7.15</span>), which lists all the adapters. If you can’t tell which wireless standard the adapter supports from the list, search the Internet for information on your specific adapter to determine its capability. The Device Manager can also alert you if there’s a problem with the adapter.</p>
+				<br/>	
+					<h2 class="blueHeading">Connecting Devices to a Router</h2>
+					<p><strong>How can I directly connect multiple devices to my router?</strong> Most home routers have three or four Ethernet ports on the back to support wired connections. If you have a lot of devices (such as a game console, an HDTV, and a laptop) in your home that you use at the same time, you use at the same time, you might want to connect some of them via a wired connection to increase the bandwidth to each device.</p>
+					<p class="start">If you need additional ports for plugging in wired connections to your network, you can buy a standalone switch and plug that into one </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/installing_a_home_network/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Installing a Home Computer Network
+						</div>
+						Installing a network is relatively easy if you watch someone else do it. In this Sound Byte, you’ll learn how to install the hardware and to configure Windows for a wired or wireless home network.
+					</div></div>
+					
+					<figure style="margin-bottom: 10px;height:313px">
+						<img src="assets/images/figures/fig7.15.jpg" onclick="compTia.togglePopup(20,0)" style="margin-left:75px;"/>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_7_15.html','_blank')" style="padding:3.5px;"></div>
+					
+					<figcaption style="margin-left:60px; bottom:18px">
+						<span>Figure 7.15</span> The Windows Device Manager shows the wireless and wired network adapters installed on a computer.
+						</figcaption></figure>	
+						
+						<p><em>>To access the Device Manager, with the cursor in the bottom-left corner of your screen, right-click to display the shortcut menu, and select <strong>Control Panel</strong>. Then click <strong>Hardware and Sound</strong>, and select <strong>Device Manager</strong> from the <strong>Devices and Printers</strong> group.</em></p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(21,0)"
+						style="height: 260px;background: url(assets/images/figures/fig7.16.jpg) no-repeat scroll 95px -9px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.16</span> You can add additional ports to your network by connecting a switch to your router. <em>(Sergey Dashkevich/Fotolia; sergey makarenko/Fotolia; Bart/Fotolia)</em></figcaption>
+   			</figure>
+			<br/>
+			
+					<p>of the ports on your router (<span class="strongDBlue" onclick="compTia.togglePopup(21,0)">see Figure 7.16</span>). This will give you additional ports for making wired connections. However, don’t mistakenly buy another router with an embedded switch and try adding that to your network. The two routers will cause conflicts as they fight for control over network navigation.</p>
+					<p class="start"><strong>How many wireless devices can connect to a router in a home network?</strong> Most home wireless routers can support up to 253 wireless connections at the same time, although most home networks have far fewer. Regardless of how many devices your home network has, they all share bandwidth when they’re connected to a router. Therefore, the more devices actively transmitting data that you connect to a single router, the smaller the portion of the router’s bandwidth each device receives.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(21,1)"
+						style="height: 230px;background: url(assets/images/figures/fig7.17.jpg) no-repeat scroll 60px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.17</span> The AirPort Extreme router can be used for home networks with Windows PC and Apple computers. Multiple Ethernet ports enable several devices to access wired Internet connectivity. <em>(bmcent1/Brian McEntire/ iStockphoto; bmcent1/Brian McEntire/iStockphoto)</em></figcaption>
+   			</figure>
+			<br/>
+					<p class="start">To look at this another way, say you have a pizza that represents your router’s bandwidth. You can cut the pizza into six or eight pieces (that is, you can connect either six or eight devices to the network). If you cut the pizza into eight pieces, each person who gets a slice receives a smaller portion than if you had cut the pizza into six pieces. Similarly, when you connect eight devices to the network, each device has less bandwidth than it would if only six devices were connected to the network.</p>
+					<p class="start"><strong>Are wireless routers for Windows and OS X networks different?</strong> All routers that support the 802.11n standard should work with computers running Windows or OS X. However, Apple has designed routers that are optimized for working with Apple computers. So if you’re connecting Apple computers to your network, you may want to use the Apple AirPort Extreme router (<span class="strongDBlue" onclick="compTia.togglePopup(21,1)">see Figure 7.17</span>). Windows machines can also connect to an</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>AirPort router, so it’s a great choice for households with both Apples and PCs. It supports up to 50 simultaneous wireless connections and has three gigabit-Ethernet ports for wired connections to hook up all your network-ready devices.</p>
+					<p class="start"><strong>How do I know what’s connected to my router?</strong> To determine what’s connected to your router, you need to log in to an account associated with your router’s IP address. You can find your router’s IP address on the router manufacturer’s website. Once you know it, type it into a web browser. You may need to enter a user name and password, but eventually you’ll get to a configuration page that lists what wired  and wireless devices are in your network. You may be surprised at all the various devices associated with your network.</p>
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(22,1)">Figure 7.18</span> shows a router network listing with wired (desktop computer) and wireless (TiVo DVR, laptop, iPhone, and iPads) devices connected in a home network. You’ll notice that each device also has an IP address. You can think of your network as an apartment building. The router’s IP address is the building’s street address, while the IP addresses of the individual devices connected to the router are the apartment numbers. Each device needs an IP address so the router knows to which device to send information.</p>
+					
+					<br/>
+					<div onclick="compTia.togglePopup(22,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Wake Up Your Mac Remotely
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(22,1)"
+						style="height: 275px;background: url(assets/images/figures/fig7.18.jpg) no-repeat scroll 80px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.18</span> Wired and wireless connections can use the same router.</figcaption>
+   			</figure>
+					
+					<h2 class="blueHeading">Network-Attached Storage Devices</h2>
+					<p><strong>What can I attach to my network to facilitate file sharing and backup of data?</strong> <span class="strongDBlue" glossary="network-attached storage (nas) device">Network-attached storage (NAS) devices</span> are specialized devices designed to store and manage all network data. Although data can always be stored on individual hard drives in computers on a network, NAS devices provide for centralized data storage and access.</p>
+					<p class="start">Popular for years on business networks, NAS devices are now being widely marketed for home networks. You can think of them as specalized external hard drives, and many of them actually resemble external hard drives. NAS devices, like the LinkStation series from Buffalo Technology</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<img onclick="compTia.togglePopup(23,0)" src="assets/images/layout/TrendsinItchapter7.0.png" />	
+					
+					<p>(<span class="strongDBlue" onclick="compTia.togglePopup(23,3)">see Figure 7.20</span>), connect directly to the network through a router or switch. Specialized software is installed on computers attached to the network to ensure that all data saved to an individual computer is also stored on the NAS device as a backup.</p>
+					<p class="start">For Apple computers, the Time Capsule is a wireless router combined with a hard drive that facilitates the backup of all computers connected to the network.</p>
+					
+					<a onclick="compTia.togglePopup(23,1)" class="readMore"></a>
+					
+					<h2 class="blueHeading">Home Network Servers</h2>
+					<p class="lessSpacing"><strong>Besides external hard drives, are there other NAS devices I could use on my network?</strong> A more sophisticated type of NAS device is a <span class="strongDBlue" glossary>home network server</span>. Home network servers are specialized devices designed to store files, share files across the network, and back up files on computers connected to the network. All computers connected to the network can access the server.</p>
+					<p class="start lessSpacing">Home network servers (<span class="strongDBlue" onclick="compTia.togglePopup(23,4)">see Figure 7.22</span>) often look like oversized external hard drives. They are configured with operating systems like Windows Server 2012 Essentials and connect directly as a node on your network.</p>
+					
+					<a onclick="compTia.togglePopup(23,2)" class="readMore"></a>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(23,3)"
+						style="height: 256px;background: url(assets/images/figures/fig7.20.jpg) no-repeat scroll 30px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.20</span> The LinkStation series from Buffalo Technology features NAS devices that can store 2 TB (terabytes) of data. <em>(Buffalo Technology)</em></figcaption>
+   			</figure>
+			
+			<br/>
+					<figure onclick="compTia.togglePopup(23,4)"
+						style="height: 260px;background: url(assets/images/figures/fig7.21.jpg) no-repeat scroll 80px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.22</span> Home network servers can perform a variety of tasks that simplify file management on a home network. <em>(Sashkin/Fotolia)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Digital Entertainment Devices on a Network</h2>
+					
+					<p class="lessSpacing"><strong>What kinds of digital entertainment devices can connect directly to the network?</strong> A <span class="strongDBlue" glossary="network-ready device">network-ready device</span> (or Internet-ready device) can be connected directly to a network, either through a wired or wireless connection. Most game consoles, Blu-ray players, and DVRs, as well as many televisions (smart TVs) and home theater systems, are network ready. A device that is not network ready requires that the device be connected directly to another computer via a cable on the network.</p>
+					<p class="start lessSpacing"><strong>Why should I connect digital entertainment devices to my network?</strong> One reason for connecting entertainment devices to your network is to access and share digital content between devices on your network. Connecting these devices to your network also gives them access to the Internet so you can access a lot of entertainment content, including movies, videos, and music available online.</p>
+					<p class="start lessSpacing">You can also use gaming devices to play multiplayer games with players in the next room or all over the world. The content you access is either downloaded or streamed to your devices. Newer smart TVs and other smart devices (such as Blu-ray players, game consoles, and home heater systems) are continually adding apps and video services so that you can play games, view on-demand and online videos, listen to Internet radio, and access social networking sites (<span class="strongDBlue" onclick="compTia.togglePopup(24,0)">see Figure 7.24</span>). Some smart devices also feature an integrated web browser that lets you access the web directly, without the use of apps.</p>
+					<p class="start lessSpaing"><strong>What if I don’t have a smart TV?</strong> You can get the same services on your existing television by using a Blu-ray player like the Sony 3-D Blu-ray </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(24,0)"
+						style="height: 243px;background: url(assets/images/figures/fig7.24.jpg) no-repeat scroll 50px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.24</span> Smart TVs have their own apps and let you directly access the web so you can play games, connect with your social networking accounts, and view on-demand and online videos. <em>(Ingo Schulz Image Broker/Newscom)</em></figcaption>
+   			</figure>
+					
+					<p class="lessSpacing TMargin5">Disc player. These Blu-ray players feature integrated wireless connectivity to receive streaming media from various ISPs in addition to having high-definition resolution and the capability to display 3-D video. Some set top boxes, such as the LG Smart TV Upgrader, also provide the same types of connectivity as a Blu-ray player.</p>
+					<p class="start lessSpacing"><strong>Why should I connect my DVR to my network?</strong> You may have a digital video recorder (DVR), like the TiVo Premiere, which you use to record high-def TV programs. Connecting your TiVo to your network makes it possible to receive downloads of movies directly to your TiVo from services such as Netflix and Amazon Instant Video. And some home network servers, like the Hewlett Packard MediaSmart servers, now work in conjunction with TiVo devices to provide them with additional storage. The TiVo Desktop software (<span class="strongDBlue" onclick="compTia.togglePopup(25,0)">see Figure 7.25</span>), which you download from <span class="strongDBlue" onclick="window.open('http://www.tivo.com','_blank')">tivo.com</span>, lets you transfer shows recorded on your TiVo to your computer or portable devices.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(25,0)"
+						style="height: 193px;background: url(assets/images/figures/fig7.25.jpg) no-repeat scroll 70px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.25</span> The TiVo Desktop software facilitates transfer of recorded shows to portable devices so you can enjoy your content on the go.</figcaption>
+   			</figure>
+				<br/>
+					<p class="start"><strong>Why should I connect my gaming consoles to my home network?</strong> Current gaming systems, like the PlayStation 3 (PS3), can function as a total entertainment platform when connected to the Internet through your network. The PS3 has a built-in Blu-ray drive and can play Blu-ray discs, DVDs, and music files. You can download movies, games, and videos from the Internet directly to the PS3. You can also use it to share media across your network and to import photos or video from cameras and phones.</p>
+					<p class="start">If you have a PS Vita, you can use an application called Remote Play (<span class="strongDBlue" onclick="compTia.togglePopup(25,1)">see Figure 7.26</span>) to access features of your PS3 from your Vita. You can use the Vita to turn your PS3 on and off; access photos, music, and video files; play games; and browse the Internet. Media is transmitted from your PS3 and displayed on the Vita screen.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(25,1)"
+						style="height: 224px;background: url(assets/images/figures/fig7.26.jpg) no-repeat scroll 20px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.26</span> The Remote Play feature of the PS Vita and the PS3 lets you access PS3 features, like the Play-Station Store, directly from your Vita. <em>(Kyodo/AP Images)</em></figcaption>
+   			</figure>
+					
+					<h2 class="blueHeading">Specialized Home-Networking Devices</h2>
+					<p><strong>How can I use my home network to share photos?</strong> Digital picture frames that display photos are popular, and some, such as the Kodak Pulse Digital Frame, come with built-in wireless adapters for easy connection to home networks. Featuring a touch-screen interface, this frame can access photos stored on your network or on an online photo-sharing site and display them. You can even set up an e-mail address for the picture frame so that friends and family can e-mail pictures directly to the frame.</p>
+					<p class="start"><strong>How can I use my home network to enhance my home security?</strong> Monitoring cameras, both for indoor and outdoor use, are now available for the home that feature wireless connectivity so you can keep track of your home while you’re away. You can connect these cameras to your network and monitor them in real time through software like the Logitech Alert</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(26,0)"
+						style="height: 284px;background: url(assets/images/figures/fig7.27.jpg) no-repeat scroll 20px -16px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 7.27</span> Logitech security systems can help you monitor your home’s security from your mobile devices. <em>(Logitech)</em></figcaption>
+   			</figure>
+					
+					<p class="lessSpacing TMargin5">System using portable devices such as an iPhone or Android phone (<span class="strongDBlue" onclick="compTia.togglePopup(26,0)">see Figure 7.27</span>).</p>
+				
+					<a onclick="compTia.togglePopup(26,1)" class="readMore"></a>
+					
+					<h2 class="blueHeading">Configuring Software for Your Home Network</h2>
+					<p class="lessSpacing"><strong>How do I set up a Windows home network for the first time?</strong> In Windows, the process of setting up a network is fairly automated, especially if you’re using the same version of Windows on all your computers. The Windows examples in this section assume all computers are running Windows 8. You can launch the Windows network setup wizards from the Network and Sharing Center, which you access via the Network and Internet </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure style="background:url(assets/images/figures/fig7.28.jpg) no-repeat scroll 0px 0px transparent;
+							    height: 189px;
+								margin-bottom: 5px; margin-right:-5px;">
+								<div onclick="compTia.togglePopup(26,2)" style="
+									height: 138px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_7_28.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 7.28</span> Connecting a Windows 8 computer to a network for the first time is fairly automated.
+						</figcaption></figure>
+						
+					<p>group in the Control Panel. Before configuring the computers to the network, do the following:</p>
+					<ol>
+						<li><span class="innerLi">Make sure there are network adapters on each node.</span></li>
+						<li><span class="innerLi">For any wired connections, plug all the cables into the router, nodes, and so on.</span></li>
+						<li><span class="innerLi">Make sure your broadband modem is connected to your router and that the modem is connected to the Internet.</span></li>
+						<li><span class="innerLi">Turn on your equipment in the following order (allowing the modem and the router about one minute each to power up) and configure:</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="innerLi">Your broadband modem</span></li>
+							<li><span class="innerLi">Your router</span></li>
+							<li><span class="innerLi">ll computers and peripherals (printers, scanners, and so on)</span></li>
+						</ol>
+					</ol>	
+					<p class="start lessSpacing">You can add other devices, such as TVs, Blu-ray players, and gaming consoles, to the network after you configure the computers.</p>
+					<p class="start lessSpacing">After you’ve completed the previous steps, open the Network and Sharing Center from the Control Panel (<span class="strongDBlue" onclick="compTia.togglePopup(26,2)">see Figure 7.28</span>):</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">If your computer has a wired connection to the network, you should automatically be connected. You should give the network the same secured name you give to your router (<span class="strongDBlue">see Troubleshooting Wireless Network Problems</span>). If you’re connecting wirelessly, click Connect to a Network in the Network and Internet group of the Control Panel. The Networks panel opens on the right side of your screen, displaying the wired and wireless connection options. You will need to enter your security pass phrase to connect to your wireless network initially.</span></li>
+					</ul>
+					
+					<p class="start"><strong>How do I share files with other computers on my network?</strong> For ease of file and peripheral sharing, Windows 7 created a feature known as <em>homegroup</em> that has carried over to Windows 8. The homegroup is a software device that makes it easier to allow computers on a Windows 8 network to share peripherals and information. To create a homegroup after connecting your first Windows 8 computer to your network, complete the steps outlined in <span class="strongDBlue" onclick="compTia.switchPage(0,28)">Figure 7.29</span>.</p>
+					<p class="start"><strong>What if I don’t have the same version of Windows on all my computers?</strong> Computers with various versions of Windows can coexist on the same network. Always set up the computers running the newest version of Windows first. Then consult the Microsoft website for guidance on how to configure computers with previous versions of Windows.</p>
+					
+					<div onclick="compTia.togglePopup(27,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Want to Use Your Phone as a Remote Control?
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How do Macs connect wirelessly to networks?</strong> Connecting Macs to a wireless network is an easy process. When you boot up your Mac, the wireless card should be on by default. The network login screen will appear with a list of available networks that the NIC in your Mac detects. If there is a padlock icon next to the network name, this means that the network is secure and will require a password. Enter the password for the network in the password box, and click the Join button. For unsecure networks, you don’t need a password. Checking the “Remember this network” check box will make any network a preferred network, enabling the computer to connect to the network automatically when that network is available. You can have multiple preferred networks, such as your home, school, work, and local coffee shop networks.</p>
+					
+					
+					<h2 class="blueHeading">Troubleshooting Wireless Network Problems</h2>
+					<p><strong>What types of problems can I run into when installing wireless networks?</strong> The maximum range of 802.11n wireless devices is about 350 feet. But as you go farther away from your router, the throughput you achieve decreases. Obstacles between wireless nodes also decrease throughput. Walls, floors, and large metal objects (such as refrigerators) are the most common sources of interference with wireless signals.</p>
+					<p class="start"><strong>What if a node on the network seems slow?</strong> Repositioning the node within the same room (sometimes even just a few inches from the original position) can affect communication between nodes. If this doesn’t work, move the device closer to the router or to another room in your</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(26)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="CellCellRow" distinction="">
+			<section>
+				<![CDATA[
+					<p>house. If these solutions don’t work, consider using a dual-band N router or adding a wireless range extender to your network.</p>
+					<p class="start"><strong>What’s a dual-band N router?</strong> A dual-band N router allows for simultaneous support for both 2.4-GHz and 5-GHz frequency bands for 802.11n and all prior 802.11 standards (a, b, and g). Traditional routers only support one signal band at a time, so they’re more likely to experience interference by outside devices (such as cell phones or microwave ovens) using the same bandwidth. Dual-band N routers allow for simultaneous access to both frequencies, and therefore provide maximum flexibility in setting up a home network. For example, data transfers can be set to run on the 2.4-GHz side, without impacting the performance of 802.11n clients that might be streaming video on the 5-GHz band.</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What’s a wireless range extender?</strong> A <span class="strongDBlue" glossary>wireless range extender</span> is a device that amplifies your wireless signal to extend to parts of your home that are experiencing poor connectivity. For example, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(28,1)">Figure 7.30</span>, Laptop C on the back porch can’t connect to the wireless network even though Computer B in the den can. By placing a range extender in the den, where there is still good connectivity to the wireless network, the wireless signal is amplified and beamed farther out to the back porch. This allows Laptop C to make a good connection to the network.</p>
+					
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(28,0)">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong style="font-size:14px;">Sharing Your Internet Connection</strong>
+				</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<br/>
+					<figure onclick="compTia.togglePopup(28,1)"
+						style="height: 264px;background: url(assets/images/figures/fig7.30.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="rightPos topPos" style="width:116px; margin-top:18px;">
+   				<span>Figure 7.30</span> Because a wireless range extender is installed in the den, Laptop C on the back porch can now connect to the wireless network.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/wirelessSecuringThumbnail.jpg)">
+						<div class="dblue">securing wireless</div>
+						<div class="orange" style="margin-left:130px;">Networks</div>
+					</div>
+					
+					<p class="moreSpacing">All computers that connect to the Internet, whether or not they’re on a network, need to be secured from intruders. This is usually accomplished by using a firewall, which is a hardware or software solution that helps shield your network from prying eyes. (We discuss firewalls at length in <span class="strongDBlue" onclick="compTia.generatePages(9)">Chapter 9</span>.) Wireless networks present special vulnerabilities; therefore, you should take additional steps to keep your wireless network safe. If you’re setting up a new network, it’s wise to take these precautions <em>as you set up your network</em>. If you have a network already installed, check to be sure you’ve followed the guidelines discussed here.</p>
+					<p class="start moreSpacing"><strong>Why is a wireless network more vulnerable than a wired network?</strong> With a wired network, it’s fairly easy to tell if a <span class="strongDBlue" glossary>hacker</span>, someone who breaks into computer systems to create mischief or steal information, is using your network. However, the newer wireless 802.11 networks have wide ranges that may extend outside your house. This makes it possible for a hacker to access your network without your knowledge.</p>
+					<p class="start moreSpacing">Also, in some areas where residences are close together, wireless signals can reach a neighbor’s residence. Most wireless network adapters are set up to access the strongest wireless network signal detected. </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p><span class="strongDBlue" glossary>Piggybacking</span> is connecting to a wireless network without the permission of the owner. This practice is illegal in many jurisdictions but often happens inadvertently between neighbors.</p>
+					<p class="start"><strong>Why should I be worried about someone logging onto my wireless network without my permission?</strong> If your neighbor is using your network connection, his or her usage could be slowing down your connection speed. Some neighbors might even be computer savvy enough to penetrate your unprotected wireless network and steal personal information, just as any other hackers would. And any cyberattacks or illegal behavior a hacker initiates from your wireless network could get you in trouble with the authorities.</p>
+					<p class="start"><strong>How is my wireless network vulnerable?</strong> Packets of information on a wireless network are broadcast through the airwaves. Savvy hackers can intercept and decode information from your transmissions that may allow them to bypass standard protections, such as a firewall, that you have set up on your network. Therefore, to secure a wireless network, take the </p>
+					
+				<br/>	
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/securing_your_wireless_network/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Securing Wireless Networks
+						</div>
+						In this Sound Byte, you’ll learn what “war drivers” are and why they could potentially be a threat to your wireless network. You’ll also learn some simple steps to secure your wireless network against intruders.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">additional precautions described in the Sound Byte “Securing Wireless Networks” and summarized as follows:</p>
+					<ol>
+						<li class="moreSpacing"><span class="innerLi"><strong>Change your network name (SSID).</strong> Each wireless network has its own name to identify it, known as the <span class="strongDBlue" glossary>service set identifier (SSID)</span>. Unless you change this name when you set up your router, the router uses a default network name that all routers from that manufacturer use (such as “Wireless” or “Netgear”). Hackers know the default names and access codes for routers. If you haven’t changed the SSID, it’s advertising the fact that you probably haven’t changed any of the other default settings for your router either.</span></li>
+						<li class="moreSpacing"><span class="innerLi"><strong>Disable SSID broadcast.</strong> Most routers are set up to broadcast their SSIDs so that other wireless devices can find them. If your router supports disabling SSID broadcasting, turn it off. This makes it more difficult for a hacker to detect your network and nearly impossible for a neighbor to inadvertently connect to your network.</span></li>
+						<li><span class="innerLi"><strong>Change the default password on your router.</strong> Routers have default user names and passwords. Hackers can use these to access your router and break into your network. Change the password on your router to something hard to guess. Use at least eight characters that are a combination of letters, symbols, and numbers.</span></li>
+						<li><span class="innerLi"><strong>Turn on security protocols.</strong> Most routers ship with security protocols such as Wired Equivalent Privacy (WEP) or Wi-Fi Protected Access (WPA). Both use encryption (a method of translating your data into code) to</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="Lmargin15 moreSpacing">protect data in your wireless transmissions. WPA is a much stronger protocol than WEP, so enable WPA if you have it; enable WEP if you don’t.</p>
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="moreSpacing"><span class="innerLi"><strong>Create a passphrase.</strong> When you enable these protocols, you’re forced to create a security encryption key (passphrase). When you attempt to connect a node to a security-enabled network for the first time, you’re required to enter the security key. The security key or passphrase (<span class="strongDBlue" onclick="compTia.togglePopup(31,0)">see Figure 7.32</span>) is the code that computers on your network need to decrypt (decode) data transmissions. Without this key, it’s extremely difficult, if not impossible, to decrypt the data transmissions from your network. The Windows 8 Connect to a Network dialog box shows all wireless networks within range. Moving your cursor over the network </span></li>
+					</ol>
+					<br/>
+					
+					<figure onclick="compTia.togglePopup(31,0)"
+						style="height: 155px;background: url(assets/images/figures/fig7.32.jpg) no-repeat scroll 67px 0px transparent;">
+				</figure>
+					
+					<div class="itSimContain"
+							onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_mylabs/simulations/2012/IT/networks/ ','_blank')" style="margin-top:10px;">
+							<div class="itSimContent">
+								<span>IT</span>
+								<span>SIMULATION: Networks</span>
+							</div>
+						</div>
+					
+							<figcaption class="TMargin10" style="font-family: MyriadPro-Semibold;font-size: 11px;color: #535353;" onclick="compTia.togglePopup(30,0)">
+   				<span>Figure 7.32</span> By accessing your router, you can configure the security protocols available on your router and change the SSID.</figcaption>
+   			
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="Lmargin15">name will reveal details about the network such as whether it’s a secured network. Clicking on a network name allows you to connect to it or prompts you for more information such as the SSID name and security key.</p>
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi"><strong>Implement media access control.</strong> Each network adapter on your network has a unique number (like a serial number) assigned to it by the manufacturer. This is called a media access control (MAC) address, and it’s a number printed right on the network adapter. Many routers allow you to restrict access to the network to only certain MAC addresses. This helps ensure that only authorized devices can connect to your network.</span></li>
+						<li><span class="innerLi"><strong>Limit your signal range.</strong> Many routers allow you to adjust the transmitting power to low, medium, or high. Cutting down the power to low or medium could prevent your signal from reaching too far away from your home, making it tougher for interlopers to poach your signal.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi"><strong>Apply firmware upgrades.</strong> Your router has read only memory that has software written to it. This software is known as firmware. As bugs are found in the <span class="strongDBlue" glossary>firmware</span> (which hackers might exploit), manufacturers issue patches, just as the makers of operating system software do. Periodically check the manufacturer’s website and apply any necessary upgrades to your firmware.</span></li>
+					</ol>
+					
+					<p class="start">If you follow these steps, you’ll greatly improve the security of your wireless network. In <span class="strongDBlue" onclick="compTia.generatePages(9)">Chapter 9</span>, we’ll explore many other ways to keep your computer safe from malicious individuals on the Internet and ensure that your digital information is secure.</p>
+					
+					<br/>	
+						<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_7_Part_2/Ch7Pt2.html','_blank')" >Replay Video 7.2</span>.</span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(27)">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="33" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Would you consider sharing your network connection with your neighbors? </div>
+					<ol class="pollQuestions">
+						<li>Yes</li>
+						<li>No</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="34" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h1><span class="chapter">7</span> Chapter Review</h1>
+				<div class="largerTitle">summary//</div>
+	
+					<img src="assets/images/pics/networkFunSmall.jpg" class="floatPositioned TMargin4" />
+					<h2>Networking Fundamentals</h2>
+					<span class="prePseudoLi preContent1 strong">What is a network, and what are a network’s advantages and disadvantages?</span>
+					<br/>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">A computer network is simply two or more computers that are connected using software and hardware so they can communicate.</span></li>
+						<li><span class="innerLi">Advantages of networks include allowing users to</span></li>
+							<ul class="dotted">
+								<li><span class="innerLi">share an Internet connection,</span></li>
+								<li><span class="innerLi">share printers and other peripheral devices,</span></li>
+								<li><span class="innerLi">share files, and</span></li>
+								<li><span class="innerLi">communicate with computers regardless of their operating system.</span></li>
+							</ul>
+						<li><span class="innerLi">Disadvantages for larger networks are that they require administration and that they may require costly equipment.</span></li>	
+					</ul>	
+					
+					<img src="assets/images/pics/networkArchSmall.jpg" style="float:left;margin-right:13px;margin-top: 20px;" />
+					<h2>Network Architecture and Components</h2>
+					<span class="prePseudoLi preContent2 strong">What are the different ways to classify networks?</span>
+					<br/>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Networks can be defined by the distance between nodes:</span></li>
+					</ul>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<ul class="dotted">
+							<li><span class="innerLi">A personal area network (PAN) is used for communication among personal mobile devices using Bluetooth or WiFi wireless technologies.</span></li>
+							<li><span class="innerLi">A local area network (LAN) connects nodes that are located in a small geographic area.</span></li>
+							<li><span class="innerLi">A home area network (HAN) is a specific type of LAN located in a home.</span></li>
+							<li><span class="innerLi">A metropolitan area network (MAN) is a large network in a specific geographic area.</span></li>
+							<li><span class="innerLi">A wide area network (WAN) spans a large physical distance.</span></li>	
+						</ul>
+						<li><span class="innerLi">Networks are classified by administration:</span></li>
+						<ul class="dotted">
+							<li><span class="innerLi">Centrally: A client/server network contains two types of computers: a client computer on which users perform specific tasks and a server computer that provides resources to the clients and central control for the network. Most networks that have 10 or more nodes are client/server networks.</span></li>
+							<li><span class="innerLi">Locally: Peer-to-peer (P2P) networks enable each node connected to the network to communicate directly with every other node. Most home networks are P2P networks.</span></li>
+						</ul>
+					</ul>	
+					
+					
+					<h4>3. Which type of network is most commonly found in the home?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">Ethernet networks are the most common networks used in home networking.</span></li>
+						<li><span class="innerLi">Most Ethernet networks use a combination of wired and wireless connections, depending on the data throughput required. Wired</span></li>
+					</ul>	
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<p class="Lmargin30">connections usually achieve higher throughput than wireless connections.</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Wired Ethernet home networks use the gigabit Ethernet standard.</span></li>
+						<li><span class="innerLi">Wireless Ethernet networks are identified by a protocol standard: 802.11 a/b/g/n.</span></li>
+						<ul class="dotted">
+							<li><span class="innerLi">802.11n is the most current standard.</span></li>
+						</ul>
+					</ul>
+					
+					<h4>4. What are the main components of every network?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">To function, any network must contain a number of components:</span></li>
+						<ul class="dotted">
+							<li><span class="innerLi">A means of connecting the nodes on the network (cables or wireless technology)</span></li>
+							<li><span class="innerLi">Special hardware devices that allow the nodes to communicate with each other and to send data</span></li>
+							<li><span class="innerLi">Software that allows the network to run</span></li>
+						</ul>
+					</ul>
+					
+					<br/>
+					<img src="assets/images/pics/internetConnectionSmall.jpg" style="float:left;margin-right:13px;margin-top: 15px;" />
+					<h2>Connecting to the Internet?</h2>
+					<span class="prePseudoLi preContent5 strong">What are my options for connecting to the Internet? </span>
+					<br/>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Wired networks use various types of cable to connect nodes. The type of network and the distance between the nodes determines the type of cable used. Broadband connections include:</span></li>
+						<ul class="dotted">
+							<li><span class="innerLi">Cable transmits data over coaxial cable that is also used for cable television.</span></li>
+							<li><span class="innerLi">DSL uses twisted-pair wire, similar to that used for telephones.</span></li>
+							
+						</ul>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<ul class="dotted">
+							<li><span class="innerLi">Fiber-optic cable uses glass or plastic strands to transmit data via light signals.</span></li>
+							<li><span class="innerLi">Satellite is a connection option for those who do not have access to faster broadband technologies. Data is transmitted between a satellite dish and a satellite that is in a geosynchronous orbit.</span></li>
+							<li><span class="innerLi">WiFi allows users to connect to the Internet wirelessly but is not as fast as a wired connection.</span></li>
+							<li><span class="innerLi">Mobile broadband is a 3G or 4G service delivered by cell-phone networks.</span></li>
+						</ul>
+						<li><span class="innerLi">Dial-up is the cheapest means of accessing the Internet, but it is also the slowest.</span></li>
+					</ul>
+					
+					<br/>
+					<img src="assets/images/pics/houseNetworkSmall.jpg" style="float:left;margin-right:13px;margin-top: 15px;" />
+					<h2>Installing and Configuring Home Networks</h2>
+					<span class="prePseudoLi preContent6 strong">How do I tell if my home network is up to date, and how do I identify the devices on the network?</span>
+					<br/>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Most home network routers should support both wireless and wired access to the Internet.</span></li>
+						<li><span class="innerLi">For a home network to run efficiently, all nodes such as NICs and routers should use the same Ethernet standard.</span></li>
+						<li><span class="innerLi">The Device Manager utility in Windows lists all adapters installed on your computer.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h4>7. Besides computers, what other devices can I connect to a home</h4>
+					<p class="Lmargin15"><strong>network?</strong></p>
+					<ul class="dotted">
+						<li><span class="innerLi">All devices are connected to your router, either wirelessly or with a wired connection. Wired connections deliver better throughput than wireless.</span></li>
+						<li><span class="innerLi">To add additional ports to your network, you can connect a switch to your router.</span></li>
+						<li><span class="innerLi">Network-attached storage (NAS) devices let you store and share data files such as movies and music, as well as provide a central place for file backups. Home network servers can be used instead of an NAS device if your needs require more sophisticated functionality than NAS devices.</span></li>
+						<li><span class="innerLi">Connecting digital entertainment devices (such as gaming consoles) lets you stream movies and other entertainment directly from the Internet.</span></li>
+					</ul>
+					
+					<h4>8. How do I configure the software on my computer and set up the</h4>
+					<p class="Lmargin15"><strong>devices required to get my network up and running?</strong></p>
+					<ul class="dotted">
+						<li><span class="innerLi">The latest versions of Windows make it easy to set up wired and wireless networks.</span></li>
+						<ul class="dotted">
+							<li><span class="innerLi">Plug in the modem, the router, and all cables, and then switch on the modem, router, and computers (in that order).</span></li>
+						</ul>
+					</ul>		
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="liHide"></li>
+					<ul class="dotted">
+						<li><span class="innerLi">Launch the Network and Sharing Center, and select the appropriate links for setup.</span></li>
+						<li><span class="innerLi">Make sure each computer has a distinct name, and ensure that all computers are in the same homegroup.</span></li>
+						<li><span class="innerLi">Devices such as gaming consoles each have their own setup procedures for connecting to wireless networks but usually require the same information as that needed for connecting a computer to a secured wireless network.</span></li>
+					</ul>
+					</ul>
+					
+					<h4>9. What problems might I encounter when setting up a wireless</h4>
+					<p class="Lmargin15"><strong>network?</strong></p>
+					<ul class="dotted">
+						<li><span class="innerLi">You may not get the throughput you need through a wireless connection. Therefore, you may need to consider a wired connection for certain devices.</span></li>
+						<li><span class="innerLi">Distance from the router, as well as walls, floors, and large metal objects between a device and the router, can interfere with wireless connectivity.</span></li>
+						<li><span class="innerLi">To solve connectivity problems, dual-band N routers allow for simultaneous support for devices running on both the 2.4-GHz and 5-GHz frequency bands for 802.11n standards. Wireless range extenders can amplify signals to improve connectivity in areas of poor signal strength.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="37" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<img src="assets/images/pics/wirelessSecuringSmall.jpg" style="float:left;margin-right:13px;" />
+					<h2>Securing Wireless Networks</h2>
+					<span class="prePseudoLi preContent10 strong">&nbsp;Why are wireless networks more vulnerable to security risks than wired networks, and what special</span>
+					<p style="margin-left:95px;"><strong>precautions are required to ensure my wireless network is secure??</strong></p>
+					
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Wireless networks are even more susceptible to hacking than wired networks because the signals of most wireless networks extend beyond the walls of your home.</span></li>
+						<li><span class="innerLi">Neighbors may unintentionally (or intentionally) connect to the Internet through your wireless connection, and hackers may try to access it.</span></li>
+						<li><span class="innerLi">To prevent unwanted intrusions into your network, you should change the default password on your router to make it tougher for hackers to gain access, use a hard-to-guess SSID (network name), disable SSID broadcasting to make it harder for outsiders to detect your network, enable security protocols such as WPA or WEP, create a network passphrase, implement media access control, limit your signal range, and apply firmware upgrades.</span></li>
+					</ul>
+					
+					<div class="purpleContain BMargin10">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					
+					<img src="assets/images/layout/techTouchS3a.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+					<br>
+					<img src="assets/images/layout/techTouchS7.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				]]>
+			</section>
+		</page>
+		
+		<page index="38" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 7 glossary//</div>
+					
+					<span class="strongDBlue" glossary>backward compatibility</span> 298<br/>
+					<span class="strongDBlue" glossary>bandwidth</span> 295<br/>
+					<span class="strongDBlue" glossary>broadband</span> 303<br/>
+					<span class="strongDBlue" glossary>cable Internet</span> 304<br/>
+					<span class="strongDBlue" glossary>Cat 6 cable</span> 300<br/>
+					<span class="strongDBlue" glossary>client/server network</span> 297<br/>
+					<span class="strongDBlue" glossary>coaxial cable</span> 299<br/>
+					<span class="strongDBlue" glossary>data transfer rate</span> 295<br/>
+					<span class="strongDBlue" glossary>digital subscriber line (DSL)</span> 304<br/>
+					<span class="strongDBlue" glossary>Ethernet network</span> 298<br/>
+					<span class="strongDBlue" glossary>fiber-optic cable</span> 299<br/>
+					<span class="strongDBlue" glossary>fiber-optic service</span> 304<br/>
+					<span class="strongDBlue" glossary>firmware</span> 323<br/>
+					<span class="strongDBlue" glossary>gigabit Ethernet</span> 298<br/>
+					<span class="strongDBlue" glossary>hacker</span> 321<br/>
+					<span class="strongDBlue" glossary>home area network (HAN)</span> 296<br/>
+					<span class="strongDBlue" glossary>home network server</span> 314<br/>
+					<span class="strongDBlue" glossary>Internet service provider (ISP)</span> 303<br/>
+					<span class="strongDBlue" glossary>local area network (LAN)</span> 296<br/>
+					<span class="strongDBlue" glossary>metropolitan area network (MAN)</span> 296<br/>
+					<span class="strongDBlue" glossary>mobile broadband</span> 306<br/>
+					<span class="strongDBlue" glossary>network</span> 294<br/>
+					<span class="strongDBlue" glossary>network adapter</span> 301<br/>
+				<span class="strongDBlue" glossary>network administration</span> 295<br/>
+				<span class="strongDBlue" glossary>network architecture</span> 296<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="ColShiftSpacer"></div>
+				
+				<span class="strongDBlue" glossary>network-attached storage (NAS) device</span> 313<br/>
+				<span class="strongDBlue" glossary>network interface card (NIC)</span> 301<br/>
+				<span class="strongDBlue" glossary>network navigation device</span> 302<br/>
+				<span class="strongDBlue" glossary>network operating system (NOS)</span> 303<br/>
+				<span class="strongDBlue" glossary>network-ready device</span> 315<br/>
+				<span class="strongDBlue" glossary>node</span> 294<br/>
+				<span class="strongDBlue" glossary="packet (data packet)">packet</span> 302<br/>
+				<span class="strongDBlue" glossary>peer-to-peer (P2P) network</span> 297<br/>
+				<span class="strongDBlue" glossary>personal area network (PAN)</span> 296<br/>
+				<span class="strongDBlue" glossary>piggybacking</span> 321<br/>
+				<span class="strongDBlue" glossary>router</span> 302<br/>
+				<span class="strongDBlue" glossary>satellite Internet</span> 305<br/>
+				<span class="strongDBlue" glossary>service set identifier (SSID)</span> 322<br/>
+				<span class="strongDBlue" glossary>switch</span> 302<br/>
+				<span class="strongDBlue" glossary>throughput</span> 295<br/>
+				<span class="strongDBlue" glossary>transmission media</span> 299<br/>
+				<span class="strongDBlue" glossary>twisted-pair cable</span> 299<br/>
+				<span class="strongDBlue" glossary>unshielded twisted-pair (UTP) cable</span> 299<br/>
+				<span class="strongDBlue" glossary>wide area network (WAN)</span> 297<br/>
+				<span class="strongDBlue" glossary>wireless fidelity (WiFi)</span> 300<br/>
+				<span class="strongDBlue" glossary>wireless range extender</span> 320<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="39" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...next semester//</div>
+					<ol>
+						<li><span class="innerLi">Dormitory Networking</span><br/><span class="innerLi notStrong">Often, you and your college suitemates are all on the Internet at the same time downloading movies or other large files, which causes your network’s performance to slow down considerably. You realize you need to update your router to the faster 802.11n standard. In addition, you’ve agreed to buy a printer that you all can share, and someone has suggested also getting shared backup storage.</span></li>
+						<ol class="noBMargin">
+							<li ><span class="notStrong">Research network-ready laser printers on sites such as <span class="strongDBlue" onclick="window.open('http://hp.com','_blank')">hp.com</span>, <span class="strongDBlue" onclick="window.open('http://epson.com','_blank')">epson.com</span>, and <span class="strongDBlue" onclick="window.open('http://brother.com','_blank')">brother.com</span>. What network-ready printer would you recommend? Why?</span></li>
+							<li ><span class="notStrong">Research 802.11n wireless routers at sites such as <span class="strongDBlue" onclick="window.open('http://netgear.com','_blank')">netgear.com</span>, <span class="strongDBlue" onclick="window.open('http://home.cisco.com/en-us/home','_blank')">home.cisco.com/en-us/home</span>, and <span class="strongDBlue" onclick="window.open('http://dlink.com','_blank')">dlink.com</span>. What router do you think will meet your needs? Why?</span></li>
+							<li ><span class="notStrong">What would you recommend to address backup needs? Would you recommend individual external devices, an NAS device, a home network server, or cloud storage? What is the rationale for your choice?</span></li>
+						</ol>
+						<li><span class="innerLi">Connecting Your Computer to Public Networks</span><br/><span class="innerLi notStrong">You’re working for a local coffee shop that offers free wireless access to customers. Your supervisor has asked you to create a flyer for patrons that warns them of the potential dangers of surfing the Internet in public places. Conduct research about using public hotspots to access the Internet. Prepare a flyer that lists specific steps that customers can take to protect their data when surfing on publicly accessible networks.</span></li>
+					</ol>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol>
+						<li><span class="innerLi">Internet Access for a Small Business in a Remote Area</span><br/><span class="innerLi notStrong">Your uncle owns a combination gas station/coffee shop/general store in a very small town in the Midwest. He currently is using dial-up Internet access to send e-mail and surf the web. Some of his customers have indicated that they would love it if the store had broadband access. No local company supplies broadband service in the town where the business is located. Your uncle has asked you for ideas. </span></li>
+					</ol>
+					<p class="start Lmargin15 shiftUp10">Investigate three satellite Internet service providers and prepare a summary of features and prices for your uncle. Make sure to find out what the download and upload speeds are for each provider. Also, ensure that the service agreement allows your uncle to use the Internet connection to provide access to his customers. Which service would you recommend to your uncle? Why?</p>
+					<ol>
+						<li class="liHide"></li>
+						<li><span class="innerLi">Putting Computers to Work on Research Projects</span><br/><span class="innerLi notStrong"> Most computer central processing units (CPUs) use only a fraction of their computing power most of the time. Many medical research companies (such as those seeking cures for cancer and AIDS) could benefit from “borrowing” computer CPU time when computers are not being used or are being under utilized. Virtual supercomputers (which are really networks of computers) can be created using software installed on tens of thousands of computers. This type of computing is also known as <em>grid</em> or <em>distributed computing</em>. These virtual computing nets can be harnessed to solve complex problems when the individual computer owners are not</span></li>
+					</ol>	
+				]]>
+			</section>
+		</page>
+				
+		<page index="40" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[	
+					<div class="title">making the transition to...the workplace//</div>
+					<ol class="noListStyle">
+						<li><span class="innerLi notStrong">using their computers. Assume that you are working for a business that has 100 computers and you would like to participate in a grid-computing project. Investigate IBM’s World Community Grid (<span class="strongDBlue" onclick="window.open('http://worldcommunitygrid.org','_blank')">worldcommunitygrid.org</span>).</span></li>
+						<li><span class="innerLi notStrong">Prepare a report for your boss that does the following:</span></li>
+		
+						<ol>
+							<li class="moreSpacing"><span class="notStrong">Describes the World Community Grid (WCG) and its objectives</span></li>
+							<li class="moreSpacing"><span class="notStrong">Lists current projects on which the WCG is working</span></li>
+							<li class="moreSpacing"><span class="notStrong">Describes the process for installing the WCG software on the company’s computers</span></li>
+							<li class="moreSpacing"><span class="notStrong">Suggests a strategy for publicizing the company’s participation in the WCG project that will encourage your employer’s customers to participate</span></li>
+						</ol>
+						</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[	
+					<div class="title">
+					team time //
+					</div>
+					<h3>Providing Wireless Internet Access to the Needy</h3>
+					<h4 class="noBMargin">Problem</h4>
+					<p>Wireless Internet access in the home is very desirable. However, not everyone is able to afford it, and this can put families, especially ones with school-aged children, at a disadvantage. Providing Internet access to the underprivileged is a way of closing the “digital divide” that exists between those who can afford Internet access and those who cannot.</p>
+					
+					<h4 class="noBMargin">Task</h4>
+					<p >You’re volunteering for a charity that wants to begin installing wireless networks in homes for needy families. The project is funded by charitable grants with the objective of providing basic broadband Internet access and simple networking capabilities homes at no cost to the recipients. The assumption is that each family already has two laptop computers (provided through another charity) that have 802.11n wireless capabilities. You’ve volunteered to research potential network and Internet solutions.</p>
+					
+					<h4 class="noBMargin">Process</h4>
+					<p>Break the class into three teams. Each team will be responsible for investigating one of the following issues:</p>
+					<ol>
+						<li><span class="innerLi">Internet service providers:</span><span class="notStrong innerLi"> Research ISPs that serve the town where your school is located (don’t forget to include satellite providers). Compare and contrast their lowest cost broadband access. Compare maximum upload and download speeds as well as costs. Be sure to consider the cost of the modems—whether they’re purchased up front or rented on a monthly basis. Make sure to select what your group considers the best deal.</span></li>
+					</ol>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="41" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">
+					team time //
+					</div>
+						
+					
+					<ol>
+						<li class="liHide"><span class="notStrong"></span></li>
+						<li class="moreSpacing">Networking equipment and network-ready peripherals:<span class="notStrong"> Each home needs to be provided with an 802.11n-capable wireless router (to share the Internet access), a network ready all-in-one printer, and a Blu-ray player capable of streaming digital video (for educational programs and movies). Research at least three different options for each of these devices. Since this is a grant and money is limited, be sure to consider price as well as functionality.</span></li>
+						<li class="moreSpacing">Security:<span class="notStrong"> The wireless networks need to be secured to keep hackers and piggybackers out. Work in conjunction with the group that is researching routers to determine the best type of router to purchase since it needs to support a strong wireless security protocol such as WPA. Make sure to consider what other types of protection are needed on the network, such as antivirus software, anti-malware software, and firewalls.</span></li>
+					</ol>	
+					
+					<p class="moreSpacing">Present your findings to your class and come to a consensus about the solution you would propose for the charity. Provide your instructor with a report on your area suitable for presentation to the CEO of the charity.</p>
+					
+					<h4>Conclusion</h4>
+					<p>Providing technology to underserved populations on a cost-effective basis will go a long way toward closing the digital divide and ensuring that disadvantaged youth have the Internet access they need to pursue their education and compete effectively in today’s society.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+					<h3>Firing Employees for Expressing Views on Social Media Sites</h3>
+					<p class="moreSpacing">In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play may or may not match your own personal beliefs; regardless, your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the arguments, and together, the team will agree on an ethical solution.</p>
+					
+				<br/>	
+					<h4>Problem</h4>
+					<p class="moreSpacing">The largest network, the Internet, provides the capability for vast social interaction. Social media sites such as Facebook, YouTube, and Twitter, as well as blogs and wikis, give everyone convenient ways to express their opinions. However, employers often are intolerant of employees who freely express negative opinions or expose inside information about their employers on social media sites. Given that most jurisdictions in the United States use the doctrine of employment at-will (that is, employees can be fired at any time for any reason, or even no reason), many employers are quick to discipline or terminate employees who express opinions with which the company disagrees. When such cases come to court, the courts often find in favor of the employers. It’s clear that individuals must exercise extreme care when posting work-related content.</p>	
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="42" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+						
+					<h4>Research Areas to Consider</h4>
+					<span class="psudoUlLi">Ellen Simonetti and Delta Airlines</span>
+					<span class="psudoUlLi">Fired for blogging about work</span>
+					<span class="psudoUlLi">Free speech</span>
+					<span class="psudoUlLi">Joyce Park or Michael Tunison</span>
+				<br/>
+				
+					<h4>Process</h4>
+					<ol>
+						<li><span class="notStrong">Divide the class into teams.</span></li>
+						<li><span class="notStrong">Research the areas cited above and devise a scenario in which someone has complained about an employee blogging about a sensitive workplace issue such as cleanliness at a food manufacturing facility or employee romances.</span></li>
+						<li><span class="notStrong">Team members should write a summary that provides background information for their character—for example: employee, human resources manager, or arbitrator—and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the role-playing event.</span></li>
+					</ol>	
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<div class="ColShiftSpacer"></div>
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+						<li><span class="notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p>As technology becomes ever more prevalent and integrated into our lives, more and more ethical dilemmas will present themselves. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>	
+					
+				]]>
+			</section>
+		</page>
+		
+				
+		<!--chapter 7B-->
+		
+		<page index="43" type="full" distinction="chapterStartB">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top: 32px;">
+						Under the Hood</div>
+						<div class="chapterStartNumberFocus">Technology <br/>in Focus</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="44" type="ColumnColumn" distinction="tocB">
+			<section>	
+				<![CDATA[
+					
+					<h2 class="semibold">Technology in Focus: <br/>Under the Hood</h2>
+					<hr>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" onclick="compTia.switchPage(0,45)" style="display:inline;">Switches </span>
+					<span>The Altair  (<span class="strongDBlue" onclick="compTia.switchPage(0,45)">pp. 336-338</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" onclick="compTia.switchPage(0,47)" style="display:inline;">Number Systems </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,47)">pp. 338-343</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" onclick="compTia.switchPage(0,52)" style="display:inline;">How the CPU Works </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,52)">pp. 343-349</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" onclick="compTia.switchPage(0,58)" style="display:inline;">Making CPUs Even Faster </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,58)">pp. 349-351</span>)</span>
+					</div>
+					
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<img src="assets/images/figures/7B.jpg">
+					
+					<div class="loader"></div>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="45" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				
+				<div class="BMargin10 strong font_23 font_fff">
+
+					<div class="floatRight height100"
+						 style="padding:12px 17px; 
+								width:208px;
+								background-color:#009ecb; margin-right:11px;">
+						Under <br/>the Hood</div>
+					<div class="height100"
+						 style="padding:12px 21px; 
+						 		width:122px;
+								background-color:#8dc63f;">Technology in Focus</div></div>
+										
+								 
+					<p class="TMargin10" style="margin-top:-7px;">Some people are drawn to understanding things in detail; others are happy just to have things work. If you use a computer, you may not have been tempted to “look under the hood.” However, if you can understand the hardware inside a computer, you’ll have some real advantages:</p>
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi">You won’t have to pay a technician to fix or upgrade your computer. You’ll be able to fine-tune it yourself, and you’ll be able to make your investment in your computer last longer.</span></li>
+						<li class="lessSpacing"><span class="innerLi">You’ll be able to evaluate new advances in technology. For example, what’s the impact of a new type of memory or a new processor?</span></li>
+						<li class="lessSpacing"><span class="innerLi">If you’re a programmer, you’ll be able to write more efficient and faster programs.</span></li>		 
+					</ul>
+					
+					<p>And if you’re preparing for a career in information technology, understanding computer hardware is critical for you. In this Technology in Focus feature, we’ll build on what you’ve learned about computer hardware in other chapters and go “under the hood” to look at the components of your system unit in more detail. Let’s begin by looking at the building blocks of computers: switches.</p>
+					
+					<span class="orangeHeading normalFontFamily strong TMargin5">Switches</span>
+					<p>How does a computer process the data you input? A computer system can </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>be viewed as an enormous collection of on/off switches. These simple on/off switches are combined in different ways to perform addition and subtraction and to move data around the system.</p>
+					
+					<h2 class="blueHeading font_16">Electrical Switches</h2>
+					
+					<p >To process data into information, computers need to work in a language they understand. Computers understand only two states of existence: on and off. Inside a computer, these two possibilities, or states, are defined using the two numbers <em>1</em> and <em>0</em>; the language represented by these numbers is called <span class="strongDBlue"  glossary>binary language</span> because just two numbers are used. Everything a computer does, such as processing data or printing a report, is broken down into a series of <em>0</em>s and <em>1</em>s. <span class="strongDBlue"  glossary>Electrical switches</span> are the devices inside the computer that are flipped between the two states of <em>1</em> and <em>0</em>, signifying “on” and “off.”</p>
+				
+					<div class="TMargin15" style="height:220px;
+							background:no-repeat url(assets/images/figures/fig7b_0.jpg) -10px 0"></div>
+							<div class="font_9 floatLeft"
+								 style="margin-top:-7px;font-style: italic;">(Chris Driscoll/Alamy)
+								 </div>	
+				]]>
+			</section>
+		</page>		
+		
+		<page index="46" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[	
+					<p class="start">You use various forms of switches every day. The light switch in your kitchen either is ON, allowing current to  flow to the light bulb, or OFF. Another switch you use each day is a water faucet. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(46,1)">Figure 1</span>, shutting off the faucet so that no water flows could represent the value 0, whereas turning it on could represent the value 1.</p>
+					<p class="start">Computers are built from a huge collection of electrical switches. The history of computers is really a story about creating smaller and faster sets of electrical switches so that more data can be stored and manipulated quickly.</p>
+				<br/>	
+					<p><strong>Vacuum Tubes.</strong> The earliest generation of electronic computers used <span class="strongDBlue"  glossary>vacuum tubes</span> as switches. Vacuum tubes act as switches by allowing or blocking the flow of electrical current. The problem with vacuum tubes is that they take up a lot of space, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(46,2)">Figure 2</span>.</p>
+					
+					<a onclick="compTia.togglePopup(46,0)" class="readMore"></a>
+					
+					<p><strong>Transistors.</strong> <span class="strongDBlue"  glossary>Transistors</span> are electrical switches built out of layers of a special type of material called a <span class="strongDBlue"  glossary>semi-conductor</span>. A semiconductor is any material that can be controlled either to conduct electricity or to act as an insulator (to prohibit electricity from passing through). Silicon, which is found in common sand, is the semiconductor material used to make transistors (<span class="strongDBlue" onclick="compTia.togglePopup(47,0)">see Figure 3</span>).</p>
+					<p class="start">By itself, silicon doesn’t conduct electricity particularly well, but if specific chemicals are added in a controlled way to the silicon, it begins to behave like a switch. The silicon allows electrical current to flow easily</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[	
+					<p>when a certain voltage is applied; otherwise, it prevents electrical current from flowing, thus behaving as an on/off switch. This kind of behavior is exactly what’s needed to store digital information—the <em>0</em>s and <em>1</em>s (on) of binary language.</p>
+					
+					<figure onclick="compTia.togglePopup(46,1)"
+						style="background:url(assets/images/figures/fig7b_1.jpg) no-repeat 60px 0;
+							    height: 190px;
+								margin-top: 5px;">
+						<figcaption class="bottomPos"><span>Figure 1</span> Water faucets can be used to illustrate binary switches.
+   				</figcaption></figure>
+				
+				<br/>
+				<figure onclick="compTia.togglePopup(46,2)"
+						style="background:url(assets/images/figures/fig7b_2.jpg) no-repeat 60px 0;
+							    height: 232px;
+								margin-top: 0px;">
+						<figcaption class="bottomPos"><span>Figure 2</span> Early computers were constructed using vacuum tubes (see inset). The difference in size achieved by moving from tubes to transistors allowed computers to become desktop devices instead of room-sized machines. <em>(CORBIS)</em>
+   				</figcaption></figure>
+				
+				]]>
+			</section>
+		</page>	
+		
+		<page index="47" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[	
+					<figure onclick="compTia.togglePopup(47,0)"
+						style="background:url(assets/images/figures/fig7b_3.jpg) no-repeat 50px 0;
+							    height: 220px;">
+						<figcaption class="bottomPos"><span>Figure 3</span> A silicon wafer like the one shown here holds the transistor circuitry for hundreds of devices. <em>(Justin Sullivan/Staff/Getty Images News)</em>
+   					</figcaption></figure>
+				
+				<br/>
+					<p class="start">The first transistors were much smaller than vacuum tubes, produced little heat, and could quickly be switched from on to off, thereby allowing or blocking electrical current. They also were less expensive than vacuum tubes.</p>
+					<p class="start">It wasn’t long, however, before transistors reached their limits. Continuing advances in technology began to require more transistors than circuit boards could reasonably handle. Something was needed to pack more transistor capacity into a smaller space. Thus, integrated circuits, the next technical revolution in switches, were developed.</p>
+					
+					<br/>
+					<p><strong>Integrated Circuits.</strong> <span class="strongDBlue" glossary="integrated circuits (chips)">Integrated circuits</span> (or <span class="strongDBlue"  glossary="integrated circuits (chips)">chips</span>) are tiny regions of semiconductor material that support a huge number of transistors (<span class="strongDBlue" onclick="compTia.togglePopup(47,1)">see Figure 4</span>). Most integrated circuits are no more than a quarter inch in size yet can hold billions of transistors.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[	
+					<figure onclick="compTia.togglePopup(47,1)"
+						style="background:url(assets/images/figures/fig7b_4.jpg) no-repeat 50px 0;
+							    height: 220px;">
+						<figcaption class="bottomPos"><span>Figure 4</span> An integrated circuit is packaged in a small case but holds billions of transistors. <em>(Gudellaphoto/Fotolia)</em>
+   					</figcaption></figure>
+				<br/>
+					<p class="start">This advancement has enabled computer designers to create small yet powerful <span class="strongDBlue" glossary>microprocessors</span>, which are the chips that contain a central processing unit (CPU). The Intel 4004, the first complete microprocessor to be located on a single integrated circuit, was released in 1971, marking the beginning of the true miniaturization of computers. The Intel 4004 contained slightly more than 2,300 transistors. Today, more than 2 billion transistors can be manu factured in a space as tiny as the nail of your little finger!</p>
+					
+				<br/>	
+					<span class="orangeHeading normalFontFamily strong">Number Systems</span>
+					<p>How can simple switches be organized so that they let you use a computer to pay your bills online or write an essay? How can a set of switches describe a number or a word or give a computer the command to perform addition? Recall that to manipulate the on/off switches, the computer works in binary </p>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="48" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>language, which uses only two digits, <em>0</em> and <em>1</em>. Let’s look at how numbering systems work so that we can begin to understand this more deeply.</p>
+				<br/>
+					<h2 class="blueHeading font_16">The Base-10 Number System</h2>
+					<p>A <span class="strongDBlue" glossary>number system</span> is an organized plan for representing a number. Although you may not realize it, you’re already familiar with one number system. The <span class="strongDBlue" glossary="base-10 number system (decimal notation)">base-10 number system</span>, also known as <span class="strongDBlue" glossary="Base-10 number system (decimal notation)">decimal notation</span>, is the system you use to represent all of the numeric values you use each day. It’s called base 10 because it uses 10 digits—0 through 9—to represent any value.</p>
+					<p class="start">To represent a number in base 10, you break the number down into groups of ones, tens, hundreds, thousands, and so on. Each digit has a place value depending on where it appears in the number. For example, using base 10, in the whole number 6,954 there are 6 sets of thousands, 9 sets of hundreds, 5 sets of tens, and 4 sets of ones. Working from right to left, each place in a number represents an increasing power of 10, as follows:</p>	
+					
+					<div style="height:80px;
+							background:no-repeat url(assets/images/figures/equation.jpg) 0px 5px"></div>
+							
+					
+					<p class="start">Note that in this equation, the final digit <em>4</em> is represented as 4 * 10<sup>0</sup> because any number raised to the zero power is equal to 1.</p>			 
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading font_16">The Base-2 (or Binary) Number System</h2>
+					<p>Anthropologists theorize that humans developed a base-10 number system because we have 10 fingers. However, computer systems are not well suited to thinking about numbers in groups of 10. Instead, computers describe a number in powers of 2 because each switch can be in one of two positions: on or off (<span class="strongDBlue" onclick="compTia.togglePopup(48,0)">see Figure 5</span>). This numbering system is referred to as the <span class="strongDBlue" glossary="binary number system (base-2 number system)">binary number system</span>.</p>
+					<p class="start">The binary number system is also referred to as the <span class="strongDBlue" glossary="base-2 number system (binary number system)">base-2 number system</span>. Even with just two digits, the binary number system can still represent all the values that a base-10 number system can. Instead of </p>
+					
+					<figure onclick="compTia.togglePopup(48,0)"
+						style="background:url(assets/images/figures/fig7b_5.jpg) no-repeat 50px 5px;
+							    height: 310px;">
+						<figcaption class="bottomPos"><span>Figure 5</span> Computer humor—the value <i>2&nbsp;</i> is written as <i>10&nbsp;</i> in binary! <em>(GroovyGearShop.com/CafePress.com)</em>
+   					</figcaption></figure>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="49" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>breaking the number down into sets of ones, tens, hundreds, and thousands, as is done in base-10 notation, the binary number system describes a number as the sum of powers of 2—ones, twos, fours, eights, and sixteens. Binary numbers are used to represent every piece of data stored in a computer: all of the numbers, all of the letters, and all of the instructions that the computer uses to execute work.</p>
+				<br/>
+					<p><strong>Representing Integers.</strong> In the base-10 number system, a whole number is represented as the sum of <em>1</em>s, <em>10</em>s, <em>100</em>s, and <em>1,000</em>s—that is, sums of powers of 10. The binary system works in the same way, but describes a value as the sum of groups of <em>1</em>s, <em>2</em>s, <em>4</em>s, <em>8</em>s, <em>16</em>s, <em>32</em>s, <em>64</em>s, etc.—that is, powers of 2: 1, 2, 4, 8, 16, 32, 64, and so on.</p>
+					<p class="start">Let’s look at the number 67. In base 10, the number 67 would be six sets of <em>10</em>s and seven sets of <em>1</em>s, as follows:</p>
+					
+					<div style="height:55px;
+							background:no-repeat url(assets/images/figures/equ1.jpg) 0px 10px"></div>
+							
+					<p class="start">One way to figure out how 67 is represented in base 2 is to find the largest possible power of 2 that could be in the number 67. Two to the eighth power is 256, and there are no groups of 256 in the number 67. Two to the seventh power is 128, but that is bigger than 67. Two to the sixth power is 64, and there is a group of 64 inside a group of 67.</p>		
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div style="height:185px;
+							background:no-repeat url(assets/images/figures/equ2.jpg) 0px 5px"></div>
+					
+					<p class="start">So, the binary number for 67 is written as 1000011 in base 2:</p>
+					
+					<div style="height:125px;
+							background:no-repeat url(assets/images/figures/equ3.jpg) 0px 5px"></div>
+							
+					<p class="start">It’s easier to have a calculator do this for you! Some calculators have a button labeled DEC (for decimal) and another labeled BIN (for binary).</p>
+					
+					<a onclick="compTia.togglePopup(49,0)" class="readMore"></a>				
+				]]>
+			</section>
+		</page>
+		
+		<page index="50" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p><strong>Hexadecimal Notation.</strong> A large integer value becomes a very long string of <em>1</em>s and <em>0</em>s in binary! For convenience, programmers often use <span class="strongDBlue" glossary>hexadecimal notation</span> to make these expressions easier to use. Hexadecimal is a base-16 number system, meaning it uses 16 digits to represent numbers instead of the 10 digits used in base 10 or the 2 digits used in base 2. The 16 digits it uses are the 10 numeric digits, 0 to 9, plus six extra symbols: A, B, C, D, E, and F. Each of the letters A through F corresponds to a numeric value, so that A equals 10, B equals 11, and so on (<span class="strongDBlue" onclick="compTia.togglePopup(50,0)">see Figure 7</span>). Therefore, the value 67 in decimal notation is 1000011 in binary or 43 in hexadecimal notation. It is much easier for computer scientists to use the 2-digit 43 than the 7-digit string 1000011. The Windows Calculator in Programmer view also can perform conversions to hexadecimal notation. (You can watch a video showing you how to perform conversions between bases using the Windows Calculator in the Sound Byte titled, <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/where_does_binary_show_up/index.html','_blank')">“Where Does Binary Show Up?”</span>)</p>
+				<br/>
+					<p><strong>Representing Characters: ASCII.</strong> We’ve just been converting integers from base 10, which <em>we</em> understand, to base 2 (binary state), which the </p>	
+				
+				<br/>
+				<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/where_does_binary_show_up/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Where Does Binary Show Up?
+						</div>
+						In this Sound Byte, you’ll learn how to use tools to work with binary, decimal, and hexadecimal numbers. (These tools come with the Windows operating system.) You’ll also learn where you might see binary and hexadecimal values when you use a computer.
+					</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_21">Sample Hexadecimal Values</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(50,0)" style="    background: url(assets/images/figures/fig7b_7.jpg) no-repeat scroll 8px 35px #FFFFFF; height: 390px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 7</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos">
+						</figcaption></figure>
+					</div>
+					
+				
+					<p>computer understands. Similarly, we need a system that converts letters and other symbols that we  understand to a binary state the computer understands. To provide a consistent means for representing letters and other characters, certain codes dictate how to represent characters in binary format. Most of today’s personal computers use the American</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="51" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>National Standards Institute (ANSI, pronounced “An-see”) standard code, called the <span class="strongDBlue" glossary="ASCII (American Standard Code for Information Interchange)">American Standard Code for Information Interchange</span> (<span class="strongDBlue" glossary>ASCII</span>, pronounced “As-key”), to represent each letter or character as an 8-bit (or 1-byte) binary code.</p>
+					<p class="start">Each binary digit is called a <span class="strongDBlue" glossary="binary digit (bit)">bit</span> for short. Eight binary digits (or bits) combine to create one <span class="strongDBlue" glossary>byte</span>. We’ve been converting base-10 numbers to a binary format. In such cases, the binary format has no standard length. For example, the binary format for the number <em>2</em> is two digits (<em>10</em>), whereas the binary format for the number 10 is four digits (1010). Although binary numbers can have more or fewer than 8 bits, each single alphabetic or special character is 1 byte (or 8 bits) of data and consists of a unique combination of a total of eight <em>0</em>s and <em>1</em>s.</p>
+					<p class="start">The ASCII code represents the 26 uppercase letters and 26 lowercase letters used in the English language, along with many punctuation symbols and other special characters, using 8 bits. <span class="strongDBlue" onclick="compTia.togglePopup(51,0)">Figure 8</span> shows several examples of the ASCII code representation of printable letters and characters.</p>
+					
+					<br/>
+					<p><strong>Representing Characters: Unicode.</strong> Because it represents letters and characters using only 8 bits, the ASCII code can assign only 256 (or 28) different codes for unique characters and letters. Although this is enough to represent English and many other characters found in the world’s languages, ASCII code can’t represent all languages and symbols, because some languages require more than 256 characters and letters. Thus, a new encoding scheme, called <span class="strongDBlue" glossary>Unicode</span>, was created. By using 16 bits instead of </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_16 boldCond leftPadding10" style="background-position:331px;">ASCII Standard Code for a Sample of Letters and Characters</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(51,0)" style="    background: url(assets/images/figures/fig7b_8.jpg) no-repeat scroll 7px 25px #FFFFFF; height: 171px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16 noLMargin TMargin5"><strong style="padding-left:6px">Figure 8</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos" style="padding:7px 10px; font-size:13px;"><em style="font-size:13px;">Note</em>: For the full ASCII table, see <span class="strongDBlue" onclick="window.open('http://ascii-code.com','_blank')">ascii-code.com</span>
+						</figcaption></figure>
+					</div>
+				<br/>	
+					
+					<p>the 8 bits used in ASCII, Unicode can represent nearly 1,115,000 code points and currently assigns more than 96,000 unique character symbols</p><p>(<span class="strongDBlue" onclick="compTia.togglePopup(51,2)">Figure 9</span>).</p>
+					<a onclick="compTia.togglePopup(51,1)" class="readMore"></a>	
+					
+					<figure onclick="compTia.togglePopup(51,2)" style="background: url(assets/images/figures/fig7b_9.jpg) no-repeat scroll -1px 0px transparent; margin-top: 10px; height: 193px;">
+							
+							<figcaption class="rightPos" style="width:145px;">
+								<span>Figure 9</span> The written languages of the world require thousands of different characters, shown here. The Unicode Code Chart (<span class="strongDBlue" onclick="window.open('http://unicode.org/charts','_blank')">unicode.org/charts</span>) shows how Unicode provides a system allowing digital representation of over 1,100,000 unique characters.
+							</figcaption></figure>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="52" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing"><strong>Representing Decimal Numbers.</strong> The binary number system can also represent a decimal number. How can a string of <em>1</em>s and <em>0</em>s capture the information in a value such as 99.368? Because every computer must store such numbers in the same way, the Institute of Electrical and Electronics Engineers (IEEE) has established a standard called the <em>floating-point standard</em> that describes how numbers with fractional parts should be represented in the binary number system. Using a 32-bit system, we can represent an incredibly wide range of numbers.</p>
+					<p class="start moreSpacing">The method dictated by the IEEE standard works the same for any number with a decimal point, such as the number −0.75. The first digit, or bit (the sign bit), is used to indicate whether the number is positive or negative. The next eight bits store the magnitude of the number, indicating whether the number is in the hundreds or millions, for example. The standard says to use the next 23 bits to store the value of the number.</p>
+				<br/>	
+					<p><strong>Interpretation.</strong> <em>All</em> data inside the computer is stored as bits:</p>
+				<br/>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><strong>Positive and negative integers</strong> can be stored using signed integer notation, with the first bit (the sign bit) indicating the sign and the rest of the bits indicating the value of the number.</span></li>
+						<li class="moreSpacing"><span class="innerLi"><strong>Decimal</strong> numbers are stored according to the IEEE floating-point standard.</span></li>
+						<li class="moreSpacing"><span class="innerLi"><strong>Letters and symbols</strong> are stored according to the ASCII code or Unicode.</span></li>
+					</ul>		
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">These number systems and codes exist so that computers can store different types of information in their on/off switches. No matter what kind of data you input in a computer—a color, a musical note, or a street address—that data will be stored as a pattern of <em>1</em>s and <em>0</em>s. The important lesson is that the interpretation of <em>0</em>s and <em>1</em>s is what matters. The same binary pattern could represent a positive number, a negative number, a fraction, or a letter.</p>
+					<a onclick="compTia.togglePopup(52,0)" class="readMore"></a>
+					
+				<br/>	
+					<span class="orangeHeading normalFontFamily strong">How the CPU Works</span>
+					<p>Any program you run on your computer is actually a long series of binary code describing a specific set of commands the CPU must perform. These commands may be coming from a user’s actions or may be instructions fed from a program while it executes. Each CPU is somewhat different in the exact steps it follows to perform its tasks, but all CPUs must perform a series of similar general steps. These steps, also illustrated in <span class="strongDBlue" onclick="compTia.togglePopup(53,0)">Figure 10</span>, are referred to as a CPU <span class="strongDBlue" glossary="machine cycle (processing cycle)">machine cycle</span> (or <span class="strongDBlue" glossary="machine cycle (processing cycle)">processing cycle</span>):</p>
+					
+					<br/>
+				<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/binary_numbers_interactive/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Binary Numbers Interactive
+						</div>
+						This Sound Byte helps remove the mystery surrounding binary numbers. You’ll learn about base conversion among decimal, binary, and hexadecimal systems interactively, using colors, sounds, and images.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="53" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight leftPadding10">The CPU Machine Cycle</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(53,0)" style="    background: url(assets/images/figures/fig7b_10.jpg) no-repeat scroll 10px 30px #FFFFFF; height: 393px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16 noLMargin TMargin5"><strong style="padding-left:6px">Figure 10</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos">
+						</figcaption></figure>
+					</div>
+				<br/>
+					<ol class="strong">
+						<li class="lessSpacing"><span class="innerLi">Fetch:</span><span class="innerLi notStrong"> When any program begins to run, the <em>1</em>s and <em>0</em>s that make up the program’s binary code must be “fetched” from their temporary storage location in random access memory (RAM) and moved to the CPU before they can be executed.</span></li>
+					</ol>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li class="liHide"><span class="innerLi"></span></li>
+						<li><span class="innerLi">Decode:</span><span class="innerLi notStrong"> Once the program’s binary code is in the CPU, it is decoded into commands the CPU understands.</span></li>
+						<li><span class="innerLi">Execute:</span><span class="innerLi notStrong"> Next, the CPU actually performs the work described in the commands. Specialized hardware on the CPU performs addition, subtraction, multiplication, division, and other mathematical and logical operations.</span></li>
+						<li><span class="innerLi">Store:</span><span class="innerLi notStrong"> The result is stored in one of the <span class="innerLi strongDBlue" glossary>registers</span>, special memory storage areas built into the CPU, which are the most expensive, fastest memory in your computer. The CPU is then ready to fetch the next set of bits encoding the next instruction.</span></li>
+					</ol>
+					
+					<p class="start">No matter what program you’re running and no matter how many programs you’re using at one time, the CPU performs these four steps over and over at incredibly high speeds. Shortly, we’ll look at each stage in more detail. But first, let’s examine components that help the CPU perform its tasks.</p>
+					
+					<h2 class="blueHeading">The Control Unit</h2>
+					<p>The CPU, like any part of the computer system, is designed from a collection of switches. How can the simple on/off switches of the CPU “remember” the fetch-decode-execute-store sequence of the machine cycle?</p>
+					<p class="start">The <span class="strongDBlue" glossary>control unit</span> of the CPU manages the switches inside the CPU. It is programmed by CPU designers to remember the sequence of processing stages for that CPU and how each switch in the CPU should be set (i.e., on or off) for each stage. With each beat of the system clock, the control unit </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="54" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>moves each switch to the correct on or off setting and then performs the work of that stage.</p>
+					
+					<h2 class="blueHeading">The System Clock</h2>
+					<p>To move from one stage of the machine cycle to the next, the motherboard uses a built-in <span class="strongDBlue" glossary>system clock</span>. This internal clock is actually a special crystal that acts like a metronome, keeping a steady beat and controlling when the CPU moves to the next stage of processing.</p>
+					<p class="start">These steady beats or “ticks” of the system clock, known as the <span class="strongDBlue" glossary>clock cycle</span>, set the pace by which the computer moves from process to process. The pace, known as <span class="strongDBlue" glossary>clock speed</span>, is measured in hertz (Hz), which describes how many times something happens per second. Today’s system clocks are measured in gigahertz (GHz), or a billion clock ticks per second. Therefore, in a 3 GHz system, there are 3 billion clock ticks each second.</p>
+					<p class="start">Let’s now look at each of the stages in the machine cycle in a bit more depth.</p>
+					
+					<h2 class="blueHeading">Stage 1: The Fetch Stage</h2>
+					<div style="height:160px;width:160px;margin-top:-15px;
+							background:no-repeat url(assets/images/figures/7bimage1.jpg) 0px 10px; float:right;"><figcaption class="bottomPos font_9"><em>(Steve Young/Fotolia)</em></figcaption></div>
+					<p>The data and program instructions the CPU needs are stored in different areas in the computer system. Data and program instructions move between these areas as they’re needed by the CPU for processing. Programs are permanently stored on the hard drive because it offers nonvolatile storage.</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>However, when you launch a program, the program, or sometimes only its essential parts, is transferred from the hard drive into RAM. </p>
+					<p class="start">The program moves to RAM because the CPU can access the data and program instructions stored in RAM more than one million times faster than if they’re left on the hard drive. In part, this is because RAM is much closer to the CPU than the hard drive is. Another reason for the delay in transmission of data and program instructions from the hard drive to the CPU is the relatively slow speed of mechanical hard drives. The read/write heads have to sweep over the spinning platters, which takes time. Even non-mechanical SSD hard drives have slower access speeds than RAM. RAM is a type of memory that gives very fast, direct access to data.</p>
+					<p class="start">As specific instructions from the program are needed, they’re moved from RAM into registers (the special storage areas located on the CPU itself), where they wait to be executed.</p>
+					<p class="start">The CPU’s storage area isn’t big enough to hold everything it needs to process at the same time. If enough memory were located on the CPU chip itself, an entire program could be copied to the CPU from RAM before it was executed. This would add to the computer’s speed and efficiency because there would be no delay while the CPU stopped processing operations to fetch instructions from RAM to the CPU. However, including so much memory on a CPU chip would make these chips extremely expensive. In addition, CPU design is so complex that only a limited amount of storage space is available on the CPU itself.</p>
+				]]>
+			</section>
+		</page>
+		
+			<page index="55" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p><strong>Cache Memory.</strong>  The CPU doesn’t actually need to fetch every instruction from RAM each time it goes through a cycle. Another layer of storage, called <span class="strongDBlue" glossary>cache memory</span>, has even faster access to the CPU than RAM. Cache memory consists of small blocks of memory located directly on and next to the CPU chip. These memory blocks are holding places for recently or frequently used instructions or data that the CPU needs the most. When these instructions or data are stored in cache memory, the CPU can retrieve them more quickly than if it had to access them in RAM.</p>
+					<p class="start">Modern CPU designs include several types of cache memory:</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Level 1 cache:</strong> If the next instruction to be fetched isn’t already located in a CPU register, instead of looking directly to RAM to find it, the CPU first searches Level 1 cache. <span class="strongDBlue" glossary="level 1 cache">Level 1 cache</span> is a block of memory built onto the CPU chip to store data or commands that have just been used.</span></li>
+						<li><span class="innerLi"><strong>Level 2 cache:</strong> If the command is not located in Level 1 cache, the CPU searches Level 2 cache. Depending on the design of the CPU, <span class="strongDBlue" glossary="level 2 cache">Level 2 cache</span> is either located on the CPU chip but slightly farther away from the CPU than Level 1 or is located on a separate chip next to the CPU and therefore takes somewhat longer to access. Level 2 cache contains more storage area than Level 1 cache. For the Intel Core i7, for example, the Level 1 cache is 64 kilobytes (KB) and the Level 2 cache is 1 megabyte (MB).</span></li>
+					</ul>
+					<p class="start lessSpacing">Only if the CPU doesn’t find the next instruction to be fetched in either Level 1 or Level 2 cache will it make the long journey to RAM to access it.</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi"><strong>Level 3 cache:</strong> The current direction of processor design is toward increasingly large multilevel CPU cache structures. Today, CPUs such as Intel’s Core i7 processors have an additional third level of cache memory storage called <span class="strongDBlue" glossary="level 3 cache">Level 3 cache</span>. On computers with Level 3 cache, the CPU checks this area for instructions and data after it looks in Level 1 and Level 2 cache but before it makes the longer trip to RAM (<span class="strongDBlue" onclick="compTia.togglePopup(56,0)">see Figure 11</span>). The Level 3 cache holds between 2 and 12 MB of data. With 12 MB of Level 3 cache, there is storage for some entire programs to be transferred to the CPU for execution.</span></li>
+					</ul>
+					<p class="start lessSpacing BMargin5">As an end user of computer programs, you do nothing special to use cache memory. The advantage of having more cache memory is that you’ll experience better performance because the CPU won’t have to make the longer trip to RAM to get data and instructions as often. Unfortunately, because it’s built into the CPU chip or motherboard, you can’t upgrade cache; it’s part of the original design of the CPU.</p>
+					
+					<br/>
+				<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/computer_architecture_interactive/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Computer Architecture Interactive
+						</div>
+						In this Sound Byte, you’ll take animated tours that illustrate many of the hardware concepts introduced in this chapter. Along the way, you’ll learn about the machine cycle of the CPU, the movement of data between RAM and the CPU, and the hierarchy of the different types of memory in computer systems.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="56" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(56,0)" style=" height:313px; background:no-repeat url(assets/images/figures/fig7b_11.jpg) -1px 0;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 11</span> The CPU has multiple stages of internal memory, which is just a part of the overall
+							</figcaption></figure>
+					<br/>		
+					<p>Therefore, as with RAM, when buying a computer it’s important to consider buying the one with the most cache memory, everything else being equal.</p>	
+					
+					<div style="height:130px;width:175px;margin-top:23px;
+							background:no-repeat url(assets/images/figures/7bimage2.jpg) 0px 10px; float:right;"><figcaption class="font_9" style="margin-top:99px;"><em style="margin-left:85px;">(Andrea Danti/Fotolia)</em></figcaption></div>
+					<br/>
+					<h2 class="blueHeading">Stage 2: The Decode Stage</h2>
+					<p>The main goal of the decode stage is for the CPU’s control unit to translate (or <span class="strongDBlue" glossary>decode</span>) the program’s instructions into commands the CPU  can understand. The collection of commands a specific CPU</p>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>can execute is called the <span class="strongDBlue" glossary>instruction set</span> for that system. Each CPU has its own unique instruction set. For example, the AMD FX 8150 eight-core processor in a Gamer Mage system has a different instruction set than the Intel Core i5 used in a Dell Inspiron notebook. The control unit interprets the code’s bits according to the instruction set the CPU designers laid out for that particular CPU. The control unit then knows how to set up all the switches on the CPU so that the proper operation will occur.</p>
+					<p class="start">Because humans are the ones who write the initial instructions, all the commands in an instruction set are written in a language called <span class="strongDBlue" glossary>assembly language</span>, which is easier for humans to work with than binary. Many CPUs have similar assembly commands in their instruction sets, including the following commands:</p>
+					
+					<figure style=" height:190px; background:no-repeat url(assets/images/figures/table1.jpg) 75px 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span></span> 
+							</figcaption></figure>
+							
+					<div onclick="compTia.togglePopup(56,1)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Using a Little Hideaway
+					</div>		
+				]]>
+			</section>
+		</page>
+		
+		<page index="57" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">CPUs differ in the choice of additional assembly language commands selected for the instruction set. Each CPU design team works to develop an instruction set that is both powerful and speedy.</p>
+					<p class="start">However, because the CPU knows and recognizes only patterns of <em>0</em>s and <em>1</em>s, it can’t understand assembly language directly, so these human readable instructions are translated into binary code. The control unit uses these long strings of binary code called <span class="strongDBlue" glossary>machine language</span> to set up the hardware in the CPU for the rest of the operations it needs to perform. Machine language is a binary code for com puter instructions, much like the ASCII code is a binary code for letters and characters. Similar to each letter or character having its own unique combination of <em>0</em>s and <em>1</em>s assigned to it, a CPU has a table of codes consisting of combinations of <em>0</em>s and <em>1</em>s for each of its commands. If the CPU sees a particular pattern of bits arrive, it knows the </p>
+					
+					<br/>
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight boldCond leftPadding10">Representations of Sample CPU Commands</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(57,0)" style="    background: url(assets/images/figures/fig7b_12.jpg) no-repeat scroll 10px 30px #FFFFFF; height: 178px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16 noLMargin TMargin5"><strong style="padding-left:6px">Figure 12</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos">
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>work it must do. <span class="strongDBlue" onclick="compTia.togglePopup(57,0)">Figure 12</span> shows a few commands in both assembly language and machine language.</p>
+					
+					<br/>
+					<div style="height:155px;width:145px;margin-top:11px;
+							background:no-repeat url(assets/images/figures/7bimage3.jpg) 0px 10px; float:right;"><figcaption class="font_9" style="margin-top:145px;margin-left:25px;"><em>(Taras Livyy/Fotolia)</em></figcaption></div>
+					
+					<h2 class="blueHeading">Stage 3: The Execute Stage</h2>
+					<p>The <span class="strongDBlue" glossary>arithmetic logic unit (ALU)</span> is the part of the CPU designed to perform mathematical operations such as addition, subtraction, multiplication, and division and to test the comparison of values such as <em>greater than, less than,</em> and <em>equal to</em>. For example, in calculating an average, the ALU is where the addition and division operations would take place.</p>
+					<p class="start">The ALU also performs logical OR, AND, and NOT operations. For example, in determining whether a student can graduate, the ALU would need to ascertain whether the student had taken all required courses AND obtained a passing grade in each of them. The ALU is specially designed to execute such calculations flawlessly and with incredible speed.</p>
+					<p class="start">The ALU is fed data from the CPU’s registers. The amount of data a CPU can process at a time is based in part on the amount of data each register can hold. The number of bits a computer can work with at a time is referred to as its <span class="strongDBlue" glossary>word size</span>. Therefore, a 64-bit processor can process more information faster than a 32-bit processor.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="58" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div style="height:137px;width:151px;
+							background:no-repeat url(assets/images/figures/7bimage4.jpg) 0px 4px; float:right;"><figcaption class="font_9" style="margin-top:125px;margin-left:23px;"><em>(John Takai/Fotolia)</em></figcaption></div>
+					
+					<h2 class="blueHeading">Stage 4: The Store Stage</h2>
+					<p class="lessSpacing"> In the final stage, the result produced by the ALU is stored back in the registers. The instruction itself will explain which register should be used to store the answer.</p>
+					<p class="start lessSpacing">Once the entire instruction has been completed, the next instruction will be fetched, and the fetch-decode-execute-store sequence will begin again.</p>
+					
+					<span class="orangeHeading normalFontFamily strong TMargin5">Making CPUs Even Faster</span>
+					<p class="lessSpacing">Knowing how to build a CPU that can run faster than the competition can make a company rich. However, building a faster CPU isn’t easy. A new product launch must take into consideration the time it will take to design, manufacture, and test that processor. When the processor finally hits the market, it must be faster than the competition if the manufacturer hopes to make a profit. To create a CPU that will be released 36 months from now, it must be built to perform at least twice as fast as anything currently available.</p>
+					<p class="start lessSpacing">Processor manufacturers can increase CPU performance in many different ways:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Using <em>pipelining</em></span></li>
+						<li><span class="innerLi">Designing the CPU’s instruction set so that it contains <em>specialized instructions for handling multimedia and graphics,</em> and</span></li>
+						<li><span class="innerLi">Including <em>multiple independent processing paths</em> inside the CPU Let’s explore each of these methods in more detail.</span></li>
+					</ul>
+					
+					<p>Let’s explore each of these methods in more detail.</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Pipelining</h2>
+					<p>As an instruction is processed, the CPU runs sequentially through the four stages of processing: fetch, decode, execute, and store. <span class="strongDBlue" glossary>Pipelining</span> is a technique that allows the CPU to work on more than one instruction (or stage of processing) at the same time, thereby boosting CPU performance.</p>
+					<p class="start">For example, without pipelining, it may take four clock cycles to complete one instruction (one clock cycle for each of the four processing stages). However, with a four-stage pipeline, the computer can process four instructions at the same time. The ticks of the system clock (the clock cycle) indicate when all instructions move to the next process. Using pipelining, a four-stage processor can potentially run up to four times faster because some instruction is finishing every clock cycle rather than waiting four cycles for each instruction to finish. In <span class="strongDBlue" onclick="compTia.togglePopup(59,0)">Figure 13a</span>, a non-pipelined instruction takes four clock cycles to be completed, whereas in <span class="strongDBlue" onclick="compTia.togglePopup(59,0)">Figure 13b</span>, the four instructions have been completed in the same time using pipelining.</p>
+					<p class="start">There is a cost to pipelining a CPU, however. The CPU must be designed so that each stage (fetch, decode, execute, and store) is independent. This means that each stage must be able to run at the same time that the other three stages are running. This requires more transistors and a more complicated hardware design.</p>
+					
+					<div onclick="compTia.togglePopup(58,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Does Your Computer Need More Power? Team It Up!
+					</div>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="59" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight boldCond">Non-Pipelined vs Pipelined Instruction Cycles</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(59,0)" style="    background: url(assets/images/figures/fig7b_13.jpg) no-repeat scroll 6px 40px #FFFFFF; height: 320px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 13</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:10px;"><span>Figure 13</span>  Instead of (a) waiting for each instruction to complete, (b) pipelining allows the system to work on more than one set of instructions at one time.
+						</figcaption></figure>
+					</div>
+					
+					<h2 class="blueHeading">Specialized Multimedia Instructions</h2>
+					<p>Each design team that develops a new CPU tries to imagine what users’ greatest needs will be in four or five years. Currently, several processors on the market reflect this consideration by incorporating specialized multimedia instructions into the basic instruction set.</p>
+					
+					<a onclick="compTia.togglePopup(59,1)" class="readMore"></a>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Multiple Processing Efforts</h2>
+					<p>Many high-end server systems use a set of completely separate CPU chips on one motherboard. These server systems can later be scaled so that they can accommodate large numbers of processors, like the Cray Jaguar supercomputer, which has over 224,000 independent processors!</p>
+					<p class="start">In personal computers, Intel uses <em>multi-core processing</em> in its Core processor line of chips. Chips with quad-core processing capabilities have four separate parallel processing paths inside them, so they’re almost as fast as four separate CPUs. It’s not quite four times as fast because the system must do some extra work to decide which processor will work on which part of the problem and to recombine the results each CPU produces.</p>
+					<p class="start">Six-core processors, like the Intel i7 Extreme Edition, and even eight-core CPUs (like the AMD FX) are available as well, executing six (or eight) separate processing paths. Multiprocessor systems are often used when intensive computational problems need to be solved in such areas as computer simulations, video production, and graphics processing.</p>
+					<p class="start">Certain types of problems are well suited to a <span class="strongDBlue" glossary="parallel processing">parallel processing</span> environment. In parallel processing, there is a large network of computers, with each computer working on a portion of the same problem simultaneously. To be a good candidate for parallel processing, a problem must be able to be divided into a set of tasks that can be run simultaneously. For example, a problem where millions of faces are being compared with a target image for recognition is easily adapted to a parallel setting. The target face can be compared with many hundreds of faces at the same time. </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="60" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(60,0)" class="bitsAndBytesBlue ">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Today’s Supercomputers: The Fastest of the Fast
+					</div>	
+					
+					<p class="TMargin10">But if the next step of an algorithm can be started only after the results of the previous step have been computed, parallel processing will present no advantages.</p>
+					<p class="start">Thus, what you can continue to expect from CPUs in the future is that they will continue to get smaller and faster and to consume less power. This fits with the current demands of consumers for more powerful portable computing devices.</p>
+					<p class="start">At the most basic level of binary <em>1</em>s and <em>0</em>s, computers are systems of switches that can accomplish impressive tasks. By understanding the hardware components that make up your computer system, you can use your system more effectively and make better buying decisions.</p>
+					
+					<div onclick="compTia.togglePopup(60,1)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						CPU Wars
+					</div>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the next Chapter:</strong>
+							<span class="dot"><span onclick="compTia.modules.toggleModule(23)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="61" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Do you know what type of CPU your computer or tablet has?</div>
+					<ol class="pollQuestions">
+						<li>Yes</li>
+						<li>No</li>
+					</ol>
+					<div class="blueSubmit TMargin10 Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="62" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">Under the Hood glossary//</div>
+					<span class="strongDBlue" glossary="ASCII (American Standard Code for Information Interchange)">American Standard Code for Information Interchange</span> 342<br/>
+					<span class="strongDBlue" glossary>arithmetic logic unit (ALU)</span> 348<br/>
+					<span class="strongDBlue" glossary>assembly language</span> 347<br/>
+					<span class="strongDBlue" glossary="binary digit (bit)">binary digit</span> 339<br/>
+					<span class="strongDBlue" glossary="base-10 number system (decimal notation)">base-10 number system</span> 339<br/>
+					<span class="strongDBlue" glossary="base-2 number system (binary number system)">base-2 number system</span> 339<br/>
+					<span class="strongDBlue" glossary>binary language</span> 336<br/>
+					<span class="strongDBlue" glossary="binary number system (base-2 number system)">binary number system</span> 339<br/>
+					<span class="strongDBlue" glossary>bit</span> 342<br/>
+					<span class="strongDBlue" glossary>byte</span> 342<br/>
+					<span class="strongDBlue" glossary>cache memory</span> 346<br/>
+					<span class="strongDBlue" glossary>clock cycle</span> 345<br/>
+					<span class="strongDBlue" glossary>clock speed</span> 345<br/>
+					<span class="strongDBlue" glossary>control unit</span> 344<br/>
+					<span class="strongDBlue" glossary>decimal notation</span> 339<br/>
+					<span class="strongDBlue" glossary>decode</span> 347<br/>
+					<span class="strongDBlue" glossary>electrical switches</span> 336<br/>
+					<span class="strongDBlue" glossary>Instruction set</span> 347<br/>
+					<span class="strongDBlue" glossary="integrated circuits (chips)">integrated circuits</span> 338<br/>
+					<span class="strongDBlue" glossary>hexadecimal notation</span> 341<br/>
+					<span class="strongDBlue" glossary="level 1 cache">Level 1 cashe</span> 346<br/>
+					<span class="strongDBlue" glossary="level 2 cache">Level 2 cache</span> 346<br/>
+					<span class="strongDBlue" glossary="level 3 cache">Level 3 cache</span> 346<br/>
+					<span class="strongDBlue" glossary="machine cycle (processing cycle)">machine cycle</span> 343<br/>
+					<span class="strongDBlue" glossary>machine language</span> 348<br/>
+					
+					
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				
+				<div class="ColShiftSpacer"></div>
+				<span class="strongDBlue" glossary>microprocessors</span> 338<br/>
+				<span class="strongDBlue" glossary="parallel processing">parallel processing</span> 350<br/>
+				<span class="strongDBlue" glossary>pipelining</span> 349<br/>
+				<span class="strongDBlue" glossary>registers</span> 344<br/>
+				<span class="strongDBlue" glossary>semi-conductor</span> 337<br/>
+				<span class="strongDBlue" glossary>system clock</span> 345<br/>
+				<span class="strongDBlue" glossary>transistors</span> 337<br/>
+				<span class="strongDBlue" glossary>vacuum tubes</span> 337<br/>
+				<span class="strongDBlue" glossary>Unicode</span> 342<br/>
+				<span class="strongDBlue" glossary>word size</span> 348<br/>
+				<br/><br/>
+				<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+				
+				]]>
+			</section>
+		</page>
+		</chapter>
+</ebook>

@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+<chapter index="8" title="" glossary="42">
+
+<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top: 32px;">
+						Digital Devices and<br/>Media: Managing a<br/>Digital Lifestyle</div>	
+				<div class="chapterStartNumber">8</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Mobile Devices</span>
+					<img src="assets/images/pics/mobile.jpg" class="BMargin25" style="margin-top:-25px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">Digital Convergence</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li ><span class="ul1DigNumber">1.</span> How is the trend of digital convergence <br/>seen in the market? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(p. 357)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/telephony.jpg"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,4)">Telephony: Smartphones and Beyond</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">2.</span> What hardware and software comprise a typical smartphone? <span class="strongDBlue" onclick="compTia.switchPage(0,4)">(pp. 358–362)</span></li>
+						<li><span class="ul1DigNumber">3.</span> How do I synchronize information between my phone and my computer, and how do mobile Internet data plans work? <span class="strongDBlue" onclick="compTia.switchPage(0,9)">(pp. 363–367)</span></li>
+						<li style="margin-right:-115px;"><span class="ul1DigNumber">4.</span> What do I need to keep my smartphone secure? <span class="strongDBlue" onclick="compTia.switchPage(0,14)">(p. 368)</span></li>
+						<li style="margin-right:-115px;"><span class="ul1DigNumber">5.</span> How does digital telephony support VoIP services? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,14)">(pp. 368–370)</span></li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/pda_smartphones/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Smartphones Are Really Smart
+					</div>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/bluetooth/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Connecting with Bluetooth
+					</div>
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_18.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Keeping Your Data on Hand
+					</div>
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<img src="assets/images/pics/flyingLaptops.jpg" style="margin-bottom:31px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,17)">Tablets, Netbooks, and Ultrabooks</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">6.</span> What distinguishes the performance of tablets, netbooks, and ultrabooks? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,17)">(pp. 371-373)</span></li>
+					</ul>
+					
+					<hr>
+					
+				<br/>	
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,22)">The Digital Information Age</span>
+					<img src="assets/images/pics/Ddefined.jpg" class="BMargin15" style="margin-top:-25px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,22)">Digital Defined</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">7.</span> What advantage do digital formats have over analog signals?  <span class="strongDBlue" onclick="compTia.switchPage(0,22)">(pp. 376–378)</span></li>
+					</ul>
+					
+					
+					<hr>
+					
+					<img src="assets/images/pics/DMedia.jpg"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,24)">Digital Media</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">8.</span> How is the digital format changing the way media is created and distributed? <span class="strongDBlue" onclick="compTia.switchPage(0,24)">(pp. 378–385)</span></li>
+						<li><span class="ul1DigNumber">9.</span> How do I work with digital images and videos? <span class="strongDBlue" onclick="compTia.switchPage(0,31)">(pp. 385–392)</span></li>
+					</ul>
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_19.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Using Portable Media Players
+					</div>
+					
+					
+					
+
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right:-60px;margin-bottom:50px;">
+							(kuroji/Fotolia; Scanrail/Fotolia; Frankie Angel/Alamy; Tetra Images/Getty Images; Oleksiy Maksymenko/Getty Images)
+					</span>
+					<div class="loader"></div>
+					
+				]]>
+			</section>
+			</page>	
+			
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+					
+					<div style="width:110%;height:100%;
+							background:no-repeat url(assets/images/figures/watches.jpg) 0px 55px"></div></div>
+							<div class="font_9 floatRight"
+								 style="margin-top:-265px;font-style: italic;margin-right:25px;">(Pebble Technology)
+								 </div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">Want a watch that can do more than just tell time? Say hello to the Pebble <strong>e-paper watch</strong>. This customizable watch connects to your smartphone using <strong>Bluetooth, vibrates</strong> when you <strong>get a call</strong> and can even get <strong>text messages</strong>. It also runs a full set of apps. One app turns the Pebble into a rangefinder to help your golf game; another makes it a bicycling computer. The Pebble can also display your <strong>Facebook messages</strong>, weather alerts, and, of course, the time.</p>
+					<p class="moreSpacing">As cool as Pebble is, how it was funded is cooler. Its founders used the crowd-funding site <strong>Kickstarter</strong> to ask for $100,000 in pledges. Supporters gave $1 million in the first 28 hours! The Kickstarter crowd-funding session closed out with over <strong>$10 million</strong> in funding.</p>
+					
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap8ArrSchip_computer.png')" onclick="window.open('http://www.kickstarter.com','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Mobile Devices</div>
+					<p class="digCompP">For many of us, our phone is our lifeline to the world, and if not our phone, then our laptop or iPad. We live in a digital world, and our devices have evolved to let us communicate anywhere we go, 24/7. In this section, we’ll check out a number of mobile devices and their features. But first, we look at digital convergence.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/mobileThumbnail.jpg)">
+						<div class="orange">digital</div>
+						<div class="blue" style="margin-left:93px;">Convergence</div>
+					</div>
+					
+					<p><span class="strongDBlue" glossary>Digital convergence</span>, the use of a single unifying device to handle media, Internet, entertainment, and telephony needs, is exemplified in the range of devices now on the market. You see digital convergence in the evolution of smartphones, which now let you do just about anything a computer can do. The push to digital convergence is also creating new device combinations like the Padfone, shown in <span class="strongDBlue" onclick="compTia.togglePopup(3,0)">Figure 8.1a</span>, which combines the features of a phone and a tablet into one device. Even some refrigerators, like the one shown in <span class="strongDBlue" onclick="compTia.togglePopup(3,0)">Figure 8.1b</span>, now include LCD touch-screen displays and network adapters so that they can play music and display family photos and recipes from websites such as <span class="strongDBlue" onclick="window.open('http://epicurious.com','_blank')">epicurious.com</span>.</p>
+					<p class="start">In fact, devices are beginning to converge so much that an organization has been created to standardize them. The Digital Living Network Alliance (<span class="strongDBlue" onclick="window.open('http://dlna.org','_blank')">dlna.org</span>) is an organization working to standardize different kinds of appliances and network devices used in our homes. As</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>our appliances, cars, and homes become designed to communicate over a common network, how we manage our media, control our living spaces, and communicate with our families will continue to change.</p>
+					
+					<p class="start"><strong>How have mobile devices converged?</strong> As more and more computing power is available in mobile processors, mobile devices have evolved to be able to do multiple tasks. Smartphones can now videoconference like laptops. Tablets such as the iPad are touch sensitive like smartphones. Netbooks and ultrabooks both run traditional desktop operating systems and are lightweight. All these devices have significant overlap in the tasks they can perform, so learning the differences will be important in finding the device that’s just right for you. Let’s start by taking a look at smartphones.</p>
+					
+					<figure onclick="compTia.togglePopup(3,0)"
+						style="height: 260px;background: url(assets/images/figures/fig8.1.jpg) no-repeat scroll 0px 15px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.1</span> (a) The <span class="strongDBlue" onclick="window.open('http://www.asus.com/Mobile/PadFone/','_blank')">Asus Padfone</span> lets you share the processor of the phone with a tablet shell. The phone can function on its own, or you can place it into the tablet shell and run the tablet off the same data plan. (b) Some refrigerators are now equipped with touch screens that connect to the Internet. <em>(Gustavo Arias R./La Nacion de Costa Rica/Newscom; Steve Marcus/Reuters/Landov)</em></figcaption>
+   			</figure>	
+				]]>
+			</section>
+
+		</page>	
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/telephonyThumbnail.jpg)">
+						<div class="dblue">telephony: smartphones</div>
+						<div class="orange" style="margin-left:169px;">AND Beyond</div>
+					</div>
+					
+					<p>Communication has changed radically in the digital age. <span class="strongDBlue" onclick="compTia.generatePages(3)">Chapter 3</span> discussed the use of wikis, blogs, and other web-based tools for connecting people and their ideas. All of these software applications are dependent on digital information.</p>
+					<p class="start">Hardware devices that support communication also have evolved because of digital technologies. <span class="strongDBlue" glossary>Telephony</span>, the use of equipment to provide voice communications over a distance, has shifted from an analog science to a digital one. In this section, we examine smartphones and Voice over Internet Protocol (VoIP) devices to see how they’re changing to meet modern communication needs.</p>
+					
+					<h2 class="blueHeading">Smartphone Basics</h2>
+					<p>What makes a smartphone a smartphone? A smartphone does more than let you make and answer phone calls. In fact, smartphones illustrate the power of digital convergence (<span class="strongDBlue" onclick="compTia.togglePopup(4,0)">see Figure 8.2</span>). They incorporate functions and features, such as the following, that used to be available only in separate, dedicated devices:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Internet access</span></li>
+						<li><span class="innerLi">Personal information management (PIM) features</span></li>
+						<li><span class="innerLi">Voice recording features</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(4,0)"
+						style="height: 510px;background: url(assets/images/figures/fig8.2.jpg) no-repeat scroll 0px 15px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.2</span> Digital convergence has brought us single devices like smartphones that play the role of many separate devices. <em>(Handout/MCT/Newscom; fsketch/Fotolia; Maksym Yemelyanov/Fotolia; RLG; mrgarry/Fotolia; frank peters/Fotolia; JERMVUT KITCHAICHANK/Fotolia; Leonid Dorfman/Fotolia)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">The ability to play and organize music files</span></li>
+						<li><span class="innerLi">GPS services</span></li>
+						<li><span class="innerLi">Digital image and video capture</span></li>
+						<li><span class="innerLi">Computing power to run programs like word processors or even video-editing software</span></li>
+					</ul>
+					
+					<p class="start">Examples of smartphones include the iPhone and the HTC Thunderbolt.</p>
+					<p class="start"><strong>Isn’t every phone a smartphone now?</strong> All phones that use mobile, cellular technology can be called <span class="strongDBlue" glossary="cellular (cell) phone">cellular (cell) phones</span>. Although many cell phones on the market are considered smartphones, less powerful cell phones are available. Called <span class="strongDBlue" glossary>feature phones</span>, these inexpensive phones have modest processors, simpler interfaces, and often no touch screen. As more features are integrated into every cell phone product, though, it becomes difficult to distinguish a smartphone from a feature phone. Most providers, like AT&T or Verizon, label a smartphone as one that has sufficient power so that you can use Internet features easily. In addition, you often have to purchase a data plan with a smartphone. In this chapter, we’ll use the term <em>cell phone</em> to refer to all cellular phones and <em>smartphones</em> to refer to the more powerful type of cell phone that can run more complex applications.</p>
+					
+					<h2 class="blueHeading">Smartphone Components</h2>
+					<p><strong>Are smartphones computers?</strong> All cell phones—smartphones and feature phones—have the same components as any computer: a processor (central</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>processing unit, or CPU), memory, and input and output devices, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(5,0)">Figure 8.3</span>. Cell phones require their own operating system (OS) software and have their own application software. So, in effect, all cell phones are computers. </p>
+					<p class="start">Smartphones use a CPU and an interface so powerful that they can take on many of the same tasks as much more expensive computers: videoconferencing, recording and editing high-definition (HD) video, and broadcasting live-streaming video.</p>
+				
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight TMargin5">Inside Your Smartphone</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(5,0)" style="    background: url(assets/images/figures/fig8.3.jpg) no-repeat scroll 84px 39px #FFFFFF; height: 318px; overflow: hidden;">
+							
+							<span class="strongDHeading font_15"><strong style="padding-left:6px">Figure 8.3</strong> Click to reveal the interactive graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 8.3</span>  Inside your smartphone, you’ll find a CPU; a memory chip; input devices such as a microphone, a camera, and a touch screen; and output devices such as a display screen.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What kind of processor is inside a smartphone?</strong> Although the processor in a cell phone is not as fast or as high-powered as a processor in a desktop computer, it’s still responsible for a great number of tasks. The processor coordinates sending all of the data among the other electronic components inside the phone. It also runs the cell phone’s OS, which provides a user interface so that you can change phone settings, store information, play games, and so on. Popular processors for smartphones include the Qualcomm Snapdragon and the Apple A5. These use dual-core processing technology, which used to be reserved for high-end computer systems.</p>
+					<p class="start"><strong>Is there a standard OS for smartphones?</strong> There are a number of operating systems in the smartphone market now. Many smartphones use the Android OS. Apple’s iPhone uses iOS, a version of the OS X operating system used in Apple’s computers. Microsoft is also now in the running with the Windows Phone 8 mobile OS. These operating systems are required to translate the user’s commands into instructions for the processor. <span class="strongDBlue" onclick="compTia.togglePopup(6,0)">Figure 8.4</span> illustrates some of the user interfaces featured among smartphone operating systems. </p>
+					<p class="start"><strong>What does the memory inside a smartphone do?</strong> Your phone’s memory stores all of the phone’s information and programs. The OS is stored in read-only memory (ROM), the phone’s permanent memory, because the phone would be useless without that key piece of software. Other phone data, such as ring tones and contact lists, is stored in separate internal memory chips.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Many smartphones let you add additional memory through micro SD flash cards, which can store up to 64 GB, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(7,0)">Figure 8.5</span>. Micro SD cards are easy to install inside a phone, and some models have external slots for an SD card. Not all smartphones allow memory upgrades in this way, however. For example, iPhones don’t let you add memory.</p>
+					
+					<figure onclick="compTia.togglePopup(6,0)"
+						style="height: 285px;background: url(assets/images/figures/fig8.4.jpg) no-repeat scroll 0px 5px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.4</span> (a) Apple iOS, (b) Windows Phone 8, and (c) Android 4 are all mobile operating systems. <em>(Greg Gard/Alamy; Noah Berger/Reuters/Landov; AnonymousAP Images)</em></figcaption>
+   			</figure>	
+					
+					<br/>
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/pda_smartphones/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Smartphones Are Really Smart
+						</div>
+						In this Sound Byte, you’ll learn how to use a smartphone as a powerful tool to communicate, calculate, and organize your workload.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(7,0)"
+						style="height: 104px;background: url(assets/images/figures/fig8.5.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="rightPos" style="margin-right:120px;width:170px;">
+   				<span>Figure 8.5</span> Micro SD flash cards add memory to some phones. <em>(Jae C. Hong/AP Images)</em></figcaption>
+   			</figure>
+					
+					<p class="start"><strong>What input and output devices do smartphones use?</strong> The primary input devices for a smartphone are its microphone and touch pad. Some phones, such as the Samsung Impression (<span class="strongDBlue" onclick="compTia.togglePopup(7,1)">see Figure 8.6a</span>), offer both a hidden keyboard and a touch screen. The Apple iPhone provides a software-based keyboard (<span class="strongDBlue" onclick="compTia.togglePopup(7,1)">see Figure 8.6b</span>) that supports more than 40 languages. And a smartphone’s digital camera is also an input device, capturing photos and video.</p>
+					
+					<figure onclick="compTia.togglePopup(7,1)"
+						style="height: 275px;background: url(assets/images/figures/fig8.6.jpg) no-repeat scroll -5px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.6</span> (a) The Samsung Impression includes a touch screen and a built-in keyboard. (b) The Apple iPhone has a touch keyboard that supports more than 40 languages and a range of character sets. <em>(Jae C. Hong/AP Images)</em></figcaption>
+   			</figure>		
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Cell phone output devices include a speaker and a liquid crystal display (LCD). Higher-end models include full-color, high-resolution LCD screens. Newer on the market are OLED (organic light-emitting diode) displays, which allow very bright, sharp imaging and draw less power than LCD screens. </p>
+					<p class="start moreSpacing"><strong>What smartphone software is available?</strong> A smartphone OS comes with a standard collection of software, such as a to-do list, contact manager, and calendar. Modified versions of application software such as Microsoft Word, Excel, Outlook, and PowerPoint are available for some high-end smartphones. Manufacturers also have web-based software stores, like the App Store for the Apple iPhone and the App World for RIM’s BlackBerry devices. Software applications are available for Android through Google Play (<span class="strongDBlue" onclick="compTia.togglePopup(7,2)">Figure 8.7</span>). The Android developer community holds competitions to spur the creation of new software applications for Android-based phones.</p>
+					<br/>
+					<figure onclick="compTia.togglePopup(7,2)"
+						style="height: 162px;background: url(assets/images/figures/fig8.7.jpg) no-repeat scroll 0px 5px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.7</span> <span class="strongDBlue" onclick="window.open('http://play.google.com','_blank')">Google Play</span> is one of many online stores delivering software for mobile devices. <em>(Google Inc./AP Images)</em></figcaption>
+   			</figure>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">How Cell Phone Technology Works</h2>
+					<p class="moreSpacing"><strong>What’s “cellular” about a cell phone?</strong>  As noted earlier, the term <em>cell phone</em> is short for <em>cellular phone</em>. A set of connected “cells” makes up a cellular network. Each cell is a geographic area centered on a <span class="strongDBlue" glossary>base transceiver station</span>, which is a large communications tower with antennas, amplifiers, receivers, and transmitters. When you place a call on a cell phone, a base station picks up the request for service. The station then passes the request to a central location called a <span class="strongDBlue" glossary>mobile switching center</span>. The reverse process occurs when you receive an incoming call. A telecommunications company builds its network by constructing a series of cells that overlap in an attempt to guarantee that its cell phone customers have coverage no matter where they are.</p>
+					<p class="start moreSpacing">As you move during your phone call, the mobile switching center monitors the strength of the signal between your cell phone and the closest base station. When the signal is no longer strong enough between your cell phone and the base station, the mobile switching center orders the next base station to take charge of your call. When your cell phone “drops out,” it may be because the distance between base stations is too great to provide an adequate signal.</p>
+					
+				<br/>	
+					<div onclick="compTia.togglePopup(8,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						How Smart Is Your Phone?
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How do cell phones use digital signals?</strong> When you speak into a cell phone, a series of digital processing steps occur:</p>
+					<ol>
+						<li><span class="innerLi">Sound enters the microphone as a sound wave. Because these sound waves need to be <em>digitized</em> (that is, converted into a sequence of <em>1</em>s and <em>0</em>s that the cell phone’s processor can understand), an <span class="strongDBlue" glossary>analog-to-digital converter chip</span> converts your voice’s sound waves into digital signals.</span></li>
+						<li><span class="innerLi">Next, the digital data must be <em>compressed</em>, or squeezed, into the smallest possible space so that it will transmit more quickly to another phone. The processor can’t perform the mathematical operations required at this stage quickly enough, so there’s a specialized chip called the <span class="strongDBlue" glossary>digital signal processor</span> included in the cell phone that handles the compression work.</span></li>
+						<li><span class="innerLi">Finally, the digital data is <em>transmitted</em> as a radio wave through the cellular network to the destination phone.</span></li>
+					</ol>
+					
+					<p class="start moreSpacing">When you receive an incoming call, the digital signal processor decompresses the incoming message. An amplifier boosts the signal to make it loud enough, and it is then passed on to the speaker.</p>
+					
+				<br/>	
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/bluetooth/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Connecting with Bluetooth
+						</div>
+						In this Sound Byte, you’ll learn what freedoms Bluetooth affords you and how to use Bluetooth devices.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Synchronizing</h2>
+					<p class="moreSpacing"><strong>What’s the best way to synchronize data between my phone and computer?</strong> The process of updating your data so your to-do lists, schedules, and other files on your cell phone and computer are the same is called <span class="strongDBlue" glossary="synchronizing (or syncing)">synchronizing</span>, or <span class="strongDBlue" glossary="synchronizing (or syncing)">syncing</span>. There are two main ways to transfer information between your phone and computer:</p>
+					<ol>
+						<li><span class="innerLi"><em>Wired:</em> Use a micro SD card or a USB cable to directly transfer data.</span></li>
+						<li><span class="innerLi"><em>Wireless:</em> Use a wireless connection to transfer data.</span></li>
+					</ol>
+					<p class="start moreSpacing"><strong>How does a wired transfer of data work?</strong> Almost all phones are designed with a USB port. Some have a mini–USB connector, while other models require a special cable to connect the phone to a standard USB port. Once connected using a USB data cable, your phone will appear on your computer like an additional flash drive, and you can drag and drop files to it. You can also charge your phone through the USB cable.</p>
+					<p class="start moreSpacing">If your phone supports a high-density micro SD card, you can easily remove the card and slip it directly into a flash card reader in your computer.</p>
+					<p class="start moreSpacing"><strong>How do I transfer information to and from my phone wirelessly?</strong> Most smartphones on the market today are Bluetooth-enabled, meaning they include a small Bluetooth chip that allows them to transfer data wirelessly to any other Bluetooth-enabled device. <span class="strongDBlue" glossary="bluetooth (technology)">Bluetooth</span> technology uses radio waves to transmit data signals over distances up to approximately 300 feet (for Bluetooth 4). Bluetooth 4 devices are the newest on the market and are almost twice as fast as Bluetooth 3 devices.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<p class="start">Another way to wirelessly transfer data to your phone is to use a wireless connection to a cloud service. A number of web services are now available to synchronize your e-mail, files, contacts, and calendars instantly and wirelessly. SugarSync, for example, wirelessly syncs folders of data and photos on your Android phone to your home computers automatically (<span class="strongDBlue" onclick="compTia.togglePopup(9,0)">see Figure 8.8</span>). These web services follow the model of “cloud computing,”</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(9,0)"
+						style="height: 370px;background: url(assets/images/figures/fig8.8.jpg) no-repeat scroll 0px 15px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.8</span> A cloud service lets you keep the information on your phone instantly in sync with your other computing devices.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>where Internet-based services and resources are distributed to users instead of being installed as an application on the user’s computer. Apple’s iOS 5 has cloud support integrated into several of the applications like Calendar, iTunes, PhotoStream, Contacts, and Mail. A photo taken on your iPhone will automatically be transferred to your iPad and your home Windows or Mac computer, for example.</p>
+					<p class="start">There are other providers of wireless synchronization for mobile devices. Google Sync works with a range of devices. All of your Google e-mail, calendar events, and contacts are automatically backed up online instantly on the Google servers. Even the Amazon Kindle uses wire less synchronization so that if you read a bit further in your e-book on your phone, when you get to your office the Kindle software on your PC will have automatically updated to bookmark the new page you’re on.</p>
+					
+					<h2 class="blueHeading">Text Messaging</h2>
+					<p><strong>What does SMS stand for?</strong> <span class="strongDBlue" glossary>Short message service (SMS)</span>— often just called <em>text messaging</em>—is a technology that lets you send short text messages (up to 160 characters) over cellular networks. You can send SMS messages to other mobile devices or to any e-mail address.</p>
+					<p class="start">Companies now support texting in many ways—for example, your bank may allow you to text commands to request account balances or details about your last transaction and the bank will text the requested information back to you. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 8.9</span>, several companies provide useful services based on text messaging.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Text Messaging Information Services</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(10,0)" style="    background: url(assets/images/figures/fig8.9.jpg) no-repeat scroll 8px 29px #FFFFFF; height: 120px; overflow: hidden;">
+							
+							<span class="strongDHeading font_15"><strong style="padding-left:6px">Figure 8.9</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+					
+					<p class="start TMargin10"><strong>How does SMS work?</strong> SMS uses the cell phone network to transmit messages. When you send an SMS message, an SMS calling center receives the message and delivers it to the appropriate mobile device using something called <em>store-and-forward</em> technology. This technology allows users to send SMS messages to any other SMS device in the world.</p>
+					<p class="start"><strong>Is the same technology used to send and receive photos and videos?</strong> SMS technology lets you send only text messages. However, an extension of SMS called <span class="strongDBlue" glossary>multimedia message service (MMS)</span> lets you send messages that include text, sound, images, and video clips to other phones or e-mail addresses.</p>
+					
+					<a onclick="compTia.togglePopup(10,1)" class="readMore"></a>
+					
+					<br/>	
+					<div onclick="compTia.togglePopup(10,2)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Texting for Change
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Mobile Internet</h2>
+					<p><strong>What’s the best way to connect my smartphone to the Internet?</strong> There are two ways smartphones (and most mobile devices) can connect to the Internet:</p>
+					<ol>
+						<li><span class="innerLi">Using a WiFi network or</span></li>
+						<li><span class="innerLi">Using the cellular phone system (a 3G or 4G connection)</span></li>
+					</ol>
+					<p class="start">A major advantage of WiFi is that it offers a faster data-transfer speed. However, there may not always be a WiFi signal available where you are. Cellular networks are much more widely available, whether you’re in your car or just walking down the street.</p>
+					<p class="start">For devices like tablets, manufacturers will offer one model that can only connect to the Internet using WiFi and another model that costs more but can connect with either WiFi or cellular 3G/4G.</p>
+					<p class="start"><strong>Who sells cellular Internet service for my smartphone?</strong> Just as you have an Internet service provider (ISP) for Internet access for your desktop or laptop computer, you must have a <span class="strongDBlue" glossary="wireless internet service provider (wireless isp)">wireless Internet service provider</span> (or <span class="strongDBlue" glossary="wireless Internet service provider (wireless ISP)">wireless ISP</span>) to connect your smartphone to the Internet. Phone companies (such as T-Mobile, Verizon, and AT&T) double as wireless ISPs. Most wireless ISPs also offer free login to their network of WiFi hotspots if you’re a cellular customer.</p>
+				<br/>	
+					<div onclick="compTia.togglePopup(11,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Looking for the Perfect Cell Phone Plan? Try Bill Shrink
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How do I purchase Internet time?</strong> Providers measure your Internet usage not according to how much time you’re on the Internet but according to how much data you download and upload. An Internet connectivity plan is known as a <span class="strongDBlue" glossary>data plan</span>. You pay one monthly price and are allowed data transfers up to some fixed limit per month, such as 2 GB or 500 MB. If you exceed your data limit in a month, the fee for the extra data usage is usually very expensive.</p>
+					<p class="start moreSpacing">Understanding your data usage is complicated. A cellular data plan is for Internet data transfer, not texting. Providers require a separate texting plan. Note that all the data transfer you do using WiFi (instead of the 3G/4G network) do not count as part of your data plan usage.</p>
+					<p class="start moreSpacing"><strong>How big a data plan do I need to buy?</strong> Before subscribing to a data plan, you should assess your needs:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">How often will you be able to use WiFi access, and how often will you need to use the cellular network?</span></li>
+						<li><span class="innerLi">How often do you download apps, stream music, or play online games?</span></li>
+						<li><span class="innerLi">Do you use your phone to watch streaming video?</span></li>
+						<li><span class="innerLi">Do you use your smartphone’s Internet access to download files attached to e-mails or from your company website?</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">Begin by estimating how much data you transfer up and down from the Internet each month. To do so, you can use an online estimator supplied by your provider like the one from AT&T shown in <span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Figure 8.10</span>. Apps such as My Data Usage Pro or 3G Watchdog are also avail able for any smartphone to keep track of data usage for you.</p>
+					<p class="start">Be sure you select a plan that provides adequate service at a good price. Remember, each device using cellular Internet needs to be covered by a data plan.</p>
+					
+					<br/>
+					<figure style="background:url(assets/images/figures/fig8.10.jpg) no-repeat scroll 0px 0px transparent;
+							    height: 342px;
+								margin-bottom: 5px;margin-left:40px;">
+								<div onclick="compTia.togglePopup(12,0)" style="
+									height: 295px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_8_10.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 8.10</span> Online tools can help you estimate <br/>your monthly data usage.
+						</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>At what speed is digital information transferred to my smartphone?</strong> Although broadband speeds of 50 megabits per second (Mbps) are achievable at home using a cable or fiber-optic connection, your smartphone will connect at a much lower speed. The exact speed will depend on which technology you’re using: WiFi, 3G cellular, or 4G cellular (<span class="strongDBlue" onclick="compTia.togglePopup(12,1)">see Figure 8.11</span>).</p>
+					<p class="start">We discussed WiFi networks in depth in <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>. These networks typically run at speeds of 4 to 5 Mbps. Currently, there are two cellular data-transfer standards:</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(12,1)"
+						style="height: 315px;background: url(assets/images/figures/fig8.11.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.11</span> The range of speeds you achieve when connecting to the Internet with your smartphone or mobile device depends on the type of connection.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><strong>3G</strong>: 3G brought mobile device data-transfer rates as high as 3.8 Mbps (or more, under ideal conditions). 3G is more reliable than WiFi and is less susceptible to interference. 3G blankets most major urban areas with connectivity.</span></li>
+						<li><span class="innerLi notStrong"><strong>4G</strong>: 4G networks are now rolling out across the United States. The promise of 4G is incredible: mobile connection speeds of up to 100 Mbps! Currently, most providers can’t deliver true 4G speeds; their 4G networks deliver speeds of 6 Mbps to 11 Mbps. These options, often named “4G LTE,” are faster than 3G but don’t meet the rate required to be true 4G, so they’re referred to as “near 4G” networks. The expansion of 4G will usher in a new generation of mobile devices.</span></li>
+					</ol>
+					
+					<p class="start moreSpacing"><strong>How do I set my phone to use a WiFi connection?</strong> It will be slightly different for each mobile OS, but in general, you turn on the setting that allows your phone to look for a network. If a network is found, the phone will try to log in. If the network has security protection, you’ll be prompted for a password before joining. Most smartphones then display a special icon to show that you’re using a WiFi connection instead of a 3G/4G signal. </p>
+					<p class="start moreSpacing">Some people choose to leave their phone in the mode where it’s looking for a WiFi network so it will always use a WiFi signal if it is available, saving them on data plan usage. This does use more battery life, though, so turn off WiFi detection if you’re trying to extend your battery.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Can I use my 3G/4G signal to create a WiFi hotspot for my other devices?</strong> As mentioned in <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>, if a WiFi spot isn’t available, there are devices that will instantly create a mobile hot spot for you. Mi-Fi (pronounced “my fy”) devices are often available free with a new account from major Internet providers like Verizon and Sprint. These devices connect to the Internet through the 3G/4G wireless phone network and then distribute the WiFi signal over an area of 30 feet. These personal hot spots can then support up to five WiFi–enabled devices.</p>
+					<p class="start moreSpacing">Another approach is <span class="strongDBlue" glossary>tethering</span>, which makes sure that as long as you have a 3G/4G signal, your computer can access the Internet even when it tells you there are no available wireless networks. Several phones offer this capability. For example, an iPhone 4 can connect to your notebook computer through wireless Bluetooth and then provide Internet access through the 3G network signal. Check with your provider, though, because they may charge an extra fee for allowing tethering.</p>
+					
+				<br/>	
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_18.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Keeping Your Data on Hand
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer fielding calls about smartphones—what you can use them for, what internal components and features they have, and how you can synchronize these mobile devices with your computer.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Smartphone Security</h2>
+					<p class="moreSpacing"><strong>Can I get a virus on my smartphone?</strong> Viruses can indeed infect smartphones. Over half of users say they send confidential e-mails using their phones and one-third of users access bank account or credit card information on their phones, so smartphones are the next most likely realm of attack by cybercriminals. Although viruses plaguing smartphones have not yet reached the volume of viruses attacking PC operating systems, with the proliferation of mobile devices, virus attacks are expected to increase.</p>
+					<p class="start moreSpacing">Kaspersky, McAfee, and F-Secure are among leading companies currently providing antivirus software for mobile devices. Products are designed for specific operating systems; for example, Kaspersky Mobile Security has versions for Android phones and tablets, Windows phones, and BlackBerry devices. Often, businesses will have their information technology department install and configure an antivirus solution like this for all the phones used in the organization.</p>
+					<p class="start moreSpacing">If no antivirus program is available for your phone’s OS, the best precautions are common-sense ones. Check the phone manufacturer’s website frequently to see whether your smartphone needs any software upgrades that could patch security holes. In addition, remember that you shouldn’t download ring tones, games, or other software from unfamiliar websites.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How do I keep my phone number private?</strong>  If you’re concerned about widely distributing your phone number and potentially inviting lots of unwanted calls, consider using a virtual phone number. A virtual phone number is a phone number you create that can be assigned to ring on existing phone numbers. Companies such as Telusion (<span class="strongDBlue" onclick="window.open('http://tossabledigits.com','_blank')">tossabledigits.com</span>) will sell you a virtual number. Then, when you’re filling out a registration form for some web service, you can input your virtual phone number in the web form instead of giving out your number. When you set up the virtual account, you can restrict the hours that you will receive calls from that number, and if you’re receiving many unwanted calls, you can disable the virtual number without affecting your cell/smartphone service.</p>
+					
+					<h2 class="blueHeading">VolP</h2>
+					<p><strong>Is the cellular network the only way to place phone calls?</strong> Cell phone service is still not 100% reliable, and dropped calls and poor reception are a problem in some areas. As an alternative, a fully digital phone service called <span class="strongDBlue" glossary>Voice over Internet Protocol (VoIP)</span> is available.</p>
+					<p class="start"><strong>How is VoIP different from regular telephone service?</strong> VoIP is a form of voice-based Internet communication that turns a standard Internet connection into a means to place phone calls, including long-distance calls (<span class="strongDBlue" onclick="compTia.togglePopup(15,0)">see Figure 8.12</span>). Traditional telephone communications use analog voice data and telephone connections. In contrast, VoIP uses technology similar to that used in e-mail to transmit your voice data digitally over the Internet.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(15,0)"
+						style="height: 255px;background: url(assets/images/figures/fig8.12.jpg) no-repeat scroll 50px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.12</span> VoIP technology lets your computing device behave like a phone/video phone, using the Internet instead of the telephone system to transmit data. <br/><em>(jd-photodesign)</em></figcaption>
+   			</figure>
+					<br/>
+					<p class="start"><strong>Who are some VoIP providers?</strong> Skype is one very well-known provider. Creating a VoIP account with Skype (<span class="strongDBlue" onclick="window.open('http://skype.com','_blank')">skype.com</span>) is simple <span class="strongDBlue" onclick="compTia.modules.toggleModule(2)">see the Try This in Chapter 1</span>. Skype requires that both callers and receivers have the company’s free software installed on their device (computer, tablet, or phone). With Skype you can place a phone call, make an HD–video call, and even share screens between users. Calls to other Skype users are free, and you can place low-cost calls to non-Skype users. Other VoIP service providers, such as Vonage (<span class="strongDBlue" onclick="window.open('http://vonage.com','_blank')">vonage.com</span>), are a bit more complicated to set up and are not free. Major ISPs, like Comcast and Verizon, also provide VoIP phone services as an option you can package with your Internet or cable television plan.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<img onclick="compTia.togglePopup(15,1)" src="assets/images/layout/trendsinItchapter8.0.jpg" />
+					
+					<p class="start"><strong>What do I need to use VoIP?</strong> VoIP calls can be placed from anywhere you have Internet access. Any Android or iOS phone or tablet can also be used as a VoIP device. There are also standalone VoIP phones sold, sometimes called <em>IP phones</em>.</p>
+					<p class="start"><strong>What are the advantages and disadvantages of VoIP?</strong> For people who make many long-distance phone calls, the advantage of VoIP is that it’s free or low cost. Portability is another advantage: As long as you’re connected to the Internet, you can sign on to your VoIP service and make your call.</p>
+					
+					<p class="start">Although VoIP is affordable and convenient, it does have drawbacks:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Some people regard sound quality and reliability issues as VoIP’s primary disadvantages.</span></li>
+						<li><span class="innerLi">Another drawback when using VoIP at home is the loss of service if power is interrupted.</span></li>
+						<li><span class="innerLi">Another issue with VoIP is security risks. Having a hacker break in to a VoIP system to make unauthorized calls is a serious but avoidable problem. Encryption services that convert data into a form not easily understood by unauthorized people are being deployed to help protect calls made over the Internet.</span></li>
+					</ul>
+					<p class="start">VoIP continues to enjoy explosive growth, and the technology will continue to improve.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What new features come with using VoIP?</strong> If you set up a VoIP service as your home telephone system, you can have your telephone messages automatically bundled up as e-mails and sent to your account. If you’re watching television and a call comes in, it can be displayed on the screen with caller ID information. Some learning management systems also use VoIP. For example, if you’re using <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> with this course, you can call your professor through VoIP without having his or her personal phone number.</p>
+					
+					<h2 class="blueHeading">Smartphone GPS</h2>
+					<p class="moreSpacing"><strong>Does my smartphone contain a GPS chip?</strong> Today every cell/smartphone has to include a GPS chip. The Federal Communications Commission (FCC) mandated this to enable the complete rollout of the Enhanced 911 (E911) program. E911 automatically gives dispatchers precise location information for any 911 call. It also means your phone records may include this precise tracking information, which indicates where you are when you make a call.</p>
+					<p class="start moreSpacing"><strong>How does GPS work?</strong> Built and operated by the U.S. Department of Defense, the <span class="strongDBlue" glossary>global positioning system (GPS)</span> is a network of 21 satellites (plus 3 working spares) that constantly orbits the Earth. GPS devices use an antenna to pick up the signals from these satellites and use special software to transform those signals into latitude and longitude. Using the information obtained from the satellites, GPS devices determine geographical location anywhere on the planet to within 3 feet (<span class="strongDBlue" onclick="compTia.togglePopup(16,1)">see Figure 8.13</span>). The exact accuracy depends on such things as atmospheric conditions </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>and interference from obstacles like mountains or buildings.</p>
+					<p class="start"><strong>Can I track a family member using the GPS chip in his or her phone?</strong> Cell phone providers offer plans (for a monthly fee) that allow you to track where a phone is at any given time.</p>
+					
+					<a onclick="compTia.togglePopup(16,0)" class="readMore"></a>
+					
+				<br/>	
+					<figure onclick="compTia.togglePopup(16,1)"
+						style="height: 317px;background: url(assets/images/figures/fig8.13.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos BMargin10" style="width:190px;">
+   				<span>Figure 8.13</span> GPS computes your location anywhere on Earth from a system of orbiting satellites.</figcaption>
+   			</figure>
+			<p class="TMargin20"><span class="strongDBlue">To learn more, watch this </span><span class="strongDBlue" onclick="window.open('http://www.youtube.com/user/liveviewgps1?v=TLML94MxNJ8','_blank')" style="text-decoration:underline;">YouTube</span><span class="strongDBlue"> video.</span></p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/flyingLaptopsThumbnail.jpg)">
+						<div class="orange">tablets, netbooks, and</div>
+						<div class="blue" style="margin-left: 148px;">Ultrabooks</div>
+					</div>
+					
+					<p class="moreSpacing">The best way to navigate all the mobile devices on the market is to be aware of the boundaries between types of devices. In this section, we’ll look at what changes when you move from one type of device to another.</p>
+					
+					<br/>
+					<h2 class="blueHeading">Tablets</h2>
+					<p class="moreSpacing"><strong>How do tablets compare with smartphones?</strong> <em>Tablets</em> are very light, very portable devices. The top-selling tablets include the Apple iPad and the Samsung Galaxy, but there are over 75 tablets on the market (<span class="strongDBlue" onclick="compTia.togglePopup(17,0)">see Figure 8.15</span>). The main difference between any tablet and a smartphone is screen size. Where as smartphones have displays that are less than 3.5 inches, tablets come with screen sizes between 7 and 10 inches. The larger screen allows for a larger virtual keyboard and higher resolution.</p>
+					<p class="start moreSpacing">In most other regards, smartphones and tablets are similar. They have the following features:</p>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Similar operating systems: Whether iOS or Android, common operating systems operate on smartphones and tablets.</span></li>
+						<li><span class="innerLi">Similar processors: The processing power of smartphones and tablets is often the same.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Touch-screen interfaces: Smartphones and tablets are both equipped with touch-screen interfaces.</span></li>
+						<li><span class="innerLi">Long battery life: Most tablets and smartphones run at least 10 hours on a single charge.</span></li>
+						<li><span class="innerLi">Similar software applications: Most apps available for one device are available for the other.</span></li>
+						<li><span class="innerLi">Similar Internet connectivity: Both offer 3G/4G as well as WiFi connectivity.</span></li>
+						<li><span class="innerLi">Bluetooth: Both can be connected over Bluetooth to printers, keyboards, and other peripherals.</span></li>
+					</ul>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(17,0)"
+						style="height: 300px;background: url(assets/images/figures/fig8.15.jpg) no-repeat scroll 45px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.15</span> iPad . . . Xoom . . . Galaxy? There are over 75 tablets on the market now. Finding the right digital device can be a challenge. <em>(oliver leedham/Alamy)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="18" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Can tablets function as a communication device?</strong> Although tablets are currently not able to make cell phone calls, they can easily place audio or video phone calls if connected to a WiFi network. A VoIP application like Skype is required for that. There are also apps available that allow tablets to handle texting. HeyWire, for example, supports free national and international texting from a range of devices, including tablets as well as phones.</p>
+					
+				<br/>	
+					<h2 class="blueHeading">Netbooks </h2>
+					<p><strong>Why would I want a netbook instead of a tablet?</strong> A tablet runs a mobile OS. A <em>netbook</em>, on the other hand, uses a full traditional OS, like Windows 8. This means you can’t run programs like Microsoft Office on a tablet, but you can on a netbook. In addition, a netbook has a physical keyboard. Netbooks weigh 2 pounds or less and are inexpensive compared with both tablets and ultrabooks, so they are a good option if you’re looking for value. Many models are available for under $300.</p>
+					<p class="start"><strong>Why wouldn’t I want a netbook?</strong> The processing power and memory on a netbook makes it difficult to run software that does a lot of computation. Netbooks also have very small screens (usually 10 inches or less). The screen resolution and small keyboard may not work for your needs, so be sure to try one out before making a purchase.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Ultrabooks</h2>
+					<p class="lessSpacing"><strong>How are ultrabooks different from laptops?</strong> <em>Ultrabooks</em> are a newer category of full-featured computers that focus on offering a very thin, lightweight computing solution. Ultrabooks don’t offer optical drives, for example, allowing a very thin profile. Most ultrabooks offer SSD drives and so have very fast response times on boot up and restoring from hibernation. They weigh in at under 3 pounds even though they feature the same operating systems and CPUs as heavier, larger laptops. They also include full-size keyboards and 13-to 15-inch screens. Examples include the Apple Macbook Air and the Asus Zenbook.</p>
+					<p class="start lessSpacing BMargin10"><strong>How are ultrabooks different from tablets?</strong> Whereas tablets share a lot in common with smartphones, ultrabooks are lightweight laptops. They are good choices when you want to run a traditional OS, have a lot of computing power, and aren’t concerned with touch-screen features. <span class="strongDBlue" onclick="compTia.togglePopup(18,0)">Figure 8.16</span> summarizes how tablets and ultrabooks compare.</p>
+					
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Tablets versus Ultrabooks</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(18,0)" style="    background: url(assets/images/figures/fig8.16.jpg) no-repeat scroll 7px 30px #FFFFFF; height: 165px; overflow: hidden;">
+							
+							<span class="strongDHeading font_14"><strong style="padding-left:6px">Figure 8.16</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Making a Choice</h2>
+					<p><strong>With all these choices, how do I know which device is best for me?</strong> Use these guidelines to determine what best fits your personal needs for this particular device. Consider the following:</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Screen size and style of keyboard:</strong> You can adapt these with accessories (add a Bluetooth keyboard or connect to a larger external monitor), but most of the time these will determine how you interact with your device. If you’re interested in a touch-based device, you’ll want to look into a tablet or smartphone for now. However, touch-screen ultrabooks are set to appear soon because of the support Windows 8 now offers for touch input.</span></li>
+					</ul>
+					
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Weight:</strong> Does an additional 2 pounds matter? The price of an ultrabook is several hundred dollars more than an equivalent laptop.</span></li>
+						<li><span class="innerLi"><strong>Number of devices:</strong> Is this your only computing device? As technology prices fall, you may be able to have more than one device. You might find an affordable solution that includes both a very mobile device and a second more powerful one.</span></li>
+					</ul>
+					
+					<p><span class="strongDBlue" onclick="compTia.togglePopup(19,0)">Figure 8.17</span> summarizes several different mobile device categories.</p>
+					
+					<figure onclick="compTia.togglePopup(19,0)"
+						style="height: 353px;background: url(assets/images/figures/fig8.17.png) no-repeat scroll 6px 6px transparent; margin-left:-310px;">
+						<figcaption class="bottomPos" style="margin-left:313px; margin-bottom:75px;">
+   				<span>Figure 8.17</span> A full spectrum of mobile devices is available. <em>(Peter Dazeley/Getty Images; Bloomberg/Getty Images; Ethan Miller/Getty Images; Josep lago/Stringer/Getty Images; Sean Gallup/Getty Images;Sean Gallup/Getty Images; Alan Evans; Alan Evans;Alan Evans)</em></figcaption>
+   			
+						</figure>
+					
+					
+					
+					<div class="purpleContain" style="margin-top:-62px; position:relative;z-index:1;">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_8_Part_1/Chapter_8_Part_1.html','_blank')" >Replay Video 8.1</span>.</span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(28)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">How many computing devices (laptop, <br/>smartphone, tablet, etc.) do you currently own?</div>
+					<ol class="pollQuestions">
+						<li>1 device</li>
+						<li>2 device</li>
+						<li>3 device</li>
+						<li>4 device</li>
+						<li>More than 4 devices</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(29)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+			
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes font_19">The Digital Information Age</div>
+					<p class="digCompP">Do you really understand how all the digital technology you use every day actually works? Do you realize how many revolutionary changes are happening in all kinds of media as we continue to use digital formats? Let’s take a closer look at what it means to be “digital” and the advantages it brings us.</p>
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO bgPosition00" style="background-image:url(assets/images/pics/DdefinedThumbnail.jpg)">
+						<div class="dblue" style="margin-left:59px; color:#166beb">digital</div>
+						<div class="orange" style="margin-left: 85px">Defined</div>
+					</div>
+					
+					<p class="moreSpacing">Today, no matter what you’re interested in—music, movies, TV, radio, stock prices—digital information is the key. All forms of entertainment have migrated to the digital domain (<span class="strongDBlue" onclick="compTia.togglePopup(22,0)">see Figure 8.18</span>). Phone systems and TV signals are now digital streams of data. MP3 files encode digital forms of music, and digital cameras and video cameras are now commonplace. In Hollywood, feature films are being shot entirely with digital equipment, and many movie theaters use digital projection equipment. Satellite radio systems such as SiriusXM satellite radio and HD Radio are broadcast in digital formats.</p>
+					<p class="start moreSpacing"><strong>How is digital different from analog?</strong> Any kind of information can be digitized (measured and converted to a stream of numeric values). Consider sound. It’s carried to your ears by sound waves, which are actually patterns of pressure changes in the air. Images are our interpretation of the changing intensity of light waves around us. These sound and light waves</p>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[	
+					<p>are called <span class="strongDBlue" glossary>analog</span> waves or continuous waves. They illustrate the loudness of a sound or the brightness of the colors in an image at a given moment in time. They’re continuous signals because you would never have to lift your pencil off the page to draw them; they are just long, continuous lines.</p>
+					<p class="start">First-generation recording devices such as vinyl records and analog television broadcasts were designed to reproduce these sound and light waves. A needle in the groove of a vinyl record vibrates in the same pattern as the original sound wave. Analog television signals are actually waves that tell an analog TV how to display the same color and brightness as is seen in the production studio.</p>
+					
+				<br/>	
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Analog versus Digital Entertainment</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(22,0)" style="    background: url(assets/images/figures/fig8.18.jpg) no-repeat scroll 10px 30px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading font_14"><strong style="padding-left:6px">Figure 8.18</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">However, it’s difficult to describe a wave, even mathematically. The simplest sounds, such as that of middle C on a piano, have the simplest shapes, like the one shown in <span class="strongDBlue" onclick="compTia.togglePopup(23,0)">Figure 8.19a</span>. However, something like the word <em>hello</em> generates a highly complex pattern, like the one shown in <span class="strongDBlue" onclick="compTia.togglePopup(23,0)">Figure 8.19b</span>.</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(23,0)"
+						style="height: 390px;background: url(assets/images/figures/fig8.19.jpg) no-repeat scroll -3px 0px transparent;margin-left:-9px;margin-right:-9px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.19</span> (a) This is an analog wave showing the simple, pure sound of a piano playing middle C. (b) This is the complex wave produced when a person says “Hello.”</figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What advantages do digital formats have over analog ones?</strong> Digital formats describe signals as long strings of numbers. This digital representation gives us a simple way to describe sound and light waves exactly so that sounds and images can be reproduced perfectly any time they’re wanted. In addition, we already have easy ways to distribute digital information, such as streaming movies or attaching files to a Facebook message. Thus, digital information can be reproduced exactly and distributed easily; both these reasons give digital huge advantages over an analog format.</p>
+					<p class="start moreSpacing"><strong>How can a sequence of numbers express complicated analog shapes?</strong> The answer is provided by something called <em>analog-to-digital conversion</em>. In analog-to-digital conversion, the incoming analog signal is measured many times each second. The strength of the signal at each measurement is recorded  as a simple number. The series of numbers produced by the analog-to-digital conversion process gives us the digital form of the wave. <span class="strongDBlue" onclick="compTia.togglePopup(24,0)">Figure 8.20</span> shows analog and digital versions of the same wave. In <span class="strongDBlue" onclick="compTia.togglePopup(24,0)">Figure 8.20a</span>, you see the original, continuous analog wave. You could draw that wave without lifting your pencil from the page. In <span class="strongDBlue" onclick="compTia.togglePopup(24,0)">Figure 8.20b</span>, the wave has been digitized and is no longer a single line; instead, it is represented as a series of points or numbers.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes">Analog & Digital Waves</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(24,0)" style="    background: url(assets/images/figures/fig8.20.jpg) no-repeat scroll 8px 35px #FFFFFF; height: 240px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 8.20</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:15px;"><span>Figure 8.20</span> (a) A simple analog wave. (b) A digitized version of the same wave.
+						</figcaption></figure>
+					</div>
+					
+					<br/>
+					<p class="start moreSpacing"><strong>How has the change from analog to digital technologies affected our lifestyles?</strong> When the market for communication devices for entertainment media—like photos, music, and video—switched to a digital standard, we began to have products with new and useful capabilities. Small devices can now hold huge collections of a variety of types of information. We can interact with our information any time we like, in ways that, prior to the conversion to digital media, had been too expensive or too difficult to learn. The implications of the shift to digital media are continually evolving.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/DMediaThumbnail.jpg)">
+						<div class="orange">digital</div>
+						<div class="blue" style="margin-left: 96px;">Media</div>
+						</div>
+					
+					<p class="moreSpacing">The entertainment industry has become an all-digital field. The publishing industry, the music recording industry, photography, and film production have all seen radical changes in how content is created and how it is distributed to an audience. Let’s look at these forms of entertainment and how they affect you.</p>
+					
+					<h2 class="blueHeading">Digital Publishing</h2>
+					<p class="moreSpacing"><strong>Are printed books dead?</strong> The publishing industry is migrating to digital materials. <span class="strongDBlue" glossary>Electronic text (e-text)</span> is textual information captured digitally so that it can be stored, manipulated, and transmitted by electronic devices. With the increasing usage of e-text, the market for printed materials is changing dramatically. In fact, Amazon now sells more Kindle e-books than printed books each year. Several authors, such as Stieg Larsson and James Patterson, have each sold over one million e-books.</p>
+					<p class="start moreSpacing"><strong>What electronic devices are trying to replace books?</strong> <span class="strongDBlue" glossary="e-reader">E-Readers</span> (<span class="strongDBlue" onclick="compTia.togglePopup(25,0)">see Figure 8.21</span>) are devices that can display e-text and have supporting tools, like note taking, bookmarks, and integrated dictionaries. They are selling at a brisk pace with a dizzying range of offerings in the market, including the Amazon Kindle and Fire, Barnes and Noble NOOK, and Sony </p>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(25,0)"
+						style="height: 320px;background: url(assets/images/figures/fig8.21.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="rightPos" style="width:165px;">
+   				<span>Figure 8.21</span> E-Readers are popularizing the digital e-book. <em>(Kristoffer Tripplaar/Alamy)</em></figcaption>
+   			
+						</figure>
+					
+					<p class="moreSpacing">eReader. Tablets are also helping to popularize the digitized e-book and electronic versions of major magazines and newspapers. There’s evidence that this is increasing all kinds of book buying, not just of digital books. In 2011, Amazon had its greatest growth rate in sales, for all products combined, of the past ten years. </p>
+					
+					<p class="start moreSpacing"><strong>What features make e-readers popular?</strong> One big allure of digital publishing is distribution. Ease of access to digital books is very attractive. Even a 1,000-page book can be delivered to your e-reader in  under a </p>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">minute. An incredible array of titles is available—over one million books are available in the Amazon Kindle store alone. In addition, there are millions of texts without copyright that are available for free. </p>
+					<p class="start">The basic features of e-readers offer many advantages over paper books:</p>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Integrated dictionaries pull up a definition just by your highlighting a word. The Kindle, for example, can work with both English and German dictionaries—a help in reading foreign works.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Note taking and highlighting are supported, and you can search the text for your own notes or for specific terms. You can also easily share the notes you make on the book with others.</span></li>
+						<li class="moreSpacing"><span class="innerLi">URL links or links to a glossary are often live in the book.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Bookmarks are immediately pushed through cloud technology so you can read on one device and pick up with the most current bookmark on another device.</span></li>
+					</ul>
+					
+					<p class="start moreSpacing"><strong>Do I need a dedicated device just for reading e-texts?</strong> There are free software download versions of the Kindle and the NOOK that run on either PC or Apple computers. You can also download certain texts that have no copyrights and read them directly on a computer either as a PDF file or by using browser add-ons like MagicScroll.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How is digital text displayed?</strong> There are two popular technologies used for representing digital text:</p>
+					<ol>
+						<li><span class="innerLi"><em>Electronic ink:</em> <span class="strongDBlue" glossary="electronic ink (e ink)">Electronic ink</span> (E Ink) is a very crisp, sharp grayscale representation of text. The “page” is composed of millions of microcapsules with white and black particles in a clear fluid. Electronic signals can make each spot appear either white or black. E Ink devices reflect the light that shines on the page, like ordinary paper, and are not backlit. E Ink gives great contrast and is much easier to read in direct sunlight. Examples of devices using E Ink include the Amazon Kindle (<span class="strongDBlue" onclick="compTia.togglePopup(26,0)">see Figure 8.22a</span>) and the Barnes and Noble NOOK.</span></li>
+						<li><span class="innerLi"><em>Backlit monitors:</em> Another option for presenting e-text is the high-resolution backlit monitors seen in readers like the iPad or the Amazon Fire (<span class="strongDBlue" onclick="compTia.togglePopup(26,0)">see Figure 8.22b</span>). These screens illuminate themselves instead of depending on room lighting conditions. They display color materials, like magazines, with great clarity and full color. The glass does reflect glare, though, which makes them hard to use in bright, direct sunlight. Some people experience more fatigue when reading from a backlit device than when using E Ink. Also note that E Ink readers have a battery life of a month or two on a charge, whereas high-resolution color readers hold a charge for 8 to 10 hours.</span></li>
+					</ol>
+					
+					<p class="start">Be sure to try both under a variety of conditions before you make a purchasing decision.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(26,0)"
+						style="height: 360px;background: url(assets/images/figures/fig8.22.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.22</span> The two main technologies for e-text display are (a) E Ink grayscale displays, like on the Amazon Kindle, and (b) high-resolution backlit color screens, like on the Amazon Fire.  <em>(EMMANUEL DUNAND/Getty Images)</em></figcaption>
+   			
+						</figure>
+					
+					<br/>	
+					<p class="start"><strong>What kinds of file formats are used in electronic publishing?</strong> Digital formats for publishing vary. Amazon uses a proprietary format (.azw extension), so books purchased for a Kindle are not transportable to a non-Kindle device. An open format also exists, ePub. Some e-readers support the ePub file format. There is an ePub reader plugin available for the browser Firefox and several standalone software ePub readers like Stanza.</p>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Where do I buy e-books?</strong> There are a number of vendors associated with e-reader devices:</p>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Amazon sells the Kindle device, and it connects directly to the Amazon Kindle store.</span></li>
+						<li><span class="innerLi">The Barnes and Noble NOOK device works with the Barnes and Noble e-bookstore.</span></li>
+						<li><span class="innerLi">There are many publishers selling e-books online that can be read on any kind of device.</span></li>
+						<li><span class="innerLi">Textbooks can be purchased in e-book format directly from the publisher; for example, the technology publisher O’Reilly has an online e-bookstore. Another option is a company like CourseSmart, which offers a yearlong subscription to a digital text that times out and disappears from your device after your subscription is up.</span></li>
+					</ul>
+					
+					<p class="start"><strong>What if I just want to borrow a book from a library?</strong> Libraries are now including e-book and audio book lending as part of their mission (<span class="strongDBlue" onclick="compTia.togglePopup(27,0)">see Figure 8.23</span>). There is never a late fee; the book just times out and disappears from your device when the borrowing period expires. Products like the Overdrive Media Console (<span class="strongDBlue" onclick="window.open('http://search.overdrive.com','_blank')">search.overdrive.com</span>) let you search to find which area library has the book you want. When you log in to the library website, you can download a text any time of day or night. Libraries have a specific number of copies of each e-book title available, so you may be added to a waiting list if all the copies are checked out, just like with paper books. However, there is a lot of friction between publishers and libraries on</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(27,0)"
+						style="height: 250px;background: url(assets/images/figures/fig8.23.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="rightPos" style="width:147px;margin-right:95px;">
+   				<span>Figure 8.23</span> E-books and audio books can be borrowed for free at most public libraries. <em>(Olaf Speier/Alamy)</em></figcaption>
+   			
+						</figure>
+					
+					<p>how to handle the impact of lending electronically. It’s so convenient that some publishers are refusing to allow their e-books to be distributed through libraries.</p>
+					<p class="start"><strong>Can I borrow an e-book from a friend?</strong> Lending of e-books is now becoming a popular feature of e-reader systems. The Barnes & Noble NOOK, for example, has a Lend Me feature on certain books. An eligible book can be loaned once for a period of 14 days.</p>
+					<p class="start"><strong>Where can I find free e-books?</strong> A great source of free reading is Project Gutenberg (<span class="strongDBlue" onclick="window.open('http://gutenberg.org','_blank')">gutenberg.org</span>). This repository site is a collection of over 38,000 free books in ePub, Kindle, and PDF formats. It contains books that are free in the United States because their copyrights have expired. The catalog includes many classic titles like <em>War and Peace</em> by Leo Tolstoy or mystery novels by Agatha Christie. </p>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How can I publish my own works?</strong> Self-publishing is much easier in the age of digital texts. There are many options available:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Self-publish into the <em>Amazon Kindle Store</em> in a matter of minutes and earn up to a 70% royalty on sales.</span></li>
+					</ul>
+					
+					<a onclick="compTia.togglePopup(28,0)" class="readMore" style="margin-bottom:10px;"></a>
+					
+					<h2 class="blueHeading">Digital Music</h2>
+					<p class="moreSpacing"><strong>How is digital music created?</strong> The sound waves created by instruments need to be turned into a string of digital information to record digital music. <span class="strongDBlue" onclick="compTia.togglePopup(28,1)">Figure 8.24</span> shows the process of digitally recording a song. During the process, an analog-to-digital converter digitizes original analog waves into a series of numbers. How accurate it is, or how close the digitized wave is in shape to the original analog wave, depends on the <span class="strongDBlue" glossary>sampling rate</span> of the ADC. The sampling rate  specifies the number of times the analog wave is measured each second. The higher the sampling rate, the more accurately the original wave can be re-created. The improved sound quality higher sampling can afford also depends on the quality of the output device and speakers, of course. However, higher sampling rates also produce much more data, and therefore result in bigger files. For example, sound waves on CDs are sampled at a rate of approximately 44,000 times a second. This produces a huge list of numbers for even a single minute of a song.</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">The Recording Process</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(28,1)" style="    background: url(assets/images/figures/fig8.24.jpg) no-repeat scroll 8px 28px #FFFFFF; height: 350px; overflow: hidden;">
+							
+							<span class="strongDHeading font_14"><strong style="padding-left:6px">Figure 8.24</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:15px;"><span>Figure 8.24</span> During the complete recording process, information changes from analog form to digital data and then back again to analog sound waves. <em>(Ben Chams/Fotolia)</em>
+						</figcaption></figure>
+					</div>
+					
+					<br/>
+					<p class="start"><strong>What file types store digital music?</strong> You’re no doubt familiar with the MP3 file format used to store digital music, but many others exist, such as AAC and WMA. If you buy a song from the iTunes Store, for example, you receive an AAC-format file. There are also many formats, such as DivX, MPEG-4 (which usually has an .mp4 extension), WMV, and XviD, which hold </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">both video and audio information. All file formats compete on sound and video quality and compression, which relates to how small the file can be and still provide high-quality playback. Be sure to check what kind of files your audio device understands before you store music on it.</p>
+					<p class="start moreSpacing"><strong>How do I know how much digital media my device can hold?</strong> The number of songs or hours of video a device like an iPod (<span class="strongDBlue" onclick="compTia.togglePopup(29,0)">see Figure 8.25</span>) can hold depends on how much storage space it has. Less expensive mobile devices use built-in flash memory ranging from 1 GB to 32 GB, whereas more expensive models use built-in hard drives, which provide as much as 160 GB of storage.</p>
+					<p class="start moreSpacing">Another factor that determines how much music a player can hold is the quality of the MP3 music files. The size of an MP3 file depends on the digital sampling of the song. The same song could be sampled at a rate anywhere between 64 kbps and 320 kbps. The size of the song file will be five times larger if it is sampled at 320 kbps rather than the lower sampling rate of 64 kbps. The higher the sampling rate, the better quality the sound—but the larger the file size.</p>
+					
+				<br/>	
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_19.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Using Portable Media Players
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about portable media players, what they can carry, and how they store data. 
+					</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(29,0)"
+						style="height: 280px;background: url(assets/images/figures/fig8.25.jpg) no-repeat scroll 20px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.25</span> Apple reports over 1 billion iPods have been sold since they were first introduced. <em>(Bloomberg/Getty Images)</em></figcaption>
+   			
+						</figure>
+				<br/>	
+					<p class="start moreSpacing"><strong>How do you control the size of an MP3 file?</strong> If you are <em>ripping</em>, or converting, a song from a CD to a digital MP3 file, you can select the sampling rate yourself. You decide by considering what quality sound you want, as well as how many songs you want to fit onto your MP3 player. For example, if your player has 1 GB of storage and you have ripped songs at 192 kbps, you could fit about 694 minutes of music onto the player. The same 1 GB could store 2,083 minutes of music if it were sampled at 64 kbps. Whenever you are near your computer, you can connect your player and download a different set of songs, but you always are limited by the amount of storage your player has.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What if I want to access more music than my device has room for?</strong> Some of the devices that use flash memory allow you to add storage capacity by purchasing removable flash memory cards. You can also use a service that streams the music to you over WiFi or 3G/4G networks. Companies like Spotify and Rhapsody have subscription plans that let you listen to any of the millions of tracks in their catalog. The music is not yours to own, however—if you cancel your subscription, you no longer have access to the music. But because it’s streamed to you, it doesn’t take up space on your device drive. Some streaming services offer options that also let you download music so that you can still play the songs on your playlist even if you’re not in range of Internet access.</p>
+					<p class="start moreSpacing"><strong>How do I transfer files to my music device?</strong> To move large volumes of data between your computer and your music device, you want a highspeed port. Most devices use a USB port, which lets you transfer files quickly. Cloud services are appearing that automatically push music to your mobile device. Apple’s iOS 5 operating system supports iCloud technology. This means that as soon as you purchase a new song from iTunes, it’s automatically pushed to all your registered iTunes devices—your Mac, your PC, your iPad and iTouch, and your iPhone.</p>
+					<p class="start moreSpacing"><strong>What if I want a lot of people to listen to my digital music?</strong> You have a number of options for listening to your music other than with headphones:</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Many audio receivers now come with a port or a dock so that you can connect a mobile device directly to them as another audio input source.</span></li>
+						<li><span class="innerLi">Networked audio/video receivers have the hardware and software required to connect to your home network and use streaming services like Pandora or Spotify to play music.</span></li>
+						<li><span class="innerLi">Most new cars are equipped with an auxiliary input to the speaker system to support connecting a mobile device; others have a fully integrated software system that displays and runs your playlists. Many Ford models use the Microsoft Sync system that allows you to navigate through your playlists with just voice commands.</span></li>
+						<li><span class="innerLi">There are alarm clocks and home speaker docks that can mate, even wirelessly, with a mobile device and that broadcast brilliant sound (<span class="strongDBlue" onclick="compTia.togglePopup(30,0)">see Figure 8.26</span>).</span></li>
+					</ul>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(30,0)"
+						style="height: 220px;background: url(assets/images/figures/fig8.26.jpg) no-repeat scroll 20px 0px transparent;">
+						<figcaption class="rightPos" style="width:120px;">
+   				<span>Figure 8.26</span> A wide range of mobile docking stations, like the Bag of Rhythm from The House of Marley, use MP3 players or phones to store music files. <em>(Ethan Miller/Getty Images)</em></figcaption>
+   			
+						</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>If I don’t pay for a music download … is it illegal?</strong> Although you need to pay for most music you download, some artists post songs for free. Business models are still evolving as artists and recording companies try to meet audience needs while also protecting their own intellectual property rights. Several different approaches exist. One is to deliver something called <em>tethered downloads</em>, in which you pay for the music and own it, but are subject to restrictions on its use.</p>
+					<p class="start">Another approach is to offer <em>DRM–free</em> music, which is music without any <span class="strongDBlue" glossary>digital rights management (DRM)</span>. DRM is a system of access control that allows only limited use of material that’s been legally purchased. It may be that the song can only run on certain devices or a movie can only be viewed a certain number of times. A DRM–free song can be placed on as many computers or players as you wish. These song files can be moved freely from system to system.</p>
+					<p class="start"><strong>Will streaming music services eliminate radio stations?</strong> The Internet allows artists to release new songs to their fans immediately (on sites such as Facebook) and without relying on radio airtime. This opens up new channels for artists to reach an audience and changes the amount of power radio stations have in the promotion of music. Many radio stations have increased listenership by making their stations available through Internet sites and by broadcasting in high-definition quality.</p>
+					
+					<div class="greenHorzButton" onclick="compTia.togglePopup(31,0)" style="margin-top:10px;">
+						<span class="largeBoldWhite">DIG DEEPER</span>
+						<strong class="font_14 cond">The Shift to Digital Music: A Bumpy Ride</strong>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(31,1)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Need Money for Your Band? Try Indiegogo
+					</div>
+					
+					<br/>
+					<p class="start"><strong>What if I want to publicize my band’s music?</strong> Digital music has made distributing your own recordings very simple. You can make your own creations available using sites like ReverbNation (<span class="strongDBlue" onclick="window.open('http://reverbnation.com','_blank')">reverbnation.com</span>). You can quickly create a web page for your band, post your songs, and start building a fan base through Facebook. ReverbNation will send you reports detailing who’s listening to your music and what they’re saying about it. ReverbNation is also a way to connect with independent recording labels and to find places that want to book your band.</p>
+					
+					<h2 class="blueHeading">Digital Photography</h2>
+					<p class="start"><strong>What is “analog” photography?</strong> Before digital cameras hit the market, most people used some form of 35mm single-lens reflex (SLR) camera. When you take a picture using a traditional SLR camera, a shutter opens, creating an aperture (a small window in the camera) that allows light to hit the 35mm film inside. Chemicals coating the film react when exposed to light. Later, additional chemicals develop the image on the film, and the image is printed on special light-sensitive paper. A variety of lenses and processing techniques, special equipment, and filters are needed to create printed photos taken with traditional SLR cameras. </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What’s different about digital photography?</strong> Digital cameras do not use film. Instead, they capture images on electronic sensors called <em>charge-coupled device (CCD) arrays</em> and then convert those images to digital data, long series of numbers that represent the color and brightness of millions of points in the image. Unlike traditional cameras, digital cameras allow you to see your images the instant you shoot them. Most camera models can now record digital video as well as digital photos.</p>
+					<p class="start moreSpacing"><strong>How do I select a digital camera?</strong> The first question to answer is whether you want a compact “point-and-shoot” camera or a more expensive digital SLR, like the Nikon D3200 in <span class="strongDBlue" onclick="compTia.togglePopup(32,0)">Figure 8.28</span>. If you decide you want a digital SLR, you have a number of options. Some digital SLRs let you switch among different lenses and offer features important to serious amateur and professional photographers. Although having such flexibility in selection of lenses is a great advantage, most of these cameras are also larger, heavier, and use more battery power than the fixed lens models. Think about how you’ll be using your camera and decide which model will serve you best in the long run. One great resource to use is Digital Photography Review (<span class="strongDBlue" onclick="window.open('http://dpreview.com','_blank')">dpreview.com</span>), a site that compares cameras and provides feedback from owners.</p>
+					<p class="start moreSpacing"><strong>Why not just use the camera on my smartphone?</strong> The cameras on smartphones often provide lower resolutions and inferior lenses than stand-alone cameras. In addition, many features that photographers rely on often aren’t available in smartphone cameras, such as different types</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(32,0)"
+						style="height: 192px;background: url(assets/images/figures/fig8.28.jpg) no-repeat scroll 20px 0px transparent;">
+						<figcaption class="rightPos bottomPos" style="width:175px;">
+   				<span>Figure 8.28</span> The Nikon D3200 is a digital SLR with 24.2MP resolution. <em>(Yoshikazu Tsuno/Getty Images)</em></figcaption>
+   			
+						</figure>
+					<br/>
+					<p>of autofocus, image stabilization algorithms, and smile shutter, which waits to take a shot until your subject is smiling. </p>
+					
+					<p class="start"><strong>What determines the image quality of a digital camera?</strong> The overall image quality is determined by many factors:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">The quality of the lenses used</span></li>
+						<li><span class="innerLi">The file format and compression used</span></li>
+						<li><span class="innerLi">The color management software included</span></li>
+						<li><span class="innerLi">The camera’s <span class="strongDBlue" glossary>resolution</span>, or the number of data points it records for each image captured</span></li>
+					</ul>	
+					
+					<p class="start">A digital camera’s resolution is measured in megapixels (MP). The word <em>pixel</em> is short for picture element, which is a single dot in a digital image. Point-and-shoot models typically offer resolutions from 10MP to 15MP. Pro fessional digital SLR cameras, such as the Nikon D3200, can take photos at resolutions as high as 24.2MP, but they sell for thousands of dollars.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">If you’re interested in making only 5" × 7" or 8" × 10" prints, a lower-resolution camera is fine. However, low resolution images become grainy and pixelated when pushed to larger size. For example, if you tried to print an 11" × 14" enlargement from a 4MP image taken using your smartphone’s camera, the image would look grainy; you would see individual dots of color instead of a clear, sharp image. The 10MP to 15MP cameras on the market now have plenty of resolution to guarantee sharp, detailed images even with enlargements as big as 11" × 14".</p>
+					<p class="start moreSpacing"><strong>What file formats are used for digital images?</strong> To fit more photos on the same size flash memory card, digital cameras let you choose from several different file types in order to compress the image data into less memory space. When you choose to compress your images, you’ll lose some of the detail, but in return, you’ll be able to fit more images on your flash card. The most common file types supported by digital cameras are raw uncompressed data (RAW) and Joint Photographic Experts Group (JPEG):</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><em>RAW files</em> have different formats and extensions depending on the manufacturer of a particular camera. The RAW file records all of the original image information, so it’s larger than a compressed JPEG file.</span></li>
+						<li><span class="innerLi"><em>JPEG files</em> can be compressed just a bit, keeping most of the details, or compressed a great deal, losing some detail. Most cameras let you select from a few different JPEG compression levels.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(33,0)"
+						style="height: 238px;background: url(assets/images/figures/fig8.29.jpg) no-repeat scroll 20px 0px transparent;">
+						<figcaption class="rightPos" style="width:200px;">
+   				<span>Figure 8.29</span> <span class="strongDBlue" onclick="window.open('http://www.eye.fi/','_blank')">Eye-Fi</span> combines memory storage and wireless transfer of your photos. Eye-Fi wirelessly transfers your photos to <span class="strongDBlue" onclick="window.open('http://picasa.google.com/','_blank')">Google Picasa</span>, <span class="strongDBlue" onclick="window.open('http://facebook.com','_blank')">Facebook</span>, or a number of other web destinations. Eye-Fi Mobile X2 uploads images directly from your camera to your tablet or phone, as well. It also backs up the photos and videos you take with your camera to your home computer. And when you’re away from home, Eye-Fi comes with hotspot access so you can upload for free from any McDonald’s, Starbucks, hotel, or airport. <em>(Handout/MCT/Newscom).</em></figcaption>
+   			
+						</figure>
+					<br/>
+					
+					<p class="start">Often, cameras also support a very low-resolution storage option that provides images that aren’t useful for printing but are so small that they’re easy to e-mail. Even people who have slow Internet connections are able to quickly download and view such images on screen.</p>
+					<p class="start"><strong>What’s the best way to transfer my photos to my computer?</strong> Digital cameras have a built-in USB port you can use to copy the image files to your computer. Another option is to transfer the flash card from your camera directly to a built-in memory card reader on your computer. Some camera models support wireless network connections so that you can transfer the images without the fuss of putting a cable in place. If your model doesn’t, you can purchase a memory card with built-in WiFi: the Eye-Fi (<span class="strongDBlue" onclick="compTia.togglePopup(33,0)">see Figure 8.29</span>).</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="34" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Can I make my old photos digital?</strong> You can use a scanner to turn your hand-drawn sketches or old photos into digital files. Most scanner software lets you store the converted images as TIFF files or in compressed form as JPEG files. Some scanners include hardware that lets you scan film negatives or slides as well or even insert a stack of photos to be scanned in sequence.</p>
+					<p class="start moreSpacing">Scanner quality is measured by its resolution, which is given in dots per inch (dpi). Most modern scanners can digitize a document at resolutions as high as 9,600 × 9,600 dpi in either color or grayscale mode. Scanners also typically support optical character recognition (OCR). OCR software converts pages of handwritten or typed text into electronic files. You can then open and edit these converted documents with word processing programs such as Microsoft Word.</p>
+					<p class="start moreSpacing"><strong>How can I share my digital photos?</strong> You’ve probably shared a number of photos on Facebook already. Other options include creating online albums at sites such as Picasa, which let you share your photos without having to print them. You can also design electronic scrapbooks on a number of digital scrapbooking sites such as <span class="strongDBlue" onclick="window.open('http://cottagearts.net','_blank')">cottagearts.net</span>.</p>
+					<p class="start moreSpacing">Of course, you can carry and display your photos on your tablet and smartphone. You can also connect your iPad wirelessly to your TV and deliver slide shows of your photos, complete with musical soundtracks you’ve selected. If you have networked your home, a TV connected to your network can display all the photos and videos stored on your computer.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What are the best options for printing digital photos?</strong> If you want to print photos, you have two main options:</p>
+					<ol>
+						<li><span class="innerLi">Use a photo printer: The most popular and inexpensive ones are inkjet printers. Some inkjet printers can print high-quality color photos, although they vary in speed, quality, and features. Dye-sublimation printers are another option. If you’re interested in a printer to use for printing only photos, a dye-sublimation printer is a good choice. However, some models print only specific sizes, such as 4" × 6" prints, so be sure the printer you buy will fit your long-term needs.</span></li>
+						<li><span class="innerLi">Use a photo-printing service: Most photo-printing labs, including the film-processing departments at stores such as Target, offer digital-printing services. The paper and ink used at these labs are higher quality than what is available for home use and produce heavier, glossier prints that won’t fade.</span></li>
+					</ol>
+					
+					<a onclick="compTia.togglePopup(34,0)" class="readMore"></a>
+					
+					<h2 class="blueHeading">Digital Video</h2>
+					<p><strong>What devices, sites, and other sources provide digital video content?</strong> Digital video surrounds us:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Television is broadcast in digitally formatted signals.</span></li>
+						<li><span class="innerLi">The Internet delivers a huge amount of digital video through YouTube, communities like Vimeo (<span class="strongDBlue" onclick="window.open('http://vimeo.com','_blank')">vimeo.com</span>), and webcasting sites like Ustream (<span class="strongDBlue" onclick="window.open('http://ustream.tv','_blank')">ustream.tv</span>).</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Sites like Hulu (<span class="strongDBlue" onclick="window.open('http://hulu.com','_blank')">hulu.com</span>) rebroadcast many current television shows as well as films and movie trailers.</span></li>
+						<li><span class="innerLi">Many pay services are available to deliver digital video to you. These include on-demand streaming from cable providers, iTunes, Netflix’s Instant Watch films, and Amazon’s Instant Video download service.</span></li>
+						<li><span class="innerLi">And of course, you can create your own digital video. Although you can buy dedicated digital camcorders to record digital video, many smartphones now record HD video. Webcams also work as inexpensive devices for creating digital video.</span></li>
+					</ul>
+					
+					<p class="start"><strong>How do I record my own digital video?</strong> Video equipment for home use stores information in a digital video (DV) format. Such cameras don’t require any tapes; they store hours of video on built-in hard drives or flash cards. Some models even record directly to DVD. You can easily transfer video files to your computer and, using video-editing software, edit the video at home. You can save (or write) your final product on a CD or DVD and play it in your home DVD system or on your computer. For true videophiles, cameras and burners are now available for HD video format.</p>
+					<p class="start"><strong>What if I decide to add special effects and a sound track?</strong> Video-editing software presents a storyboard or timeline with which you can manipulate your video file, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(35,0)">Figure 8.30</span>. You can review your clips frame by frame or trim them at any point. You can add titles, audio tracks, and animations; order each segment on the timeline in whichever sequence you like; and correct segments for color balance, brightness, </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(35,0)"
+						style="height: 280px;background: url(assets/images/figures/fig8.30.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.30</span> Adobe Premiere Elements allows you to build a movie from video clips and to add sound tracks and special effects.</figcaption>
+   				</figure>
+					<br/>
+					
+					<p>or contrast. Examine online tutorial resources such as Izzy Video podcasts (<span class="strongDBlue" onclick="window.open('http://izzyvideo.com','_blank')">izzyvideo.com</span>) to learn how to make the most impact with the editing and effects you apply to your raw video footage.</p>
+					<p class="start"><strong>What kinds of files will I end up with?</strong> Once you’re done editing your video file, you can save or export it in a variety of formats. <span class="strongDBlue" onclick="compTia.togglePopup(36,0)">Figure 8.31</span> shows some of the popular video file formats in use today, along with the file extensions they use.</p>
+					<p class="start">Your choice of file format for your finished video will depend on what you want to do with the video. For example, the QuickTime streaming file format is a great choice if your file is really large and you plan to post it on the web. The Microsoft AVI format is a good choice if you’re sending your </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Typical File Formats for Digital Video</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(36,0)" style="    background: url(assets/images/figures/fig8.31.jpg) no-repeat scroll 3px 35px #FFFFFF; height: 275px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 8.31</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				<br/>	
+					
+					<p>file to a wide range of users because it’s the standard video format for the Windows Media Player.</p>
+					<p class="start lessSpacing">Different compression algorithms will have different results on your particular video. Try several to see which one does a better job of compressing your particular file. A <span class="strongDBlue" glossary>codec</span> (compression/decompression) is a rule, implemented in either software or hardware, that squeezes the same audio and video information into less space. Some information will be lost using compression, and there are several different codecs to choose from, each claiming better performance than its competitors. Commonly used codecs include MPEG-4, H.264, and DivX. There’s no one codec that’s </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>always superior—a codec that works well for a simple interview may not do a good job compressing a live-action scene.</p>
+					<p class="start moreSpacing"><strong>What if I want to produce a DVD with a full menuing system?</strong> You can use special authoring software such as Pinnacle Studio HD or Adobe Encore. These DVD/Blu-ray software packages often include preset selections for producing video for specific mobile devices. These programs can also create final discs that have animated menu systems and easy navigation controls, allowing the viewer to move quickly from one movie or scene to another. Home DVD and Blu-ray players, as well as gaming systems such as PlayStation and Xbox, can read these discs.</p>
+					<p class="start moreSpacing"><strong>What’s the quickest way to get my video out to viewers?</strong> The quickest way to get your video content out is to broadcast. Webcasting, or broadcasting your video live to an audience, is an option that has become simple to do. All you need is a webcam (<span class="strongDBlue" onclick="compTia.togglePopup(37,0)">see Figure 8.32</span>), and sites like <span class="strongDBlue" onclick="window.open('http://justin.tv','_blank')">justin.tv</span> or <span class="strongDBlue" onclick="window.open('http://ustream.tv','_blank')">ustream.tv</span> will let you quickly set up to webcast your video as it is captured to a live Internet audience. You can also display an interactive chat next to the video feed. Both the chat and the video are captured and archived for viewers who missed the live broadcast. Most smartphones record video at a quality good enough to directly webcast from your phone, and most laptops have an integrated webcam.</p>
+					<p class="start moreSpacing">You may want to take time and produce a more polished video. When you have it just right, you can upload it to video-sharing sites like <span class="strongDBlue" onclick="window.open('http://YouTube.com','_blank')">YouTube</span> or <span class="strongDBlue" onclick="window.open('http://Metacafe.com','_blank')">Metacafe</span>.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="37" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(37,0)"
+						style="height: 255px;background: url(assets/images/figures/fig8.32.jpg) no-repeat scroll 30px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.32</span> Webcams are small enough to make them part of any activity (check the quarterback’s helmet!). <em>(AP Photo/New York Giants)</em></figcaption>
+   				</figure>
+					<br/>
+					
+					<p class="start">Of course, it’s illegal for you to upload videos you don’t own. You also can’t take a piece of a copyrighted video and post it publicly. The <span class="strongDBlue" onclick="compTia.togglePopup(37,2)">Ethics in IT section</span> in this chapter presents several legal and ethical situations that are important for you to be aware of as a content creator in the digital age.</p>
+					<p class="start"><strong>How is HD different from “plain” digital?</strong> <em>HD</em> stands for <span class="strongDBlue" glossary>high definition</span>. It is a standard of digital television signal that guarantees a specific level of resolution and a specific <em>aspect ratio</em>, which is the rectangular shape of the image. A 1080 HDTV displays 1,920 vertical lines and 1,080 horizontal lines of video on the screen, which is over six times as many pixels as a standard definition TV. The aspect ratio used is 16:9, which makes the screen wider, giving it the same proportions as the rectangular </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>shape of a movie theater screen (<span class="strongDBlue" onclick="compTia.togglePopup(37,1)">see Figure 8.33</span>). This allows televisions to play movies in the widescreen format for which they were created, instead of “letterboxing” the film with black bars on the top and the bottom of the screen.</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(37,1)"
+						style="height: 367px;background: url(assets/images/figures/fig8.33.jpg) no-repeat scroll 48px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 8.33</span> (a) Standard-definition TV has a more “square” aspect ratio, whereas (b) HDTV matches the 16:9 ratio used in the motion picture industry without resorting to (c) letterboxing <em>(Pichugin Dmitry/Shutterstock)</em></figcaption>
+   				</figure>
+					
+					
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(37,2)">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong style="font-size:13px; margin-top:-10px;">Managing Your Copyrights:<br/>Copyleft Might Simplify Your Life</strong>
+				</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="38" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What types of connectivity are provided on modern TV sets?</strong> A typical HDTV set has multiple HDMI connectors, allowing game consoles, Blu-ray players, and cable boxes to be connected and to  produce the highest-quality output. HDMI is a single cable that carries all of the video and all of the audio information.</p>
+					<p class="start moreSpacing">Many TV sets have a built-in SD card reader. This allows users to display slide shows of photographs captured by their digital cameras. A PC VGA port is also included on most sets to allow you to feed your computer’s output video signal directly to the television.</p>
+					
+					<p class="start moreSpacing"><strong>What are the advantages to watching digital video on my TV?</strong> Other information services can be integrated with the broadcast; so, for example, if a telephone call came through during the show, a pop-up could appear identifying the caller. Additional content can be delivered in real time with the broadcast, explaining the background of characters or pulling up behind-the-scenes info. In the future, there will be more  interactivity integrated so you can participate in live polls or chats on screen as the show is broadcast.</p>
+					<p class="start moreSpacing"><strong>Can I record the digital video that comes over my TV?</strong> There are a variety of digital video recorders (DVRs) available that record in HD. Models like TiVo even recommend new shows you might like based on what you’ve been watching. You can also install PVR (personal video recording) software on your computer. Programs like SnapStream (<span class="strongDBlue" onclick="window.open('http://snapstream.com','_blank')">snapstream.com</span>) let you</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>use your computer to view the schedule program guide, select shows to record (without commercials), and then watch them from anywhere you have Internet access.</p>
+					<p class="start"><strong>Can I get digital video to watch on my portable device?</strong> Many DVR units, like TiVo, support software that lets you transfer recorded shows to files on your PC and format them for viewing on a mobile device. There are also devices like Slingbox that take the video from your TV and broadcast it to you over the Internet. With Slingbox, you can be in another room, or another country, and control and watch your home TV on your notebook or your smartphone (<span class="strongDBlue" onclick="compTia.togglePopup(38,0)">see Figure 8.34</span>).</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(38,0)"
+						style="height: 180px;background: url(assets/images/figures/fig8.34.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="rightPos" style="width:130px;">
+   				<span>Figure 8.34</span> Slingbox can send your digital television content to your tablet, notebook, or phone, wherever you may be. <em>(AP Photo/Paul Sakuma)</em></figcaption>
+   				</figure>
+				
+				<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_8_Part_2/Chapter_8_Part_2.html','_blank')" >Replay Video 8.2</span>.</span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(30)">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="39" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">When you want to hear a song, <br/>which do you do first?</div>
+					<ol class="pollQuestions">
+						<li>Play it on <span style="text-decoration:underline">Spotify</span> or <span style="text-decoration:underline">Pandora</span></li>
+						<li>Buy it from an online store</li>
+						<li>Download it from Bit Torrent</li>
+						<li>Look for a <span style="text-decoration:underline">YouTube</span> video</li>
+						<li>Other</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="40" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h1><span class="chapter">8</span> Chapter Review</h1>
+				<div class="largerTitle">summary//</div>
+					 
+					<img src="assets/images/pics/mobileSmall.jpg" class="floatPositioned">
+					<h2>Digital Convergence</h2>
+					<span class="prePseudoLi preContent1 strong">How is the trend of digital convergence seen in the market?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Digital convergence has brought us single devices with the capabilities that used to require four or five separate tools.</span></li>
+					</ul> 
+					
+					<img src="assets/images/pics/telephonySmall.jpg" class="TMargin20 floatPositioned">
+					<h2>Telephony: Smartphones <br/>and Beyond</h2>
+					<span class="prePseudoLi preContent2 strong">What hardware and software comprise a typical smartphone?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Like a traditional computer, a smartphone has a central processor, memory, and an OS. These components work in the same way as in a computer to process information and support communications, software applications, and other services.</span></li>
+					</ul> 
+					
+					<h4 class="noBMargin">3. How do I synchronize information between my phone and my</h4>
+					<p class="Lmargin15"><strong>computer, and how do mobile Internet data plans work?</strong></p>
+					<ul class="dotted">
+						<li><span class="innerLi">Information can be synched between devices using either wired or wireless solutions.</span></li>
+						<li><span class="innerLi">A wired synch requires either a micro SD card or a USB cable to connect the device directly to the computer.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+						
+					<ul class="dotted">
+						<li><span class="innerLi">A wireless synch can be done using Bluetooth or WiFi or by connecting to a cloud service.</span></li>
+						<li><span class="innerLi">Mobile data plans allow your device to have access at almost any location.</span></li>
+						<li><span class="innerLi">Data transfers occur at either 3G or 4G speeds, depending on your device and provider. Fees are tied to the amount of data you transfer each month.</span></li>
+					</ul>
+					
+					<h4>4. What do I need to keep my smartphone secure</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">Viruses can infect smartphones, so using an antivirus software package is important. Check the manufacturer’s website frequently for updates and practice safe habits by not downloading or opening files from unknown sources.</span></li>
+					</ul>
+					
+					<h4>5. How does digital telephony support VoIP services?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">VoIP allows inexpensive communication using a computer or a WiFi–enabled phone. Because it’s based on a digital format for information, it can support services like automatic delivery of phone messages to an e-mail account or texts to a mobile device.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/flyingLaptopsSmall.jpg" class="TMargin20 floatPositioned">
+					<h2>Tablets, Netbooks, and Ultrabooks</h2>
+					<span class="prePseudoLi preContent6 strong">What distinguishes the performance of tablets, netbooks, and ultrabooks?</span>
+				<br/>	
+					<ul class="dotted">
+						<li><span class="innerLi">Mobile devices differ in terms of size and weight, input (physical keyboard, software keyboard on a touch screen), and in terms of OS (mobile OS or traditional OS).</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>	 
+		
+		<page index="41" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Netbooks and ultrabooks can run traditional software packages like Microsoft Office, whereas tablets run new versions of productivity software, made to take advantage of the features of the tablet.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/DdefinedSmall.jpg" class="TMargin20 floatPositioned">
+					<h2>Digital Defined</h2>
+					<span class="prePseudoLi preContent7 strong">What advantage do digital formats have over analog signals?</span>
+				<br/>	
+					<ul class="dotted">
+						<li><span class="innerLi">Digital media is based on a series of numeric data, number values that were measured from the original analog waveform. As a string of numbers, a digital photo or video file can be easily processed by modern computers.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/DMediaSmall.jpg" class="TMargin20 floatPositioned">
+					<h2>Digital Media</h2>
+					<span class="prePseudoLi preContent8 strong">How is the digital format changing the way media is created and distributed?</span>
+				<br/>	
+					<ul class="dotted">
+						<li><span class="innerLi">The increased use of digital information has led to a period of greater creativity and control of our data. In a digital format, information is easy to carry, manipulate, and exchange. This has led to revolutionary changes in communication, entertainment media, and mobile computing.</span></li>
+						<li><span class="innerLi">Digital publishing is allowing a variety of new distribution methods into the industry. E-readers and online bookstores are bringing changes to the models of how to sell printed materials.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Digital music is created by combining pure digital sounds with samples of analog sounds. It has meant changes for the recording industry, for performers, and for music listeners. It’s now inexpensive to carry a music library, to create new songs, and to distribute them worldwide.</span></li>
+					</ul>
+					
+					<h4>9. How do I work with digital images and video?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">Digital cameras allow you to instantly capture and transfer images to your devices, computers, and cloud storage sites.</span></li>
+						<li><span class="innerLi">Using software for video production, you can create polished videos with titles, transitions, a sound track, and special effects and distribute them on DVDs.</span></li>
+						<li><span class="innerLi">You can also use a webcam to stream live video to sites that will “broadcast” it over the Internet.</span></li>
+					</ul>
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					<br>
+					<img src="assets/images/layout/techTouchS8.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+		</page>
+		
+		<page index="42" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 8 glossary//</div>
+					
+					<span class="strongDBlue" glossary>analog</span> 376<br/>
+					<span class="strongDBlue" glossary>analog-to-digital converter chip</span> 362<br/>
+					<span class="strongDBlue" glossary>base transceiver station</span> 362<br/>
+					<span class="strongDBlue" glossary="Bluetooth (technology)">Bluetooth</span> 363<br/>
+					<span class="strongDBlue" glossary>cellular (cell) phone</span> 359<br/>
+					<span class="strongDBlue" glossary>codec</span> 390<br/>
+					<span class="strongDBlue" glossary>copyleft</span> 391<br/>
+					<span class="strongDBlue" glossary>data plan</span> 365<br/>
+					<span class="strongDBlue" glossary>digital convergence</span> 357<br/>
+					<span class="strongDBlue" glossary>digital rights management (DRM)</span> 385<br/>
+					<span class="strongDBlue" glossary>digital signal processor</span> 362<br/>
+					<span class="strongDBlue" glossary>electronic ink (E Ink)</span> 380<br/>
+					<span class="strongDBlue" glossary>electronic text (e-text)</span> 378<br/>
+					<span class="strongDBlue" glossary>e-reader</span> 378<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="ColShiftSpacer"></div>
+				<span class="strongDBlue" glossary="feature phones">feature phone</span> 359<br/>
+				<span class="strongDBlue" glossary>global positioning system (GPS)</span> 370<br/>
+				<span class="strongDBlue" glossary>high definition</span> 391<br/>
+				<span class="strongDBlue" glossary>mobile switching center</span> 362<br/>
+				<span class="strongDBlue" glossary>multimedia message service (MMS)</span> 364<br/>
+				<span class="strongDBlue" glossary>peer-to-peer (P2P) sharing</span> 385<br/>
+				<span class="strongDBlue" glossary>resolution</span> 386<br/>
+				<span class="strongDBlue" glossary>sampling rate</span> 382<br/>
+				<span class="strongDBlue" glossary>short message service (SMS)</span> 364<br/>
+				<span class="strongDBlue" glossary>synchronizing (or syncing)</span> 363<br/>
+				<span class="strongDBlue" glossary>telephony</span> 358<br/>
+				<span class="strongDBlue" glossary>tethering</span> 367<br/>
+				<span class="strongDBlue" glossary>Voice over Internet Protocol (VoIP)</span> 368<br/>
+				<span class="strongDBlue" glossary>wireless Internet service provider (wireless ISP)</span> 365<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="43" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...next semester//</div>
+					<ol class="shiftUp10">
+						<li><span class="innerLi">Choosing Mobile Devices to Fit Your Needs</span><br/>
+						<span class="innerLi notStrong">As a student, which devices discussed in this chapter would have the most immediate impact on the work you do each day? Which would provide the best value (that is, the greatest increase in productivity and organization per dollar spent)? Consider the full range of devices, from cell/smartphones to laptop systems.</span></li>
+						<li><span class="innerLi">Ready … Set … Act!</span><br/>
+						<span class="innerLi notStrong">As a student, you often give presentations or take on student teaching assignments. What steps would you follow to create a digital video recording of one of your presentations? What tools would you need to record? What kind of file would you end up producing? How would you distribute the video to a live Internet audience? How would you make a DVD of the performance?</span></li>
+						<li><span class="innerLi">Author, Author</span><br/>
+						<span class="innerLi notStrong">As a new author of fantasy stories, you have written a collection of short fiction. You decide to publish the collection yourself. What options are there for you to use? How do they compare/contrast?</span></li>
+					</ol>
+					
+					<div class="title shiftUp10">making the transition to...the workplace//</div>
+					<ol class="shiftUp10">
+						<li><span class="innerLi">Subscription versus Ownership</span><br/>
+						<span class="innerLi notStrong">With the arrival of reliable, fast, networked digital information, businesses can track the location and status of all kinds of objects, such as cars and bicycles. This is introducing a new business model different from individual ownership—now, using a car can become a “subscription” service.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="noListStyle">
+						<li><span class="innerLi notStrong">What options are there for “subscribing” to a car instead of owning one? How about for a bicycle? Are there other businesses you can identify that would be able to take advantage of digital information and become subscription services instead of vendors of a physical product? What are the advantages to the consumer of subscription over ownership? What are the drawbacks?</span></li>
+					</ol>
+					<ol>
+						<li class="liHide"></li>
+						<li><span class="innerLi">Everyone Is a Writer</span><br/>
+						<span class="innerLi notStrong">Now that digital publishing is so accessible to everyone, how should a publishing business respond? Are there ways that existing publishing houses can take advantage of the easy access readers have to publish extensions of stories? What about in the fields of video or music—how might a business encourage the involvement of the fan base of a movie or a band by using the media-creation tools available?</span></li>
+						<li><span class="innerLi">Mobile Devices on the Highway</span><br/>
+						<span class="innerLi notStrong">Mobile devices used in vehicles are becoming the norm in today’s society. Consider the following:</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="innerLi notStrong">Several car manufacturers provide Bluetooth option packages for their vehicles. What are the advantages to having Bluetooth connectivity in your car? Are there any disadvantages?</span></li>
+							<li><span class="innerLi notStrong">Examine the Microsoft Sync software package. List the features and services it provides. If you were a salesperson with a territory that you covered by car, how would Sync help you?</span></li>
+						</ol>
+						
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="44" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">team time //</div>
+					<h3>“And one will rule them all”</h3>
+					<h4>Problem</h4>
+					<p class="moreSpacing">Digital convergence posits the dream of one device that can do it all, for everyone. But there are so many different mobile devices saturating the market that many people are left in a state of confusion. Either they are buying too many devices and not using them, or they are paralyzed from buying anything because of the dilemma of too many choices.</p>
+					
+					<h4>Task</h4>
+					<p>For each client scenario described as follows, the group will select the minimum set of devices that would support and enhance the client’s life.</p>
+					
+					<h4>Process</h4>
+					<ol>
+						<li><span class="innerLi notStrong">Consider the following three clients:</span></li>
+						<ul class="dotted" style="margin-left:-20px;">
+							<li><span class="innerLi notStrong">A retired couple who now travels for pleasure a great deal. They want to be involved in their grandchildren’s lives and will need support for their health, finances, and personal care as they age.</span></li>
+							<li><span class="innerLi notStrong">A young family with two children, two working parents, and a tight budget.</span></li>
+							<li><span class="innerLi notStrong">A couple in which each individual is a physician and each adores technology.</span></li>
+						</ul>	
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					<ol>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong">Make two recommendations for your clients in terms of digital technologies that will enhance their business or their lifestyle. Discuss the advantages and disadvantages of each technology. Consider value, reliability, computing needs, training needed, and communication needs, as well as expandability for the future.</span></li>
+						<li><span class="innerLi notStrong">As a group, prepare a final report that considers the costs, availability, and unique features of the recommendations you have made for your clients.</span></li>
+						<li><span class="innerLi notStrong">Bring the research materials from the individual team meetings to class. Looking at the clients’ needs, make final decisions as to which digital technologies are best suited for each client.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p class="moreSpacing">Digital information has allowed the development of a new style of living, both at home and at work. With so many digital solutions on the market today, recommending digital communication, media management, and mobility options needs to focus on converging to the minimum set of tools that will enhance life without adding complication to it.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="45" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+					<h3>When Everyone Has a Voice</h3>
+					<p class="moreSpacing">In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play might or might not match your own personal beliefs; in either case, your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the arguments, and together, the team will agree on an ethical solution.</p>
+				<br/>
+					
+					<h3>Background</h3>
+					<p class="moreSpacing">Much of the world’s population is now equipped with Internet-ready camera phones. Sensors on these phones could measure for viruses or compute pollution indexes, while the cameras could be used to document a range of human behavior. This could create changes in political movements, art, and culture as everyone’s experience is documented and shared.</p>
+				<br/>
+					
+					<h3>Research Areas to Consider</h3>
+					<span class="psudoUlLi"><span class="strongDBlue" onclick="window.open('http://www.thersa.org/events/rsaanimate/animate/rsa-animate-the-internet-and-society','_blank')">Evgeny Morozov RSA Animate</span></span>
+					<span class="psudoUlLi"><span class="strongDBlue" onclick="window.open('http://mobithinking.com/mobile-marketing-tools/latest-mobile-stats/d','_blank')">mobithinking.com</span></span>
+					<span class="psudoUlLi"><span class="strongDBlue" onclick="window.open('http://www.witness.org/','_blank')">The Witness Project</span></span>
+					<span class="psudoUlLi"><span class="strongDBlue" onclick="window.open('http://research.cens.ucla.edu/','_blank')">Center for Embedded Networked Sensing</span></span>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h3>Process</h3>
+					<ol>
+						<li><span class="innerLi notStrong">Divide the class into teams.</span></li>
+						<li><span class="innerLi notStrong">Research the areas cited above and devise a scenario in which mobile access could make an impact politically or environmentally, positively or negatively.</span></li>
+						<li><span class="innerLi notStrong">Team members should write a summary that provides background information for their character—for example: business owner, politician, reporter, or arbitrator—and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the role-playing event.</span></li>
+						<li><span class="innerLi notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+						<li><span class="innerLi notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+					</ol>
+					
+					<h3>Conclusion</h3>
+					<p class="moreSpacing">As technology becomes ever more prevalent and integrated into our lives, more and more ethical dilemmas will present themselves. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+				]]>
+			</section>
+		</page>
+	</chapter>
+</ebook>	

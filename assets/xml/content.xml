@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ebook book="compTia" chapters="14">
+	<preChapterPages>
+		<page type="CellCellRow" distinction="">
+			<section>Cell</section>
+			<section>Cell</section>
+			<section>Cell</section>
+		</page>
+	</preChapterPages>
+
+	<postChapterPages>
+		<page index="1" type="CellCellRow" distinction="">
+			<section>Cell</section>
+			<section>Cell</section>
+			<section>Cell</section>
+		</page>
+	</postChapterPages>
+</ebook>

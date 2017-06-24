@@ -1,0 +1,1592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+	<chapter index="11" title="" glossary="41">		
+		<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="margin-bottom:45px;padding-top: 32px;">
+							Behind the Scenes: <br/>Databases and <br/>Information <br/>Systems</div>	
+				<div class="chapterStartNumber floatLeft" style="letter-spacing: -35px;">11</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Database Basics</span>
+					<img src="assets/images/pics/dataBase.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">Database Building Blocks</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">1.</span> What is a database, and why is using one beneficial? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(p. 530)</span></li>
+						<li><span class="ul1DigNumber">2.</span> What do database management systems do? <span class="strongDBlue" onclick="compTia.switchPage(0,4)">(pp. 531-535)</span></li>
+						<li><span class="ul1DigNumber">3.</span> What components make up a database? <span class="strongDBlue" onclick="compTia.switchPage(0,8)">(pp. 535–549)</span></li>
+					</ul>
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_23.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Using Databases
+					</div>
+					<hr>
+					
+					<img src="assets/images/pics/dataBaseTypes.jpg" class="BMargin20"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,13)">Database Types</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">4.</span> What types of databases are there? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,13)">(pp. 540-543)</span></li>
+					</ul>	
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_7/ch11_hdcall02/indexfull.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Understanding Database <br/>&emsp;&ensp;&ensp; Management Systems
+					</div>
+					
+					<hr class="clearRight TMargin20">
+					
+					<img src="assets/images/pics/dataFunctions.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,16)">Database Functions</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">5.</span> How do relational databases organize and manipulate data? <span class="strongDBlue" onclick="compTia.switchPage(0,16)">(pp. 543-548)</span></li>
+					</ul>	
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/creating_an_access_database/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Creating an Access 2010 Database
+					</div>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/improving_an_access_database/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Improving an Access 2010 Database
+					</div>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,24)">How Businesses Use Databases</span>
+					<img src="assets/images/pics/dataWarehousing.jpg" style="margin-top:-27px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,24)">Database Warehousing and Storage</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">6.</span> What are data warehouses and data marts, and how are they used? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,24)">(pp. 551-555)</span></li>
+					</ul>
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_7/ch11_hdcall03/indexfull.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Data Warehouses, Data Marts, and Information Systems
+					</div>
+					<hr>
+					
+					<img src="assets/images/pics/BIS.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,28)">Business Intelligence Systems</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">7.</span> What is a business intelligence system, and what types of business intelligence systems are used by decision makers? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,28)">(pp. 555-561)</span></li>
+					</ul>	
+					<hr>
+					
+					<img src="assets/images/pics/dataMining.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,34)">Data Mining</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">8.</span> What is data mining, and how does it work? <span class="strongDBlue" onclick="compTia.switchPage(0,34)">(pp. 561-563)</span></li>
+					</ul>
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown noShadow" style="margin-right:-45px;margin-top:80px;box-shadow: 1px 1px 3px white;" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+					<div class="loader"></div>
+					
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right:-32px;margin-bottom:63px;">
+							(Marek Uliasz/Alamy; Kheng Ho Toh/Alamy; Juri Samsonov/Fotolia; Mira/Alamy; S.John/Fotolia; S.John/Fotolia)
+					</span>
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+
+					<div style="width:100%;height:100%;
+							background:no-repeat url(assets/images/figures/ladyScreen.jpg) -16px 48px"></div>
+							<div class="font_9"
+								 style="margin-top:-140px;margin-left:200px;font-style: italic;">(Enamul Hoque/Rod Steele/Digital Visions/Getty Images)
+								 </div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span><p class="moreSpacing">You’ve just <strong>lost your wallet</strong>. You have to cancel all your <strong>credit cards</strong> and notify your bank. You never wrote down your credit card information, so now you’re stuck going through bills trying to piece together the details. Moreover, you’ve used some of the credit cards for automatic payments on other bills, so you have to remember what card was used to pay which account. Wouldn’t it be great if you had this information securely stored in a database on your phone or computer? With <strong>Tap Forms Database</strong> installed on your computer, iPhone, or iPad, you could have had all this data at your fingertips. Tap Forms Database <strong>organizes</strong> different types of information so that you can keep track of your <strong>important information</strong> such as membership accounts, bank accounts, passwords, combinations, homework, and frequent flyer numbers, as well as your favorite movies, music, or recipes. The application is <strong>secured</strong> with tight encryption, and it integrates with Dropbox. So, get your life organized today with Tap Forms Database.</p>
+
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap11ArrSchip_computer.png')" onclick="window.open('http://www.tapforms.com','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Database Basics</div>
+					<p class="digCompP">You interact with databases every day—when you retrieve a friend’s phone number from your contacts, post to your Facebook page, or add a song to your iTunes playlist. In this part of the chapter, we’ll look at the basics of databases and how databases can be used to provide relevant information quickly and easily.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/dataBaseSmall.jpg)">
+						<div class="orange">database building</div>
+						<div class="blue" style="margin-left:170px;">Blocks</div>
+					</div>
+					
+					<p>A <span class="strongDBlue" glossary>database</span> is a collection of related data that can be stored, sorted, organized, and queried. Many actions we do every day (use an ATM, shop online, make an airplane reservation) generate data that needs to be stored, managed, and used by others. Most likely, a database has been created that receives and stores our generated data and that enables that data to be processed and used by others. By creating an organized structure for data, databases make data more meaningful and therefore more useful. Databases effectively turn data into information. </p>
+					<p class="start"><strong>Why do I need to know about databases?</strong> Since you interact with databases every day, understanding how databases work and what you can do with databases will help you use the ones you interact with more effectively. For example, <em>categorizing, sorting</em>, and <em>filtering</em> are key attributes of most databases. If a database isn’t set up correctly or if you don’t know how to use the database, you may not get the type of information you’re looking for. </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><span class="strongDBlue" onclick="window.open('http://www.stubhub.com/','_blank')">StubHub</span>, the online ticket-exchange platform (<span class="strongDBlue" onclick="compTia.togglePopup(3,0)">see Figure 11.1</span>), is an example of a database. Sellers list tickets on StubHub. They specify the categories the tickets fall into (sports, concerts, theater) and other details, such as day, time, and seat location of the event, and set a price. Buyers then access the website, using its filters to narrow down to the type of ticket they’re looking to purchase. If the database doesn’t have the right categories for sellers to choose from, buyers won’t be able to locate the tickets they want.</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(3,0)"
+						style="height: 314px;background: url(assets/images/figures/fig11.1.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.1</span> StubHub is a database that provides for the exchange of tickets between sellers and buyers. <em>(NetPhotos/Alamy)</em></figcaption>
+   			</figure>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Databases versus Lists</h2>
+					<p class="moreSpacing"><strong>Do I need databases for managing all types of data?</strong> Not every situation in which related data needs to be turned into organized information demands the complexity of a database. For simple tasks, lists are adequate. Most word processing and spreadsheet applications have tools to help you create simple lists. A table you create in Microsoft Word can serve as a list, as can a spreadsheet you create in Microsoft Excel.</p>
+					<p class="start moreSpacing"><span class="strongDBlue" onclick="compTia.togglePopup(4,1)">Figure 11.3</span> shows a simple “Books to Buy” list you might create in Excel before beginning college. This list works well because it’s simple and suited to just one purpose: to provide you with a list of books you need to buy for a particular semester. If all the information that needs to be tracked were as simple as the information in <span class="strongDBlue" onclick="compTia.togglePopup(4,1)">Figure 11.3</span>, there would be little need for databases.</p>
+					<p class="start moreSpacing"><strong>When is a list not sufficient for organizing data?</strong> If complex information needs to be organized or more than one person needs to access it, a list isn’t an efficient solution. For example, when you enrolled in college, you provided to a number of people basic information about yourself, including your name and address as well as the classes you wished to take. Your school also tracks other information about you, such as your </p>
+					
+					<div class="bitsAndBytesBlue TMargin10" onclick="compTia.togglePopup(4,0)">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Music Database Helps You Find New Music
+					</div>
+					
+					<div class="itSimContain TMargin5"
+							onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_mylabs/simulations/2012/IT/databases/','_blank')" style="">
+							<div class="itSimContent">
+								<span>IT</span>
+								<span>Simulation: Databases</span>
+							</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(4,1)"
+						style="height: 160px;background: url(assets/images/figures/fig11.3.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.3</span> A basic list created as a spreadsheet in Microsoft Excel or as a table in Microsoft Word is often sufficient to organize simple data.</figcaption>
+   			</figure>
+					
+					<p class="TMargin10 moreSpacing">residence hall assignment and meal plan  preferences. Consider the lists shown in <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4. Figure 11.4a</span> is a list the registrar’s office might use to keep track of students and the classes they’re taking. <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4b</span> is a list the Housing and Dining manager might use to track a student’s assigned housing and his or her selected meal plan.</p>
+			
+					<figure onclick="compTia.togglePopup(4,2)" class="TMargin20"
+						style="height: 175px;background: url(assets/images/figures/fig11.4.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.4</span> (a) A class registration list and (b) a list of residence hall assignments  are two lists a college might create to keep track of student information.</figcaption>
+   			</figure>		
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What’s the problem with lists?</strong> Lists can lead to inefficiencies due to repetition of data and errors from inconsistently entered or updated data. Consider <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4</span> again:</p>
+					
+					<ol class="strong">
+						<li class="moreSpacing"><span class="innerLi notStrong">There is a great deal of duplicated data in the two lists. For example, each time Julio Garza registers for a class, his name and address are entered. He also provides the same data to the Housing and Dining manager when he makes his residence hall and meal plan selections. This <span class="strongDBlue" glossary>data redundancy</span> can be problematic, especially when a school has thousands of students. Imagine the time wasted by entering data multiple times, semester after semester, as well as the time required for the database to search through the duplicated information. Consider, too, the increased likelihood that someone will make a data entry mistake. Additionally, if data is entered multiple times, as is Arthur Stinson’s in the list in <span class="strongDBlue" onclick="compTia.togglePopup(4,2)"> Figure 11.4a</span>, any reports (such as student bills) generated based on this list will be inaccurate because of the duplicate data. In this case, Arthur could be sent multiple bills for his classes.</span></li>
+						<li class="moreSpacing"><span class="innerLi notStrong">Each time the information in the list changes, multiple lists must be updated. If a student moves, his or her data will need to be updated in all the lists that contain his or her address. It would be easy to overlook one or more lists or even one or more rows in the same list. This would lead to a state of <span class="strongDBlue" glossary>data inconsistency</span>. It wouldn’t be possible to easily tell which data is correct. Notice in <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4</span> that Susan Finkel’s address </span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain">
+					<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_23.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Using Databases
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about databases, their benefits, their components, and how relational databases organize and manipulate data.
+					</div></div>
+				
+					<ol class="noListStyle noBMargin">
+						<li><span class="innerLi">on the Registrar’s list differs from that on the Housing and Dining list. It’s impossible to tell which address is correct, resulting in data inconsistency.</span></li>
+					</ol style="strong">
+					<ol class="strong">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong">Correct data can be entered into a list but in an inconsistent format. Look at students Julio Garza and Mei Zhang in <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4a</span>. Both are registered for PSY 101, but two different course names appear:<em> Intro to Psychology  and Intro to Psych.</em> Are these the same course? Which name is correct? Confusion arises when data is inconsistently entered. Establishing data consistency is difficult to do with a list.</span></li>
+					</ol>
+					
+					<p class="start moreSpacing"><strong>Aside from data redundancy and inconsistency, are there any other problems with using lists instead of databases?</strong> Other problems that occur when using simple lists to organize data are as follows:</p>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><em>Inappropriate data:</em> In <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4b</span>, each student has selected one of the college’s three meal plans. What if someone enters a nonexistent meal plan? This is not only wrong, it can also be confusing to anyone viewing the list. With a list, there are few checks to make sure that data make sure that data entered is valid.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Incomplete data:</em> In <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4</span>, Leanne O’Connor has enrolled in the college but hasn’t yet registered for courses or chosen a meal plan. It’s difficult to tell by looking at her record whether data relating to her course registration and meal plan is available and just wasn’t entered or is truly missing.</span></li>
+					</ul>
+					
+					<p class="start"><strong>Can’t I just exercise caution and set rules for creating and updating lists?</strong> Carefully following the rules when you create and update a list like the ones in <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4</span> can address many of the problems mentioned, but there’s still room for error. Being careful doesn’t avoid the problems of data redundancy and inconsistency. And even if you could surmount these problems, it’s difficult to share a list with other users and have the data remain consistent. Therefore, for any complex data that needs to be organized or shared, using a database is the most practical and efficient way to avoid the pitfalls associated with using lists.</p>
+					
+					<h2 class="blueHeading">Advantages of Using Databases</h2>
+					<p><strong>How do databases make our lives easier?</strong> Databases provide several main advantages: They manage large amounts of data efficiently, they enable information sharing, and they promote data integrity.</p>
+					<p class="start"><strong>How can databases manage large amounts of data efficiently?</strong> Often, large amounts of data are complex and need to be organized in specific ways in order to be used most efficiently. <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4</span> illustrates some issues that can occur when complex data is put in list format. The more data you have, the more likely you are to store that data in multiple </p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<p>lists or tables in a database. A database has mechanisms to manage large amounts of data and to keep it accurate as it’s updated and manipulated.</p>
+					<p class="start"><strong>How do databases make information sharing possible?</strong> With a database, only one file is maintained. Because of this, databases provide <span class="strongDBlue" glossary>data centralization</span>. There is no need for multiple lists, as there was when the individual college offices each maintained their own independent lists. A centralized database becomes a shared source of information that everyone can access (<span class="strongDBlue" onclick="compTia.togglePopup(7,0)">see Figure 11.5</span>). Each department that needs to use student information accesses it from the same set of data. A centralized database also increases efficiency because there are no files to reconcile with each other. In addition, many databases also provide the ability to control who has access to the data, so security of data isn’t diminished because it’s centralized.</p>
+					<p class="start"><strong>How do databases promote data integrity?</strong> <span class="strongDBlue" glossary>Data integrity</span> means that the data contained in the database is accurate and reliable. Data centralization goes a long way toward ensuring data integrity. Instead of information being stored in multiple lists that have to be maintained, data is stored in only one place. When multiple lists are kept, information may become inconsistent because each list is  maintained separately. If an address changes, it needs to be changed in <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4</span> only one place in a database, whereas with multiple lists, it’s quite possible that information will be updated in one list and not in another, as was illustrated with a change in address for Susan Finkel in <span class="strongDBlue" onclick="compTia.togglePopup(4,2)">Figure 11.4</span>.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(7,0)"
+						style="height: 508px;background: url(assets/images/figures/fig11.5.jpg) no-repeat scroll -1px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.5</span> A database centralizes data so that only one copy of relevant data must be maintained. All database users therefore access the same up-to-date information. <em>(wavebreakmedia/Shutterstock; AVAVA/ Shutterstock; Monkey Business Images/Shutterstock; Tan Kian Khoon/Shutterstock)</em></figcaption>
+   			</figure>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<p class="start moreSpacing"><strong>Are there any disadvantages associated with databases?</strong> Databases can be more time consuming and expensive to set up and administer than lists. Great care must be exercised in the design of databases to ensure they’ll function as intended. Although average individuals can design small databases, it’s helpful to have an experienced <span class="strongDBlue" glossary="database administrator (database designer)">database administrator</span> (or <span class="strongDBlue" glossary="database administrator (database designer)">database designer</span>)— an IT professional who is responsible for designing, constructing, and maintaining databases—for larger databases. Database administrators (DBAs) review and manage data on an ongoing basis to ensure the data  is flowing smoothly into and out of the database. <span class="strongDBlue" onclick="compTia.togglePopup(7,1)">Figure 11.6</span> shows a view of the MySQL Enterprise Dashboard screen, a tool used primarily by DBAs when reviewing the</p>
+					
+					
+					
+					<figure onclick="compTia.togglePopup(7,1)" class="TMargin20"
+						style="height: 205px;background: url(assets/images/figures/fig11.6.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="rightPos" style="width:135px;">
+   				<span>Figure 11.6</span> The Enterprise Dashboard in MySQL helps DBAs review database performance. </figcaption>
+   			</figure>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">performance of a database. DBAs can monitor table usage and CPU utilization to help determine whether database performance is acceptable.</p>
+					
+					<h2 class="blueHeading">Database Management Systems</h2>
+					<p class="moreSpacing"><strong>How are databases created?</strong> Databases are created and managed using a <span class="strongDBlue" glossary>database management system (DBMS)</span>. A DBMS is specially designed application software (such as Oracle Database or Microsoft Access) that interacts with the user, other applications, and the database to capture and analyze data. The four main operations of a DBMS are as follows:</p>
+					<ol>
+						<li><span class="innerLi">Creating databases and entering data</span></li>
+						<li><span class="innerLi">Viewing (or browsing) and sorting data</span></li>
+						<li><span class="innerLi">Querying (extracting) data</span></li>
+						<li><span class="innerLi">Outputting data</span></li>
+					</ol>
+					
+					<p class="start moreSpacing">In this section we look at the considerations required in creating and maintaining a database. But first, you need to understand some basic database terminology.</p>
+					
+					<h2 class="blueHeading">Database Terminology</h2>
+					<p class="moreSpacing"><strong>How is data stored in a database?</strong> Understanding how databases store information requires knowing the unique terminology developed to describe databases. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 11.7</span>, databases have have three main components:</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol>
+						<li><span class="innerLi"><em>Fields</em>: A database stores each category of information in a <span class="strongDBlue" glossary>field</span>. Fields are displayed in columns. Each field is identified by a field name, which is a way of describing the information in the field. In <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 11.7</span>, there are seven different fields (Student ID, Last Name, First Name, Address, City, State, and Zip Code).</span></li>
+						<li><span class="innerLi"><em>Records</em>: A group of related fields is called a <span class="strongDBlue" glossary>record</span>. For example, in <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 11.7</span>, a student’s ID, name, and complete address comprise a record.</span></li>
+						<li><span class="innerLi"><em>Tables (Files)</em>: A group of related records is called a <span class="strongDBlue" glossary="table (file)">table</span> (or <span class="strongDBlue" glossary="table (file)">file</span>). Tables are usually organized by a common subject. <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 11.7</span> shows a table (called “Student Information”) that contains records representing contact information for students.</span></li>
+					</ol>
+					
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Keeping Track of Student Information</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(8,0)" style="background: url(assets/images/figures/fig11.7.jpg) no-repeat scroll 8px 43px #FFFFFF; height: 173px; overflow: hidden;">
+							
+							<span class="strongDHeading font_15"><strong style="padding-left:6px">Figure 11.7</strong> Click to reveal the interactive graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:6px;margin-bottom:5px;"><span>Figure 11.7</span> In a database, a category of information is stored in a field. <br/>A group of related fields is called a record, and a group of related records <br/>is called a table.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading font_19">Planning and Creating the Database</h2>
+					<p><strong>How do I create a database with a DBMS?</strong> To create a database with a DBMS, you must first describe the data to be captured. This description is contained in the database’s files and is referred to as the <span class="strongDBlue" glossary="data dictionary (database schema)">data dictionary</span> (or the <span class="strongDBlue" glossary="data dictionary (database schema)">database schema</span>). The data dictionary is like a map of the database and defines the features of the fields in the database. You need to build a data dictionary entry for each field you’ll use in a database before you enter data into the database. This forces you to consider up front the data you need to capture.</p>
+					<p class="start">The attributes that define the data in the data dictionary include the following:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">The field name</span></li>
+						<li><span class="innerLi">The <em>data type</em> (type of data in the field, such as text, numeric,</span><br/><span class="innerLi">date/time, etc.)</span></li>
+						<li><span class="innerLi">The description of the field (optional)</span></li>
+						<li><span class="innerLi">Any properties (decimals, formatting, etc.) of that particular type</span><br/><span class="innerLi">of data, and</span></li>
+						<li><span class="innerLi">The <em>field size</em> (the expected length of data for each field)</span></li>
+					</ul>
+					
+					<div class="activeHelpdeskContain TMargin10">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_7/ch11_hdcall02/indexfull.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Understanding Database Management Systems
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about database management systems, what they do, and how people can use them. (Not available on iPad)
+					</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/creating_an_access_database/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Creating an Access 2010 Database
+						</div>
+						In this Sound Byte, you’ll learn how to create an Access database to catalog a collection of CDs and DVDs. The Sound Byte will take you through a systematic process that will result in a fully functional small database.
+					</div></div>
+					
+					<p class="start moreSpacing">These attributes are <span class="strongDBlue" glossary>metadata</span>: data that describes other data. Metadata is an integral part of the data dictionary. Describing the data in this way helps to categorize it and sets parameters for entering valid data into the database (such as a 10-digit number in a phone number field). In addition to describing the specific features of the data to be entered in the database, the data dictionary describes relationships between the data, how the data will be indexed (which speeds up access to the data), and what kind of output may be required of the database.</p>
+					<p class="start moreSpacing"><strong>How do I include data dictionary details in a database?</strong> The information from the data dictionary is used to create the tables in the database. In Microsoft Access, tables can be created in Datasheet View or Design View. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 11.8</span>, Design View gives you a detailed view of the field name, data type, and other data elements—known as <span class="strongDBlue" glossary>Field Properties</span> in an Access database table—which were all defined in the data dictionary.</p>
+					<p class="start"><strong>How are data tables created?</strong> Data tables are simple to create using four basic steps:</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong">Input field names. Field names must be unique within a table. For example, in the table in <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 11.8a</span>, the field name “StateAbbreviation” is used to store the abbreviation for the state where the student lives. Sometimes the field name used to create the table may not be the best to display on forms and reports. The Caption property in Microsoft Access lets you display a name of your choice. In <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 11.8a</span>, the caption “State” is used.</span></li>
+						<li><span class="innerLi notStrong">Define the data type for each field. For the “State” field in <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 11.8a</span>, you use a Text data type because state names are expressed using text characters.</span></li>
+					</ol>
+					
+					<figure style="background:url(assets/images/figures/fig11.8.jpg) no-repeat scroll 52px 0px transparent;
+							    height: 277px;
+								margin-bottom: 5px;">
+								<div onclick="compTia.togglePopup(10,0)" style="
+									height: 203px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos BMargin20" 
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/CH11FIG8.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 11.8</span> (a) Field Properties, shown here for the “Student Information” table in an Access database, represent the database’s data dictionary. The Field Properties pane is displayed when a table is shown in Design View. (b) The “Student Information” table is ready for data input in Datasheet View.
+						</figcaption></figure>
+						
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong">Set a maximum field size for the field. For the State field in <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 11.8a</span>, the Field Size property is set to “2” (two characters). Therefore, the data would be restricted to the two-letter state abbreviations such as “OR” (the default, in this case), “MA,” “TX,” and the like.</span></li>
+						<li><span class="innerLi notStrong">Set a <span class="strongDBlue" glossary>default value</span> for a field, if necessary. A default value is the value the database automatically uses for the field unless the user enters another value. Default values are useful for field data that’s frequently the same. For example, setting a default value for a “State” field saves users from having to enter that value for each student if most students live in the same state.</span></li>
+					</ol>
+					
+					<p class="start">You need to repeat these steps for each field in the table. When completed, the resulting table, shown in Datasheet View in <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 11.8b</span>, is ready for data entry.</p>
+					<p class="start"><strong>How do I know what fields are needed in my database?</strong> Careful planning is required to identify each distinct piece of data you need to capture. Each field should describe a unique piece of data and should not combine two separate pieces of data. For example, first and last names are separate pieces of data, and you’d want to create a separate field for each rather than having one field for “Name.” For instance, suppose you want to send an e-mail message to students addressing all of them by their first name (such as “Dear Geri”). If Geri’s first and last names are in the same field in the database, extracting just her first name for the salutation will be difficult. Similarly, if the name data are combined, it will be difficult to sort by last name (unless the data are inputted with last name first). Separating </p>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">the data into individual fields allows for better filtering and sorting of all data. </p>
+					<p class="start moreSpacing"><strong>What happens if I need to add or delete fields from the database?</strong> The purpose of planning the database ahead of time is to avoid having to change the structure of the database. Once relationships between the data are established and data is entered in the database, it’s difficult to add and delete fields. It’s often best to add sample or limited amounts of data to test your database before you fully populate (enter data into) it.</p>
+					<p class="start moreSpacing"><strong>Are there specific rules for establishing field names?</strong> The following are some guidelines in establishing field names:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Field names must be unique within a table. For example, you can’t have two fields labeled “Name” in one table; they must be different, such as “First Name” and “Last Name.”</span></li>
+						<li><span class="innerLi">It’s helpful to distinguish similarly named fields on different tables to avoid confusion if those fields appear together in other components of the database. For example, in a college database, there may be separate tables for Student and Faculty. In each table, there will be fields for “First Name” and “Last Name.” Those fields may be used together in the same report that details a student’s schedule. To avoid confusion, it would be better to use field names with some notation that distinguishes the table that the field is from, such as “S LastName” and “S FirstName” in the Student table and “F LastName” and “F FirstName” in the Faculty table.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">Creating a data dictionary will help you plan for these types of naming arrangements.</p>
+					<p class="start"><strong>Can any type of data be entered in any field?</strong> As noted earlier, when fields are created in the database, the user assigns each field a <span class="strongDBlue" glossary="data type (field type)">data type</span> (or <span class="strongDBlue" glossary="data type (field type)">field type</span>). The data type indicates what type of data can be stored in the field and prevents the wrong type of data from being entered into the field. Data types for Microsoft Access include text, numbers, and hyperlinks. <span class="strongDBlue" onclick="compTia.togglePopup(11,0)">Figure 11.9</span> lists the most common data types, with examples of each.</p>
+					<p class="start"><strong>How much data can be entered into a field?</strong> As noted above, <span class="strongDBlue" glossary>field size</span> defines the maximum number of characters that a field can hold. As a rule, you should tailor the field size to match the maximum length of the data it contains. If a numeric field has a size of 5, it can hold a number that has up to 5 digits (from 1 to 99999). It is important to ensure that the </p>
+					
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight TMargin10">Common Data Types</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(11,0)" style="    background: url(assets/images/figures/fig11.9.jpg) no-repeat scroll 55px 33px #FFFFFF; height: 202px; overflow: hidden;">
+							
+							<span class="strongDHeading font_15"><strong style="padding-left:6px">Figure 11.9</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>selected field length is long enough to enable storage of the longest possible piece of data that might be entered into the field. Otherwise, data may be truncated (a portion of it chopped off and lost) during data entry.</p>
+					
+					<h2 class="blueHeading">Using Primary Keys</h2>
+					<p><strong>Can fields have the same values in the same table?</strong> It’s possible that two students live in the same town or have the same last name, so it’s possible for different fields to have the same values. However, to keep records distinct, each record must have one field that has a value unique to that record. This unique field is called a <span class="strongDBlue" glossary>primary key field</span>. For example, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Figure 11.10</span>, in the “Student Information” table, the primary key field is “Student ID.” Establishing a primary key and ensuring that it’s unique makes it impossible to duplicate records.</p>
+					<p class="start"><strong>What makes a good primary key?</strong> The most important constraint is that the primary key be unique, though there are other considerations. Social Security numbers, although unique to individuals,</p>
+					
+					<figure onclick="compTia.togglePopup(12,0)"
+						style="height: 158px;background: url(assets/images/figures/fig11.10.jpg) no-repeat scroll -1px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.10</span> The “StudentID” field makes an ideal primary key field because even students with the same name won’t have the same ID number.</figcaption>
+   			</figure>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>aren’t a good choice because people often don’t want them used for fear of identity theft if the data were misused. Other common numbers that might be used to identify data within a specific organization (such as a credit card number or driver’s license number) also have their own flaws as universal unique identifiers.</p>
+					<p class="start">In practice, primary keys don’t have to be numbers that already represent something. In most instances, the number used to represent a record is some form of serial number that begins with the first record and increases serially as each new record is generated. For example, when you place an order with <span class="strongDBlue" onclick="window.open('http://Amazon.com','_blank')">Amazon.com</span>, your transaction gets a unique order number. This number is a primary key in Amazon’s database. It’s essential to have a unique number for each order because it would be difficult to keep track of the order without one. Many database programs have a means of automatically generating a unique identifier that has no meaning outside of the database system. In Microsoft Access, for example, this unique identifier is the AutoNumber data type.</p>
+					<p class="start"><strong>Is there a way to ensure data is organized efficiently?</strong> You create database tables for two reasons: to hold unique data about a subject and to describe unique events or transactions. In databases, the goal is to reduce data redundancy by recording data only once. The process to ensure data is organized most efficiently is called data <span class="strongDBlue" glossary>normalization</span>. For example, normalization would remove issues such as the data redundancy shown in <span class="strongDBlue" onclick="compTia.togglePopup(4,1)">Figure 11.3</span> by separating data into two distinct student information and course information tables.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/dataBaseTypesSmall.jpg)">
+						<div class="dblue">database</div>
+						<div class="orange" style="margin-left:134px;">types</div>
+					</div>
+					
+					<p>Many different types of electronic databases have been used since the invention of the computer. The three major types of databases currently in use are <em>relational, object-oriented,</em> and <em>multidimensional</em>. Of these three, relational databases have the largest market share, but the market share of multidimensional databases is growing at a fast pace. Microsoft Access is the most popular relational database software.</p>
+					
+					<h2 class="blueHeading">Relational Databases</h2>
+					<p><strong>What is a relational database?</strong> <span class="strongDBlue" glossary="relational database">Relational databases</span> operate by organizing data into various tables based on logical groupings. For example, all student address and contact information would be grouped into one table, while the housing and dining information is grouped into a separate table. It would be redundant to have the same student contact information also included in the housing and dining table, so there needs to be some way in which the student contact information can be linked to the housing and dining information. In relational databases, a link between tables that defines how the data is related is referred to as a <span class="strongDBlue" glossary>relationship</span> “ResidenceID” is the common field in the “Residence Halls” and “Residence Assignments” tables. The common field in one table is that table’s <em>primary key</em>, and the common field in the related table is called a <span class="strongDBlue" glossary>foreign key</span> (<span class="strongDBlue" onclick="compTia.togglePopup(13,0)">see Figure 11.11</span>).</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">Because data is changed continually in a database, it’s important to ensure that the data in related tables is synchronized and that a record isn’t added or modified in one table and not the other. To prevent orphan records and to keep related data synchronized, you have the option of enforcing <span class="strongDBlue" glossary>referential integrity</span> for each relationship. Referential integrity means that for each value in the foreign key table there is a corresponding value in the primary key table.</p>
+					<p class="start">For instance, if you attempt to enter a student’s record in the “Residence Assignments” table with a StudentID number that doesn’t exist in the “Student Information” table (the primary key table) and referential </p>
+					
+					<figure onclick="compTia.togglePopup(13,0)" class="TMargin20"
+						style="height: 246px;background: url(assets/images/figures/fig11.11.jpg) no-repeat scroll 33px 20px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.11</span> The foreign key field is the same as the primary key field in a related table.</figcaption>
+   			</figure>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">integrity is being enforced, an error message will display. You would first need to add the student to the “Student Information” table and then enter the student in the “Residence Assignments” table.</p>
+					<p class="start moreSpacing"><strong>Are there different types of relationships in relational databases?</strong> A relationship in relational databases can take one of three forms:</p>
+					
+					<ol>
+						<li class="moreSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>one-to-many relationship</span> is characterized by a record appearing only once in one table while having the capability of appearing many times in a related table. For example, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 11.11</span>, the “1” next to ResidenceID in the “Residence Halls” table indicates there is only one instance of each ResidenceID in the “Residence Halls” table, and the “∞” next to ResidenceID in the “Residence Assignments” table indicates that many records can have the same ResidenceID in the “Residence Assignments” table. There is only one of each residence hall, but each residence hall will be listed for each student who will be living there. One-to-many relationships are the most common type of relationship in relational databases.</span></li>
+						<li class="moreSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>one-to-one relationship</span> indicates that for each record in a table there is only one corresponding record in a related table. For example, each student is assigned a room. Because a student can only live in one residence hall at a time, a one-to-one relationship, is established, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 11.11</span> by the “1” next to the StudentID field in both the “Residence Assignments” table and the “Student Information” table.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="moreSpacing"><span class="innerLi">A <span class="strongDBlue" glossary>many-to-many relationship</span> is characterized by records in one table being related to multiple records in a second table and vice versa. For instance, a table of students could be related to a table of student employers. The employers could employ many students, and students could work for more than one employer.</span></li>
+					</ol>
+					<p class="start moreSpacing">Relational databases are great for data that can fit into tables and be organized into fields and records. But some data, such as graphics, video, or audio files, are handled better in an object-oriented database.</p>
+					
+					<h2 class="blueHeading">Object-Oriented Databases</h2>
+					<p class="moreSpacing"><strong>What is an object-oriented database?</strong> An <span class="strongDBlue" glossary>object-oriented database</span> stores data in objects rather than in tables. Objects contain not only data but also methods for processing or manipulating that data. This allows object-oriented databases to store more types of data than relational databases and to access that data faster.</p>
+					<p class="start moreSpacing">For example, a “student” object that contains data about the courses a student is taking might also store the instructions for generating a bill for the student based on his or her course load. Because object-oriented databases store the instructions for doing computations in the same place as they store the data, they can usually process requests for information faster than can relational databases (which would only store the student information).</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Why would I use an object-oriented database?</strong> Object-oriented databases are more adept at handling <span class="strongDBlue" glossary>unstructured data</span> such as audio clips (including MP3 files), video clips, pictures, and extremely large documents. Data of this type is known as a <span class="strongDBlue" glossary>binary large object (BLOB)</span> because it’s encoded in binary form. In comparison, relational databases are best for the storage of <span class="strongDBlue" glossary>structured (analytical) data</span> (such as “Bill” or “345”).</p>
+					<p class="start">Because businesses today need to store a greater variety of data, object-oriented databases are becoming more popular. Many relational database systems have been expanded to include object-oriented components. For a business to use its data in an object-oriented database, the data needs to undergo a costly conversion process. However, the faster access and reusability of the database objects can provide advantages for large businesses.</p>
+					<p class="start">Object-oriented databases also need to use a query language to access and manage data. A <span class="strongDBlue" glossary>query language</span> is a specially designed computer language used to manipulate data in or extract data from a database. Many object-oriented databases use <span class="strongDBlue" glossary>Object Query Language (OQL)</span>, which is similar in many respects to <span class="strongDBlue" glossary="Structure Query Language (SQL)">SQL (Structured Query Language)</span>, a standard language used to construct queries to extract data from relational databases.</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Multidimensional Databases</h2>
+					<p><strong>What is a multidimensional database?</strong> A <span class="strongDBlue" glossary>multidimensional database</span> stores data that can be analyzed from different perspectives, called</p>
+					<p>dimensions. This distinguishes it from a relational database, which stores data in tables that have only two dimensions (fields and records). Multidimensional databases organize data in a cube format. Each data cube has a <em>measure attribute</em>, which is the main type of data that the cube is tracking. Other elements of the cube are known as <em>feature attributes</em>, which describe the measure attribute in some meaningful way.</p>
+					
+					
+					<figure onclick="compTia.togglePopup(15,0)" class="TMargin20"
+						style="height: 273px;background: url(assets/images/figures/fig11.12.jpg) no-repeat scroll 23px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.12</span> Multidimensional databases store data in at least three dimensions.</figcaption>
+   			</figure>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="start">For example, sales of automobiles (measure attribute) could be categorized by various dimensions such as region, automobile model, or sales month—all feature attributes (<span class="strongDBlue" onclick="compTia.togglePopup(15,0)">see Figure 11.12</span>). In addition, the database could be constructed to define different levels within a particular feature attribute (such as state and town within a region).</p>
+					<p class="start"><strong>What are the advantages of multidimensional databases?</strong> The two main advantages of multidimensional databases are as follows:</p>
+					<ol>
+						<li><span class="innerLi">They can be customized to provide information to a variety of users (based on their needs).</span></li>
+						<li><span class="innerLi">They can process data much faster than pure relational databases can.</span></li>
+					</ol>
+					
+					<p class="start moreSpacing">The need for processing speed is critical when deploying a large database accessed via the Internet. Therefore, large databases such as eBay are usually designed as multidimensional databases. Oracle Corporation has morphed its relational database into a multidimensional database. This was primarily in response to customers who were using an Oracle database for applications deployed on the web and who needed better ways of storing and accessing image, audio, and video files.</p>
+					
+					<img onclick="compTia.togglePopup(16,0)" src="assets/images/layout/TrendsinItchapter11.png" class="TMargin10" />
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/dataFunctionsSmall.jpg)">
+						<div class="orange">database</div>
+						<div class="blue" style="margin-left:117px;">Functions</div>
+					</div>
+					
+					<p class="moreSpacing">Once you’ve designed and tested your database to ensure that it works properly, you can begin creating individual records in (or populating) the database. After the database has been populated with data, users can employ certain methods to extract subsets of data from the database and then output the data in a meaningful and presentable format. In this section, we look at these database functions.</p>
+					
+					<h2 class="blueHeading">Inputting Data</h2>
+					<p class="moreSpacing"><strong>How do I get data into the database?</strong> You can key data directly into the database. However, because a great deal of data already exists in some type of electronic format, such as word processing documents, spreadsheets, and web-based sources, most databases can import data electronically from other files, which can save an enormous amount of keying and reduces the amount of data entry errors.</p>
+					<p class="start moreSpacing">When importing data, the data must exactly match the format of the database. Most databases usually apply filters to the data to determine whether it’s in the correct format as defined by the data dictionary. Nonconforming data is flagged (either on-screen or in a report) so that you can modify the data to fit the database’s format.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How can I make manual entry into a database more efficient?</strong> <span class="strongDBlue" glossary="input form">Input forms</span> are used to control how new data is entered into a shared database. <span class="strongDBlue" onclick="compTia.togglePopup(17,0)">Figure 11.14</span> shows an example of an input form for the “Student Information” table. Each field has a label that indicates the data to be placed in the field. The data is inputted into the blank boxes. Notes have been added to the form to guide the users. In addition to being used to input new data, input forms are used to make changes to existing data in the database. Because a form can be configured to display individual records, making changes to data by using a form ensures that the change is made to the right record.</p>
+					
+					<figure onclick="compTia.togglePopup(17,0)" class="TMargin15"
+						style="height: 287px;background: url(assets/images/figures/fig11.14.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.14</span> Input forms are used to enter data into tables.</figcaption>
+   			</figure>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Data Validation</h2>
+					<p class="lessSpacing shiftRight12"><strong>How can I ensure that only valid data is entered into a field?</strong> <span class="strongDBlue" glossary>Validation</span> is the process of ensuring that data entered into a field meets specified guidelines. A <span class="strongDBlue" glossary>validation rule</span> is generally defined as part of the data dictionary and is specified in the field properties for each field. Violations of validation rules usually result in an error message displayed on the screen with a suggested action so that the error can be addressed. Common validation rules include the following:</p>
+					
+					<ul class="dotted shiftRight12">
+						<li><span class="innerLi"><em>Range check</em>: A <span class="strongDBlue" glossary>range check</span> ensures that the data entered into the field falls within a certain range of values. For instance, you could set a <span class="strongDBlue" glossary>field constraint</span> (a property that must be satisfied for an entry to be accepted into the field) to restrict the rate of pay to fall within a certain range. <span class="strongDBlue" onclick="compTia.togglePopup(18,0)">Figure 11.15</span> shows a range check in the Field Properties pane for an Access database. A validation rule restricts the entries for a student’s rate of pay for his or her campus job to amounts between $7.25 and $15.50. If users tried to enter a rate of pay less than $7.25 or greater than $15.50, they would be notified of a range error and the input would not be accepted, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(18,1)">Figure 11.16</span>.</span></li>
+						<li><span class="innerLi"><em>Completeness</em>: A <span class="strongDBlue" glossary>completeness check</span> ensures that all required fields have been completed. For example, <span class="strongDBlue" onclick="compTia.togglePopup(18,0)">Figure 11.15</span> shows the “Required” property set to “Yes,” so when data is not entered in the field, as is the case in <span class="strongDBlue" onclick="compTia.togglePopup(18,2)">Figure 11.17</span>, the database performs a completeness check, notices the blank “Rate of Pay” field, and displays an error message to alert the user of the omission.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="18" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure style="background:url(assets/images/figures/fig11.15.jpg) no-repeat scroll 52px 0px transparent;
+							    height: 222px;
+								margin-bottom: 5px;">
+								<div onclick="compTia.togglePopup(18,0)" style="
+									height: 175px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos" 
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/CH11FIG15.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 11.15</span> Validation rules help ensure correct data is entered.
+						</figcaption></figure>
+					
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi"><em>Consistency check</em>: A <span class="strongDBlue" glossary>consistency check</span> compares the values of data in two or more fields to see if those values are reasonable. For example, your birth date and the date you enrolled in school are often in a college’s database. It’s not possible for you to have enrolled in college before you were born. Furthermore, most college students are at least 16 years old. Therefore, a consistency check on these fields might ensure that your birth date is at least 16 or more years before the date when you enrolled in college.</span></li>
+						<li class="lessSpacing"><span class="innerLi"><em>Alphabetic and numeric checks</em>: An <span class="strongDBlue" glossary>alphabetic check</span> confirms that only textual characters (such as “Robin”) are entered in a field. A <span class="strongDBlue" glossary>numeric check</span> confirms that only numbers are entered in the field. With these checks in place, “$J2.5n” would not be accepted as the price of a product or as a first name. Setting the data type as “Number” (or “Currency”) will help ensure that numeric information is entered.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(18,1)"
+						style="height: 182px;background: url(assets/images/figures/fig11.16.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.16</span> Access users see this pop-up when they enter a value that falls outside the stated range of acceptable values. The displayed message is generated from the text typed in the “Validation Text” property.</figcaption>
+   			</figure>
+					
+					<figure onclick="compTia.togglePopup(18,2)" class="TMargin10"
+						style="height: 168px;background: url(assets/images/figures/fig11.17.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.17</span> Access users see this pop-up when they do not enter a value in a field that has been indicated as being required.</figcaption>
+   			</figure>
+					
+					<h2 class="blueHeading">Viewing and Sorting Data</h2>
+					<p class="moreSpacing"><strong>How can I view the data in a database?</strong> Displaying the tables on-screen and browsing through all the data is an option with most databases. In many instances, you’ll only want to view the data one record at a time and not display all the data in an entire table. Forms are used to display individual records, either alone or in conjunction with other related data.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/improving_an_access_database/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Improving an Access 2010 Database
+						</div>
+						In this Sound Byte, you’ll learn how to create input forms, queries, and reports to simplify maintenance of your CD and DVD database. You’ll follow along step by step, using Microsoft Access wizards to create and modify queries to suit your needs.
+					</div></div>
+					
+					<p class="start"><strong>How can I reorder records in a database?</strong> You can easily sort data into ascending or descending order. <span class="strongDBlue" onclick="compTia.togglePopup(19,0)">Figure 11.18a</span> shows an Access data table in which the records were inputted in no particular order. By highlighting a column (in this case “Last Name”) and then clicking Ascending on the Ribbon, the database displays the records in alphabetical order by last name, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(19,0)">Figure 11.18b</span>.</p>
+					
+					<h2 class="blueHeading">Extracting or Querying Data</h2>
+					<p><strong>What if I want to display only a certain subset of data in a database?</strong> There are two ways to display only those records that match particular criteria:</p>
+					
+					<ol class="noTMargin">
+						<li><span class="innerLi"><em>Use a filter</em>: A <span class="strongDBlue" glossary>filter</span> temporarily displays records that match certain criteria. When you apply a filter, you can’t save the results, so filters are useful if you don’t need to view the results frequently. Filters can only be applied to fields in one table, so if you need to combine fields from multiple tables to achieve your subset of data, queries would be a better option.</span></li>
+						<li><span class="innerLi"><em>Create a query</em>: A database <span class="strongDBlue" glossary>query</span> is a way of retrieving information that defines a particular subset of data. However, unlike a filter, a query can </span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure style="background:url(assets/images/figures/fig11.18.jpg) no-repeat scroll 5px 0px transparent;
+							    height: 310px;
+								margin-bottom: 5px;">
+								<div onclick="compTia.togglePopup(19,0)" style="
+									height: 245px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos" style="margin-bottom:8px;"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/CH11FIG18.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 11.18</span> (a) Shown is an unsorted table. Notice that the “Last Name” column is selected (highlighted) for sorting. Selecting the sorting option “Ascending” produces the sorted output (b) with the records sorted in ascending alphabetical order by last name.
+						</figcaption></figure>
+					
+					<ul class="noListStyle">	
+						<li><span class="innerLi">be used to extract data from one or multiple tables. When you create a query, you choose the fields that should be included in the results and specify the criteria for selecting records. For example, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(20,0)">Figure 11.19a</span>, if you wanted to create a list of students living in the Boyer 1 dorm and their room numbers, you would need to pull information from the “Student Information” table (S First Name and S Last Name), “Residence Halls” table (Residence Name), and “Residence Assignments” table (RoomNumber). Then, you’d need to specify to see only those records pertaining to a specific dorm, in this case Boyer 1. <span class="strongDBlue" onclick="compTia.togglePopup(19,0)">Figure 11.19b</span> displays the results for this query.</span></li>
+					</ul>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure style="background:url(assets/images/figures/fig11.19.jpg) no-repeat scroll 5px 0px transparent;
+							    height: 387px;
+								margin-bottom: 5px;">
+								<div onclick="compTia.togglePopup(20,0)" style="
+									height: 325px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos" style="margin-bottom:8px;"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/CH11FIG19.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 11.19</span> (a) When creating a query, you can specify fields from multiple tables as well as specific criteria within a field. (b) The outcome reflects those records meeting the specified criteria.
+						</figcaption></figure>
+						
+					<p class="start"><strong>Do I have to learn a query language to develop queries for my database?</strong> All modern DBMSs contain a query language that the software uses to retrieve and display records. A query language consists of its own vocabulary and sentence structure that you use to frame the requests. Query languages are similar to full-blown programming languages but are usually much easier to learn. The most popular query language used today </p>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>is <em>Structured Query Language (SQL)</em>. Modern database systems provide wizards or other mechanisms to guide you through the process of creating queries. <span class="strongDBlue" onclick="compTia.togglePopup(20,0)">Figure 11.19a</span> shows an example of an Access query being created in Design View that allows you to easily select query elements. You can also create a query using a Simple Query Wizard in Microsoft Access. When you use the Simple Query Wizard or Design View, you’re actually using SQL commands without realizing it.</p>
+					<p class="start">However, you may want to create your own SQL queries in Access, modify existing queries at the SQL language level, or view the SQL code that the wizard created. <span class="strongDBlue" onclick="compTia.togglePopup(20,1)">Figure 11.20</span> shows the SQL code that the query in <span class="strongDBlue" onclick="compTia.togglePopup(20,0)">Figure 11.19</span> created.</p>
+					
+					<figure onclick="compTia.togglePopup(20,1)" class="TMargin10"
+						style="height: 125px;background: url(assets/images/figures/fig11.20.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.20</span> The SQL View window in Access shows the SQL code for the query in Figure 11.19. Although it’s a relatively simple SELECT statement, it’s much easier to create the query using the Access tools provided.</figcaption>
+   			</figure>
+					
+					<p class="TMargin10"><em>>To display SQL code for a query, open a query and select <strong>SQL View</strong> from the View drop-down list on the Home tab of the Ribbon.</em></p>
+					
+					<div class="greenHorzButton" onclick="compTia.togglePopup(20,2)" style="margin-top:10px;">
+						<span class="largeBoldWhite">DIG DEEPER</span>
+						<strong class="cond">Structured Query Language (SQL)</strong>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Outputting Data</h2>
+					<p><strong>How do I get data out of a database?</strong> The most common form of output for any database is a viewable (or printable) electronic report. You can use data in tables to create reports, or you can generate reports based on queries you create. Although you can print tables and the results of queries directly, when you create a report, you can make other adjustments to how the information is displayed, such as grouping like information and including aggregate information such as totals. Businesses routinely summarize the data within their databases and compile summary data reports. For instance, at the end of each semester, your school generates a grade report for you that shows the grades you received for the classes you took.</p>
+					
+					<figure onclick="compTia.togglePopup(21,0)" class="TMargin10"
+						style="height: 125px;background: url(assets/images/figures/fig11.24.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.24</span> Data can be imported and exported between Access and other Microsoft Office applications as well as converted to PDF, XML, and other formats for use with other applications.</figcaption>
+   			</figure>
+			
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(21,1)" class="bitsAndBytesBlue">
+							<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+							iTunes Smart Playlists—They’re Just Queries!
+						</div>	
+						
+					<p class="start TMargin10"><strong>Can I transfer data from a database to another software application?</strong> Database systems also can be used to export data to other applications. Exporting data involves putting it into an electronic file in a format that another application can understand. For example, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(21,0)">Figure 11.24</span>, data can be imported and exported between Access and Microsoft Word and Excel, as well as converted to and from other formats such as PDF and XML for use with other applications.</p>	
+						
+						<br/>	
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_11_Part_1/Ch11Pt1.html','_blank')" >Replay Video 11.1</span>.</span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(38)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Go to the Apps and Games section of your <br/>Facebook account. How many require access to <br/>your personal data?</div>
+					<ol class="pollQuestions">
+						<li>0-2</li>
+						<li>3-4</li>
+						<li>5-6</li>
+						<li>7 or more</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(39);
+							  document.getElementsByTagName('footer')[1].style.display = 'block';
+							  document.getElementById('pageModule').style.height = '100%'"
+
+							  closescript="compTia.modules.toggleModule(0);
+							  			   document.getElementById('pageModule').style.height = '0'">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes font_19">How Businesses Use Databases</div>
+					<p class="digCompP">Large organizations accumulate massive amounts of data—both internal and external. By using <em>data warehousing, data marts,</em> and <em>data mining</em>, these organizations can use databases to tap into this wealth of information, improving their internal operations as well as their customer relationships. In this section, we’ll look at how they do just that.</p>
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/dataWarehousingSmall.jpg)">
+						<div class="orange" style="margin-left:59px;">data warehousing</div>
+						<div class="blue" style="margin-left: 125px">and Storage</div>
+					</div>
+					
+					<p class="moreSpacing">At the simplest level, data is stored in a single database on a database server, and you retrieve the data as needed. This works fine for small databases and simple enterprises where all the data you’re interested in is in a single database. Problems can arise, however, when the organization gets much larger and department-specific data is stored in separate databases. Traditionally, the individual databases are used by different areas of the business and kept separate; however, the benefits of accessing data from all databases are being recognized. The problem with most databases is that they aren’t designed to be accessed together to retrieve this type of data. Large storage repositories called <em>data warehouses</em> and <em>data marts</em> help solve this problem.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Data Warehouses</h2>
+					<p class="moreSpacing"><strong>What is a data warehouse?</strong> A <span class="strongDBlue" glossary>data warehouse</span> is a large-scale collection of data that contains and organizes in one place all the data from an organization’s multiple databases. Individual databases contain a wealth of information, but each database’s information usually pertains to one area in the organization. For instance, the order database at <span class="strongDBlue" onclick="window.open('http://amazon.com','_blank')">Amazon.com</span> contains information about book orders, such as the buyer’s name, address, and payment information and the book’s name. However, the order database doesn’t contain information on inventory levels of books, nor does it list suppliers from which out-of-stock books can be obtained. Data warehouses, therefore, consolidate information from various operational systems to present an enterprise-wide view of business operations.</p>
+					<p class="start moreSpacing"><strong>Is data in a data warehouse organized the same way as in a normal database?</strong> Data in the data warehouse is organized by <em>subject</em>. Most databases focus on one specific operational aspect  of business operations. For example, a large electronics retailer sells many types of electronics, such as TVs and cell phones. Different departments in the retailer are responsible for each type of product and track the products they sell in different databases (one database for TV sales and one for cell phone sales, for example), as shown in <span class="strongDBlue" onclick="compTia.togglePopup(25,0)">Figure 11.25</span>.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Databases</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(25,0)" style="    background: url(assets/images/figures/fig11.25.jpg) no-repeat scroll 11px 31px #FFFFFF; height: 497px; overflow: hidden;">
+							
+							<span class="strongDHeading font_15"><strong style="padding-left:6px">Figure 11.25</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 11.25</span> Data from individual databases is drawn together in a data warehouse. Managers can then produce comprehensive reports that would be impossible to create from the individual databases.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">These databases capture specific information about each type of electronics. The “TV Sales” database captures information such as TV features, extended warranty details (and costs), and the cost of the TV because this information is pertinent to determining the ultimate value of TV sales. The “Cell Phone Sales” database captures information such as data plan details, calling plan features (and costs), and phone costs.</p>
+					<p class="start">However, data on total electronic devices sold (and the resulting revenue generated) is critical to the management of the electronics retailer no matter what types of products are involved. Therefore, an electronics retailer’s data warehouse would have a subject called “Electronics Sales Subject” (<span class="strongDBlue" onclick="compTia.togglePopup(25,0)">see Figure 11.25</span>) that would contain information about <em>all</em> electronic devices sold throughout the company. “Electronics Sales Subject” is a database that contains information from the other databases the company maintains. However, all data in the “Electronics Sales Subject” database is specifically related to electronics sales (as opposed to, say, appliances, which the retailer also carries).</p>
+					<p class="start">From the “Electronics Sales Subject” database, it’s easy for managers to produce comprehensive reports, such as the “Total Electronics Sales Report,” as shown in <span class="strongDBlue" onclick="compTia.togglePopup(25,0)">Figure 11.25</span>, which can contain information pertaining to all types of electronics sales.</p>
+					<p class="start"><strong>Do data warehouses capture data from only one time period?</strong> Data warehouse data is <span class="strongDBlue" glossary>time-variant data</span>, meaning it doesn’t all pertain to one period in time. The warehouse contains current values, such as amounts due from customers, as well as historical data. If you want to examine the</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">buying habits of a certain type of customer, you need data about both current and prior purchases. Having time-variant data in the warehouse enables you to analyze the past, examine the present in light of historical data, and make projections about the future.</p>
+					
+					<h2 class="blueHeading">Populating Data Warehouses</h2>
+					<p><strong>How are data warehouses populated with data?</strong> Source data for data warehouses can come from three places:</p>
+					
+					<ol>
+						<li><span class="innerLi moreSpacing"><em>Internal sources</em>: Sales, billing, inventory, and customer databases all provide a wealth of information. Spreadsheets and other ad hoc analysis tools may contain data that can be loaded into the data warehouse.</span></li>
+						<li><span class="innerLi moreSpacing"><em>External sources</em>: Vendors and suppliers often provide data regarding product specifications, shipment methods and dates, billing information, and so on.</span></li>
+						<li><span class="innerLi moreSpacing"><em>Clickstream data</em>: Software used on company websites to capture information about each click that users make as they navigate through the site is referred to as <span class="strongDBlue" glossary>clickstream data</span>. Using clickstream data-capture tools, a company can determine which pages users visit most often, how long users stay on each page, which sites directed users to the company site, and the user demographics. Such data can provide valuable clues as to what a company needs to improve on its site to stimulate sales.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Data Staging</h2>
+					<p class="moreSpacing"><strong>Does all source data fit into the warehouse?</strong> Although two source databases might contain similar information (such as customer names and addresses), the format of the data is most likely different in each database. Therefore, source data must be “staged” before entering the data warehouse. <span class="strongDBlue" glossary>Data staging</span> consists of three steps:</p>
+					
+					<ol>
+						<li><span class="innerLi">Extraction of the data from source databases</span></li>
+						<li><span class="innerLi">Transformation (reformatting) of the data</span></li>
+						<li><span class="innerLi">Storage of the data in the data warehouse</span></li>
+					</ol>
+					
+					<p class="start moreSpacing">Many different software programs and procedures may have to be created to extract the data from varied sources and reformat it for storage in the data warehouse. The nature and complexity of the source data determine the complexity of the data-staging process.</p>
+					<p class="start moreSpacing"><strong>How can data stored in the data warehouse be extracted and used?</strong> Managers can query the data warehouse in much the same way you would query an Access database. However, because there is more data in the data warehouse, special software is needed to perform such queries. </p>
+					
+					<div class="activeHelpdeskContain TMargin10">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_7/ch11_hdcall03/indexfull.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Data Warehouses, Data Marts, and Information Systems
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about data warehouses, data marts, and information systems. <br/>(Not available on iPad)
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p><span class="strongDBlue" glossary>Online analytical processing (OLAP)</span> software provides standardized tools for viewing and manipulating data in a data warehouse. The key feature of OLAP tools is that they enable flexible views of the data, which the software user can easily change.</p>
+					
+					<h2 class="blueHeading">Data Marts</h2>
+					<p><strong>What if a smaller amount of data is needed?</strong> Small slices of the data warehouse, each called a <span class="strongDBlue" glossary>data mart</span>, are often created so that companies can analyze a related set of data that are grouped together and separated out from the main body of data in the data warehouse. Whereas data warehouses have an enterprise-wide depth, the information in data marts pertains to a single component of the business.</p>
+					<p class="start">For instance, if you need accurate sales-related information and you don’t want to wade through customer service data, accounts payable data, and product shipping data to get it, a data mart that contains information relevant only to the sales department can be created to make the task of finding this data easier. An overview of the data-warehousing process is illustrated in <span class="strongDBlue" onclick="compTia.togglePopup(27,1)">Figure 11.27</span>. Data staging is vital because different data must be extracted and then reformatted to fit the data structure defined in the data warehouse’s DBMS. Data can be extracted using powerful OLAP query </p>
+					
+					<img onclick="compTia.togglePopup(27,0)" src="assets/images/layout/TrendsinItchapter11.1.png" class="TMargin10" />
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>tools, or it can be stored in specialized data marts for use by specific employee groups.</p>
+					<p class="start">Now that you understand how databases are created and how data is stored in large-scale repositories, we’ll explore in the next section the types of information systems that utilize databases to provide business intelligence to managers.</p>
+					
+					<figure onclick="compTia.togglePopup(27,1)" class="TMargin10"
+						style="height: 345px;background: url(assets/images/figures/fig11.27.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11.27</span> This figure shows an overview of the data warehouse process. <em>(Bikeriderlondon/Shutterstock;REDAV/Shutterstock)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="greenHeadingLineDashed"></div>
+					
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/BISsmall.jpg)">
+						<div class="orange" style="margin-left:59px;">business intelligence</div>
+						<div class="blue" style="margin-left: 204px">Systems</div>
+					</div>
+					
+					<p>Making intelligent decisions about developing new products, creating marketing strategies, and buying raw materials requires timely, accurate information. An <span class="strongDBlue" glossary>information system</span> is a software-based solution used to gather and analyze information. A system that delivers up-to-the-minute sales data on shoes to the computer of Zappos’s president is one example of an information system. Databases, data warehouses, and data marts are integral parts of information systems because they store the information that makes information systems functional.</p>
+					<p class="start"><strong>Are all information systems the same?</strong> All information systems perform similar functions, including acquiring data, processing that data into information, storing the data, and providing the user with a number of output options with which to make the information meaningful and useful (<span class="strongDBlue" onclick="compTia.togglePopup(28,0)">see Figure 11.28</span>).</p>
+					<p class="start"><strong>What information systems are used by business managers?</strong></p>
+					<p>Most information systems fall into one of five categories:</p>
+					
+					<ol>
+						<li><span class="innerLi"><em>Office support systems</em></span></li>
+						<li><span class="innerLi"><em>Transaction-processing systems</em></span></li>
+						<li><span class="innerLi"><em>Management information systems</em></span></li>
+						<li><span class="innerLi"><em>Decision support systems, and </em></span></li>
+						<li><span class="innerLi"><em>Enterprise resource planning (ERP) systems</em></span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(28,0)"
+						style="height: 517px;background: url(assets/images/figures/fig11.28.jpg) no-repeat scroll 0px 0px transparent;">
+						<figcaption class="bottomPos">
+					<span>Figure 11.28</span> Information systems acquire data, process that data into information, store the data, and provide the user with a number of output options to make the information useful. <em>(wavebreakmedia/Shutterstock; wavebreakmedia/Shutterstock;Michaeljung/Shutterstock; Raisa Kanareva/Shutterstock)</em></figcaption>
+				</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Each type of system almost always involves the use of one or more databases. Management information systems, decision support systems, and enterprise resource planning systems are often classified as business intelligence systems. <span class="strongDBlue" glossary>Business intelligence systems</span> are used to analyze and interpret data in order to enable managers to make informed decisions about how best to run a business. Data warehouses and data marts are key components of business intelligence systems because they enable access to information gathered from multiple sources. Increased access to information usually enables business intelligence systems to provide better information to managers in a timely fashion, which can lead to enhanced decision making.</p>
+					<p class="start moreSpacing">In the following sections, we’ll examine each of the five types of systems in greater detail. </p>
+					
+					<h2 class="blueHeading">Office Support Systems</h2>
+					<p class="moreSpacing"><strong>What does an office support system accomplish?</strong> An <span class="strongDBlue" glossary>office support system (OSS)</span> is designed to improve communications and assist employees in accomplishing their daily tasks. Microsoft Office is an example of an OSS because it assists employees with routine tasks such as maintaining an employee phone list in Excel, designing a sales presentation in PowerPoint, and writing customer letters using Word.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Modern OSSs include e-mail, word processing, spreadsheet, database, and presentation programs. Office support systems have their roots in manual, paper-based systems developed before computers. A paper listing of employee phone extensions typed by an administrative assistant is an example of an early OSS. A modern OSS might publish this directory on the company’s intranet (its internal network).</p>
+					
+					<h2 class="blueHeading">Transaction-Processing Systems</h2>
+					<p class="moreSpacing"><strong>What is a transaction-processing system?</strong> A <span class="strongDBlue" glossary>transaction-processing system (TPS)</span> keeps track of everyday business activities. For example, colleges have TPSs in place to track transactions that occur frequently, such as registering students for classes, accepting tuition payments, and printing course catalogs. When computers were introduced to the business world, they often were first put to work hosting TPSs.</p>
+					<p class="start moreSpacing"><strong>How are transactions entered into a TPS?</strong> Transactions can be entered manually or electronically. When you buy gas at a pay-at-the-pump terminal, the pump captures your credit card data and transmits it to a TPS, which records a sale (gallons of gas and dollar value). Transactions are processed either in batches or in real time. Various departments in an organization then access the TPSs to extract the information they need to process additional transactions, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(30,0)">Figure 11.29</span>.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(30,0)"
+						style="height: 398px;background: url(assets/images/figures/fig11.29.jpg) no-repeat scroll 45px 0px transparent;">
+						<figcaption class="bottomPos">
+					<span>Figure 11.29</span> Transaction-processing systems help capture and track critical business information needed for successful completion of business transactions such as selling merchandise over the Internet. <em>(Bikeriderlondon/Shutterstock; Penka Todorova Vitkova/Shutterstock; Chuck Rausin/Shutterstock; Nataliia Natykach/Shutterstock)</em></figcaption>
+				</figure>
+				
+					<p class="start TMargin10 moreSpacing"><strong>What is batch processing?</strong> <span class="strongDBlue" glossary>Batch processing</span> means that transaction data is accumulated until a certain point is reached and then several transactions are processed at once. Batch processing is appropriate for activities that aren’t time sensitive. For example, you may not receive a bill for each charge you make at the bookstore. Instead, the college may </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">collect your charges and batch them together into one monthly billing. It’s more efficient to batch and process all requests periodically. </p>
+					<p class="start moreSpacing"><strong>When are TPS transactions processed?</strong> For most activities, processing and recording transactions in a TPS occur in real time. <span class="strongDBlue" glossary>Real-time processing</span> means that the database is updated while the transaction is taking place. For instance, when you register for classes online, if spots are still available for the classes you want, the database immediately records your registration in the class to ensure you have a spot. This <span class="strongDBlue" glossary>online transaction processing (OLTP)</span> ensures that the data in the TPS is current.</p>
+					
+					<h2 class="blueHeading">Management Information Systems</h2>
+					<p class="moreSpacing"><strong>What is a management information system?</strong> A <span class="strongDBlue" glossary>management information system (MIS)</span> provides timely and accurate information that enables managers to make critical business decisions. MISs were a direct outgrowth of TPSs. Managers quickly realized that the data contained in TPSs could be an extremely powerful tool only if the information could be organized and outputted in a useful form. Today’s MISs are often included as a feature of TPSs.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(31,0)"
+						style="height: 526px; margin-left:-15px;background: url(assets/images/figures/fig11.30.jpg) no-repeat scroll -12px 0px transparent;">
+						<figcaption class="rightPos" style="width:142px; margin-top:26px;">
+					<span>Figure 11.30</span>The three types of management information system reports are <br>(a) detail reports, <br/>(b) summary reports, and <br/>(c) exception reports.</figcaption>
+				</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What types of reports are generated by MISs?</strong> MISs generate three types of reports:</p>
+					<ol>
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>detail report</span> provides a list of the transactions that occurred during a certain time period. For example, during registration at your school, the registrar might receive a detail report that lists the students who registered for classes each day. <span class="strongDBlue" onclick="compTia.togglePopup(31,0)">Figure 11.30a</span> shows an example of a detail report on daily enrollment.</span></li>
+						<li><span class="innerLi">A <span class="strongDBlue" glossary>summary report</span> provides a consolidated picture of detailed data. These reports usually include some calculation (totals) or visual displays of information (such as charts and graphs). <span class="strongDBlue" onclick="compTia.togglePopup(31,0)">Figure 11.30b</span> shows an example of a summary report displaying total daily credits enrolled by division.</span></li>
+						<li><span class="innerLi">An <span class="strongDBlue" glossary>exception report</span> shows conditions that are unusual or that need attention by system users. The registrar at your college may get an exception report when all sections of a course are full, indicating that it may be time to schedule additional sections. <span class="strongDBlue" onclick="compTia.togglePopup(31,0)">Figure 11.30c</span> shows an example of such an exception report.</span></li>
+					</ol>	
+					
+					<h2 class="blueHeading">Decision Support Systems</h2>
+					<p class="moreSpacing"><strong>What is a decision support system?</strong> A <span class="strongDBlue" glossary>decision support system (DSS)</span> is another type of business intelligence system designed to help managers develop solutions for specific problems. A DSS for a marketing department might provide statistical information on customer attributes, such as income levels or buying patterns, that would assist managers in making advertising </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">strategy decisions. A DSS not only uses data from databases and data warehouses, it also enables users to add their own insights and experiences and apply them to the solution.</p>
+					<p class="start moreSpacing"><strong>What does a DSS look like?</strong> DBMSs, while playing an integral part of a DSS, are supplemented by additional software systems in a DSS. In a DSS, the user interface provides the means of interaction between the user and the system. An effective user interface must be easy to learn. The other major components of a DSS are internal and external data sources, model management systems, and knowledge-based systems. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(32,0)">Figure 11.31</span>, these systems work together to provide the user of the DSS with a broad base of information on which to base decisions.</p>
+					<p class="start moreSpacing"><strong>How do DSSs get data?</strong> Internal and external data sources provide a stream of data that is integrated into the DSS for analysis. Internal data sources are maintained by the same company that operates the DSS. For example, internal TPSs can provide a wealth of statistical data about customers, ordering patterns, inventory levels, and so on. An external data source is any source not owned by the company that owns the DSS, such as customer demographic data purchased from third parties, mailing lists, or statistics compiled by the government.</p>
+					<p class="start moreSpacing"><strong>What function does a model management system perform?</strong> A <span class="strongDBlue" glossary>model management system</span> is software that assists in building management models in DSSs. A management model is an analysis tool</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(32,0)"
+						style="height: 310px;background: url(assets/images/figures/fig11.31.jpg) no-repeat scroll 5px 0px transparent;">
+						<figcaption class="bottomPos">
+					<span>Figure 11.31</span> This figure shows the major components of a DSS. Through the user interface, models are analyzed and manipulated to provide information on which management decisions are based. <em>(Tan Kian Khoon/Shutterstock)</em></figcaption>
+				</figure>
+					
+					<p class="TMargin10 moreSpacing">that, through the use of internal and external data, provides a view of a particular business situation for the purposes of decision making. Models can be built to describe any business situation, such as the classroom space requirements for next semester or a listing of alternative sales outlet locations. Model management systems typically contain financial and statistical analysis tools that are used to analyze the data provided by models or to create additional models. Model management systems typically contain financial and statistical analysis tools that are used to analyze the data provided by models or to create additional models. </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(33,0)" class="bitsAndBytesBlue">
+							<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+							Virtual Agents: Expert Systems Replace People on the Web
+						</div>
+					
+					<p class="start TMargin10"><strong>What is a knowledge-based system, and how is it used in DSSs?</strong> A <span class="strongDBlue" glossary>knowledge-based system</span> provides intelligence that supplements the user’s own intellect and makes the DSS more effective. It could be an <span class="strongDBlue" glossary>expert system</span> that tries to replicate the decision-making processes of human experts in order to solve specific problems. For example, an expert system might be designed to take the place of a physician in a remote location. A physician expert system would ask the patient about symptoms just as a live physician would, and the system would make a diagnosis based on the algorithms programmed into it.</p>	
+					<p class="start">Another type of knowledge-based system is a <span class="strongDBlue" glossary>natural language processing (NLP) system</span>. NLP systems enable users to communicate with computer systems using a natural spoken or written language instead of using a computer programming language. Individuals just speak to the computer and it understands what they’re saying, without users needing to use specific computer commands. Siri, the personal assistant application currently on Apple’s iPhone 5, is an NLP system.</p>
+					<p class="start">All knowledge-based systems fall under the science of artificial intelligence. <span class="strongDBlue" glossary>Artificial intelligence (AI)</span> is the branch of computer science that deals with the attempt to create computers that think like humans. To date, no computers have been constructed that can replicate the thinking patterns of a human brain, because scientists still do not fully understand </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>how humans store and integrate knowledge and experiences to form human intelligence.</p>
+					
+					<p class="start moreSpacing"><strong>How does a knowledge-based system help in the decision-making process?</strong> Databases and the models provided by model management systems tend to be extremely analytical and mathematical in nature. If we relied solely on databases and models to make decisions, answers would be derived with a “yes or no” mentality, allowing no room for human thought. Fortunately, human users are involved in these systems, providing an opportunity to inject human judgment into the decision-making process.</p>	
+					<p class="start moreSpacing">The knowledge-based system also provides an opportunity to introduce experience into the mix. Knowledge-based systems support the concept of fuzzy logic. Normal logic is highly rigid: If “x” happens, then “y” will happen. <span class="strongDBlue" glossary>Fuzzy logic</span> enables the interjection of experiential learning into the equation by considering probabilities. Whereas an algorithm in a database has to be specific, an algorithm in a knowledge-based system could state that if “x” happens, 70% of the time “y” will happen.</p>
+					<p class="start moreSpacing">For instance, managers at Best Buy would find it extremely helpful if their DSSs informed them that 45% of customers who bought an iPad also bought a Smart Cover for it. This could suggest that designing a discount program for Smart Covers bought with iPads might spur sales. Fuzzy logic enables a system to be more flexible and to consider a wider range of possibilities than would conventional algorithmic thinking.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="34" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Enterprise Resource Planning Systems</h2>
+					<p class="moreSpacing"><strong>What does an enterprise resource planning system do?</strong> An <em>enterprise</em>  is any business entity, large or small. All businesses have data and information to manage, and large, complex organizations can benefit from managing that information with a central piece of software. An <span class="strongDBlue" glossary>enterprise resource planning (ERP) system</span> is a software system that accumulates in a central location all information relevant to running a business and makes it readily available to whoever needs it to make decisions. ERP systems use a common database to store and integrate information. This enables the information to be used across multiple areas of an enterprise.</p>
+					<p class="start moreSpacing">Human resource functions (such as the management of hiring, firing, promotions, and benefits) and accounting functions (such as payroll) are often the first processes integrated into an ERP system. Historically, human resource records and accounting records were kept in separate databases, but having the information reside in one database makes the management and compensation of employees more streamlined. If manufacturing operations were then integrated into the ERP system, the data that was already in place regarding the employees and payroll could be easily used for determining the cost of running an assembly line or for scheduling workers to run the assembly line.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/dataMiningSmall.jpg)">
+						<div class="dblue">data</div>
+						<div class="orange" style="margin-left:90px;">MINING</div>
+					</div>
+					
+					<p class="moreSpacing">Just because you have captured data in an organized fashion and have stored it in a format that seems to make sense doesn’t mean that an analysis of the data will automatically reveal everything you need to know. Trends can sometimes be hard to spot if the data isn’t organized or analyzed in a particular way. To make data work harder, companies employ datamining techniques.</p>
+					<p class="start moreSpacing"><span class="strongDBlue" glossary>Data mining</span> is the process by which great amounts of data are analyzed and investigated. The objective is to spot significant patterns or trends within the data that would otherwise not be obvious. For instance, by mining student enrollment data, a school may discover that there’s been a consistent increase in new engineering degree students who are women.</p>
+					<p class="start moreSpacing"><strong>Why do businesses mine their data?</strong> The main reason businesses mine data is to understand their customers better. If a company can better understand the types of customers who buy its products and can learn what motivates its customers to do so, it can market effectively by concentrating its efforts on the populations most likely to buy. You may have noticed that products are frequently moved around in supermarkets. This is usually the result of data mining. With electronic scanning of bar codes, each customer’s purchase is recorded in a database. By classifying the data and using <em>cluster analysis,</em> supermarket managers can determine which</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing"> products people usually purchase with other products. The store then places these products close to each other so that shoppers can find them easily. For instance, if analysis shows that people often buy potato chips with soft drinks, it makes sense to place these items in the same aisle.</p>
+					<p class="start moreSpacing"><strong>How do businesses mine their data?</strong> Data mining enables managers to sift through data in several ways. Each technique produces different information on which managers can then base their decisions.</p>
+					<p class="start moreSpacing">Managers make their data meaningful through the following techniques (<span class="strongDBlue" onclick="compTia.togglePopup(35,1)">see Figure 11.33</span>):</p>
+					
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><em>Classification</em>: Before mining, managers define data classes they think will be helpful in spotting trends. They then apply these class definitions to all unclassified data to prepare it for analysis. For example, “good credit risk” and “bad credit risk” are two data classes managers could establish to determine whether to grant car loans to applicants. Managers would then identify factors, such as credit history and yearly income, that they could use to classify applicants as good or bad credit risks.</span></li>
+					</ul>
+					
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(35,0)">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong style="font-size:13px;">Data, Data Everywhere—But Is It Protected?</strong>
+				</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Data-Mining Techniques</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(35,1)" style="    background: url(assets/images/figures/fig11.33.jpg) no-repeat scroll 11px 31px #FFFFFF; height: 263px; overflow: hidden;">
+							
+							<span class="strongDHeading font_15"><strong style="padding-left:6px">Figure 11.33</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+					
+					<ul class="dotted TMargin10">
+						<li class="moreSpacing"><span class="innerLi"><em>Estimation</em>: When managers classify data, the record either fits the classification criteria or it doesn’t. Estimation enables managers to assign a value to data based on some criterion. For example, assume a bank wants to send out credit card offers to people who are likely to be granted a credit card. The bank may run the customers’ data through a program that assigns a score based on where they live, their household income, and their average bank balance. This provides managers with an estimate of the most likely credit card prospects to target.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><em>Affinity grouping (or association rules)</em>: When mining data, managers can determine which data goes together. In other words, they can apply affinity grouping or association rules to the data. For example, suppose analysis of a sales database indicates that two items are bought together 60% of the time. Based on this data, managers might decide that these items should be pictured on the same page of their website.</span></li>
+						<li class="moreSpacing"><span class="innerLi"><em>Clustering</em>: Clustering involves organizing data into similar subgroups, or clusters. It’s different from classification in that there are no predefined classes. The data-mining software makes the decision about what to group, and it’s up to managers to determine whether the clusters are meaningful. For example, the data-mining software may identify clusters of customers with similar buying patterns. Further analysis of the clusters may reveal that certain socioeconomic groups have similar buying patterns.</span></li>
+						<li class="moreSpacing"><span class="innerLi"><em>Description and visualization</em>: Often, the purpose of data mining is to describe data so that managers can interpret it in new and different ways. For example, if large amounts of data revealed that right-handed women who live in rural environments never take philosophy courses, it would most likely spark a heated discussion about the reasons why. It would certainly provide plenty of opportunities for additional study on the part of psychologists, sociologists, and college administrators!</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">As we continue to accumulate data, the development of faster and bigger databases will be a necessity. You can expect to interact with more and more databases every year, even if you don’t realize you’re doing so. While you may never have to create a database, understanding how databases work will enable you to interact with them more effectively.</p>
+					
+					<br/>	
+						<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_11_Part_2/Ch11Pt2final.html','_blank')" >Replay Video 11.2</span>.</span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(40)">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="37" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Are you in favor of the SSA or other government agencies selling your personal info to third parties as a means to generate revenue? </div>
+					<ol class="pollQuestions">
+						<li>Yes</li>
+						<li>No</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="38" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h1><span class="chapter shiftLeft5">11</span> Chapter Review</h1>
+				<div class="title font_31"
+					 style="padding-left: 6px">summary//</div>
+					 
+					 <img src="assets/images/pics/dataBaseThumbnail.jpg" style="float:left;margin-right:13px" />
+					<h2 style="margin-bottom:4px">Database Building Blocks</h2>
+					<span class="prePseudoLi preContent1 strong">What is a database, and why is using one beneficial?</span>
+					
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi">Databases are electronic collections of related data that can be organized so that data is more easily accessed and manipulated. Properly designed databases cut down on data redundancy and duplicate data by ensuring relevant data is recorded in only one place. This also helps eliminate data inconsistency, which comes from having different data about the same transaction recorded in different places.</span></li>
+						<li><span class="innerLi">When databases are used, multiple users can share and access information at the same time.</span></li>
+						<li><span class="innerLi">Databases are used any time complex information needs to be organized or when more than one person needs to access the information. In these cases, lists (which are used to keep track of simple information) are no longer efficient.</span></li>
+					</ul>	 
+					
+					<h4>2. What do database management systems do?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">Database management systems (DBMSs) are specially designed applications (such as Microsoft Access) that interact with the user, other applications, and the database itself to capture and analyze data.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					<ul class="dotted">
+						<li><span class="innerLi">The main operations of a DBMS are creating databases, entering data, viewing (or browsing) data, sorting (or indexing) data, extracting (or querying) data, and outputting data.</span></li>
+						<li><span class="innerLi">A query language is used to extract records from a database. Almost all relational databases today use structured query language, or SQL. However, most DBMSs include wizards that enable you to query the database without learning a query language.</span></li>
+						<li><span class="innerLi">The most common form of output for any database is a printed report.</span></li>
+					</ul>
+					
+					<h4>3. What components make up a database?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">The three main components of a database are fields, records, and tables.</span></li>
+						<li><span class="innerLi">A category of information in a database is stored in a field. Each field is identified by a field name, which is a way of describing the field. Fields are assigned a data type that indicates what type of data can be stored in the field. Common data types include text, numeric, computational, date, memo, object, and hyperlink.</span></li>
+						<li><span class="innerLi">A group of related fields is a record.</span></li>
+						<li><span class="innerLi">A group of related records is a table or file.</span></li>
+						<li><span class="innerLi">To keep records distinct, each record must have one field that has a value unique to that record. This unique field is a primary key (or a key field).</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>	 
+		
+		<page index="39" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					 <img src="assets/images/pics/dataBaseTypesThumbnail.jpg" style="float:left;margin-right:13px;" />
+					<h2 style="margin-bottom:4px;margin-top:0">Database Types</h2>
+					<span class="prePseudoLi preContent4 strong">What types of databases are there?</span>
+					<br/><br/>
+					<ul class="dotted">
+						<li><span class="innerLi">The three major types of databases currently in use are relational, object-oriented, and multidimensional.</span></li>
+						<li><span class="innerLi">Relational databases are characterized by two-dimensional tables of data in which a common field is maintained in each of two tables and the information in the tables is linked by this field.</span></li>
+						<li><span class="innerLi">Object-oriented databases store data in objects, not in tables. The objects also contain instructions about how the data is to be manipulated or processed.</span></li>
+						<li><span class="innerLi">Multidimensional databases represent data in three-dimensional cubes to enable faster retrieval of information from the database.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/dataFunctionsThumbnail.jpg" style="float:left;margin-right:13px;margin-top:20px;" />
+					<h2 style="margin-bottom:4px">Database Functions</h2>
+					<span class="prePseudoLi preContent5 strong">How do relational databases organize and <br/>manipulate data?</span>
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi">Relational databases operate by organizing data into various tables based on logical groupings. Because not all of the data in a relational database is stored in the same table, a methodology must be implemented to link data between tables. In relational databases, the links between tables that define how the data is related are referred to as relationships.</span></li>
+						<li><span class="innerLi">To establish a relationship between two tables, both tables must have a common field (or column). Once linked, information can be drawn </span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="noListStyle">
+						<li><span class="innerLi">from multiple tables through the use of queries (for on-screen viewing of data) or report generators (used to produce printed reports).</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/dataWarehousingThumbnail.jpg" style="float:left;margin-right:13px;margin-top:20px;" />
+					<h2 style="margin-bottom:4px">Database Warehousing <br/>and Storage</h2>
+					<span class="prePseudoLi preContent6 strong"> What are data warehouses and data marts, <br/>and how are they used?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">A data warehouse is a large-scale collection of data that contains and organizes in one place all the relevant data for an organization. Data warehouses often contain information from multiple databases.</span></li>
+						<li><span class="innerLi">Because it can be difficult to find information in a large data warehouse, small slices of the data warehouse, called data marts, are often created. The information in data marts pertains to a single department within the organization, for example.</span></li>
+						<li><span class="innerLi">Data warehouses and data marts consolidate information from a wide variety of sources to provide comprehensive pictures of operations or transactions within a business.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/BISThumbnail.jpg" style="float:left;margin-right:13px;margin-top:20px;" />
+					<h2 style="margin-bottom:4px">Business Intelligence Systems</h2>
+					<span class="prePseudoLi preContent7 strong">What is a business intelligence system, and what <br/>types of business intelligence systems are used by<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;decision makers?</span>
+					
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Business intelligence systems are used to analyze and interpret data in order to enable managers to make informed decisions about how best to run a business.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="40" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">An office support system (OSS) is designed to assist employees in accomplishing their day-to-day tasks and improve communications.</span></li>
+						<li><span class="innerLi">A transaction-processing system (TPS) is used to keep track of everyday business activities.</span></li>
+						<li><span class="innerLi">A management information system (MIS) provides timely and accurate information that enables managers to make critical business decisions.</span></li>
+						<li><span class="innerLi">A decision support system (DSS) is designed to help managers develop solutions for specific problems.</span></li>
+						
+							<li><span class="innerLi">A model management system is software that assists in building analysis tools for DSSs.</span></li>
+							<li class="Lmargin10"><span class="innerLi">A knowledge-based system provides intelligence to make the DSS more effective. There are several kinds of knowledge-based systems. An expert system tries to replicate the decision-making process of human experts to solve specific problems. A natural language processing (NLP) system uses natural spoken or written language rather than a computer programming language to communicate with a computer. Lastly, artificial intelligence (AI) attempts to create computers that think like humans.</span></li>
+							
+						<li class="Lmargin10"><span class="innerLi">An enterprise resource planning (ERP) system is a large software system that gathers information from all parts of a business and integrates it to make it readily available for decision making.</span></li>
+					</ul>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					 <img src="assets/images/pics/dataBaseTypesThumbnail.jpg" style="float:left;margin-right:13px;" />
+					<h2 style="margin-bottom:4px">Data Mining</h2>
+					<span class="prePseudoLi preContent8 strong">What is data mining, and how does it work?</span>
+					<br/>
+					
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">Data mining is the process by which large amounts of data are analyzed to spot otherwise hidden trends. Through processes such as classification, estimation, affinity grouping, clustering, and description (visualization), data is organized so that it provides meaningful information that can be used by managers to identify business trends.</span></li>
+					</ul>
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					<br>
+					<img src="assets/images/layout/techTouchS11.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+		</page>
+		
+		<page index="41" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 11 glossary//</div>
+					
+					<span class="strongDBlue" glossary>alphabetic check</span> 545<br/>
+					<span class="strongDBlue" glossary>artificial intelligence (AI)</span> 560<br/>
+					<span class="strongDBlue" glossary>batch processing</span> 557<br/>
+					<span class="strongDBlue" glossary>binary large object (BLOB)</span> 542<br/>
+					<span class="strongDBlue" glossary>business intelligence systems</span> 556<br/>
+					<span class="strongDBlue" glossary>clickstream data</span> 553<br/>
+					<span class="strongDBlue" glossary>completeness check</span> 544<br/>
+					<span class="strongDBlue" glossary>consistency check</span> 545<br/>
+					<span class="strongDBlue" glossary>database</span> 530<br/>
+					<span class="strongDBlue" glossary>database administrator (database designer)</span> 534<br/>
+					<span class="strongDBlue" glossary>database management system (DBMS)</span> 535<br/>
+					<span class="strongDBlue" glossary>data centralization</span> 533<br/>
+					<span class="strongDBlue" glossary>data dictionary (database schema)</span> 536<br/>
+					<span class="strongDBlue" glossary>data inconsistency</span> 532<br/>
+					<span class="strongDBlue" glossary>data integrity</span> 533<br/>
+					<span class="strongDBlue" glossary>data mart</span> 554<br/>
+					<span class="strongDBlue" glossary>data mining</span> 561<br/>
+					<span class="strongDBlue" glossary>data redundancy</span> 532<br/>
+					<span class="strongDBlue" glossary>data staging</span> 553<br/>
+					<span class="strongDBlue" glossary>data type (field type)</span> 538<br/>
+					<span class="strongDBlue" glossary>data warehouse</span> 551<br/>
+					<span class="strongDBlue" glossary>decision support system (DSS)</span> 558<br/>
+					<span class="strongDBlue" glossary>default value</span> 537<br/>
+					<span class="strongDBlue" glossary>detail report</span> 558<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="ColShiftSpacer"></div>
+				
+				<span class="strongDBlue" glossary>enterprise resource planning (ERP) system</span> 561<br/>
+				<span class="strongDBlue" glossary>exception report</span> 558<br/>
+				<span class="strongDBlue" glossary>expert system</span> 560<br/>
+				<span class="strongDBlue" glossary>field</span> 535<br/>
+				<span class="strongDBlue" glossary>field constraint</span> 544<br/>
+				<span class="strongDBlue" glossary>field properties</span> 536<br/>
+				<span class="strongDBlue" glossary>field size</span> 538<br/>
+				<span class="strongDBlue" glossary>filter</span> 546<br/>
+				<span class="strongDBlue" glossary>foreign key</span> 540<br/>
+				<span class="strongDBlue" glossary>fuzzy logic</span> 560<br/>
+				<span class="strongDBlue" glossary>information system</span> 555<br/>
+				<span class="strongDBlue" glossary>input form</span> 544<br/>
+				<span class="strongDBlue" glossary>join query</span> 547<br/>
+				<span class="strongDBlue" glossary>knowledge-based system</span> 560<br/>
+				<span class="strongDBlue" glossary>management information system (MIS)</span> 557<br/>
+				<span class="strongDBlue" glossary>many-to-many relationship</span> 541<br/>
+				<span class="strongDBlue" glossary>metadata</span> 536<br/>
+				<span class="strongDBlue" glossary>model management system</span> 559<br/>
+				<span class="strongDBlue" glossary>multidimensional database</span> 542<br/>
+				<span class="strongDBlue" glossary>natural language processing (NLP) system</span> 560<br/>
+				<span class="strongDBlue" glossary>normalization</span> 539<br/>
+				<span class="strongDBlue" glossary>numeric check</span> 545<br/>
+				<span class="strongDBlue" glossary>object-oriented database</span> 541<br/>
+				<span class="strongDBlue" glossary>Object Query Language (OQL)</span> 542<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="42" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					
+					<span class="strongDBlue" glossary>office support system (OSS)</span> 556<br/>
+					<span class="strongDBlue" glossary>one-to-many relationship</span> 541<br/>
+					<span class="strongDBlue" glossary>one-to-one relationship</span> 541<br/>
+					<span class="strongDBlue" glossary>online analytical processing (OLAP)</span> 554<br/>
+					<span class="strongDBlue" glossary>online transaction processing (OLTP)</span> 557<br/>
+					<span class="strongDBlue" glossary>primary key field</span> 539<br/>
+					<span class="strongDBlue" glossary>query</span> 546<br/>
+					<span class="strongDBlue" glossary>query language</span> 542<br/>
+					<span class="strongDBlue" glossary>range check</span> 544<br/>
+					<span class="strongDBlue" glossary>real-time processing</span> 557<br/>
+					<span class="strongDBlue" glossary>record</span> 535<br/>
+					<span class="strongDBlue" glossary>referential integrity</span> 540<br/>
+					<span class="strongDBlue" glossary>relational algebra</span> 547<br/>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>relational database</span> 540<br/>
+				<span class="strongDBlue" glossary>relationship</span> 540<br/>
+				<span class="strongDBlue" glossary>select query</span> 547<br/>
+				<span class="strongDBlue" glossary>structured (analytical) data</span> 542<br/>
+				<span class="strongDBlue" glossary>Structure Query Language (SQL)</span> 542<br/>
+				<span class="strongDBlue" glossary>summary report</span> 558<br/>
+				<span class="strongDBlue" glossary>table (file)</span> 535<br/>
+				<span class="strongDBlue" glossary>time-variant data</span> 552<br/>
+				<span class="strongDBlue" glossary>transaction-processing system (TPS)</span> 556<br/>
+				<span class="strongDBlue" glossary>unstructured data</span> 542<br/>
+				<span class="strongDBlue" glossary>validation</span> 544<br/>
+				<span class="strongDBlue" glossary>validation rule</span> 544<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="43" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...next semester//</div>
+					
+					<ol>
+						<li><span class="innerLi">Designing Your Own Database</span><br/><span class="innerLi notStrong">Students at your school want to collect and refurbish used computer equipment and donate it to underprivileged individuals. You offer to create a database to facilitate the tracking of the donated equipment. Determine the following:</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="notStrong">What fields do you need in your database to capture information about the clients donating the computing equipment? What would be the primary key of the “client” table? Explain your choice.</span></li>
+							<li><span class="notStrong">What fields do you need to identify and categorize equipment? What would be a good primary key to use for the “computer inventory” table? Explain your choice.</span></li>
+							<li><span class="notStrong">Design a table that tracks the donations. What fields from the other tables should be included in the “donation transaction” table? Justify your answer.</span></li>
+						</ol>
+						
+						<li><span class="innerLi">Comparing Databases</span><br/><span class="innerLi notStrong"><span class="innerLi strongDBlue" onclick="window.open('http://Amazon.com','_blank')">Amazon.com</span> and <span class="innerLi strongDBlue" onclick="window.open('http://eCampus.com','_blank')">eCampus.com</span> are two sites used to buy books. On both sites, you interact with a database to search for and purchase books. Visit both sites and without using specific book information (title, author, or ISBN), search for several of your textbooks. Compare your experiences on both sites.</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="notStrong">Which site is easier to use? Why?</span></li>
+							<li><span class="notStrong">What fields did you search on to find your books? Would searching on another field have produced more-accurate results?</span></li>
+							<li><span class="notStrong">What would you change in both sites to improve your time shopping?</span></li>
+						</ol>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol>
+						<li><span class="innerLi">Data Marts</span><br/><span class="innerLi notStrong">You work in the IT group of a chain of sporting goods stores, which has 40 locations in seven states. The 40 locations are organized into four regions (north, south, east, and west) with 10 stores in each. Regional managers are responsible for inventory, sales, and marketing for their region. The company has been processing all transactions electronically, and it has captured all the data in a large data warehouse. Unfortunately, there is so much information in the data warehouse that extracting meaningful data has become difficult. You’ve just been placed on the team that will design a new data strategy for the company.</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="notStrong">What type of data marts would you suggest setting up? Who will benefit from the data marts you suggest?</span></li>
+							<li><span class="notStrong">For the data marts you identified, what data should be stored in each data mart? Explain how the regional managers could make use of that information to manage their group of stores.</span></li>
+						</ol>
+						
+						<li><span class="innerLi">Recovering from a Data Breach</span><br/><span class="innerLi notStrong"><br/> work in the marketing department of XYZ Drugs that has an established buyer loyalty program. XYZ Drugs collects customer e-mail addresses and has engaged ABC Marketing to routinely send out marketing e-mails. ABC has just informed XYZ that its servers suffered a data breach and that all the names and e-mail addresses of XYZ’s customers in ABC’s database were compromised. You’re working to inform XYZ’s customers of the possible consequences of the data breach.</span></li>
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="44" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol class="noListStyle">
+						<ol style="list-style-type:lower-alpha;">
+							<li><span class="notStrong">What are the risks that XYZ’s customers face from the data breach?</span></li>
+							<li><span class="notStrong">What steps should the customers take to mitigate these risks? <br/>You need to be tactful and careful in your suggestions to customers because you want them to continue to trust XYZ with their personal information.</span></li>
+							<li><span class="notStrong">Prepare a list of precautions customers can take with their personal data to avoid being victims of these types of data breaches. Try searching on the Internet for ideas using search terms such as “data breach protection” or “e-mail breach safeguards.”</span></li>
+						</ol>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				]]>
+			</section>
+		</page>
+		
+		<page index="45" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">team time//</div>
+					<h3>Redesigning Facebook</h3>
+					
+					<h4>Problem</h4>
+					<p>Facebook is the most popular social media site—it’s also a database. But as with any product, there is always room for improvement. Facebook management has made decisions about what data they require from users who create Facebook accounts. They also have set up specific areas to display what management considers to be pertinent information on a user’s main Facebook page. But perhaps you as a user would have designed Facebook differently.</p>
+					
+					<h4>Task</h4>
+					<p>Your class has volunteered to work as a focus group for Facebook as part of a nationwide project to assess the usefulness of the information it gathers. Users often provide unique perspectives, and they should be consulted whenever possible during the design, implementation, and updates of websites. As heavy users of Facebook, management feels that student input is invaluable to ensuring currency and usability of its features.</p>
+					
+					<h4>Process</h4>
+					<ol>
+						<li><span class="notStrong">Divide the class into small groups.</span></li>
+						<li><span class="notStrong">Your group members should examine their individual Facebook accounts. Pay particular attention to the profile area of your account. What fields in the profile do you consider to be most useful? Which fields do you think are unnecessary and could be eliminated? What fields are missing from the profile that you think would be useful to you and your friends?</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					<ol class="noTMargin">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="notStrong">Investigate your account settings and application settings, paying particular attention to items that are displayed on the main page of your account. What changes would you make to these settings? Are options missing that you would find helpful to configuring your Facebook page?</span></li>
+						<li><span class="notStrong">Present your group’s findings to the class. Compare your suggestions to those of other groups. Be sure to think about the needs of other groups of users (such as your parents, grandparents, or teenagers).</span></li>
+						<li><span class="notStrong">Prepare a list of recommendations for improvements to the current Facebook home page and settings pages. Clearly indicate how the proposed changes will benefit both users and the management of Facebook (retaining users, being able to better target advertising to users, and so on).</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p>Facebook will most likely experience competition in the future from other social networking sites that will want to poach its huge base of users. To remain competitive, Facebook needs to consider the input of users like you to ensure that it delivers a cutting-edge product with features its customers want and need.</p>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="46" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[	
+					<div class="title">ethics project//</div>
+					<h3>Private Information on Public Databases</h3>
+					<p>In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play might not match your own personal beliefs, but your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the arguments, and together, the team will agree on an ethical solution.</p>
+					
+					<h4>Problem</h4>
+					<p>As more tasks in our lives are conducted online, there is a tremendous amount of data accumulated about us in online databases. Unfortunately, much of this material is accessible in databases that are searchable by anyone with Internet access or to anyone willing to pay a small fee. Websites such as <span class="strongDBlue" onclick="window.open('http://spokeo.com','_blank')">spokeo.com</span> and <span class="strongDBlue" onclick="window.open('http://411.com','_blank')">411.com</span> comb through publicly accessible databases to compile information on individuals. These databases include social networking sites (Facebook or LinkedIn), online phone books, business sites where you have accounts, and government (federal, state, and local) websites. There is probably a lot of information about you available on sites such that could expose you to risks such as identify theft.</p>
+					
+					<h4>Research Areas to Consider</h4>
+					<span class="psudoUlLi">Electronic information privacy</span>
+					<span class="psudoUlLi">Electronic Privacy Information Center (<span class="strongDBlue" onclick="window.open('http://epic.org','_blank')">epic.org</span>)</span>
+					<span class="psudoUlLi">Protecting your online privacy</span>
+					<span class="psudoUlLi">Protecting yourself on Facebook</span>
+					<span class="psudoUlLi">Protecting yourself from data breaches</span>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					
+					<h4>Process</h4>
+					<ol>
+						<li><span class="notStrong">Divide the class into teams.</span></li>
+						<li><span class="notStrong">Research the areas cited above and devise a scenario in which someone has complained about a website (such as <span class="strongDBlue" onclick="window.open('http://spokeo.com','_blank')">spokeo.com</span>) providing information that led to his or her identity being stolen.</span></li>
+						<li><span class="notStrong">Team members should write a summary that provides background information for their character—for example: victim of identity theft, website owner, or arbitrator—and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the role-playing event.</span></li>
+						<li><span class="notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+						<li><span class="notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p>As technology becomes ever more prevalent and integrated into our lives, ethical dilemmas will present themselves to an increasing extent. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+				]]>
+			</section>
+		</page>
+				
+	</chapter>
+</ebook>

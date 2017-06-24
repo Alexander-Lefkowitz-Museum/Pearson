@@ -1,0 +1,837 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="13">
+
+
+		<popup page="3" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage MajorOrganTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Major Organizations in Internet Governance and Development</div>
+			<div class="figureHeader" ><strong>Figure 13.1</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="MajorOrganTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Organization</div></th>
+								<th><div>Purpose</div></th>
+								<th><div>Web Address</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Internet Society</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Professional membership society that provides leadership for the <br/>orderly growth and development of the Internet</span></div></td>
+							<td><div class="hide" col="1"><span><span class="strongDBlue" onclick="window.open('http://internetsociety.org','_blank')">internetsociety.org</span></span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Internet Engineering <br/>Task Force (IETF)</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>A subgroup of the Internet Society that researches new Internet technologies <br/>to improve its capabilities and keep the infrastructure functioning smoothly</span></div></td>
+							<td><div class="hide" col="2"><span><span class="strongDBlue" onclick="window.open('http://ietf.org','_blank')">ietf.org</span></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Internet Architecture <br/>Board (IAB)</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>Technical advisory group to the Internet Society and an IETF committee; <br/>provides direction for the maintenance and development of Internet protocols</span></div></td>
+							<td><div class="hide" col="3"><span><span class="strongDBlue" onclick="window.open('http://iab.org','_blank')">iab.org</span></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Internet Corporation for <br/>Assigned Names and <br/>Numbers (ICANN)</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Organization responsible for managing the Internet’s domain <br/>name system and the allocation of IP addresses</span></div></td>
+							<td><div class="hide" col="4"><span><span class="strongDBlue" onclick="window.open('http://icann.org','_blank')">icann.org</span></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>World Wide Web <br/>Consortium (W3C)</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>Consortium of organizations that sets standards and develops <br/>protocols for the web</span></div></td>
+							<td><div class="hide" col="5"><span><span class="strongDBlue" onclick="window.open('http://w3.org','_blank')">w3.org</span></span></div></td>
+						</tr>
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig13.2Big.jpg') no-repeat scroll 56px 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 13.2</span> A typical Internet backbone provided by a single company.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="5" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig13.3Big.jpg') no-repeat scroll 58px 60px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 13.3</span> Home users connect to their ISPs through a single point of presence that can handle many simultaneous connections.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="6" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Who Opened Your Ports?</strong>
+								<p>If you get curious about what TCP/IP and UDP ports are currently being used on your system, consider trying out the freeware CurrPorts. It displays a listing of all the open TCP/IP ports, along with details like the name of the application that opened it, its current status (Listening, Waiting, etc.), and the time it was created. It also automatically highlights suspicious ports owned by unknown applications.</p>
+								
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<!--Active Graphic-->
+		<popup page="7" distinction="popupFeature" customscript="compTia.features.setupVideo('13_4')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Packet Switching</div>
+					<div class="padding70">
+					  <a style="padding-left:149px;color:#01567a" data="13_4"></a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+				
+		<popup page="8" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage MprotocolsTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">TCP/IP Protocol Suite—Main Protocols</div>
+			<div class="figureHeader"><strong>Figure 13.5</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="MprotocolsTable">
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Internet Protocol (IP)</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Sends data between computers on the Internet</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Transmission Control Protocol (TCP)</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Prepares data for transmission and provides for error checking and resending of lost data</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>User Datagram Protocol (UDP)</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>Prepares data for transmission; lacks resending capabilities</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>File Transfer Protocol (FTP)</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Enables files to be downloaded to a computer or uploaded to other computers</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Telnet</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>Enables user to log in to a remote computer and work on it as if sitting in front of it</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Hypertext Transfer Protocol (HTTP) <br/>and HTTP Secure (HTTPS)</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>Transfers Hypertext Markup Language (HTML) data from servers to browsers; HTTPS is an encrypted protocol for secure transmissions.</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Simple Mail Transfer Protocol (SMTP)</span>
+							<span class="slideNext floatRight" col="7">NEXT</span></div></td>
+							
+							<td><div class="hide" col="7"><span>Used for transmission of e-mail messages across the Internet</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Dynamic Host Configuration <br/>Protocol (DHCP)</span>
+							<span class="slideNext floatRight" col="8">NEXT</span></div></td>
+							
+							<td><div class="hide" col="8"><span>Takes a pool of IP addresses and shares them with hosts on a network on an as-needed basis</span></div></td>
+						</tr>
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				<popup page="9" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p><strong class="larger">What’s Your IP Address?</strong></p>
+							<p>Curious as to what your IP address is? Go to Google and type “what is my ip” (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 13.6</span>). Google will show your IP address at the top of the search results. If you want additional information, such as the geographic location of an IP address or even the telephone area code associated with it, visit <span class="strongDBlue" onclick="window.open('http://whatismyipaddress.com','_blank')">whatismyipaddress.com</span>.</p> 
+							
+						
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(1)" style="
+							background: url('assets/images/figures/fig13.6.png') no-repeat scroll 0 0 transparent;
+							height: 153px;margin-right: -15px;">
+							<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_13_6.html','_blank')"></div>
+							
+							<figcaption class="bottomPos" style="margin-left:60px;margin-bottom: 27px;">
+							<span>Figure 13.6</span> You can find your IP address using Google.
+							
+							</figcaption>
+							</figure>
+							
+							
+				  		</div>
+					</div>
+			  	</div>
+				<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig13.6Big.png) no-repeat scroll 45px 85px transparent;
+								height: 100%;
+								width: 777px;">
+								
+								<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_13_6.html','_blank')"></div>
+								<figcaption class="bottomPos" style="margin-left:60px;margin-bottom: 27px;">
+								<span>Figure 13.6</span> You can find your IP address using Google.
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+
+	  ]]>
+	</section>
+		</popup>
+		
+		<popup page="10" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">What Is an Internet Cache?</strong></p>
+							<p>Your <span class="strongDBlue" glossary>Internet cache</span> is a section of your hard drive that stores information that you may need again, such as IP addresses and frequently accessed web pages. However, caching of domain name addresses also takes place in domain name system (DNS) servers. This helps speed up Internet access time because a DNS server doesn’t have to query master DNS servers for top-level domains (TLDs) constantly. However, caches have limited storage space, so entries are held in the cache only for a fixed period of time and are then deleted. The time component associated with cache retention is known as the <em>time to live</em> (<em>TTL</em>). Without caches, surfing the Internet would take a lot longer.</p> 
+							<p class="start">Beware—you can’t always tell whether your browser is loading the current version of a page from the web or a copy from your Internet cache. If a website contains time-sensitive information (such as a snow day alert on a college website), clicking the browser’s Reload or Refresh button (circled below) will ensure the most current copy of the page loads into your browser.</p>
+						
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure class="showOverflow"  style="
+							background: url('assets/images/figures/inbox.png') no-repeat scroll 0 0 transparent;
+							height: 160px;margin-right: -6px;">
+							
+							<figcaption class="bottomPos" style="margin-left:60px;margin-bottom: 27px;">
+							<span></span>
+							
+							</figcaption>
+							</figure>
+							
+							
+				  		</div>
+					</div>
+			  	</div>
+				
+
+	  ]]>
+	</section>
+		</popup>	
+		
+		
+		
+		<popup page="10"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText strong"> Connection-Oriented Versus Connectionless Protocols</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>The Internet Protocol is responsible only for sending packets on their way. The packets are created by either the TCP or the <span class="strongDBlue" glossary>User Datagram Protocol (UDP)</span>. You don’t decide whether to use TCP or UDP. The choice of protocol is made for you by the developers of the computer programs you’re using or by the other protocols that interact with your data packet (such as those listed in <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 13.5</span>).</p>
+						<p class="start">As explained earlier, data transmission between computers is highly efficient if connections don’t need to be established (as in circuit switching). However, there are benefits to maintaining a connection, such as reduced data loss. The difference between TCP and UDP is that TCP is a <em>connection- oriented</em> protocol, whereas UDP is a <em>connectionless</em> protocol.</p>
+						<p class="start">A <span class="strongDBlue" glossary>connection-oriented protocol</span> requires two computers to exchange control packets, thereby setting up the parameters of the data-exchange session, before sending packets that contain data. This process is referred to as <span class="strongDBlue" glossary>handshaking</span>. TCP uses a process called a <span class="strongDBlue" glossary>three-way handshake</span> to establish a connection, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(10,2)">Figure 13.7</span>.</p>
+						<ul>	
+							<li><span>Your computer establishes a connection to the ISP and announces it has e-mail to send.</span></li>
+							<li><span>The ISP server responds that it’s ready to receive the e-mail.</span></li>
+							<li><span>Your computer then acknowledges the ready state of the server and begins to transmit the e-mail.</span></li>
+						</ul>	
+						
+						<p class="start">A <span class="strongDBlue" glossary>connectionless protocol</span> doesn’t require any type of connection to be established or maintained between two computers exchanging information. Just like a letter that’s mailed, the data packets are sent without notifying the receiving computer or receiving any acknowledgment that the data was received. UDP is the Internet’s connectionless protocol.</p>
+						<p class="start">Besides establishing a connection, TCP provides for reliable data transfer, ensuring that all the data packets are delivered to the receiver free from errors and in the correct order. TCP achieves reliable data transfer by using acknowledgments and providing for the retransmission of data, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(10,3)">Figure 13.8</span>.</span></p>
+						<p class="start">Assume that two systems, X and Y, have established a connection. When Y receives a data packet that it can read from X, it sends back a <span class="strongDBlue" glossary>positive acknowledgement (ACK)</span>. If X doesn’t receive an ACK in an appropriate period of time, it resends the packet. If the packet is unreadable (damaged in transit), Y sends a <span class="strongDBlue" glossary>negative acknowledgement (NAK)</span> to X, indicating the packet wasn’t received in understandable form. X then retransmits that packet. Acknowledgments ensure that the receiver has received a complete set of data packets. If a packet is unable to get through after being resent several times, the user is generally presented with an error message, indicating the communications were unsuccessful.</p>
+						<p class="start">You may wonder why you wouldn’t always want to use a protocol that provides for reliable data transfer. On the Internet, speed is often more important than accuracy. For certain applications (such as e-mail), it’s important that your messagebe delivered completely and accurately. For streaming multimedia, it’s not always important to have every frame delivered accurately because most streaming media formats provide for correction of errors caused by data loss. However, it’s extremely important for streaming media to be delivered at a high rate of speed. Therefore, a protocol such as TCP, which uses handshakes and acknowledgments, would probably not be appropriate for transmitting a movie trailer over the Internet; in this instance, the Real-time Transport Protocol (RTP) would be better.</p>
+						
+					
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+
+							<figure style="
+								    background: url(assets/images/figures/fig13.7.png) no-repeat 0px 0 transparent;
+    								height: 162px;
+    								margin-top: 147px;"
+    								onclick="compTia.togglePopup(10,2)">
+							  <figcaption class="bottomPos">
+								<span>Figure 13.7</span> Two computers establish communication using a three-way handshake.
+							  </figcaption>
+							</figure>
+					
+				
+						<figure style="
+								    background: url(assets/images/figures/fig13.8.png) no-repeat -8px 0 transparent;
+    								height: 385px;
+    								margin-top: 247px;"
+    								onclick="compTia.togglePopup(10,3)">
+							  <figcaption class="bottomPos" style="width:325px;">
+								<span>Figure 13.8</span> Positive (ACK) and negative (NAK) packet acknowledgments provide reliable data transfer.
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+		
+		
+
+						</div>
+					</div>
+				</div>
+			]]></section>
+		</popup>
+		
+		<popup page="10" distinction="popupFeature" customscript="compTia.features.setupVideo('13_7-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="close hide"></div>
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="redirect" onclick="compTia.togglePopup(0);$('video').each(function(){this.pause()});window.setTimeout(function(){compTia.togglePopup(10,1)},250)"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Connection-Oriented Versus Connectionless Protocols</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right: 205px;color:#01567a;" data="13_10-1">STEP 1</a>
+						<a data="13_7-2" style="padding-right: 205px;">STEP 2</a>
+						 <a data="13_7-3" style="padding-right: 205px;">STEP 3</a>
+						 
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		
+		
+		
+		<popup page="10" distinction="popupFeature" customscript="compTia.features.setupVideo('13_8')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					
+					<div class="close hide"> </div>
+					<div class="redirect" onclick="compTia.togglePopup(0);$('video').each(function(){this.pause()});window.setTimeout(function(){compTia.togglePopup(10,1)},250)"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Connection-Oriented Versus Connectionless Protocols</div>
+					<div class="padding70">
+					  <a style="padding-left:149px;color:#01567a;" data="13_8"></a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig13.9Big.jpg') no-repeat scroll 230px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 13.9</span> With dynamic IP addressing, your IP address changes every time you connect to the Internet.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="12" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">Guidelines for Choosing a Domain Name</strong></p>
+							<p>A catchy, easily recognizable domain name is the cornerstone of successful websites (think <span class="strongDBlue" onclick="window.open('http://Zappos.com','_blank')">Zappos.com</span>). Consider these guidelines when choosing a domain name for your website:</p> 
+							<ul class="dotted">
+								<li><span class="innerLi"><strong>Identify key words:</strong> Think about the key words that describe the purpose of your website. Then try using them in different combinations until you find something suitable.</span></li>
+								<li><span class="innerLi"><strong>Use a unique name:</strong> Don’t make the name similar to the name of a site that’s already successful. You don’t want people going to the other site by mistake.</span></li>
+								<li><span class="innerLi"><strong>Only use a .com domain:</strong> If you’re developing a commercial site, register it in the .com TLD. Most people assume all websites end in .com, so make sure yours does.</span></li>
+								<li><span class="innerLi"><strong>Make the name short and easy to remember:</strong> Thebestbookstoreintheknownuniverse.com may sound cool, but many people will forget a word or mistype it. URLs need to be easily remembered. BookWorlds.com would be better.</span></li>
+							</ul>
+						
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<ul class="dotted">
+								<li><span class="innerLi"><strong>Use words everyone can spell:</strong> Rhythm might describe a music site, but many people will misspell it. Stick to words that are easy to spell.</span></li>
+							</ul>
+							
+							<p class="start">Keep these ideas in mind when you are picking a domain name for your latest and greatest million-dollar idea!</p>
+							
+							
+				  		</div>
+					</div>
+					</div>
+			 ]]>
+		</section>
+			</popup>
+			
+			<!--Active Graphic-->
+			<popup page="13" distinction="popupFeature" customscript="compTia.features.setupVideo('13_10-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">DNS Servers in Action.</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="13_10-1">STEP 1</a>
+						<a data="13_10-2">STEP 2</a>
+						 <a data="13_10-3">STEP 3</a>
+						 <a data="13_10-4">STEP 4</a>
+						 <a data="13_10-5">STEP 5</a>
+						 <a data="13_10-6">STEP 6</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+			
+			
+			<popup page="17" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig13.11Big.jpg') no-repeat scroll 150px 80px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 13.11</span> You can view the source code of a website by right-clicking and selecting View Source from the shortcut menu.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+					<figure class="normalFont" style="background:url('assets/images/figures/fig13.12Big.jpg') no-repeat scroll 185px 42px transparent">
+					<figcaption>
+					  <span>Figure 13.12</span> Cascading style sheets allow developers to create formatting templates. Just as all the pages of this book have a similar look and feel, one style sheet can control the formatting of many web pages.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="19" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage XMLTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">XML Custom Packages</div>
+
+
+
+			<strong>Figure 13.13</strong></span>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class="XMLTable">
+						<thead><tr >
+							<th><div class="blueGradHeading">XML Custom Package</div></th>
+							<th><div class="blueGradHeading">Sample Tags</div></th>
+						</tr></thead>
+						<tbody>
+						
+						<tr class="lightBlueGrad">
+							<td><div>MathML</div></td>
+							<td><div>&lt;times>, &lt;power>, &lt;divide></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>X3D</div></td>
+							<td><div>&lt;viewpoint>, &lt;shape>, &lt;scene> </div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>MusicML</div></td>
+							<td><div>&lt;score>, &lt;beat>, &lt;measure>, &lt;clef></div></td>
+						</tr>
+						
+					</tbody></table>
+					
+			 </div>
+		  ]]></section>
+		</popup>
+		
+		<!--Active Graphic-->
+			<popup page="20" distinction="popupFeature" customscript="compTia.features.setupVideo('13_14-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">CGI Program</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right: 135px;color:#01567a" data="13_14-1">STEP 1</a>
+						<a data="13_14-2" style="padding-right: 135px;">STEP 2</a>
+						<a data="13_14-3" style="padding-right: 135px;">STEP 3</a>
+						<a data="13_14-4" style="padding-right: 135px;">STEP 4</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+			
+			<!--Active Graphic-->
+				<popup page="21" distinction="popupFeature" customscript="compTia.features.setupVideo('13_15-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Java Applet</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right: 205px; color:#01567a" data="13_15-1">STEP 1</a>
+						<a  data="13_15-2" style="padding-right: 205px;">STEP 2</a>
+						 <a data="13_15-3" style="padding-right: 205px;">STEP 3</a>
+						
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+				
+			
+			<popup page="23" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">Gmail Features You Should Know About</strong></p>
+							<p class="lessSpacing">Many individuals use Gmail because it’s free. But free doesn’t necessarily mean it isn’t full featured. Gmail has some very useful features that can save you time, aggravation, and money. Here are a few to consider:</p> 
+							<ul class="dotted">
+								<li><span class="innerLi"><strong>Drag-and-drop attachments:</strong> You can drag files from your desktop or File Explorer (previously Windows Explorer) and drop them onto the message you’re creating to attach them instead of clicking the Attach button and searching for the file. However, this feature only works with the Chrome and Firefox browsers.</span></li>
+								<li><span class="innerLi"><strong>Attachment reminder:</strong> How many times have you sent an e-mail and forgotten to attach the file you needed to send? When you send a Gmail message, if you used a phrase in the e-mail such as “I’ve attached” or “See attached” and you failed to attach a file, Gmail displays a gentle reminder in a pop-up box.</span></li>
+							</ul>
+						
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<ul class="dotted">
+								<li><span class="innerLi"><strong>Make a phone call from within Gmail:</strong> If you’ve installed the voice and video chat plug-in for Gmail, you can call any phone in the United States or Canada directly from Gmail … for free! Just click the Call Phone option in the Chat section of your Gmail screen to initiate the call.</span></li>
+								<li><span class="innerLi"><strong>Gmail Notifier:</strong> This is a free application that, when installed, sends you alerts/pop-ups whenever you receive an e-mail message, thus eliminating the need to constantly check your inbox.</span></li>
+								<li><span class="innerLi"><strong>Offline Gmail:</strong> You can store your old messages locally on your hard drive so you can access your mail and work on it even when you’re offline.</span></li>
+							</ul>
+							
+							<p class="start">For even more useful features, click the Labs option on your Gmail settings menu to see the latest and greatest features deployed by Google.</p>
+							
+							
+				  		</div>
+					</div>
+					</div>
+			 ]]>
+		</section>
+			</popup>
+			
+			<!--Active Graphic-->
+			<popup page="23" distinction="popupFeature" customscript="compTia.features.setupVideo('13_16-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">E-mail</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right: 100px; color:#01567a" data="13_16-1">STEP 1</a>
+						<a data="13_16-2" style="padding-right: 100px;">STEP 2</a>
+						 <a data="13_16-3" style="padding-right: 100px;">STEP 3</a>
+						 <a data="13_16-4" style="padding-right: 100px;">STEP 4</a>
+						 <a data="13_16-5" style="padding-right: 100px;">STEP 5</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+			
+			
+			
+			<popup page="24" distinction="popupImage">
+			<section><![CDATA[
+					<figure class="normalFont" style="background:url('assets/images/figures/fig13.18Big.jpg') no-repeat scroll 135px 40px transparent">
+					<figcaption>
+					  <span>Figure 13.18</span> Writing the word <i>COMPUTER</i>&nbsp;&nbsp;using a two-position right-shift encryption code results in <i>EQORWVGT</i>.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="24" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content">
+				<div class="headerText font_16 shiftUp5">Web Browsing: Not as Private as You May Think</div>
+				<div class="columnContain">
+				
+				  <div class="column">
+					<div class="innerColLeft">
+						
+						<p>Keeping track of where you’ve been on the Internet can be quite a challenge. Think about how many websites you visited this week. Can you remember them all? Tools built into browser software help us remember. For example, in Internet Explorer and Firefox, the History feature tracks all the sites you’ve visited over a period of time using the same browser on the same computer. If you have a Google account and use the Google Toolbar (an add-on for Internet Explorer and Firefox), the Google Web History feature tracks your entire browsing history regardless of what computer you may be using (as long as you’re logged into your Google account and use the toolbar). But how private is your browsing history?</p>
+						<p class="start">Most individuals in our society value privacy. But having your browsing habits recorded by the software you’re using is tantamount to having someone looking over your shoulder and watching exactly what you’re doing. Did you browse to a site today that you wouldn’t want your parents, teacher, or boss to know about? If you haven’t cleared the history file in your browser, anyone could easily call up the history in your browser and see it (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 13.17</span>).</p>
+						<p class="start">Google Web History is even more of a conundrum. Your entire browsing history is contained in your Google file for all computers that you use (at home, school, and work). If you’re browsing the web at the local coffee shop and haven’t taken measures to secure your data transmissions on your notebook, any hacker could potentially intercept and gain access to your entire browsing history. This could reveal places where you have financial resources and help direct hackers to websites where they can attempt to access your accounts. Many people would feel that their privacy was severely violated if their entire web browsing history were seen by a stranger even if that person didn’t use that information in a malicious way.</p>
+						<p class="start">So, where does convenience stop and privacy start? This is one of the thorny ethical dilemmas we face in today’s wired world. Having a browser history is convenient when you can’t remember the name of a site you visited last week. But having a list of all the sites you visited could be downright embarrassing if your boss looked through it and found out you were surfing the “jobs available” section of a competitor’s website. Do you really want the next person to use the computer in the lab at school to know what you were shopping for on the Internet?</p>
+						<p class="start">Although users can erase browser histories and a Google Web History, this isn’t automatic and requires user intervention. The current versions of browsers contain features called InPrivate Browsing (Internet Explorer), Incognito mode (Chrome), and Private Browsing (Firefox) that allow you to surf the web without the browser retaining your history.</p>
+						<p class="start">Where does convenience end and privacy begin? What do you think?</p>
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						
+						<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig13.17.png) no-repeat scroll 0px 0px transparent;
+						  	height: 215px;">
+							
+							<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_13_17.html','_blank')"></div>
+								<figcaption class="bottomPos" style="margin-left:60px;margin-bottom: 15px;">
+							  <span>Figure 13.17</span>
+							  Nothing embarrassing in this Firefox Web History. But what’s lurking in your browser’s history?
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig13.17Big.png) no-repeat scroll 0px 10px transparent">
+							  <figcaption class="bottomPos">
+							  
+							  <span>Figure 13.17</span>
+								Nothing embarrassing in this Firefox Web History. But what’s lurking in your browser’s history?
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>		
+			]]></section>
+		</popup>
+		
+		<popup page="25" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">Random Numbers:</strong></p> 
+							<p class="lessSpacing"><strong class="larger">We Wouldn’t Have Encryption Without Them!</strong></p>
+							<p class="lessSpacing">E-mail encryption, SSL encryption, and just about anything we do to achieve privacy on the Internet requires random numbers. Encryption is accomplished using random number sequences, which are sequences of numbers in which no patterns can be recognized. Even for an e-commerce transaction (say, buying a textbook from <span class="strongDBlue" onclick="window.open('http://BarnesandNoble.com','_blank')">BarnesandNoble.com</span>) that uses SSL encryption to encode your credit card number, as many as 368 bits of random data might be needed. Only 128 bits are needed for the encryption key, but other random data is needed to create authentication codes and to prevent replay attacks. Replay attacks occur when hackers attempt to copy packets traveling across the Internet and to extract data (such as encryption codes) from them. The hackers then can replay (reuse) the data to gain access to networks or transactions.</p> 
+						
+							
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+							<p class="start">So where do all these random numbers come from? Generating true random sequences is more difficult than it sounds. Most random number generators are really pseudo-random because they’re all based on some sort of pattern to generate the numbers. However, in 1998, Mads Haahr of the School of Computer Science and Statistics at Trinity College in Dublin created the site <span class="strongDBlue" onclick="window.open('http://random.org','_blank')">random.org</span>, which is dedicated to providing true random numbers for web applications such as encryption algorithms. The numbers are generated based on atmospheric noise, which is truly random. The noise is gleaned from radios not tuned to a particular station, so they’re broadcasting static. Anyone can access the website and download random numbers to be used for encryption or other vital services such as lottery drawings. For more information, check out <span class="strongDBlue" onclick="window.open('http://random.org','_blank')">random.org</span>.</p>
+							
+							
+				  		</div>
+					</div>
+					</div>
+			 ]]>
+		</section>
+			</popup>
+			
+			<popup page="25" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_18" style="line-height:22px; text-align:center; margin-top:-12px;">Crowdsourcing: Harnessing the Power of Social Networks</div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Starting and running a small business involves risk, especially when you’re running a merchandising business. Deciding what products to buy and sell to customers is tricky. Will your customers buy the products you think are wonderful? Will they buy them quickly enough so that you can free up your cash to buy more inventory? What quantities should you stock? If you’re an entrepreneur, you usually have to make these decisions yourself. Wouldn’t it be better to let your customers tell you what to sell?</p>
+					  		<p class="start">Many businesses harness the power of their customers (and potential customers) by using the Internet to take advantage of a technique known as <em>crowdsourcing</em>. When you crowdsource, you take a task that an employee or a contractor usually performs and instead outsource that task to a large group of people, usually via the Internet. In this way, you can have many individuals work on a task in order to take advantage of aggregated brainpower. Or you can aggregate and analyze the results of feedback from the crowdsourcers to make informed business decisions. A company that exemplifies the crowdsourcing model of customer-driven merchandise buying is ModCloth (<span class="strongDBlue" onclick="window.open('http://modcloth.com','_blank')">modcloth.com</span>).</p>
+					  		<p class="start">ModCloth is a company founded in 2002 by two high-school students who were just 17 years old. They started selling only vintage clothing but then expanded to offer vintage-inspired designs by indie designers. When ordering clothing from designers, there’s usually a minimum order quantity that often exceeds 100 pieces. Although the buyers for ModCloth feel they have a good eye for what their customers like, it’s still risky for a small business to order large quantities of items because they may take a long time to sell.</p>
+							<p class="start">ModCloth started its Be the Buyer program to involve customers in the buying process. They post clothing they’re considering buying on the Mod-Cloth site, and then customers vote to either “Pick It” (stock the item) or “Skip It,” as shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 13.20</span>. Customers can post comments about the items, which range from humorous to constructive. ModCloth also provides links so that voters can easily share items with their friends on social networks like Facebook and Twitter. Constructive ideas from potential customers can be sent back to designers who might make suggested alterations to items before ModCloth orders them. When ModCloth orders a popular item, customers who indicated they liked it can be contacted via e-mail to stimulate sales.</p>
+							<p class="start">Be part of the businesses you patronize—look for the chance to be heard through crowdsourcing.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+				
+				<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig13.20.png) no-repeat scroll 0px 0px transparent;
+						  	height: 230px;margin: 628px 0 0 -9px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 13.20</span>
+							  Customers vote and comment on products that ModCloth is thinking about stocking.
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig13.20Big.png) no-repeat scroll 75px 5px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 13.20</span>
+								Customers vote and comment on products that ModCloth is thinking about stocking.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<!--Active Graphic-->
+			<popup page="26" distinction="popupFeature" customscript="compTia.features.setupVideo('13_19-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Instant Messaging</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right:205px;color:#01567a" data="13_19-1">STEP 1</a>
+						<a data="13_19-2" style="padding-right:205px;">STEP 2</a>
+						 <a data="13_19-3" style="padding-right:205px;">STEP 3</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+			
+			
+				
+				
+	</chapter>
+</ebook>

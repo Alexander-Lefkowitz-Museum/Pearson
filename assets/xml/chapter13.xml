@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+<chapter index="13" title="" glossary="31">
+
+<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top: 32px;">
+						Behind the Scenes: <br/>How the <br/>Internet Works</div>	
+				<div class="chapterStartNumber" style="margin-left:-22px; letter-spacing: -35px;">13</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Inner Workings of the Internet</span>
+					<img src="assets/images/pics/mangeInternet.jpg" style="margin-top:-27px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">The Management of the Internet</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">1.</span> Who owns, manages, and pays for the Internet? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,3)"> (p. 621)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/INDTP.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,4)">Internet Networking, Data Transmission, <br/>and Protocols</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">2.</span> How do the Internet’s networking components interact?<span class="strongDBlue" onclick="compTia.switchPage(0,4)"> (pp. 622-623)</span></li>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">3.</span> What data transmissions and protocols does the Internet use?<span class="strongDBlue" onclick="compTia.switchPage(0,6)"> (pp. 624-626)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/IP.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,9)">Internet Identity: IP Addresses and <br/>Domain Names</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">4.</span> Why are IP addresses and domain names important for Internet communications?<span class="strongDBlue" onclick="compTia.switchPage(0,9)"> (pp. 627-631)</span></li>
+					</ul>
+					
+					<div class="activeHelpdesk TMargin5"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_25.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Understanding IP Addresses, Domain Names, and Protocols
+					</div>
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,16)">Coding and Communicating on <br/>the Internet</span>
+					<img src="assets/images/pics/tattoo.jpg" style="margin-top:-47px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,16)">HTML, XML, and Other Web <br/>Building Blocks</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">5.</span> What web technologies are used to develop web applications?<span class="strongDBlue" onclick="compTia.switchPage(0,16)"> (pp. 634-640)</span></li>
+					</ul>
+					
+					<div class="soundByte TMargin5"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/constructing_web_pages_with_html/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Creating Web Pages with HTML
+					</div>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/communicate.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,22)">Communications Over the Internet</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">6.</span> How do e-mail and instant messaging work, and how is information using these technologies kept secure?<span class="strongDBlue" onclick="compTia.switchPage(0,22)"> (pp. 640-644)</span></li>
+					</ul>
+					
+					<div class="activeHelpdesk TMargin5"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_26.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Keeping E-Mail Secure
+					</div>
+					
+					<hr>
+					
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right:-96px;margin-bottom:70px;">
+							(Adimas/Fotolia; Toria/Shutterstock; Matthias Pahl/Shutterstock; Phil Banko/Stone/Getty Images; Fry Design Ltd/Photographer’s Choice/<br/>Getty Images)					</span>
+					<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+					
+					<div style="width:110%;height:100%;
+							background:no-repeat url(assets/images/figures/aboutMe.jpg) 0px 103px"></div></div>
+							<div class="font_9 floatLeft"
+								 style="margin-top:-7px;font-style: italic;">
+								 </div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">You probably have separate accounts for Facebook, YouTube, and Twitter. You might even have a presence on Vimeo, Flickr, Pinterest, or Blogger or even have your own website. But how can someone, such as a college recruiter or a potential employer, quickly scan your entire web persona from one place? </p>
+					<br/>
+					<p class="moreSpacing"><strong>About.me</strong> is a free website that allows you to create a page about yourself that can act as a portal to your online <strong>presence</strong>. You can set up your About.me page with a background photo you supply that reflects your personality or interests. After that, you can easily add links to all the social networking sites to which you belong and provide contact information such as an e-mail address. <strong>Consolidating</strong> all your  information in one place makes it easy for someone to quickly review your online persona.</p>
+					
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap13ArrSchip_computer.png')" onclick="window.open('http://about.me/','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Inner Workings of the Internet</div>
+					<p class="digCompP">We use the Internet so routinely that it may not have occurred to you to ask some fundamental questions about how it’s administered. In this part of the chapter, we’ll discuss this and other topics.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/mangeInternetsmall.jpg)">
+						<div class="orange">the management of the</div>
+						<div class="blue" style="margin-left:203px;">Internet</div>
+					</div>
+					
+					<p>To keep a massive network like the Internet functioning at peak efficiency, it must be governed and regulated. However, no single entity is in charge of the Internet. In addition, new uses for the Internet are created every day by a variety of individuals and companies.</p>
+					<p class="start"><strong>Who owns the Internet?</strong> The local networks that constitute the Internet are owned by different entities, including individuals, universities, government agencies, and private companies. Government entities such as the National Science Foundation (NSF), as well as many privately held companies, own pieces of the communications infrastructure (the high-speed data lines that transport data between networks) that makes the Internet work.</p>
+					<p class="start"><strong>Does anyone manage the Internet?</strong> Several nonprofit organizations and user groups, each with a specialized purpose, are responsible for the Internet’s management. <span class="strongDBlue" onclick="compTia.togglePopup(3,0)">Figure 13.1</span> shows major organizations that play a role in the governance and development of the Internet.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">Many of the functions handled by these nonprofit groups were previously handled by U.S. government contractors because the Internet developed out of a defense project. However, because the Internet serves the global community, assigning responsibilities to organizations with global membership is the best way to guarantee worldwide engagement in determining the direction of the Internet.</p>
+					<p class="start"><strong>Who pays for the Internet?</strong> The National Science Foundation (NSF), which is a U.S. government–funded agency, still pays for a large portion of the Internet’s infrastructure and funds research and development for new technologies. The primary source of NSF funding is federal taxes. Other countries also pay for Internet infrastructure and development.</p>
+					
+					<div class="doubleLineheadingOrangeDiagDashed TMargin5 cond" style="line-height: 20px;">Major Organizations in Internet <br/>Governance and Development</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(3,0)" style="    background: url(assets/images/figures/fig13.1.jpg) no-repeat scroll 5px 34px #FFFFFF; height: 217px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.1</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO shiftLeft12" style="background-image:url(assets/images/pics/INDTPsmall.jpg)">
+						<div class="dblue">internet</div>
+						<div class="orange" style="margin-left:115px;">Networking</div>
+					</div>
+					
+					<p>There is no magic involved in the Internet—just a series of communication transactions that enable the Internet to function as a global network. In this section, we explore the various networks that make up the Internet, explain how they connect to each other, and examine the workings of Internet data communications.</p>
+					
+					<h2 class="blueHeading">Internet Data Routes</h2>
+					<p><strong>How are computers connected to the Internet?</strong> As a “network of networks,” the Internet is similar to the U.S. highway system, where smaller roads feed into larger, faster highways. The main paths of the Internet, along which data travels the fastest, are known collectively as the Internet backbone. The <span class="strongDBlue" glossary>Internet backbone</span> is a collection of large national and international networks, most of which are owned by commercial, educational, or government organizations. These backbone providers, which are required to connect to other backbone providers, have the fastest high-speed connections. <span class="strongDBlue" onclick="compTia.togglePopup(4,0)">Figure 13.2</span> shows a typical Internet backbone provided by a single company. Other large U.S. companies that provide backbone connectivity include Verizon, AT&T, and Sprint.</p>
+					<p class="start"><strong>How do the Internet service providers (ISPs) that form the Internet backbone communicate?</strong> A backbone is typically a high-speed fiber-optic line, designated as an <span class="strongDBlue" glossary>optical carrier (OC) line</span>. OC lines come </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>in a range of speeds, from 0.052 Gbps for OC-1 to the fastest OC-768, which runs at almost 40 Gbps.</p>
+					<p class="start">Backbone ISPs initially connected with T lines. A <span class="strongDBlue" glossary>T line</span> carried digital data over twisted-pair wires. T-1 lines, which were the first to be used, transmit data at a throughput rate of 1.544 Mbps. T-3 lines, which were developed later, transmit data at 45 Mbps.</p>
+					<p class="start">The bandwidth of the connections between ISPs and end users depends on the amount of data traffic required. Whereas your home might connect to the Internet with cable or fiber-optic lines, the volume of Internet traffic at your college probably requires it to use an OC line to move data to the school’s ISP. Large companies usually must connect to their ISPs using high-throughput OC lines.</p>
+					
+					<figure onclick="compTia.togglePopup(4,0)"
+						style="height: 260px;background: url(assets/images/figures/fig13.2.jpg) no-repeat scroll 6px 10px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 13.2</span> A typical Internet backbone provided by a single company.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How are ISPs connected to each other?</strong> ISPs like Verizon and Comcast are connected together through an <span class="strongDBlue" glossary>Internet exchange point (IXP)</span>. A typical IXP is made up of one or more network switches to which ISPs connect. As you’ll recall from <span class="strongDBlue" onclick="compTia.generatePages(7)">Chapter 7</span>, <em>switches</em> are devices that send data on a specific route through a network. By connecting directly to each other through IXPs, networks can reduce their costs and improve the speed and efficiency with which data is exchanged.</p>
+					<p class="start moreSpacing"><strong>How do individuals connect to an ISP?</strong> Individual Internet users enter an ISP through a <span class="strongDBlue" glossary>point of presence (POP)</span>, which is a bank of modems, servers, routers, and switches (<span class="strongDBlue" onclick="compTia.togglePopup(5,0)">see Figure 13.3</span>) through which many users can connect to an ISP simultaneously. ISPs maintain multiple POPs throughout the geographic area they serve.</p>
+					
+					<h2 class="blueHeading">The Network Model of the Internet</h2>
+					<p class="moreSpacing"><strong>What type of network model does the Internet use?</strong> The majority of Internet communications follows the <span class="strongDBlue" glossary>client/server model</span> of network communications. The clients are devices such as computers, tablets, and smartphones that use browsers to request services such as web pages. Various types of servers from which clients can request services are deployed on the networks that make up the Internet:</p>
+					
+					<ul class="dotted">
+						<li><span class="innerLi"><span class="strongDBlue" glossary="Web server">Web servers</span>: computers that run specialized operating systems, enabling them to host web pages and other information and to provide requested information to clients.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><span class="strongDBlue" glossary="Commerce server">Commerce servers</span>: computers that host software that enables users to buy goods and services over the web. These servers generally use special security protocols to protect sensitive information, such as credit card numbers, from being intercepted.</span></li>
+						<li><span class="innerLi"><span class="strongDBlue" glossary="File server">File servers</span>: computers that are deployed to provide remote storage space or to act as storehouses for files that users can download. Cloud service providers offering online storage services have a huge collection of file servers.</span></li>
+					</ul>
+					
+					<figure onclick="compTia.togglePopup(5,0)"
+						style="height: 280px;background: url(assets/images/figures/fig13.3.jpg) no-repeat scroll 0px 10px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 13.3</span> Home users connect to their ISPs through a single point of presence that can handle many simultaneous connections.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB shiftLeft12" style="background-image:url(assets/images/pics/INDTPsmall.jpg)">
+						<div class="orange">data transmission and</div>
+						<div class="blue" style="margin-left:175px;">Protocols</div>
+					</div>
+					
+					<p>Just like any other network, the Internet follows standard protocols to send information between computers. A <span class="strongDBlue" glossary>computer protocol</span> is a set of rules for exchanging electronic information. If the Internet is the information superhighway, then protocols are the rules of the road.</p>
+					<p class="start"><strong>Why were Internet protocols developed?</strong> The idea of a protocol is that anyone can use it on his or her computer system and be able to communicate with any other computer using the same protocol. The most common Internet tasks—communicating, collaborating, creating content, seeking information, and shopping—are all executed the same way on any system following accepted Internet protocols.</p>
+					<p class="start">When common communication protocols are followed, networks can communicate even if they have different topologies, transmission media, or operating systems. To accomplish the early goals of the Internet, protocols needed to be written and agreed on by users. Each protocol had to be an <span class="strongDBlue" glossary>open system</span>, meaning its design would be made public for access by any interested party. This was in direct opposition to the <span class="strongDBlue" glossary>proprietary system</span> (private system) model that was the norm at the time.</p>
+					
+					<div onclick="compTia.togglePopup(6,0)" class="bitsAndBytesBlue TMargin10">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Who Opened Your Ports?
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Were there problems developing an open system Internet protocol?</strong> Agreeing on common standards was relatively easy. The tough part was developing a new method of communication because the technology available in the 1960s—circuit switching—was inefficient for computer communication.</p>
+					
+					<h2 class="blueHeading">Circuit Switching</h2>
+					<p class="moreSpacing"><strong>Why don’t we use circuit switching to connect two computers?</strong> Circuit switching has been used since the early days of the telephone for establishing communication. In <span class="strongDBlue" glossary>circuit switching</span>, a dedicated connection is formed between two points (such as two people on phones), and the connection remains active for the duration of the transmission. This method of communication is important when communications must be received in the order in which they’re sent, like phone conversations.</p>
+					<p class="start moreSpacing">When applied to computers, however, circuit switching is inefficient. As a computer processor performs the operations necessary to complete a task, it transmits data in a group, or burst. The processor then begins working on its next task and ceases to communicate with output devices or other networks until it’s ready to transmit data in the next burst. Circuit switching is inefficient for computers because either the circuit would have to remain open, and therefore unavailable to any other system, with long periods of inactivity, or it would have to be reestablished for each burst.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Packet Switching</h2>
+					<p><strong>If they don’t use circuit switching, what do computers use to communicate?</strong> <span class="strongDBlue" glossary>Packet switching</span> is the communications methodology that makes computer communication efficient. Packet switching doesn’t require a dedicated communications circuit to be maintained. With packet switching, data is broken into smaller chunks called <span class="strongDBlue" glossary="packet (data packet)">packets</span> (or <span class="strongDBlue" glossary="packet (data packet)">data packets</span>). The packets are sent over various routes at the same time. When the packets reach their destination, they’re reassembled by the receiving computer. This technology resulted from one of the original goals of creating the Internet: If an Internet node is disabled or destroyed, the data can travel an alternate route to its destination.</p>
+					<p class="start"><strong>What information does a packet contain?</strong> Packet contents vary, depending on the protocol being followed. At a minimum, all packets must contain the following:</p>
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong">An address to which the packet is being sent</span></li>
+						<li><span class="innerLi notStrong">The address from where the packet originates</span></li>
+						<li><span class="innerLi notStrong">Reassembly instructions, if the original data is split between packets, and </span></li>
+						<li><span class="innerLi notStrong">The data that’s being transmitted</span></li>
+					</ol>
+					
+					<p class="start">Sending a packet is like sending a letter. Assume you’re sending a large amount of information in written format from your home in Philadelphia to your aunt in San Diego. The information is too large to fit in one small envelope, so you mail three different envelopes to your aunt. Each envelope includes your aunt’s address, your return address, and the </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">information being sent inside it. The pages of the letters in each envelope are numbered so that your aunt will know in which order to read them.</p>
+					<p class="start moreSpacing">Each envelope may not find its way to San Diego by the same route. However, even if the letters are routed through different post offices, they’ll all eventually arrive in your aunt’s mailbox. Your aunt will then reassemble the message in the right order and read it. The process of sending a message through the Internet works in much the same way. This process is illustrated in <span class="strongDBlue" onclick="compTia.togglePopup(7,0)">Figure 13.4</span>, which traces an e-mail message sent from a computer in Philadelphia to a computer in San Diego.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_19 TMargin10">Packet Switching</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(7,0)" style="    background: url(assets/images/figures/fig13.4.jpg) no-repeat scroll 83px 37px #FFFFFF; height: 265px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.4</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 13.4</span> Each packet sent through the Internet can follow its own route to its final destination. Sequential numbering of packets ensures they’re reassembled in the correct order at their destination. <em>(Nikada/iStockphoto; Tsiumpa/Fotolia;Juffin/iStockphoto)</em>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Why do packets take different routes, and how do they decide which route to use?</strong> The routers that connect ISPs with each other monitor traffic and decide on the most efficient route for packets to take to their destination. The router works in the same way a police officer does while directing traffic. To ensure a smooth flow of traffic, police officers are deployed in areas of congestion, directing drivers along alternate routes to their destinations. The <span onclick="compTia.modules.toggleModule(45)" class="strongDBlue">“Try This”</span> exercise in this chapter uses the Windows utility tracert to show you the details on the exact route your request takes to the destination server.</p>
+					
+					<h2 class="blueHeading">TCP/IP</h2>
+					<p class="moreSpacing"><strong>What protocol does the Internet use for transmitting data?</strong> Although many protocols are available on the Internet, the main suite of protocols used is <span class="strongDBlue" glossary>TCP/IP</span>. The suite is named after the original two protocols that were developed for the Internet: the <span class="strongDBlue" glossary>Transmission Control Protocol (TCP)</span> and the <span class="strongDBlue" glossary>Internet Protocol (IP)</span>. Although most people think that the TCP/IP suite consists of only two protocols, it actually comprises many interrelated protocols, the most important of which are listed in <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 13.5</span>.</p>
+					<p class="start moreSpacing"><strong>Which particular protocol actually sends the information?</strong> The Internet Protocol (IP) is responsible for sending the information from one computer to another. The IP is like a postal worker who takes a letter (a </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_18 ">TCP/IP Protocol Suite—Main Protocols</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(8,0)" style="    background: url(assets/images/figures/fig13.5.jpg) no-repeat scroll 11px 40px #FFFFFF; height: 250px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.5</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				
+					<p class="moreSpacing TMargin20">packet of information) that was mailed (created by the sending computer) and sends it on to another post office (router), which in turn routes it to the addressee (the receiving computer). The postal worker never knows whether the recipient actually receives the letter. The only thing the postal worker knows is that the letter was handed  off to an appropriate post office that will assist in completing the delivery of the letter.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO shiftLeft12" style="background-image:url(assets/images/pics/IPBig.jpg)">
+						<div class="dblue">internet identity: IP addresses and</div>
+						<div class="orange" style="margin-left:126px;">Domain Names</div>
+					</div>
+					
+					<p>Each computer, server, or device connected to the Internet is required to have a unique identification number, or IP address. However, because humans are better at remembering and working with words than with numbers, the numeric IP addresses were given more “human,” word-based addresses. Thus, domain names were born. In this section, we’ll look at both IP addresses and domain names.</p>
+					
+					<h2 class="blueHeading">IP Addresses</h2>
+					<p><strong>What is an IP address?</strong> You’ll recall from <span class="strongDBlue" onclick="compTia.generatePages(3)">Chapter 3</span> that an <span class="strongDBlue" glossary>IP address</span> is a unique identification number that defines each computer, service, or other device connected to the Internet. IP addresses fulfill the same function as street addresses. For example, to send a letter to Rosa Juarez’s house in Metamora, Illinois, you have to know her address. Rosa might live at 456 Walnut Street, which isn’t a unique address because many towns have a Walnut Street, but 456 Walnut Street, Metamora, IL 61548 is a unique address.</p>
+					<p class="start">The numeric zip code is the unique postal identification for a specific geographic area. IP addresses must be registered with the <span class="strongDBlue" glossary>Internet Corporation for Assigned Names and Numbers (ICANN)</span> to ensure they’re unique and haven’t been assigned to other users. ICANN is responsible for allocating IP addresses to network administrators.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>What does an IP address look like?</strong> A typical IP address is expressed as follows:</p>
+					
+					<p style="text-align:center; font-family:courier;">197.169.73.63</p>
+					
+					<p class="start moreSpacing">An IP address in this form is called a <span class="strongDBlue" glossary="dotted decimal number (dotted quad)">dotted decimal number</span> (or a <span class="strongDBlue" glossary="dotted decimal number (dotted quad)">dotted quad</span>). The same IP address in binary form is as follows:</p>
+					
+					<p style="text-align:center; font-family:courier;">11000101.10101001.01001001.00111111</p>
+					
+					<p class="start moreSpacing">Each of the 4 numbers in a dotted decimal number is referred to as an <span class="strongDBlue" glossary>octet</span>. This is because each number would have 8 positions when shown in binary form. Because 32 positions are available for IP address values (4 octets with 8 positions each), IP addresses are considered 32-bit numbers. A position is filled by either a <em>1</em> or a <em>0</em>, resulting in 256 (which is 2<sup>8</sup>) possible values for each octet, from <em>0</em> to <em>255</em>. The entire 32-bit address can represent 4,294,967,296 values (or 2 <sup>32</sup>), which is quite a few Internet addresses!</p>
+					<p class="start moreSpacing"><strong>Will we ever run out of IP addresses?</strong> When the original IP addressing scheme, <span class="strongDBlue" glossary>Internet Protocol version 4 (IPv4)</span>, was created in 1981, no one foresaw the explosive growth of the Internet in the 1990s. Four billion values for an address field seemed like enough to last forever. However, as the Internet grew, it quickly became apparent that we were going to run out of IP addresses.</p>
+					
+					<div onclick="compTia.togglePopup(9,0)" class="bitsAndBytesBlue TMargin10">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						What’s Your IP Address?
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(10,0)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						What Is an Internet Cache?
+					</div>
+					
+					<p class="start moreSpacing TMargin10">Because IPv4 offers only a fixed number of IP addresses, a different addressing scheme, known as <span class="strongDBlue" glossary>classless interdomain routing (CIDR)</span>, pronounced “cider,” was developed. CIDR, or <em>supernetting</em>, allows a single IP address to represent several unique IP addresses by adding a <span class="strongDBlue" glossary>network prefix</span>, represented by a slash and a number, to the end of the last octet. The network prefix identifies how many of the possible 32 bits in a traditional IP address are to be used as the unique identifier, leaving the remaining bits to identify the specific host. For example, in the IP address 206.13.01.48/25, “/25” is the network prefix. It indicates that the first 25 bits are used as the unique network identifier; the remaining 7 bits identify the specific host site.</p>
+					<p class="start moreSpacing"><strong>Are there other Internet addressing systems?</strong> <span class="strongDBlue" glossary>Internet Protocol version 6 (IPv6)</span> is an IP addressing scheme developed by the IETF to make IP addresses longer, thereby providing more available IP addresses. IPv6 uses 128-bit addressing instead of 32-bit addressing. An IPv6 address would have the following format:</p>
+					<br/>
+					<p style="font-family:courier;">XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXXX:XXXX</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">where each digit X is a <span class="strongDBlue" glossary>hexadecimal digit</span>. Hexadecimal is a base-16 number system, and each hexadecimal digit is one of 16 possible values: 0–9 or A–F. Hex addressing provides a much larger field size, which will make available a much larger number of IP addresses (approximately 340 followed by 36 zeros). This should provide a virtually unlimited supply of IP addresses and will allow many different kinds of non–PC devices such as cell phones and home appliances to join the Internet more easily in the future. All modern operating systems can handle both IPv4 and IPv6 addresses. Although the majority of routing on the Internet still takes place using IPv4 addresses, the conversion to IPv6 addressing should accelerate now that we’re running out of IPv4 addresses.</p>
+					
+					<p class="start moreSpacing"><strong>How does my computer get an IP address?</strong> IP addresses are assigned either statically or dynamically:</p>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi"><span class="strongDBlue" glossary>Static addressing</span> means that the IP address for a computer never changes and is most likely assigned manually by a network administrator or an ISP.</span></li>
+						<li class="moreSpacing"><span class="innerLi"><span class="strongDBlue" glossary>Dynamic addressing</span>, in which your computer is assigned a temporary address from an available pool of IP addresses, is more common.</span></li>
+					</ul>
+					
+					<div class="greenHorzButton TMargin10" onclick="compTia.togglePopup(10,1)" style="margin-top:10px;">
+						<span class="largeBoldWhite">DIG DEEPER</span>
+						<strong class="normalFont cond">Connection-Oriented Versus Connectionless Protocols</strong>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(11,0)"
+						style="height: 378px;background: url(assets/images/figures/fig13.9.jpg) no-repeat scroll 40px 10px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 13.9</span> With dynamic IP addressing, your IP address changes every time you connect to the Internet.</figcaption>
+   			</figure>
+					
+					<p class="start moreSpacing TMargin10">A connection to an ISP could use either method. If your ISP uses static addressing, then you were assigned an IP address when you applied for your service and had to configure your computer manually to use that address. More often, though, an ISP assigns a computer a dynamic IP address, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(11,0)">Figure 13.9</span>.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_25.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Understanding IP Addresses, Domain Names, and Protocols
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about which data transmissions and protocols the Internet uses and why IP addresses and domain names are important for Internet communications. 
+					</div></div>
+					
+					<p class="start moreSpacing"><strong>How exactly are dynamic addresses assigned?</strong> Dynamic addressing is normally handled by the <span class="strongDBlue" glossary>Dynamic Host Configuration Protocol (DHCP)</span>, which belongs to the TCP/IP protocol suite. DHCP takes a pool of IP addresses and shares them with hosts on the network on an as-needed basis. ISPs don’t need to maintain a pool of IP addresses for all their subscribers because not everyone is logged on to the Internet at one time. Thus, when a user logs on to an ISP’s server, the DHCP server assigns that user an IP address for the duration of the session. Similarly, when you log on to your computer at work in the morning, DHCP assigns an IP address to your computer. These temporary IP addresses may or may not be the same from session to session.</p>
+					<p class="start moreSpacing"><strong>What are the benefits of dynamic addressing?</strong> Although having a static address would seem to be convenient, dynamic addressing provides a more secure environment by keeping hackers out of computer systems. Imagine how hard it would be for burglars to find your home if you changed your address every day!</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Domain Names</h2>
+					<p><strong>I’ve been on the Internet, so why have I never seen IP addresses?</strong> As you learned in <span class="strongDBlue" onclick="compTia.generatePages(3)">Chapter 3</span>, a <em>domain name</em> is a name that takes the place of an IP address, making it easier for people to remember. For example, google.com is a domain name. The server where Google’s main website is deployed has an IP address (such as 66.249.64.55), but it’s much easier for you to remember to tell your browser to go to <span class="strongDBlue" onclick="window.open('http://google.com','_blank')">google.com</span>.</p>
+					<p class="start"><strong>How are domains organized?</strong> Domains are organized by level. As you’ll recall from <span class="strongDBlue" onclick="compTia.generatePages(3)">Chapter 3</span>, the portion of the domain name after the dot is the <em>top-level domain (TLD)</em>. The TLDs are standardized pools (such as .com and .org) established by ICANN.</p> 
+					<p class="start">Within each top-level are many second-level domains. A <span class="strongDBlue" glossary>second-level domain</span> is a domain that’s directly below a top-level domain. For example, in <span class="strongDBlue" onclick="window.open('http://dropbox.com','_blank')">dropbox.com</span>, <em>dropbox</em> is the second-level domain to the .com TLD. A second-level domain needs to be unique within its own TLD but not necessarily unique to all top-level domains. For example, myawesomesite.com and myawesomesite.org could be registered as separate domain names.</p>
+					<p class="start"><strong>Who controls domain name registration?</strong> ICANN assigns companies or organizations to manage domain name registration. Because names can’t be duplicated within a TLD, one company is assigned to </p>
+					
+					<div onclick="compTia.togglePopup(12,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Guidelines for Choosing a Domain Name
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">oversee each TLD and to maintain a listing of all registered domains. VeriSign is the current ICANN–accredited domain name registrar for the .com and .net domains. VeriSign provides a database that lists all the registered .com and .net domains and their contact information. You can look up any .com or .net domain at Network Solutions (<span class="strongDBlue" onclick="window.open('http://networksolutions.com','_blank')">networksolutions.com</span>) to see whether it’s registered and, if so, who owns it.</p>
+					
+					<figure 
+						style="height: 348px;background: url(assets/images/figures/tree13.jpg) no-repeat scroll 47px 10px transparent;">
+						<figcaption class="bottomPos">
+   				<span></span>The number of generic top level domains has grown to include .musuem and .job. ICANN is responsible for organizing TLD names. <em>(queidea/Fotolia)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">Country-specific domains (such as .au for Australia) are controlled by groups in those countries. You can find a complete list of country-code TLDs on the Internet Assigned Numbers Authority website (<span class="strongDBlue" onclick="window.open('http://iana.org','_blank')">iana.org</span>).</p>
+					<p class="start"><strong>How does my computer know the IP address of another computer?</strong> When you enter a URL in your browser, your computer converts the URL to an IP address. To do this, your computer consults a database maintained on a <span class="strongDBlue" glossary="domain name system (DNS) server">domain name system (DNS)</span> server that functions like a phone book for the Internet.</p>
+					<p class="start">Your ISP’s web server has a default DNS server (one that’s convenient to contact) that it goes to when it needs to translate a URL to an IP address (illustrated in <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 13.10</span>).</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_18 TMargin10">DNS Servers in Action</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(13,0)" style="    background: url(assets/images/figures/fig13.10.jpg) no-repeat scroll 6px 32px #FFFFFF; height: 220px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.10</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_13_Part_1/Chapter_13_Part_1.html','_blank')" >Replay Video 13.1</span></span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(44)" class="strongDBlue">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Should there be special treatment given to some information (say, the transfer of medical files to emergency trauma centers) versus other information (chain letters)?</div>
+					<ol class="pollQuestions">
+						<li>Yes</li>
+						<li>No</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(45)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Coding and Communicating on the Internet</div>
+					<p class="digCompP">The web uses special languages such as <i>HTML</i> and protocols such as <i>HTTP</i> to facilitate communication between computers that use different system and application software. Communication between any two points on the Internet is possible because of HTML and communication protocols. In this part of the chapter, we’ll explore these topics.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/tattooSmall.jpg)">
+						<div class="orange">HTML, XML, and other web</div>
+						<div class="blue" style="margin-left:78px;">Building Blocks</div>
+					</div>
+					
+					<p>Let’s examine in more detail the programming languages and communication protocols that support the Internet.</p>
+					
+					<h2 class="blueHeading">HTML</h2>
+					<p class="moreSpacing"><strong>How are web pages formatted?</strong> Web pages are text documents formatted using HTML (Hypertext Markup Language). HTML isn’t a programming language; rather, it’s a set of rules for marking up blocks of text so that a browser knows how to display them.</p>
+					<p class="start moreSpacing">Blocks of text in HTML documents are surrounded by pairs of <span class="strongDBlue" glossary>HTML tags</span> (such as &lt;b> and &lt;/b>, which indicate bolding). HTML tags surround and define HTML content. Each pair of tags and the text between them are collectively referred to as an <span class="strongDBlue" glossary>element</span>. The elements are interpreted by the browser, and appropriate effects are applied to the text. The following is an element from an HTML document:</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p style="font-family:courier;margin-left:70px;">&lt;i>This should be</p>
+					<p style="font-family:courier;margin-left:70px;">italicized.&lt;i></p>
+					<p style="margin-left:70px;">The browser would display this element as:</p>
+					<p style="font-family:courier;margin-left:70px;"><i>This should be</p>
+					<p style="font-family:courier;margin-left:70px;">italicized.</i></p>
+					<br/>
+					<p style="magring-left:70px;">The first tag, &lt;i>, tells the browser that the text following it should be italicized. The ending &lt;/i> tag indicates that the browser should stop applying italics. Note that multiple tags can be combined in a single element:</p>
+					
+					<p style="font-family:courier;margin-left:70px;">&lt;b>&lt;i>This should be bolded and</p> 
+					<p style="font-family:courier;margin-left:70px;">italicized.&lt;/i>&lt;/b></p>
+					<p style="margin-left:70px;">The browser would display this element as:</p>
+					<p style="font-family:courier;margin-left:70px;"><b><i>This should be bolded and <br/>italicized.</i></b></p>
+				<br/>
+					<p style="margin-left:70px;">Tags for creating hyperlinks appear as follows:</p>
+					<p style="font-family:courier;margin-left:70px;">&lt;a href=www.pearsonhighered.</p>
+					<p style="font-family:courier;margin-left:70px;">com>Pearson Higher Education&lt;/a></p>
+					
+				<br/>
+					<p class="start moreSpacing">The code &lt;a href=www.pearsonhighered.com> defines the link’s destination. The &lt;a> tag is the anchor tag and creates a link to another resource on the web. Here the link is to the <span class="strongDBlue" onclick="window.open('http://www.pearsonhighered.com','_blank')">www.pearsonhighered.com</span> web page. The text between the open and close of the anchor tag, Pearson</p>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">Higher Education, is the link label. The link label is the text (or  image) that’s displayed on the web page as clickable text for the hyperlink.</p>
+					<p class="start moreSpacing"><strong>How do I see the HTML coding of a web page?</strong> HTML documents are merely text documents with tags applied to them. If you want to look at the HTML coding behind any web page, just right click, select View Source from the shortcut menu, and the HTML code for that page will display, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(17,0)">Figure 13.11</span>.</p>
+					<p class="start moreSpacing"><strong>What is the current HTML standard?</strong> As we discussed in <span class="strongDBlue" onclick="compTia.generatePages(10)">Chapter 10</span>, HTML5 is the current version of the HTML standard. At the time of this writing,it’s still under finalization, with a target finalization date of 2014. However, many devices and browsers are already HTML5 enabled. HTML5 modernizes a number of features in HTML such as:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Reducing the need for external plug-ins (like Flash)</span></li>
+						<li><span class="innerLi">Supporting better error handling</span></li>
+						<li><span class="innerLi">Introducing new tags to support media, like &lt;video> and &lt;audio></span></li>
+						<li><span class="innerLi">Making it easier to draw graphics</span></li>
+					</ul>
+					<p class="start moreSpacing"><strong>How can developers easily change the formatting of HTML elements?</strong> A <span class="strongDBlue" glossary>cascading style sheet</span> is a list of rules that defines in one single location how to display HTML elements. Style rules enable a web developer to define a kind of formatting for each HTML element and apply it to all those elements on a set of web pages. Essentially, a template is created on which the formatting for many web pages within a site will be based. When a global change is necessary, the developer only needs to </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure style="margin-bottom: 10px;height:254px">
+						<img src="assets/images/figures/fig13.11.jpg" onclick="compTia.togglePopup(17,0)" style="margin-left: 60px;"/>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_13_11.html','_blank')" style="padding:3.5px;"></div>
+					
+					<figcaption style="margin-left:60px;margin-top:8px;">
+						<span>Figure 13.11</span> You can view the source code of a website by right-clicking and selecting View Source from the shortcut menu.
+						</figcaption></figure>	
+					
+					<p>change the style on the style sheet, and all the elements in the web document will update automatically (<span class="strongDBlue" onclick="compTia.togglePopup(18,0)">see Figure 13.12</span>).</p>
+					<p class="start moreSpacing">For example, a web page has an &lt;h1> heading tag, and all &lt;h1> tags in the web page are formatted with a white background and an orange border. Before cascading style sheets, if you wanted to change the border color from orange to yellow, you had to change the background color of each individual &lt;h1> tag. With cascading style sheets, the change from orange to yellow only needs to happen once on the style sheet; all the &lt;h1> tags on the web pages then update to yellow without individual changes needing to be made. </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="18" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure style="margin-bottom: 10px;height:237px">
+						<img src="assets/images/figures/fig13.12.jpg" onclick="compTia.togglePopup(18,0)" style="margin-left: 85px;"/>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_13_12.html','_blank')" style="padding:3.5px;"></div>
+					
+					<figcaption style="margin-left:60px;margin-top:8px;">
+						<span>Figure 13.12</span> Cascading style sheets allow developers to create formatting templates. Just as all the pages of this book have a similar look and feel, one style sheet can control the formatting of many web pages.
+						</figcaption></figure>
+					
+					<p class="start"><strong>Where does the cascading come in?</strong> In web documents, there are different layers of styles:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">External: stored in a separate file</span></li>
+						<li><span class="innerLi">Embedded: stored inside the current HTML document</span></li>
+						<li><span class="innerLi">Inline: stored within a single line inside the HTML document</span></li>
+					</ul>	
+					
+					<p class="start">Therefore, it’s possible that different rules can be created for the same type of element located in different places (external, embedded, or inline). In other words, in an external style sheet, there might be a rule that defines the background color for all paragraphs as blue. In an embedded style sheet, a rule for the background color for all paragraphs might be white. And in an inline style sheet, the background color might be light pink. Eventually, all these style sheets must be merged to form one style sheet for the document. This creates conflicts among rules. Therefore, each type of</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">rule is understood to have a specfic weight so that when the rules are collected and merged, the rule or style with a higher weight overrides the rule or style with a lower weight. This hierarchy of competing styles creates a “cascade” of styles ranked according to their assigned weights.</p>
+					
+					<h2 class="blueHeading">XML</h2>
+					<p class="moreSpacing"><strong>How is XML different from HTML?</strong> As you learned in <span class="strongDBlue" onclick="compTia.generatePages(10)">Chapter 10</span>, the <span class="strongDBlue" glossary>eXtensible Markup Language (XML)</span> describes the content in terms of what data is being described rather than how it’s to be displayed. Instead of being locked into standard tags and formats for data, users can build their own markup languages to accommodate particular data formats and needs.</p>
+					<p class="start moreSpacing">For example, say you want to capture a credit card number. In HTML, the paragraph tags (&lt;p> and &lt;/p>) are used to define text and numeric elements. Almost any text or graphic can fall between these tags and be treated as a paragraph. The HTML code could appear as:</p>
+				<br/>	
+					<p style="font-family:courier;margin-left:70px;">&lt;p>1234567890123456&lt;/p></p>
+				<br/>
+					<p class="start moreSpacing">The browser will interpret the data contained within the &lt;p> and &lt;/p> tags as a separate paragraph. However, the paragraph tags tell us nothing about the data contained within them. A better approach lies in creating tags that actually <em>describe</em> the data contained within them. Using XML we could create a “credit card number” tag that’s used exclusively for credit card data:</p>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p style="font-family:courier;margin-left:70px;">&lt;credit_card_number>1234567890123456</p>
+					<p style="font-family:courier;margin-left:70px;">&lt;/credit_card_number></p>
+				<br/>	
+					<p class="start moreSpacing">In addition, HTML tags don’t provide any methodology for data validation. If we needed a tag for an age field, we know a person’s age can only be between 0 and 120, but any data may be inserted between &lt;p> and &lt;p> tags. How would we know if the age was valid? <em>XML schema diagrams (XSD)</em> allows you to specify all kinds of data validation for a specific XML tag. An XSD schema definition that restricts age to be in the range 0, 120 would read:</p>
+				<br/>
+					<p style="font-family:courier;margin-left:70px;">&lt;xs:simpleType name= “age”></p>
+					<p style="font-family:courier;margin-left:85px;">&lt;xs:restriction base=“xs:integer”></p>
+					<p style="font-family:courier;margin-left:100px;">&lt;xs:minInclusive value=“0”/></p>
+					<p style="font-family:courier;margin-left:100px;">&lt;xs:maxInclusive value=“120”/></p>
+					<p style="font-family:courier;margin-left:85px;">&lt;/xs:restriction></p>
+					<p style="font-family:courier;margin-left:70px;">&lt;/xs:simpleType></p>
+				<br/>
+					
+					<p class="start moreSpacing"><strong>What custom XML packages are available?</strong> XML has spawned quite a few custom packages for specific communities. A few examples are listed in <span class="strongDBlue" onclick="compTia.togglePopup(19,0)">Figure 13.13</span>. These packages illustrate the goal of XML—information exchange standards that can be easily constructed and customized to serve a growing variety of online applications.</p>		
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Web Browser Protocols</h2>
+					<p><strong>Which Internet protocol does a browser use to send requests?</strong> The <span class="strongDBlue" glossary>Hypertext Transfer Protocol (HTTP)</span> was created especially for the transfer of hypertext documents across the Internet. (Recall that <em>hypertext</em> documents are documents in which text is linked to other documents or media.)</p>
+					<p class="start lessSpacing"><strong>How does a browser safeguard secure information?</strong> <span class="strongDBlue" glossary>Hypertext Transfer Protocol Secure (HTTPS)</span> ensures that data is sent securely over the web. HTTPS is actually an acronym that’s the combination of HTTP and <span class="strongDBlue" glossary>Secure Sockets Layer (SSL)</span>, a network security protocol. <span class="strongDBlue" glossary>Transport Layer Security (TLS)</span> is an updated extension of SSL. These protocols provide data integrity and security for transmissions over the Internet. Commerce servers use security protocols to protect sensitive information from interception by hackers.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_18 TMargin10">XML CustomPackages</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(19,0)" style="    background: url(assets/images/figures/fig13.13.jpg) no-repeat scroll 10px 28px #FFFFFF; height: 174px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.13</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Server-Side Applications</h2>
+					<p><strong>What are server-side applications?</strong> As you’ll recall, the web is a client/server network. The type of program that runs on a web server rather than on your computer is referred to as a <span class="strongDBlue" glossary>server-side program</span>. Server-side program execution can require many communication sessions between the client and the server to achieve the goal, but server-side programs can perform very complex operations. </p>
+					<p class="start"><strong>What are popular server-side programming choices?</strong> Several methods of designing programs are available that execute on the server and give a web page more sophisticated abilities. Two of the most popular are <em>CGI</em> (<em>Common Gateway Interface</em>) and <em>ASP.NET</em> (<em>Active Server Pages</em>).</p>
+					<p class="start">In addition, both <em>VBScript</em> and <em>PerlScript</em> work together with ASP.NET to produce server-side programs.</p>
+					<p class="start"><strong>How does CGI make a web page more interactive?</strong> Most browser requests merely result in a file being displayed in your browser. To make a website interactive, you may need to run a program that performs a certain action (such as gathering a name and address and adding it to a database). The <span class="strongDBlue" glossary>Common Gateway Interface (CGI)</span> provides a methodology by </p>
+					
+					<div class="soundByteContain TMargin10">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/constructing_web_pages_with_html/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Creating Web Pages with HTML
+						</div>
+						Creating simple web pages using Microsoft Word is relatively easy. In this Sound Byte, you’ll learn the basics ofweb page creation by setting up a website featuring a student résumé.
+					</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="lessSpacing">which your browser can request that a  program file be executed instead of just being delivered to the browser. This enables functionality beyond the simple display of information.</p>
+					<p class="start lessSpacing"><strong>What programming language is used to create a CGI program?</strong> CGI files can be created in almost any programming language, and the programs created are referred to as <span class="strongDBlue" glossary="CGI script">CGI scripts</span>. Common languages used to create CGI scripts are Perl, C, and C++. Almost any task can be accomplished by writing a CGI script. One common task is to collect a user’s answers in a form and to create and send out an e-mail message with that information.</p>
+					<p class="start lessSpacing"><strong>How are CGI programs executed?</strong> On most web servers, a directory called a <span class="strongDBlue" glossary>cgi-bin</span> is created by the network administrator who configures the web server. All CGI scripts are placed into this directory. The web server knows that all files in this directory aren’t just to be read and sent but also need to be run. A example is shown in <span class="strongDBlue" onclick="compTia.togglePopup(20,0)">Figure 13.14</span>.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_18 TMargin5">CGI Program</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(20,0)" style="    background: url(assets/images/figures/fig13.14.jpg) no-repeat scroll 25px 35px #FFFFFF; height: 174px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.14</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 13.14</span> Information flow when a CGI program is run.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Client-Side Applications</h2>
+					<p class="lessSpacing"><strong>What are client-side applications?</strong> A <span class="strongDBlue" glossary>client-side program</span> is a program that runs on the client computer and requires no interaction with a web server. Once a web server processes a web page and sends the page to the client computer that requested it, the receiving computer can’t get new data from the server unless a new request is made. If interactivity is required on a web page, this exchange of data between the client and server can make the interactivity inefficient and slow. Often it’s  more efficient to run programs on your computer (the client). Therefore, client-side programs are created.</p>
+					<p class="start lessSpacing"><strong>How is client-side programming done?</strong> There are two main approaches to client-side programming:</p>
+					<ol>
+						<li><span class="innerLi">An <span class="strongDBlue" glossary>HTML embedded scripting language</span>, which tucks programming code directly within the HTML of a web page. The most popular embedded language is <em>JavaScript</em>.</span></li>
+						<li><span class="innerLi">An <span class="strongDBlue" glossary>applet</span>, which is a small application actually located on the server. When requested, the applet is downloaded to the client. It’s there ready to run when needed without additional data transfers between the client and server. The Java language is the most common language used to create applets for use in browsers.</span></li>
+					</ol>
+					
+					<p class="start lessSpacing"><strong>Isn’t there a delay as an applet downloads?</strong> You may experience some delay in functionality while waiting for a Java applet to download to your computer, but once the applet arrives, it can execute all its functions without further communication with the server. Games are often sent to your browser as applets. An example is shown in <span class="strongDBlue" onclick="compTia.togglePopup(21,0)">Figure 13.15</span>.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_20">Java Applet</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(21,0)" style="    background: url(assets/images/figures/fig13.15.jpg) no-repeat scroll 29px 37px #FFFFFF; height: 200px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.15</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 13.15</span> Deployment of a Java applet on a computer.
+						</figcaption></figure>
+					</div>
+					
+					<p class="start TMargin10 moreSpacing"><strong>What are some scripting technologies?</strong> <span class="strongDBlue" glossary>Dynamic HTML (DHTML)</span> is a combination of technologies— HTML, cascading style sheets, and JavaScript— that’s used to create lively and interactive websites. DHTML technologies allow a web page to change (that is, to be dynamic) after it’s been loaded. Such change generally occurs in response to user actions, such as when you click your mouse or mouse over objects on a page. DHTML also brings special effects to otherwise static web pages without requiring users to download and install plug-ins or other special software.</p>
+					<p class="start moreSpacing"><strong>What is JavaScript?</strong> <span class="strongDBlue" glossary>JavaScript</span> is a commonly used scripting language for creating DHTML effects. JavaScript is often confused with the Java programming language because of the similarity in their names. However, though they share some common elements, the two languages are different. </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">With JavaScript, HTML documents can be made responsive to mouse clicks and typing. For example, JavaScript is often used to validate the information you input in a web form, for example, to make sure you filled in all required fields.</p>
+					<p class="start">When JavaScript code is embedded in an HTML document, it’s downloaded to the browser with the HTML page. All actions dictated by the embedded JavaScript commands are executed on the client computer. Without JavaScript and other scripting languages, web pages would be lifeless.</p>
+					<p class="start"><strong>How does JavaScript control the components of a web page?</strong> Just as cascading style sheets organize and combine the attributes of objects on a web page, JavaScript uses the <span class="strongDBlue" glossary>Document Object Model (DOM)</span> to organize the objects and page elements. The Document Object Model defines every item on a web page—including graphics, tables, and headers—as an object. Then with DOM, similar to cascading style sheets, web developers can easily change the look and feel of these objects.</p>
+					<p class="start"><strong>Where is web programming headed?</strong> Web pages can interact with servers at times other than when a page is being fetched. Web pages can have an ongoing exchange of information, communicating with the server and updating information on the page without requiring the user to do a page refresh or leave the page. AJAX is the acronym for Asynchronous JavaScript and XML, a group of technologies that facilitates the creation of these style web applications. JavaScript and XML are frequently used by AJAX web developers.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO shiftLeft12" style="background-image:url(assets/images/pics/communicateSmall.jpg)">
+						<div class="dblue">communications over</div>
+						<div class="orange" style="margin-left:157px;">the Internet</div>
+					</div>
+					
+					<p class="moreSpacing">In this section, we explore electronic communications media and how to keep your information exchanges efficient and secure.</p>
+					
+					<h2 class="blueHeading">E-mail</h2>
+					<p class="moreSpacing"><strong>Who invented e-mail?</strong>  In 1971, Ray Tomlinson, a computer engineer who worked on the development of the ARPANET, the precursor to the Internet, created e-mail. E-mail grew from a simple program that Tomlinson wrote to enable computer users to leave text messages for each other on a single machine. The logical extension of this was sending text messages between machines on the Internet. E-mail became the most popular application on ARPANET; by 1973, it accounted for 75% of all data traffic.</p>
+					<p class="start moreSpacing"><strong>How does e-mail travel the Internet?</strong> Just like other kinds of data that flow along the Internet, e-mail has its own protocol. The <span class="strongDBlue" glossary>Simple Mail Transfer Protocol (SMTP)</span> is responsible for sending e-mail along the Internet to its destination. SMTP is part of the Internet Protocol suite. As in most other Internet applications, e-mail is a client/server application. On the way to its destination, your mail will pass through <span class="strongDBlue" glossary="e-mail server">e-mail servers</span>—specialized computers whose sole function is to store, process, and send e-mail.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Where are e-mail servers located?</strong> If your ISP provides you with an e-mail account, it runs an e-mail server that uses SMTP. <span class="strongDBlue" onclick="compTia.togglePopup(23,1)">Figure 13.16</span> shows a sample route an e-mail takes on the Internet.</p>
+					<p class="start"><strong>How are we able to send files as attachments?</strong> SMTP was designed to handle text messages. When the need arose to send files by e-mail, the <span class="strongDBlue" glossary>Multipurpose Internet Mail Extensions (MIME)</span>specification was introduced. All e-mail client software now uses this protocol to attach files. E-mail is still sent as text, but the e-mail client using the MIME protocol now handles the encoding and decoding for the users. When attaching a file, your e-mail client transparently encodes and decodes the file for transmission and receipt.</p>
+					
+					<h2 class="blueHeading">E-Mail Security: Encryption</h2>
+					<p><strong>Can other people read my e-mail?</strong> E-mail is highly susceptible to being read by unintended parties because it’s sent in plain text. Additionally, copies of your e-mail messages may exist, temporarily or permanently, on numerous servers as the messages make their way through the Internet. To protect your sensitive e-mail messages, encryption practices are available.</p>
+					<p class="start"><strong>How do I encrypt my e-mail?</strong> Many e-mail services offer built-in encryption. Hushmail (<span class="strongDBlue" onclick="window.open('http://hushmail.com','_blank')">hushmail.com</span>) and Comodo SecureEmail (<span class="strongDBlue" onclick="window.open('http://comodo.com','_blank')">comodo.com</span>) offer free versions of their secure e-mail services. You </p>
+				
+					<div onclick="compTia.togglePopup(23,0)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Gmail Features You Should Know About
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_18">E-mail</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(23,1)" style="    background: url(assets/images/figures/fig13.16.jpg) no-repeat scroll 38px 36px #FFFFFF; height: 211px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.16</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 13.16</span> A sample route an e-mail takes on the Internet.
+						</figcaption></figure>
+					</div>
+					
+					<p class="lessSpacing TMargin5">can sign up on their websites and experiment with sending encrypted e-mail. And you don’t need to abandon your current e-mail accounts—just use your secure account when you require secure communications.</p>
+					<p class="start lessSpacing"><strong>How does encryption work?</strong> <span class="strongDBlue" glossary>Encryption</span> refers to the process of coding your e-mail so that only the person with the key to the code (the intended recipient) can decode (or decipher) the message. There are two basic types of encryption:</p>
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><em>Private key encryption</em> and</span></p>
+						<li><span class="innerLi notStrong"><em>Public key encryption</em></span></p>
+					</ol>
+					<p class="start"><strong>What is private key encryption?</strong> In <span class="strongDBlue" glossary>private-key encryption</span>, only the two parties involved in sending the message have the code. This could be a simple shift code where letters of the alphabet are shifted to a new </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(24,0)"
+						style="height: 233px;background: url(assets/images/figures/fig13.18.jpg) no-repeat scroll 67px 0px transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 13.18</span> Writing the word <i>COMPUTER</i>&nbsp;&nbsp;using a two-position right-shift encryption code results in <i>EQORWVGT</i>.</figcaption>
+   			</figure>
+					
+					<p class="moreSpacing TMargin10">position (<span class="strongDBlue" onclick="compTia.togglePopup(24,0)">see Figure 13.18</span>). For example, in a two-position right-shift code, the letter a becomes <em>c, b</em> becomes <em>d</em>, and so on. Alternatively, it could be a more complex substitution code (<em>a</em> = <em>h</em>, <em>b</em> = <em>r</em>, <em>c</em> = <em>g</em>, etc.). The main problem with private-key encryption is key security. If someone steals a copy of the code or is savvy about decoding, the code is broken.</p>
+					<p class="start moreSpacing"><strong>What is public key encryption?</strong> In <span class="strongDBlue" glossary>public-key encryption</span>, two keys, known as a <span class="strongDBlue" glossary>key pair</span>, are created. You use one key for coding and the other for decoding. The key for coding is generally distributed as a <span class="strongDBlue" glossary>public key</span>. You can place this key on your website, for instance. Anyone wishing to send you a message can then download your public key and code the message using your public key.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(24,1)">
+						<span class="largeBoldWhite">ethics</span>
+						<span class="medBoldGrey">in IT</span>
+						<strong style="font-size:12px;">Web Browsing: Not as Private as You May Think</strong>
+					</div>
+					
+					<p class="start TMargin10">When you receive the message, you use your <span class="strongDBlue" glossary>private key</span> to decode it. You’re the only one who ever possesses the private key, and therefore it’s highly secure. The keys are generated in such a way that they can work only with each other. The private key is generated first. The public key is then generated using a complex mathematical formula, often using values from the private key. The computations are so complex that they’re considered unbreakable. Both keys are necessary to decode a message. If one key is lost, the other key can’t be used by itself.</p>
+					<p class="start"><strong>Which type of encryption is used on the Internet?</strong> Public-key encryption is the most commonly used encryption on the Internet. Public-key packages such as <span class="strongDBlue" glossary>Pretty Good Privacy (PGP)</span> are available for download at sites such as CNET Downloads (<span class="strongDBlue" onclick="window.open('http://download.cnet.com','_blank')">download.cnet.com</span>), and you can usually use them free of charge (although there are now commercial versions of PGP). After obtaining the PGP software, you can generate key pairs to provide a private key for you and a public key for the rest of the world.</p>
+					
+					<div class="activeHelpdeskContain TMargin10">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_26.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Keeping E-Mail Secure
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about how e-mail works and how messages are kept secure.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(25,0)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Random Numbers: We Wouldn’t Have Encryption Without Them!
+					</div>
+					
+					<p class="start TMargin10 moreSpacing"><strong>What does a key look like?</strong> A key is a binary number. Keys vary in length, depending on how secure they need to be. A 12-bit key has 12 positions and might look like this:</p>
+				
+					<p class="TMargin10 BMargin10"style="margin-left:70px; font-family:courier;">100110101101</p>
+				
+					<p class="start moreSpacing">Longer keys are more secure because they have more values that are possible. A 12-bit key provides 4,096 different possible values, whereas a 40-bit key allows for 1,099,511,627,776 possible values. The key and the message are run through a complex algorithm in the encryption program that converts the message into unrecognizable code. Each key turns the message into a different code.</p>
+					<p class="start moreSpacing"><strong>Is a private key really secure?</strong> Because of the complexity of the algorithms used to generate key pairs, it’s impossible to deduce the private key from the public key. However, that doesn’t mean your coded message can’t be cracked. As you learned in <span class="strongDBlue" onclick="compTia.generatePages(12)">Chapter 12</span>, a brute force attack occurs when hackers try every possible key combination to decode a message. This type of attack can enable hackers to deduce the key and decode the message.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What kind of key is considered safe?</strong> In the early 1990s, 40-bit keys were thought to be completely resistant to brute force attacks and were the norm for encryption. However, in 1995, a French programmer used a unique algorithm of his own and 120 workstations simultaneously to attempt to break a 40-bit key. He succeeded in just eight days. After this, 128-bit keys became the standard. However, using supercomputers, researchers have had some success cracking 128-bit encryption. Therefore, strong encryption now calls for 256-bit keys. It’s believed that even with the most powerful computers in use today, it would take hundreds of billions of years to crack a 256-bit key.</p>
+					<p class="start"><strong>Do corporations use special encryption?</strong> Businesses often pay for encryption services that also provide other features such as confirmation of message delivery, message tracking, and overwriting of e-mail messages when they’re deleted to ensure that copies don’t exist. Companies such as Securus Systems (<span class="strongDBlue" onclick="window.open('http://safemessage.com','_blank')">safemessage.com</span>) and ZixCorp (<span class="strongDBlue" onclick="window.open('http://zixcorp.com','_blank')">zixcorp.com</span>) provide these higher levels of service to businesses.</p>
+					
+					<h2 class="blueHeading">Instant Messaging</h2>
+					<p><strong>What do you need to run instant messaging?</strong> Instant messaging (IM) requires the use of a client program that connects to an IM service. Yahoo! Messenger, GoogleTalk, and Windows Messenger are three IM services in use today.</p>
+					
+					<img onclick="compTia.togglePopup(25,1)" src="assets/images/layout/TrendsinItchapter13.0.png" class="TMargin10" />
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How does instant messaging work?</strong> The client software running on your device makes a connection with the chat server and provides it with connection information for your device (such as the IP address), as shown in <span class="strongDBlue" onclick="compTia.togglePopup(26,0)">Figure 13.19</span>.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight TMargin10 font_18">Instant Messaging</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(26,0)" style="    background: url(assets/images/figures/fig13.19.jpg) no-repeat scroll 38px 36px #FFFFFF; height: 265px; overflow: hidden;">
+							
+							<span class="strongDHeading font_16"><strong style="padding-left:6px">Figure 13.19</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 13.19</span> How an instant messaging program works. <em>(TomWang/Shutterstock; Sashkin/Shutterstock; Tyler Olson/iStockphoto)</em>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Because both your device and your friend’s device have the connection information (the IP addresses) for each other, the server isn’t involved in the chat session. Chatting takes place directly between the two devices over the Internet.</p>
+					<p class="start moreSpacing"><strong>Is sending an IM secure?</strong> Most IM services do not use a high level of encryption for their messages—if they bother to use encryption at all. In addition to viruses, worms, and hacking threats, IM systems are vulnerable to eavesdropping, in which someone using a packet sniffer “listens in” on IM conversations. Although several measures are underway to increase the security of this method of real-time communication, major vulnerabilities still exist. And employers can install monitoring software to record IM sessions. Therefore, it’s not a good idea to send sensitive information using IM because it’s susceptible to interception and possible misuse by hackers.</p>
+					
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_13_Part_2/Chapter_13_Part_2.html','_blank')" >Replay Video 13.2</span></span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(46)">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Do you currently encrypt your personal email?</div>
+					<ol class="pollQuestions">
+						<li>Yes</li>
+						<li>No</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h1><span class="chapter shiftLeft5">13</span> Chapter Review</h1>
+				<div class="largerTitle">summary//</div>
+					 
+					<img src="assets/images/pics/mangeInternetThumbnail.jpg" class="floatPositioned">
+					<h2>The Management of the <br/>Internet</h2>
+					<span class="prePseudoLi preContent1 strong">Who owns, manages, and pays for the Internet?</span>
+					<br/>
+					<ul class="dotted">
+						<li class="clearLeft"><span class="innerLi">Management of the Internet is carried out by several nonprofit organizations and user groups such as the Internet Society, the Internet Engineering Task Force (IETF), the Internet Architecture Board (IAB), the Internet Corporation for Assigned Names and Numbers (ICANN), and the World Wide Web Consortium (W3C). Each group has different responsibilities and tasks.</span></li>
+						<li><span class="innerLi">Currently, the U.S. government funds a majority of the Internet’s costs. Other countries also pay for Internet infrastructure and development.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/INDTPThumbnail.jpg" class="floatPositioned" style="margin-top: 20px;">
+					<h2>Internet Networking, Data <br/>Transmission, and Protocols</h2>
+					<span class="prePseudoLi preContent2 strong">How do the Internet’s networking components interact?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Computing devices or networks connect to the Internet using Internet service providers (ISPs). These providers vary in size and work like the physical highway system.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">The largest paths of the Internet, along which data travels the most efficiently and quickly, make up the Internet backbone. Homes and all but the largest businesses connect to the Internet through regional or local connections, which then connect to the Internet through the entities that make up the Internet backbone. The largest businesses, educational centers, and some government agencies make up the Internet backbone.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Optical carrier lines are high throughput and are used to connect large corporations to their ISPs.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Service providers use an Internet exchange point (IXP) to connect directly to each other, reducing cost and latency time.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Individual users enter their ISP through a point of presence (POP), a bank of routers and switches through which many users can connect simultaneously.</span></li>
+					</ul>
+					
+					<h4>3. What data transmissions and protocols does the Internet use?</h4>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Data is transmitted along the Internet using packet switching. Data is broken up into discrete units known as packets, which can take independent routes to the destination before being reassembled.</span></li>
+						<li class="moreSpacing"><span class="innerLi">A computer protocol is a set of rules for exchanging electronic information. Although many protocols are available on the Internet, the main suite of protocols used to move information over the Internet is TCP/ IP. The suite is named after the original two protocols</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="noListStyle">
+						<li class="moreSpacing"><span class="innerLi">that were developed for the Internet: the Transmission Control Protocol (TCP) and the Internet Protocol (IP).</span></li>
+					</ul>
+					
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">TCP is responsible for preparing data for transmission, but IP actually sends data between computers on the Internet.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/IPThumbnail.jpg" class="floatPositioned" style="margin-top: 20px;">
+					<h2>Internet Identity: IP Addresses <br/>and Domain Names</h2>
+					<span class="prePseudoLi preContent4 strong">Why are IP addresses and domain names important for Internet communications?</span>
+					
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">An IP address is a unique number assigned to all computers connected to the Internet. The IP address is necessary so that packets of data can be sent to a particular location (computer) on the Internet.</span></li>
+						<li class="moreSpacing"><span class="innerLi">A domain name is merely a name that stands for a certain IP address and that makes it easier for people to remember it.</span></li>
+						<li class="moreSpacing"><span class="innerLi">DNS servers act as the phone books of the Internet. They enable your computer to find out the IP address of a domain by looking up its corresponding domain name.</span></li>
+					</ul>
+					
+					<img src="assets/images/pics/tattooThumbnail.jpg" class="floatPositioned" style="margin-top: 20px;">
+					<h2>HTML, XML, and Other Web <br/>Building Blocks</h2>
+					<span class="prePseudoLi preContent5 strong">What web technologies are used to develop web applications?</span>
+					
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">The Hypertext Transfer Protocol (HTTP) is the protocol used on the Internet to display web pages in your browser.</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">The Hypertext Markup Language (HTML) is a set of rules for marking up blocks of text so that a browser knows how to display them. Most web pages are generated with at least some HTML code.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Blocks of text in HTML documents are surrounded by a pair of tags (such as &lt;b> and &lt;/b> to indicate bolding). These tags and the text between them are referred to as <em>elements</em>. By examining the elements, your browser determines how to display the text on your computer screen.</span></li>
+						<li class="moreSpacing"><span class="innerLi">The HTML standard is being updated to HTML5, which offers much better support for media like audio and video.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Because HTML wasn’t designed for information exchange, eXtensible Markup Language (XML) was created. Instead of locking users into standard tags and formats for data, XML enables users to create their own markup languages to accommodate particular data formats and needs.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Software is developed on both the server and on the client side to make web pages more responsive and interactive. Server-side programming includes CGI and ASP.NET. Client-side programs can run faster because they don’t need to wait for information exchanges with the server. Embedded JavaScript and Java applets are two common approaches for writing client-side programs.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<img src="assets/images/pics/communicateThumbnail.jpg" class="floatPositioned">
+					<h2>Communications Over the Internet</h2>
+					<span class="prePseudoLi preContent6 strong">How do e-mail and instant messaging work, and is how information using these technologies kept</span>
+					<h4 class="noTMargin" style="margin-left: 97px;">secure?</h4>
+					
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">Simple Mail Transfer Protocol (SMTP) is the protocol responsible for sending e-mail over the Internet.</span></li>
+						<li class="moreSpacing"><span class="innerLi">E-mail is a client/server application. E-mail passes through e-mail servers, whose functions are to store, process, and send e-mail to its ultimate destination. ISPs and portals such as Gmail maintain e-mail servers to provide e-mail functionality to their customers.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Your ISP’s e-mail server uses DNS servers to locate the IP addresses for the recipients of the e-mail you send.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Encryption software, such as Pretty Good Privacy (PGP), is used to code messages so that they can be decoded only by authorized recipients.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Instant messaging software communicates with a chat server to quickly deliver communications to your friends who are online. It’s not secure and can be vulnerable to eavesdropping.</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 13 glossary//</div>
+					
+					<span class="strongDBlue" glossary>applet</span> 639<br/>
+					<span class="strongDBlue" glossary>cascading style sheet</span> 635<br/>
+					<span class="strongDBlue" glossary>cgi-bin</span> 638<br/>
+					<span class="strongDBlue" glossary>CGI script</span> 638<br/>
+					<span class="strongDBlue" glossary>circuit switching</span> 624<br/>
+					<span class="strongDBlue" glossary>classless interdomain routing (CIDR)</span> 628<br/>
+					<span class="strongDBlue" glossary>client/server model</span> 623<br/>
+					<span class="strongDBlue" glossary>client-side program</span> 639<br/>
+					<span class="strongDBlue" glossary>commerce server</span> 623<br/>
+					<span class="strongDBlue" glossary>Common Gateway Interface (CGI)</span> 638<br/>
+					<span class="strongDBlue" glossary>computer protocol</span> 624<br/>
+					<span class="strongDBlue" glossary>connectionless protocol</span> 628<br/>
+					<span class="strongDBlue" glossary>connection-oriented protocol</span> 628<br/>
+					<span class="strongDBlue" glossary>Document Object Model (DOM)</span> 640<br/>
+					<span class="strongDBlue" glossary>domain name system (DNS) server</span> 631<br/>
+					<span class="strongDBlue" glossary>dotted decimal number (dotted quad)</span> 627<br/>
+					<span class="strongDBlue" glossary>dynamic addressing</span> 628<br/>
+					<span class="strongDBlue" glossary>Dynamic Host Configuration Protocol (DHCP)</span> 629<br/>
+					<span class="strongDBlue" glossary>dynamic HTML (DHTML)</span> 639<br/>
+					<span class="strongDBlue" glossary>element</span> 634<br/>
+					<span class="strongDBlue" glossary>e-mail server</span> 640<br/>
+					<span class="strongDBlue" glossary>encryption</span> 641<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="ColShiftSpacer"></div>
+				<span class="strongDBlue" glossary>eXtensible Markup Language (XML)</span> 636<br/>
+				<span class="strongDBlue" glossary>file server</span> 623<br/>
+				<span class="strongDBlue" glossary>handshaking</span> 628<br/>
+				<span class="strongDBlue" glossary>hexadecimal digit</span> 628<br/>
+				<span class="strongDBlue" glossary>HTML embedded scripting language</span> 639<br/>
+				<span class="strongDBlue" glossary>HTML tags</span> 634<br/>
+				<span class="strongDBlue" glossary>Hypertext Transfer Protocol (HTTP)</span> 637<br/>
+				<span class="strongDBlue" glossary>Hypertext Transfer Protocol Secure (HTTPS)</span> 637<br/>
+				<span class="strongDBlue" glossary>Internet backbone</span> 622<br/>
+				<span class="strongDBlue" glossary>Internet cache</span> 628<br/>
+				<span class="strongDBlue" glossary>Internet Corporation for Assigned Names and Numbers (ICANN)</span> 627<br/>
+				<span class="strongDBlue" glossary>Internet exchange point (IXP)</span> 623<br/>
+				<span class="strongDBlue" glossary>Internet Protocol (IP)</span> 626<br/>
+				<span class="strongDBlue" glossary>Internet Protocol version 4 (IPv4)</span> 627<br/>
+				<span class="strongDBlue" glossary>Internet Protocol version 6 (IPv6)</span> 628<br/>
+				<span class="strongDBlue" glossary>IP address</span> 626<br/>
+				<span class="strongDBlue" glossary>JavaScript</span> 639<br/>
+				<span class="strongDBlue" glossary>key pair</span> 642<br/>
+				<span class="strongDBlue" glossary>Multipurpose Internet Mail Extensions (MIME)</span> 641<br/>
+				<span class="strongDBlue" glossary>negative acknowledgement (NAK)</span> 628<br/>
+				<span class="strongDBlue" glossary>network prefix</span> 628<br/>
+				<span class="strongDBlue" glossary>octet</span> 627<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					
+					<span class="strongDBlue" glossary>open system</span> 624<br/>
+					<span class="strongDBlue" glossary>optical carrier (OC) line</span> 622<br/>
+					<span class="strongDBlue" glossary>packet (data packet)</span> 625<br/>
+					<span class="strongDBlue" glossary>packet switching</span> 625<br/>
+					<span class="strongDBlue" glossary>point of presence (POP)</span> 623<br/>
+					<span class="strongDBlue" glossary>positive acknowledgement (ACK)</span> 628<br/>
+					<span class="strongDBlue" glossary>Pretty Good Privacy (PGP)</span> 642<br/>
+					<span class="strongDBlue" glossary>private key</span> 642<br/>
+					<span class="strongDBlue" glossary>private-key encryption</span> 641<br/>
+					<span class="strongDBlue" glossary>proprietary system</span> 624<br/>
+					<span class="strongDBlue" glossary>public key</span> 642<br/>
+					<span class="strongDBlue" glossary>public-key encryption</span> 642<br/>
+					<span class="strongDBlue" glossary>root DNS server</span> 631<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>second-level domain</span> 630<br/>
+				<span class="strongDBlue" glossary>Secure Sockets Layer (SSL)</span> 637<br/>
+				<span class="strongDBlue" glossary>server-side program</span> 638<br/>
+				<span class="strongDBlue" glossary>Simple Mail Transfer Protocol (SMTP)</span> 640<br/>
+				<span class="strongDBlue" glossary>static addressing</span> 628<br/>
+				<span class="strongDBlue" glossary>T line</span> 622<br/>
+				<span class="strongDBlue" glossary>TCP/IP</span> 626<br/>
+				<span class="strongDBlue" glossary>three-way handshake</span> 628<br/>
+				<span class="strongDBlue" glossary>Transmission Control Protocol (TCP)</span> 626<br/>
+				<span class="strongDBlue" glossary>Transport Layer Security (TLS)</span> 637<br/>
+				<span class="strongDBlue" glossary>User Datagram Protocol (UDP)</span> 628<br/>
+				<span class="strongDBlue" glossary>web server</span> 623<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...next semester//</div>
+					
+					<ol>
+						<li class="moreSpacing"><span class="innerLi">Registering a Domain Name</span><br/><span class="notStrong innerLi">A friend of yours wants to launch a company offering a line of T-shirts and other clothing for bicycling enthusiasts. She needs a catchy domain name. Develop five good domain name candidates for the company. Check <span class="strongDBlue innerLi" onclick="window.open('http://networksolutions.com','_blank')">networksolutions.com</span> to see if the domain names are available. Are any of the ones you created available for sale? Check on <span class="strongDBlue innerLi" onclick="window.open('http://sedo.com','_blank')">sedo.com</span> and <span class="strongDBlue innerLi" onclick="window.open('http://buydomains.com','_blank')">buydomains.com</span>.</span></li>
+						<li class="moreSpacing"><span class="innerLi">Your College Website</span><br/><span class="notStrong innerLi">View the source of the opening page of your college’s website. Does it use cascading style sheets? How would that be an advantage to the college web staff? Are there any client-side technologies being used to make the page function more smoothly?</span></li>
+					</ol>
+					
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol>
+						<li class="moreSpacing"><span class="innerLi">Website Privacy Issues</span><br/><span class="notStrong innerLi">Your employer, a distributor of aftermarket automotive accessories, recently discovered that an employee was using his Facebook account to post disparaging remarks about the company president. The employee was fired. Is this legal in your state? Should an employer have the right to fire a person for expressing an opinion on a social networking site?</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<ol>
+						<li class="liHide"></li>
+						<li class="moreSpacing"><span class="innerLi">Creating an Online Presence for a Business</span></br/><span class="notStrong innerLi">You work at a local coffee shop that offers live music on the weekends. Your boss has asked you to help the coffee shop enhance its web presence to better connect with customers. On which social networking sites would you create a page for the coffee shop? What types of information would you post on the social network pages? What strategies would you use to make customers aware of the coffee shop’s social networking sites?</span></li>
+						<li class="moreSpacing"><span class="innerLi">“Googling” Yourself</span><br/><span class="notStrong innerLi">At your company, someone was just fired because sensitive information related to a company product was associated with the person’s name on the Internet. Discretion being the better part of valor, you decide to do a search for your name on the web using a search engine such as Google (<span class="strongDBlue innerLi" onclick="window.open('http://google.com','_blank')">google.com</span>) just to see what is out there. Prepare a report on what you found. Your report should answer the following questions:</span></li>
+						<ol style="list-style-type:lower-alpha;">
+							<li class="moreSpacing"><span class="notStrong innerLi">Did you find any accurate information about yourself (such as your home page URL or résumé)? Did you find any erroneous information that you need to correct?</span></li>
+							<li class="moreSpacing"><span class="notStrong innerLi">Did you find websites or information about other people with the same name as you? Could any of that information be damaging to your reputation if someone thought the other person was you? If so, provide examples.</span></li>
+						</ol>
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="34" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol style="list-style-type:lower-alpha;">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="moreSpacing"><span class="notStrong innerLi">Is there information that you found about yourself or others that you think should never be available on the Internet? Provide examples and an explanation of why you feel certain information shouldn’t be available.</span></li>
+						<li class="moreSpacing"><span class="notStrong innerLi">Is there any information on social networking sites, such as Google+ or Facebook, that could be damaging to you if an employer or school administrator were to see it? </span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">team time//</div>
+					
+					<h3>Using Crowdsourcing in a Business</h3>
+					<h4>Background</h4>
+					<p class="moreSpacing">In today’s fast-paced business environment, determining the right merchandise to sell is more critical than ever. Having a website that’s designed to use crowdsourcing—either to gather information about products you already carry, such as customer reviews on Amazon, or to determine what merchandise you’re going to stock—provides you with a competitive advantage. In this Team Time, you’ll consider how best to take advantage of crowdsourcing in starting a new business venture.</p>
+					
+					<h4>Task</h4>
+					<p class="moreSpacing">Your teacher has been contacted by the local chamber of commerce. There are three individuals starting new businesses who have requested help in designing their websites and their customer interaction programs. The businesses are (a) a coffee shop that offers live music on nights and weekends; (b) a clothing company for young, urban professionals; and (c) a company that sells iPad, iPod, and iPhone accessories. You need to help these businesses choose an appropriate domain name for their companies and suggest a crowdsourcing strategy for the businesses.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">team time//</div>
+					
+					<h4>Process</h4>
+					<p class="moreSpacing">Break the class into small teams of three or four students. Each team should select one of the businesses described previously (or select their own business type). Multiple teams could work on the same type of business. Each team should prepare a report as follows:</p>
+					
+					<ol>
+						<li><span class="innerLi notStrong">Determine an appropriate domain name for the company’s website. Make sure that the web address you propose is available by using a Who is service such as <span class="strongDBlue" onclick="window.open('http://whois.net','_blank')">whois.net</span>. Make sure to consider the domain-naming guidelines discussed in the <span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Bits and Bytes</span> in this chapter.</span></li>
+						<li><span class="innerLi notStrong">Decide on the general types of products that will be sold by the company. For each category of product, decide what product attributes you feel customers will comment on when giving input on products to be sold on the site.</span></li>
+						<li><span class="innerLi notStrong">Decide if the company will solicit feedback from potential customers on all products to be sold or whether the company will offer a core selection of products without soliciting feedback from customers. Divide the products into two lists: core products and products subject to crowdsourcing.</span></li>
+						<li><span class="innerLi notStrong">Determine a social networking strategy for the company to promote its products on Facebook, Twitter, etc. How will customers be driven to the company website to participate in the crowdsourcing for incentives, discount coupons, contests, and such?</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong">Develop a PowerPoint presentation to summarize your findings and present your proposed solution to the class.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p class="moreSpacing">E-commerce websites are relatively cheap and easy to deploy using the vast array of tools available on the Internet today. But substantial risk exists when financing and stocking products to be sold. Gathering crowdsourcing feedback can help businesses minimize the risk of stocking unwanted products. </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+					
+					<h3>Privacy at School</h3>
+					<p>In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play might not match your own personal beliefs; regardless, your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the arguments, and together, the team will agree on an ethical solution.</p>
+					
+					<h4>Problem</h4>
+					<p>Many Americans consider privacy to be a fundamental and unalienable right even though privacy isn’t specifically spelled out as a right in the U.S. Constitution or the Bill of Rights. Parents are especially concerned about protecting their children’s privacy rights. With the widespread use of technology, infringing on personal privacy rights has become easier, even if it’s often done innocently or inadvertently.</p>
+					<p>School administrators are quickly learning that they need to craft policies that set appropriate boundaries and guidelines for monitoring students. Should school districts be allowed to monitor students? Should school districts be required to inform students and parents of any monitoring that takes place?</p>
+					
+					<h4>Research Areas to Consider</h4>
+					<span class="psudoUlLi">Lower Merion school district in Pennsylvania uses webcams to monitor <br/>&nbsp;&nbsp;&nbsp;&nbsp;students in their homes.</span>
+					<span class="psudoUlLi">A school district in California uses RFID chips to take attendance.</span>
+					<span class="psudoUlLi">The Family Educational Rights and Privacy Act (FERPA)</span>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					
+					<h4>Process</h4>
+					<ol>
+						<li><span class="innerLi notStrong">Divide the class into teams.</span></li>
+						<li><span class="innerLi notStrong">Research the areas cited above and devise a scenario in which a school district has been monitoring students without their knowledge and has potentially violated their privacy.</span></li>
+						<li><span class="innerLi notStrong">Team members should write a summary that provides background information for their character—for example, student or parent, school official, or arbitrator—and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the role-playing event.</span></li>
+						<li><span class="innerLi notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+						<li><span class="innerLi notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p> As technology becomes ever more prevalent and integrated into our lives, ethical dilemmas will present themselves to an increasing extent. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+				]]>
+			</section>
+		</page>
+		
+	</chapter>
+</ebook>	

@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="height=671, initial-scale=1, maximum-scale=2"> 
+    <title>CompTIA</title>
+    <meta name="description" content="">
+    <script type="text/javascript" src="assets/scripts/catchBatch.js"></script>
+	<link rel="stylesheet" type="text/css" href="assets/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/fonts.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/pagestyles.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/pagemodules.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/activegraphic.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/tables.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/icons.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/touch.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/tweaks.css">
+
+</head>
+<body class="locked">
+    <script type="text/javascript">
+   catchBatch.run(); 
+    
+   </script>
+    <div id="portraitMode">
+        <div>Please rotate to landscape mode.</div>
+    </div>
+    <div id="unsupported">
+        <div>
+            Please update your browser<br>
+            <br>
+            This eBook requires at least:<br>
+            - Internet Explorer 9<br>
+            - Firefox 4.0<br>
+            - Safari 5.1<br>
+            - Chrome 10
+        </div>
+    </div>
+    <div id="coverPic">
+
+    </div>
+
+    <div class="contain">
+        <header>
+            <div class="floatLeft" style="width:135px;height:51px;background:url(assets/images/layout/pearson.png) 0 0 no-repeat;font-size:0"> </div>
+            <div id="loading">
+                <span class="block">Loading</span>
+                <span>.Loading.</span>
+                <span>..Loading..</span>
+                <span>...Loading...</span>
+            </div>
+            <div class="linkBar">
+
+            <ul>
+                <li><a class="hovMenu"><span class="icon toc"></span> TOC</a>
+                    <ul class="innerUl hideToggle">
+                        <li onclick="compTia.moveTo(0,3)">Book TOC</li>
+                        <li onclick="compTia.gotoTOC()">Chapter TOC</li>
+                    </ul>
+                </li>
+                <li><a class="hovMenu"><span class="icon glossary"> </span> Glossary</a>
+                    <ul class="innerUl hideToggle">
+                        <li onclick="compTia.moveTo(0,4)">Book Glossary</li>
+                        <li onclick="compTia.gotoGlossary()">Chapter Glossary</li>
+                    </ul>
+                </li>
+                <li><a target="_blank" href="http://tianewsletter.pearsonhighered.com/public/"><span class="icon globe"> </span> Tech Bytes Weekly</a></li>
+                <li><a onclick="compTia.toggleHelpVideo()"><span class="icon question"> </span> Help</a></li>
+                <li><input type="text" id="ebookSearch" /> <a><span class="icon magnify"> </span></a></li>
+            </ul>
+                <div id="searchBox">
+                    <div class="noResults">
+                        Your search returned no results
+                    </div>
+                    <div class="results">
+                        <div class="alignRight floatRight">
+                            <span onclick="compTia.search.searchBackwardPage()" class="icon backSearchPage"> </span>
+                            <span onclick="compTia.search.searchFowardPage()" class="icon fowardSearchPage"> </span> 
+                            <span onclick="compTia.search.toggleSearchBox(0)" class="icon XSearchPage"> </span>
+                        </div>
+                        <div style="margin:2px 0 5px 0">Total results: <strong id="searchResults"></strong>
+                                          <br><hr style="margin-bottom:5px">
+                        <div id="sectionArrows">Page Numbers 
+                            <span class="icon backSearchPage floatLeft"> </span>
+                            <span class="icon fowardSearchPage floatRight"> </span> 
+                        </div>
+                        
+                        <div id="resultIndex"></div>
+                                          </div>
+          
+                        <div class="searchBoxDef">
+                        <hr>
+
+                        <p id="searchGlosDesc"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div id="glossary">
+            <img src="assets/images/layout/popup.png" draggable="false" class="innerShadow" />
+            <div id="glossaryPopout">
+                <div class="openGlossary" onclick="compTia.gotoGlossary()"><span class="icon glossary"></span> glossary</div>
+                <div class="gClose" onclick="compTia.features.glossary()"> </div>
+
+                <div class="gTitle">glossary</div>
+                <p><strong></strong><strong>:</strong>
+                    <span class="def"></span>
+                </p>
+            </div>
+        </div>
+        <div id="features">
+            <div id="pageSlider"><br>
+                <div class="slides">
+
+                </div>
+            </div>
+            <div id="popupFeature">
+                <div class="contentHold"></div>
+            </div>
+            <div id="popupImage">
+                <div class="close"> </div>
+                <!-- -->
+                <div class="contentHold"></div>
+            </div>
+
+            <div class="popup" id="readMoreFeature">
+                <div class="popupContainYel">
+                    <div class="popupYel" >
+                        <div class="close"></div>
+                        <div class="arrowUp"></div>
+                        <div class="arrowDown"></div>
+                        <div class="scroll">
+                            <div class="scrollBar"></div>
+                        </div>
+                        <!-- -->
+                        <div class="contentHold"></div>
+                      </div>
+                </div>
+            </div>
+            <div class="popup" id="digDeeperFeature">
+                <div class="popupContainGreen">
+                    <div class="popupGreen" >
+                        <div class="close"></div>
+                        <div class="arrowUp"></div>
+                        <div class="arrowDown"></div>
+                        <div class="scroll">
+                            <div class="scrollBar"></div>
+                        </div>
+                        <!-- -->
+                        <div class="contentHold"></div>
+                      </div>
+                </div>
+            </div>
+            <div class="popup" id="ethicsFeature">
+                <div class="popupContainYel">
+                    <div class="popupYel" >
+                        <div class="close"></div>
+                        <div class="arrowUp"></div>
+                        <div class="arrowDown"></div>
+                        <div class="scroll">
+                            <div class="scrollBar"></div>
+                        </div>
+                        <!-- -->
+                        <div class="contentHold"></div>
+                      </div>
+                </div>
+            </div>
+
+
+            <div class="popup" id="trendsFeature">
+                <div class="popupContainBlue">
+                    <div class="popupBlue" >
+                        
+                        <div class="close"></div>
+                        <div class="arrowUp"></div>
+                        <div class="arrowDown"></div>
+                        <div class="scroll">
+                            <div class="scrollBar"></div>
+                        </div>
+                        <!-- -->
+                        <div class="contentHold"></div>
+                      </div>
+                </div>
+            </div>
+
+
+            <div class="popup" id="bbFeature">
+                <div class="popupContainBB">
+                    <div class="popupBB">
+                        <div class="close"></div>
+                        <div class="arrowUp"></div>
+                        <div class="arrowDown"></div>
+                        <div class="scroll">
+                            <div class="scrollBar"></div>
+                        </div>
+                        <!-- -->
+                        <div class="contentHold"></div>
+                  </div>
+                </div>
+
+            </div>
+
+            <div class="popup" id="hvFeature">
+                <div class="popupContainHV">
+                    <div class="popupHV">
+
+                        <div class="close"></div>
+                        <div class="contentHold">
+                            <div class="content">
+                                <div style="width:613px;height:460px;
+                                            margin:0 auto">
+                                            <video id="helpVideo" controls height="613" width="460">
+                                                  <source src="assets/video/mp4/helpVideo.mp4" type="video/mp4">
+                                                  <source src="assets/video/ogv/helpVideo.ogv" type="video/ogg">
+                                            </video></div>
+                            </div>
+                        </div>
+                  </div>
+                </div>
+            </div>
+                        
+
+            <div class="popup" id="ahFeature">
+                <div class="contentHold"></div>
+            </div>
+            
+
+            <div id="notesFeature">
+                <div class="head">
+                    <span class="icon notesResize"> </span>
+
+                    <div class="archiveHead">
+                        <span class="Lmargin45 noteTitle">Notes Archive</span>
+                        <span class="floatRight icon smallWhiteX"> </span>
+                        <span class="floatRight icon message" onclick="compTia.features.postNotes()"> </span>
+                        <!--<span class="floatRight icon plus"> </span> -->
+                    </div>
+
+
+                     
+
+                    
+                </div>
+
+                    <div id="filter">
+                        <div class="pageContain">
+                            <span>Page</span>
+                            <input type="text" name="pageInput">
+                        </div>
+                        <div class="dropContain">
+                            <span>Chapter</span>
+                            <div class="selectWrap">
+                                <select>
+                                    <option>ALL</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                <div class="noteContain">
+                <div id="emailPopup">
+                    <section>
+                        Please enter your email address to send your notes
+                        <input type="text" id="inputEmail">
+                        <a>SEND</a>
+                        </section>
+                    <section>
+                        Your notes have successfully been emailed!
+                    </section>
+                    <section>
+                        Please make sure your email is correct<br>
+                        If your email is correct please check<br>
+                        your connection.
+                    </section>
+                </div>
+                    <div class="customVertScroll">
+                        <div class="bar"></div>
+                    </div>
+                    <div class="notes">
+                         <ol id="notesContent" style="null" class="">
+                         <li id='noNotes'><div>You have no notes</div></li>
+                        </ol>
+                        <ol id="actionLog" class="hide">
+                            <li><div>
+                                 <p>Log</p>
+                                 <div class="editComment">
+                                     <span class="icon notesTrash" chapter="0" page="0"> </span>
+                                 </div>
+                                 <div class='deleteWarning'>Are you sure you want to delete this log?
+                            <br><a class='yes'>YES</a> <a class='no'>NO</a></div>
+                             </div></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div id="layout">
+            <div class="highlightGUI">
+                <div class="GUIoptions">
+                    <div class="optionWrap">
+                        
+                        <div class="HighlightEraserTog green" onclick="compTia.features.toggle_EraserHighlight(0)">
+                            <span class="icon highlight"> </span>
+                            Highlighter
+                            </div>
+                        
+                        <div class="HighlightEraserTog " onclick="compTia.features.toggle_EraserHighlight(1)">
+                            <span class="icon eraser"> </span>
+                            Eraser
+                        </div> 
+                        
+                        <div class="off" onclick="compTia.features.resetHighlight()">
+                            <span class="icon clearHighlight"> </span>
+                            Clear Highlights
+                        </div>
+
+                        
+                        <div class="off" onclick="compTia.features.sendToNotes()">
+                            <span class="icon addToNotes"> </span>
+                            Add to notes
+                        </div>
+                        
+                        
+                        <div class="removeHighlight" onclick="compTia.features.removeHighlight()">
+                            <span class="icon closeHighlight"> </span></div>
+                    </div>
+                </div>
+                <div class="guiMask" style="left: 34px; width: 956px; height: 20px; bottom: 611px; background-position: -34px 0px;"> </div>
+                <div class="guiMask" style="border-bottom: 8px solid rgba(255, 255, 255, 0.79); bottom: 0px; height: 34px; left: 34px; width: 956px; background-position: -35px bottom;"> </div>
+                <div class="guiMask" style="left: 0px; width: 34px; border-bottom: 8px solid rgba(255, 255, 255, 0.79); bottom: 0px; height: 623px;"> </div>
+                <div class="guiMask" style="right: 0px; width: 34px; bottom: 0px; border-bottom: 8px solid rgba(255, 255, 255, 0.79); height: 623px;"> </div>
+            </div>
+
+            <div class="arrowLeft"><span class="icon leftPageArrow"> </span></div>
+            <div class="arrowRight"><span class="icon rightPageArrow"> </span></div>
+            <div class="bottomNav">
+                <a class="highlight"><span class="icon highlight"> </span> Highlight</a>
+                <a class="notes" onclick="compTia.features.toggleNotes()"><span class="icon notes"> </span> Notes</a>
+            </div>
+            <div class="bottomLeftNav">
+
+            </div>
+        </div>
+        <section id="pages">
+
+            
+            <div class="page" id="flipPage"></div>
+    		<div class="page" id="currentPage" style="">
+                <h2 style="color:gray;text-align:center">Please Wait...</h2>
+            </div>
+            <div class="page" id="prePage"></div>
+            <div class="page" id="postPage"></div>
+        </section>
+    </div>
+<script type="text/javascript" src="assets/scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="assets/scripts/mobileConsole.1.js"></script>
+<script type="text/javascript" src="assets/scripts/jquery.xml2json.js"></script>
+<script type="text/javascript" src="assets/scripts/highcharts/highcharts.js"></script>
+<script type="text/javascript" src="assets/scripts/highcharts/modules/exporting.js"></script>
+<script type="text/javascript" src="assets/scripts/swipeit.1.js"></script>
+<script type="text/javascript" src="assets/scripts/atmTools.1.js"></script>
+<script type="text/javascript" src="assets/scripts/comptia.1.js"></script>
+<script type="text/javascript" src="assets/scripts/comptia.modules.1.js"></script>
+<script type="text/javascript" src="assets/scripts/comptia.search.1.js"></script>
+<script type="text/javascript" src="assets/scripts/comptia.features.1.js"></script>
+
+<script library="start">
+if (!compTia.init()) {
+    compTia.init();
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,1712 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="3">
+
+
+
+
+
+
+
+		<popup page="3" distinction="popupFeature" customscript="compTia.features.setupVideo('3_1_1958')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">How the Internet Began</div>
+		<div class="padding70">
+		  <a data="3_1_1958" style="color:#01567a; padding-right:55px;">1958</a>
+		  <a style="padding-right:55px;" data="3_1_1963">1963</a>
+		  <a style="padding-right:55px;" data="3_1_1964">1964</a>
+		  <a style="padding-right:55px;" data="3_1_1969">1969</a>
+		  <a style="padding-right:55px;" data="3_1_1972">1972</a>
+		  <a style="padding-right:55px;" data="3_1_1973">1973</a>
+		  <a style="padding-right:55px;" data="3_1_1978">1978</a>
+		  <a style="padding-right:55px;" data="3_1_1991">1991</a>
+		  <a style="padding-right:55px;" data="3_1_1992">1992</a>
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="4" distinction="bbFeature">
+			<section><![CDATA[
+					<div class="content">
+					  <div class="column">
+						<div class="innerColLeft">
+						  <p>
+						  <strong>Ever Heard of the Internet2?</strong></p>
+						  <p>Although the Internet2 may sound like a new and separate network meant to replace the Internet, this is not the case. The Internet2 is actually a consortium of U.S. leaders in education, research, industry, and government that seeks to expand the possibilities of the existing Internet by developing new technologies and applications and then quickly deploying them to the public. These experimental technologies require a faster and more efficient Internet, so the researchers use separate data lines that support extremely high-speed communications—up to 8.8 terabits per second (Tbit/s). In fact, many of the Internet’s current technologies are possible because of the research done by the Internet2 consortium.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+					  </div>
+					</div>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="5" distinction="popupFeature" customscript="compTia.features.setupVideo('csStep1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">How the Internet’s Client/Server Model Works</div>
+		<div class="padding70">
+		  <a style="padding-left:99px;padding-right:100px;color:#01567a" data="csStep1">STEP 1</a>
+		  <a data="csStep2" style="padding-right:100px;">STEP 2</a>
+		  <a data="csStep3" style="padding-right:100px;">STEP 3</a>
+		  <a data="csStep4" style="padding-right:100px;">STEP 4</a>
+		  <a data="csStep5" style="padding-right:100px;">STEP 5</a>
+		  	
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="assets/video/b.mp4" type="video/mp4">
+			  <source src="assets/video/b.ogv" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="7" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <ul class="dotted leftPadding13">
+						  	<li><span class="innerLi">Know who your friends are, and know who can see the information you post. Review your privacy settings periodically, as sites change and update their privacy practices frequently.</span></li>
+							<li><span class="innerLi">Do not post information such as your favorite teacher or your first pet’s name because these are often used as security questions to verify your identity.</span></li>
+							<li><span class="innerLi">Use caution when posting images, and know what images others are posting of you. Although privacy settings may offer some comfort, some images may be available for view through search engines and may not require site registration to be seen. Online images may become public property and subject to reproduction, and you might not want some—or any—of those images to be distributed. </span></li>
+						  </ul>
+						  
+						  <p class="start">Many employers and colleges use social networks as a means of gaining information about potential applicants before granting an interview or extending a job offer. In fact, there have</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  <p>been instances of people being fired from their jobs and being expelled from school for using social media, such as Facebook, Twitter, and blogs, in a questionable way. Generally, questionable  content on social media includes negative discussion about the poster’s job, employer, or colleagues, or inappropriate content about the poster. The responsibility for your content rests with you. Even though you may have strong privacy settings, you can’t control what those who you allow to see your content do with it. Therefore, treat all information posted on the web as public, and avoid posting damaging words and pictures. Bottom line: Make sure your profile, images, and site content project an image that accurately represents you.</p>	
+						  </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="7" distinction="popupFeature">
+			<section><![CDATA[
+				<style>
+					table td > div {width:100px}
+				</style>
+				<div class="ActiveGraphicPage drive">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Types of Social Networking Sites</div>
+			<strong>Figure 3.3</strong> Click on arrows to reveal the table</span>
+					<table border="0" cellpadding="0" cellspacing="10" class="horzTable socialNetwork">
+						<tbody>
+						<tr class="">
+							<td><div class="blueGradCol" style="width:55px"></div></td>
+							<td><div class="lightBlueGrad"><span>Social<br/>Exchange<br/>Networks</span>
+									<div col="1" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><span>Create Your<br/>Own Social<br/>Networks</span>
+									<div col="2" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightBlueGrad"><span>Business-<br/>Related<br/>Social<br/>Networks</span>
+									<div col="3" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><span>Media<br/>Sharing<br/>Networks</span>
+									<div col="4" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightBlueGrad"><span>Information<br/>Sharing<br/>Networks</span>
+									<div col="5" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><span>Information<br/>Recommendations<br/>and Filtering<br/>(Bookmarking)<br/>Networks</span>
+									<div col="6" class="lbDownArrowBL">NEXT</div></div></td>		
+						</tr>
+						
+						<tr class="lightestBlueGrad normalWeight thinPadding height157">
+							<td><img src="assets/images/layout/table/fig3.3_description.jpg" /></td>
+							<td><div col="1" class="lightBlueGrad" style="height: 149px;"><span>Allow users to connect with others, provide status updates</span></div></td>
+							<td><div col="2"><span>Allow users to create their own social network around a common topic; groups can be public or private</span></div></td>
+							<td><div col="3" class="lightBlueGrad"><span>Allow users to seek potential clients, business opportunities, jobs, or job candidates</span></div></td>
+							<td><div col="4"><span>Allow users to share pictures and videos</span></div></td>
+							<td><div col="5" class="lightBlueGrad"><span>Allow users to share information</span></div></td>
+							<td><div col="6"><span>Allow users to post their opinion of a product, service, news, or web item for others to see and use</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad divHeight169 centerDivs">
+							<td><img src="assets/images/layout/table/fig3.3_suggestedURLs.jpg"></td>
+
+							<td><div style="height: 169px;" class="lightBlueGrad" col="1"><span style="padding:2px;">
+								
+								<span onclick="window.open('http://facebook.com','_blank')" class="strongDBlue">facebook.com</span><br/>
+								<img src="assets/images/figures/fig3.3/fig3.3.1.jpg"><br>
+                                <span onclick="window.open('http://twitter.com','_blank')" class="strongDBlue">twitter.com</span><br/>
+								<img src="assets/images/figures/fig3.3/fig3.3.2.jpg"></span>
+							</div></td>
+
+							<td><div col="2"><span style="padding:2px;">
+								<span onclick="window.open('http://ning.com','_blank')" class="strongDBlue">ning.com</span><br>
+								<img src="assets/images/figures/fig3.3/fig3.3.3.jpg"><br>
+								<span onclick="window.open('http://mixxt.net','_blank')" class="strongDBlue">mixxt.net</span><br/>
+								<img src="assets/images/figures/fig3.3/fig3.3.4.jpg"></span>
+							</div></td>
+							<td><div class="lightBlueGrad" col="3"><span>
+                                <span onclick="window.open('http://linkedin.com','_blank')" class="strongDBlue">linkedin.com</span><br/>
+								<img src="assets/images/figures/fig3.3/fig3.3.5.jpg"></span></div></td>
+
+							<td><div col="4"><span style="padding:2px;">
+								<span onclick="window.open('http://youtube.com','_blank')" class="strongDBlue">youtube.com</span><br>
+								<img src="assets/images/figures/fig3.3/fig3.3.6.jpg" style="margin-top:-2px;"><br>
+								<span onclick="window.open('http://flickr.com')" class="strongDBlue">flickr.com</span><br>
+								<img src="assets/images/figures/fig3.3/fig3.3.7.jpg" style="margin-top:-2px;"><br>
+								<span onclick="window.open('http://picasa.google.com','_blank')" style="position:relative; top: -2px;" class="strongDBlue">picasa.google.com</span><br/>
+								<img src="assets/images/figures/fig3.3/fig3.3.8.jpg" style="margin-top:-2px;">
+							</span></div></td>
+
+							<td>
+								<div class="lightBlueGrad" col="5"><span style="padding:2px;">
+									<span onclick="window.open('http://delicious.com','_blank')" class="strongDBlue">delicious.com</span><br>
+									<img src="assets/images/figures/fig3.3/fig3.3.9.jpg"><br>
+									<span onclick="window.open('http://wikipedia.org','_blank')" class="strongDBlue">wikipedia.org</span><br>
+									<img src="assets/images/figures/fig3.3/fig3.3.10.jpg"><br>
+									<span onclick="window.open('http://slideshare.net','_blank')" class="strongDBlue">slideshare.net</span><br/>
+									<img src="assets/images/figures/fig3.3/fig3.3.11.jpg">
+							</span></div></td>
+
+							<td><div col="6"><span style="padding:2px;">
+								<span onclick="window.open('http://reddit.com','_blank')" class="strongDBlue">reddit.com</span><br>
+								<img src="assets/images/figures/fig3.3/fig3.3.12.jpg"><br>
+								<span onclick="window.open('http://digg.com','_blank')" class="strongDBlue">digg.com</span><br>
+								<img src="assets/images/figures/fig3.3/fig3.3.13.jpg"><br>
+								<span onclick="window.open('http://stumbleupon.com','_blank')" class="strongDBlue">stumbleupon.com</span><br/>
+								<img src="assets/images/figures/fig3.3/fig3.3.14.jpg">
+							</span></div></td>
+						</tr>
+					</tbody></table>
+					<em class="shiftLeft17 font_9" style="position:relative; top:-6px;">(Kevin Britland/Alamy; M4OS Photos/Alamy; Günay Mutlu/iStockphoto; Mixxt; Kristoffer Tripplaar/Alamy; PhotoEdit/Alamy; Günay Mutlu/gmutlu/iStockphoto; M4OS Photos/Alamy; Web)</em>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="8" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft rightPadding20">
+						  <ul class="dotted">
+						  	<li><span class="innerLi">Use the spell-checker and proofread your e-mail before sending it.</span></li>
+							<li><span class="innerLi">Avoid using abbreviations such as <em>u, r, LOL</em>, and <em>BRB</em>.</span></li>
+							<li><span class="innerLi">Include a meaningful subject line to help recipients prioritize and organize e-mails.</span></li>
+							<li><span class="innerLi">Add a signature line that includes your contact information.</span></li>
+							<li><span class="innerLi">Include only those people on the e-mail who truly need to receive it.</span></li>
+						  </ul>
+						  
+						  <p class="start">Following such guidelines maintains professionalism, increases efficiency, and might even help protect a company from lawsuits.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="8" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig3.4Big.jpg') no-repeat scroll center 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 3.4</span>
+						Using simple guidelines of e-mail etiquette can promote a professional image and make your message more effective.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="9" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig3.5Big.jpg') no-repeat scroll 45px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 3.5</span>
+						(a) Client-Based and (b) Web-Based E-mail Systems
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="9" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <p class="start">AIM, Google Chat, Windows Messenger, and Yahoo! Messenger are proprietary IM services, meaning you can IM or chat only with those who share the same IM service and are on your contact or buddy list. Another option is to chat with those you’ve “friended” on Facebook through Facebook’s chat option. There are also universal chat services such as Trillian and Digsby that you install on your computer and that allow you to chat with users of all popular IMs, regardless of the service they use.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+
+		<popup page="10" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <p class="start">Some web-based document products, such as Google Docs (<span class="strongDBlue" onclick="window.open('http://docs.google.com','_blank')">docs.google.com</span>), have wiki-like features to promote similar online collaboration, and specific wiki software, such as Wikispaces (<span class="strongDBlue" onclick="window.open('http://wikispaces.com','_blank')">wikispaces.com</span>) and MediaWiki (<span class="strongDBlue" onclick="window.open('http://mediawiki.org','_blank')">mediawiki.org</span>), is available that you can download for free. The Wikimedia Foundation, which hosts Wikipedia, also hosts other collaborative projects, such as Wikibooks (textbooks), Wikiversity (learning tools), and Wikisource (a document library). These wiki-type collaborative efforts apply to a variety of other useful applications. For example, wikiHow (<span class="strongDBlue" onclick="window.open('http://www.wikihow.org/','_blank')">wikihow.org</span>) is an online project that uses both wikis and the collaborative process to build a large, online how-to manual.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="10" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig3.6Big.jpg') no-repeat scroll center 3px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 3.6</span>
+						Rather than collaborating by exchanging e-mails and attachments—and potentially losing track of the most recent version of a document—different users can collaborate on a wiki page. <em>(Orange Line Media/Shutterstock; Christopher Halloran/Shutterstock; Kzenon/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <p class="start">Many people use blogs as a sort of personal scrapbook. Whenever the urge strikes, they report on their daily activities. Many other blogs focus on a particular topic. For example, the Movie Blog (<span class="strongDBlue" onclick="window.open('http://themovieblog.com','_blank')">themovie blog.com</span>) contains reviews and opinions about movies, and engadget (<span class="strongDBlue" onclick="window.open('http://engadget.com','_blank')">engadget.com</span>) is a blog devoted to discussing technogadgets. Many corporations, such as Walmart and Best Buy, have blogs written by employees. Technorati (<span class="strongDBlue" onclick="window.open('http://technorati.com','_blank')">technorati.com</span>) and Blogcatalog (<span class="strongDBlue" onclick="window.open('http://blogcatalog.com','_blank')">blogcatalog.com</span>) are two of many blog directories that can help you find blogs that fit your interests.</p>
+						<p class="start"><strong>Are all blogs text-based?</strong> The traditional form of a blog is primarily text-based but may also include images and audio. A <span class="strongDBlue" glossary="video log (vlog or video blog)">video log</span> (<span class="strongDBlue" glossary="video log (vlog or video blog)">vlog</span> or <span class="strongDBlue" glossary="video log (vlog or video blog)">video blog</span>) is a blog that uses video as the primary content (although it can also contain text, images, and audio). Vlogs are quickly becoming a popular means of personal expression, and many can be found by searching YouTube (<span class="strongDBlue" onclick="window.open('http://youtube.com','_blank')">youtube.com</span>) and Tout (<span class="strongDBlue" onclick="window.open('http://tout.com','_blank')">tout.com</span>).</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+							<p class="start"><strong>How do I create a blog?</strong> Many websites provide the tools you need to create your  own blog. Two sites that offer free blog hosting are Blogger (<span class="strongDBlue" onclick="window.open('http://blogger.com','_blank')">blogger.com</span>) and WordPress (<span class="strongDBlue" onclick="window.open('http://wordpress.com','_blank')">wordpress.com</span>). Such tools also let you add features like pictures or subpages to your blog. You can also choose to host your blog yourself so that the URL reflects your name or the name of your business. If you choose this option, you’ll need your own website and a URL so people can access it.</p>
+						  </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="11" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">What’s Your Pinterest?</strong>
+								<p class="lessSpacing">Pinterest (<span class="strongDBlue" onclick="window.open('http://pinterest.com','_blank')">pinterest.com</span>) is one of the newest crazes to hit the social media scene. The site describes itself as a “virtual pinboard,” or scrapbook, on which users create collections of images of things they love. It’s like going through a magazine, cutting out pictures you like, and tacking them up on a bulletin board—only better! You can “pin” virtually any image on the web to a Pinterest collection. Like other social networking sites, users share their collections as well as follow others’ collections. Pinterest collections range in topic from wedding inspirations, home decorating, fashion, and cooking to DJ equipment, sports, and politics. </p>
+								<p class="start lessSpacing">Launched in 2010, the site has quickly grown in popularity, and it was recognized by <em>Time</em> magazine as one of the 50 best websites in 2011. Women are the predominant users of the site, which has engaged many companies and nonprofits to market their brands on Pinterest. If you haven’t yet, check out Pinterest, but be careful—the act of looking through collections of great images can be addicting!</p>	
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								<figure style="background:url('assets/images/figures/pinterest2.png') no-repeat scroll 0 0px transparent; height:110px; margin-left: -21px;">
+									<figcaption class="bottomPos">
+					 				 <span></span>
+									<em>(Julian Stratenschulte/dpa/picture-alliance/Newscom)</em>
+								</figcaption>
+									</figure>
+							</div>
+						  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+
+
+<!--part 2-->	
+
+		<popup page="12" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <p class="start"><strong>Can I create my own podcast?</strong> It’s simple to create a podcast. Although high-end equipment will produce more-sophisticated output, to record the audio content all you need is a computer with a microphone. If you want to make a video podcast, you also need a webcam or video camera. You may also need additional software to edit the audio and video content, depending on how professional you wish the podcast to be. After you’ve recorded and edited the podcast content, you need to export it to MP3 format. The free program Audacity (<span class="strongDBlue" onclick="window.open('http://audacity.sourceforge.net','_blank')">audacity.sourceforge.net</span>) lets you both edit audio files and export them to MP3 format. All that’s left is for you to create an RSS feed (tricky, but doable) and then upload the content to a site that hosts podcasts, such as iTunes, Podcast.com, or Podcast Pickle.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+							 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>	
+		
+		<popup page="12" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage software">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Podcast Directories and Aggregators</div>
+			<strong class="font_15">Figure 3.7</strong>
+					<table border="0" cellpadding="0" cellspacing="10"  class="shiftLeft17 TMargin25">
+						<tbody>
+						<tr class="lightestBlueGrad MedfirstColLongSecondCol">
+							<td>
+								<div>
+									<span class="font_15 semibold">ITunes</span><br/>
+									<span class="strongDBlue" onclick="window.open('http://itunes.com','_blank')">(itunes.com)</span>
+								</div></div>
+							</td>
+							<td>
+								<div class="displayTCell">
+									<ul class="dotted">
+										<li><span class="innerLi">Software makes it easy to play, manage, and share your favorite podcasts</span></li>
+									</ul>
+								</div></td>
+						
+						</tr>
+						<tr class="lightBlueGrad MedfirstColLongSecondCol">
+							<td>
+								<div>
+									<span class="font_15 semibold">Podcast.com</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://podcast.com','_blank')">(podcast.com)</span>
+								</div>
+							</td>
+							<td>
+								<div class="displayTCell">
+									<ul class="dotted">
+										<li><span class="innerLi">Broad collection of podcasts</span></li>
+									</ul>
+								</div>
+							</td>
+						</tr>
+						<tr class="lightestBlueGrad MedfirstColLongSecondCol">
+							<td>
+								<div>
+									<span class="font_15 semibold">Podcast Pickle</span><br/>
+									<span class="strongDBlue" onclick="window.open('http://podcastpickle.com','_blank')">(podcastpickle.com)</span>
+								</div>
+							</td>
+							<td>
+								<div class="displayTCell">
+									<ul class="dotted">
+										<li><span class="innerLi">Includes discussion forums and reviews</span></li>
+									</ul>
+								</div>
+							</td>
+						</tr>
+						<tr class="lightBlueGrad MedfirstColLongSecondCol">
+							<td>
+								<div>
+									<span class="font_15 semibold">YouTube</span><br/>
+									<span class="strongDBlue" onclick="window.open('http://youtube.com','_blank')">(youtube.com)</span>
+								</div>
+							</td>
+							<td>
+								<div class="displayTCell">
+									<ul class="dotted">
+										<li><span class="innerLi">Good source for video blogs (vlogs)</span></li>
+									</ul>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="12" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Methods of Online Communication</div>
+			<strong>Figure 3.8</strong> Click on arrows to reveal the table</span>
+					<table border="0" cellpadding="0" cellspacing="10" class="shiftLeft17 TMargin25">
+						<thead><tr class="tallHeaderFont13">
+							<th><div class="blueGradHeading alignLeft">SOCIAL NETWORKING</div></th>
+							<th><div class="blueGradHeading verticleCenterLine">E-MAIL</div></th>
+							<th><div class="blueGradHeading alignLeft">INSTANT MESSAGING</div></th>
+							<th><div class="blueGradHeading verticleCenterLine">WIKIS</div></th>
+							<th><div class="blueGradHeading verticleCenterLine">BLOGS</div></th>
+							<th><div class="blueGradHeading verticleCenterLine">PODCASTS</div></th>
+							<th><div class="blueGradHeading verticleCenterLine">WEBCASTS</div></th>
+						</tr></thead>
+						<tbody>
+						<tr class="lightBlueGrad divWidth117 divheight145 centerDivs">
+							
+							<td><div><br><br><img src="assets/images/charts/socialNetwork.jpg" />
+									<div col="1" class="sLbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><img src="assets/images/charts/email.jpg" />
+									<div col="2" class="sLbDownArrowBL">NEXT</div></div></td>
+							<td><div><br><br><img src="assets/images/charts/IM.png" />
+									<div col="3" class="sLbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><br><br><img src="assets/images/charts/wiki.png" />
+									<div col="4" class="sLbDownArrowBL">NEXT</div></div></td>
+							<td><div><br><br><img src="assets/images/charts/blogs.jpg" />
+									<div col="5" class="sLbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><img src="assets/images/charts/podcast.jpg" class="TMargin10" />
+									<div col="6" class="sLbDownArrowBL">NEXT</div></div></td>
+							<td><div><br><br><img src="assets/images/charts/webcast.png" />
+									<div col="7" class="sLbDownArrowBL">NEXT</div></div></td>				
+						</tr>
+						
+						<tr class="lightBlueGrad divWidth117 divheight192 lineSpacing17" style="height:198px">
+							
+							<td><div col="1"><ul class="dotted ">
+								<li><span class="innerLi">Web 2.0 technology</span></li>
+								<li><span class="innerLi">Lets you build an online network of friends</span></li>
+								<li><span class="innerLi">Lets you share media content</span></li></div></td>
+							<td><div col="2" class="lightestBlueGrad"><ul class="dotted">
+								<li><span class="innerLi">Most common form of online communication</span></li>
+								<li><span class="innerLi">Asynchronous (not having to be done at the same time)</span></li></div></td>
+							<td><div col="3"><ul class="dotted">
+								<li><span class="innerLi">Real-time exchange</span></li>
+								<li><span class="innerLi">Can be used with multiple persons simultaneously</span></li>
+								<li><span class="innerLi">Video/audio chats available</span></li></div></td>
+							<td><div col="4" class="lightestBlueGrad"><ul class="dotted">
+								<li><span class="innerLi">Great collaborative tool</span></li>
+								<li><span class="innerLi">Content updated by many users</span></li>
+								<li><span class="innerLi">Historical content kept, so you can revert to past versions</span></li></div></td>
+							<td><div col="5"><ul class="dotted">
+								<li><span class="innerLi">Written by a single author</span></li>
+								<li><span class="innerLi">Chronologic entries</span></li>
+								<li><span class="innerLi">Searchable content</span></li>
+								<li><span class="innerLi">May include images, audio, and video</span></li></div></td>
+							<td><div col="6" class="lightestBlueGrad"><ul class="dotted">
+								<li><span class="innerLi">Audio/video files delivered via RSS</span></li>
+								<li><span class="innerLi">New RSS content collected with aggregator</span></li>
+								<li><span class="innerLi"> Can download and view content on portable music player</span></li></div></td>
+							<td><div col="7"><ul class="dotted">
+								<li><span class="innerLi">Most often live, streamed broadcasts</span></li></div></td>
+						</tr>
+					</tbody></table>
+					<p class="shiftLeft17"><em>(Ben Legend/Fotolia; Beboy/Fotolia; LiveStock/Shutterstock; Kheng Guan Toh/Shutterstock; ayzek/Shutterstock; 3drenderedlogos com/Shutterstock; On-Air/iStockphoto)</em></p>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="13" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage drive">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Popular Plug-Ins and Players and Their Uses</div>
+			<strong>Figure 3.9</strong> Click on arrows to reveal the table</span>
+					<table border="0" cellpadding="0" cellspacing="10" class="pluginsTable shiftLeft20">
+						<tbody>
+						<tr class="lightBlueGrad alignCenter">
+							<td><img src="assets/images/layout/table/plugin.jpg" /></td>
+
+							<td><div>
+								Adobe Reader<br>
+								<img src="assets/images/charts/adobeReader.jpg" class="TMargin5"/>
+									<div col="1" class="sLbDownArrowBL">NEXT</div></div></td>
+
+							<td><div class="lightestBlueGrad">
+								Flash Player<br>
+								<img src="assets/images/charts/flashPlayer.jpg" class="TMargin5"/>
+									<div col="2" class="sLbDownArrowBL">NEXT</div></div></td>
+
+							<td><div>
+								QuickTime Player<br>
+								<img src="assets/images/charts/quicktimePlayer.jpg" class="TMargin5"/>
+									<div col="3" class="sLbDownArrowBL">NEXT</div></div></td>
+
+							<td><div class="lightestBlueGrad">
+								Shockwave Player<br><br>
+								<img src="assets/images/charts/adobeShockwave.jpg" />
+									<div col="4" class="sLbDownArrowBL">NEXT</div></div></td>
+
+							<td><div>
+								Silverlight<br>
+								<img src="assets/images/charts/silverlight.jpg" class="TMargin5"/>
+									<div col="5" class="sLbDownArrowBL">NEXT</div></div></td>
+
+							<td><div class="lightestBlueGrad">
+								Windows Media Player<br><br>
+								<img src="assets/images/charts/windowsMedia.jpg" />
+									<div col="6" class="sLbDownArrowBL">NEXT</div></div></td>		
+						</tr>
+						
+						<tr class="lightBlueGrad alignCenter font_15">
+							<td><img src="assets/images/layout/table/whereyou.jpg" /></td>
+							<td><div col="1">
+								<br><br><br><span class="strongDBlue" onclick="window.open('http://adobe.com','_blank')">adobe.com</span></div></td>
+							<td><div col="2" class="lightestBlueGrad">
+								<br><br><br><span class="strongDBlue" onclick="window.open('http://adobe.com','_blank')">adobe.com</span></div></td>
+							<td><div col="3">
+								<br><br><br><span class="strongDBlue" onclick="window.open('http://apple.com','_blank')">apple.com</span></div></td>
+							<td><div col="4" class="lightestBlueGrad">
+								<br><br><br><span class="strongDBlue" onclick="window.open('http://adobe.com','_blank')">adobe.com</span></div></td>
+							<td><div col="5">
+								<br><br><br><span class="strongDBlue" onclick="window.open('http://microsoft.com','_blank')">microsoft.com</span></div></td>
+							<td><div col="6" class="lightestBlueGrad">
+								<br><br><br><span class="strongDBlue" onclick="window.open('http://microsoft.com','_blank')">microsoft.com</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><img src="assets/images/layout/table/whatitdoes.jpg" /></td>
+							<td><div col="1"><span>Views and prints portable document format (PDF) files</span></div></td>
+							<td><div col="2" class="lightestBlueGrad"><span>Plays animation and movies through web browsers</span></div></td>
+							<td><div col="3"><span>Plays MP3 animation, music, musical instrument digital interface (MIDI), audio, and video files</span></div></td>
+							<td><div col="4" class="lightestBlueGrad"><span>Plays interactive games, multimedia, graphics, and streaming audio and video on the web</span></div></td>
+							<td><div col="5"><span>Similar to Flash; plays web-based animations and videos</span></div></td>
+							<td><div col="6" class="lightestBlueGrad"><span>Plays MP3, WAV, and music files; movies; and live audio and video broadcasts on the web</span></div></td>
+						</tr>
+					</tbody></table>
+					<em class="shiftLeft17">(NetPhotos/Alamy; NetPhotos/Alamy; NetPhotos/Alamy; NetPhotos/Alamy; franckreporter/Shutterstock; Nicemonkey/Shutterstock)</em>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="13" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Why Can’t I Run Flash-Based Multimedia on My iPad or iPhone?</strong>
+								<p>Your friend showed you a great video clip on her new Android tablet. You try to go to the same web page on your iPhone, but the video won’t run. Why not? Apple devices don’t support Flash! Apple’s website gives a complete explanation of Apple’s “Thoughts on Flash” (<span class="strongDBlue" onclick="window.open('http://apple.com/hotnews/thoughts-on-flash','_blank')">apple.com/hotnews/thoughts-on-flash</span>); succinctly, Apple’s main problem with Flash is that it’s not “open” software, but rather 100% proprietary. Apple also says that there are reliability, security, and performance issues with Flash, so it would rather use open standard products such as HTML5, CSS, and JavaScript. Flash is also tough on battery consumption and doesn’t work well on devices using touch commands rather than mice commands.</p>
+								<p class="start">What to do if you have an iPad, iPod Touch, or iPhone and want to view a Flash video content? One work-around is to download the Skyfire web browser, which converts Flash video content into iOS-friendly HTML5. Another way is to check</p>	
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						  style="background: url(assets/images/figures/skyfire.jpg) no-repeat scroll 0px 0 transparent;
+						  	height: 267px;">
+							<figcaption class="bottomPos">
+							 
+							  <em>(SKYFIRE)</em>
+							</figcaption>
+							</figure>
+							
+								<p>whether the content site you’re using has a native iOS application, which often provides access to the video. For example, YouTube and Dailymotion have applications available. Unfortunately, though, you have to find and hunt for the clip that your friend shared with you on a web page.</p>
+							</div>
+						  </div>
+						</div>
+						
+					
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="14" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <p class="start"><strong>Do I need to update players and plug-ins?</strong> Improvements and updates are often made available for players and plug-ins, and most will alert you to check for and download updates when they’re available. It’s best to keep the players and plug-ins as current as possible so that you get the full effects of the multimedia running with them.</p>
+						<p class="start"><strong>Are there any risks with using plug-ins?</strong> When a browser requires a plug-in to display particular content, it usually automatically accesses the plug-in. Depending on your settings, this access happens without asking you for consent to start the plug-in. Such automatic access can present security risks. To minimize such risks, update your plug-ins and browser software frequently so that you’ll have the most up-to-date remedies against identified security flaws.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+							 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig3.10Big.jpg') no-repeat scroll 145px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 3.10</span> Top Five Online Consumer Purchases
+					  <em>(urfin/Shutterstock; RusN/iStockphoto)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <p class="start">For example, after implementing the Facebook “Like” button, American Eagle noticed that Facebook-referred visitors spent 57% more than other online shoppers. Other peer-influenced e-commerce trends include group buying and individual customization. Groupon and Living-Social are two examples of deal-of-the-day group purchase websites that require a certain number of people to buy the discounted deal before the deal can go through. CafePress and Threadless sell T-shirts and other items that are customized with your own graphic designs. </p>
+						<p class="start">But e-commerce encompasses more than just shopping opportunities. Today, anything you can do inside your bank you can do online, and more than 50% of U.S. households do some form of online banking. Many people use online services to check their account balances, pay bills online, and check stock and mutual fund performance. Credit card companies allow you to view, schedule, and pay your credit card bill; brokerage houses allow you to conduct investment activities online.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+							 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+		</popup>
+		
+                                                                     
+                                                                     
+                                                                     
+                                             
+<popup page="16" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Online Shopping Precautions</div>
+			<strong>Figure 3.11</strong>
+					<table border="0" cellpadding="0" cellspacing="10" class="onlineTable font_11 TMargin15">
+						<tbody>
+							<tr>
+								<td><div class="lightBlueGrad"><img src="assets/images/charts/firewall.png" style="margin-left:25px; margin-bottom: 11px; margin-top: 4px;"/>
+									<br/><span>When shopping at home, use a firewall and antivirus software for general computer protection.</span></div></td>
+								<td><div class="lightestBlueGrad"><img src="assets/images/charts/lock.png" style="margin-left:35px; margin-bottom: 4px;"/>
+									<br/><span>Don’t shop on public WiFi networks, as they may contain spyware.</span></div></td>
+								<td><div class="lightBlueGrad"><img src="assets/images/charts/secure.png" style="margin-left:20px; margin-bottom: 8px; margin-top:10px;"/>
+									<br/><span>Check for visual indicators such as https:// in the URL, a closed padlock icon, and a green address bar.</span></div></td>
+								<td><div class="lightestBlueGrad"><img src="assets/images/charts/BBB.jpg" style="margin-left:51px; margin-bottom: 10px; margin-top:3px;"/>
+									<br/><span>Look for third-party verification from TRUSTe or the Better Business Bureau symbol.</span></div></td>			
+							</tr>
+							
+							<tr>
+								<td class="topPadding10"><div class="lightBlueGrad"><img src="assets/images/charts/payOnline.jpg" style="margin-left:31px; margin-bottom: 8px;"/>
+									<br/><span>Use a credit card, not a debit card, to protect transactions, or use a third-party payer such as PayPal or Google Wallet.</span></div></td>
+								<td class="topPadding10"><div class="lightestBlueGrad"><img src="assets/images/charts/password.png" style="margin-left:28px; margin-bottom: 15px; margin-top: 14px;"/>
+									<br/><span>Create a strong password for all online accounts (one that includes numbers and other symbols such as @).</span></div></td>
+								<td class="topPadding10"><div class="lightBlueGrad"><img src="assets/images/charts/hotPrice.png" style="margin-left:28px; margin-bottom: 13px; margin-top: px;"/>
+									<br/><span>Deals that are too good to be true are usually just that.</span></div></td>
+								<td class="topPadding10"><div class="lightestBlueGrad"><img src="assets/images/charts/finePrint.png" style="margin-left:28px; margin-bottom: 11px; margin-top: 5px;"/>
+									<br/><span>Read and understand the fine print on warranties, return policies, and the retailer’s privacy statements.</span></div></td>			
+							</tr>	
+							</tbody></table>
+					<em class="font_9">(beboy/Shutterstock; Godfried Edelman/iStockphoto; photoinnovation/Shutterstock; HANDOUT/ KRT/Newscom; Maxx-Studio/Shutterstock;<br>isak55/Shutterstock; Alhovik/Shutterstock; iQoncept/Shutterstock)</em>
+		  </div>
+		  ]]></section>
+		</popup>		
+		<popup page="17" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Making Safe Online Payments Using PayPal and Google Wallet</strong>
+								<p class="lessSpacing">When people first began making online purchases, many were not comfortable buying from sites like eBay because the sites required them to give personal financial information such as credit card numbers to strangers. PayPal (<span class="strongDBlue" onclick="window.open('http://paypal.com','_blank')">paypal.com</span>) resolved that issue by serving as a payment intermediary that allows anyone to pay with credit cards and bank accounts without sharing their financial information. PayPal is now a standard means of payment for many online merchants and offers buyer protection and dispute resolution services. <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 3.12</span></p>
+
+								<p class="start lessSpacing">Google Wallet (<span class="strongDBlue" onclick="window.open('http://google.com/wallet','_blank')">google.com/wallet</span>) offers similar services to PayPal, although there are some subtle differences. For example, you can’t pay directly from your bank account with Google Wallet, and you can only make purchases within the United States. In addition, Google Wallet only provides customer support through forums and e-mail, whereas PayPal has increased its customer service considerably, so that you can now chat live with PayPal representatives.</p>	
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						  style="background: url(assets/images/figures/fig3.12.png) no-repeat scroll 0px 0 transparent;
+						  	height: 234px; margin-left: -38px">
+							<figcaption class="bottomPos">
+							 <span>Figure 3.12</span> <strong>How PayPal Works</strong> 
+							  <br/><em>(Yuri Arcurs/Shutterstock; AKP Photos/Alamy; happydancing/Shutterstock)</em>
+							</figcaption>
+							</figure>
+							</div>
+						  </div>
+						</div>
+						
+						<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig3.12Big.png) no-repeat scroll center 25px transparent">
+							  <figcaption>
+								<span>Figure 3.12</span>
+								<strong>How PayPal Works</strong><em> (Yuri Arcurs/Shutterstock; AKP Photos/Alamy; happydancing/Shutterstock)</em>
+								</figcaption>
+							  </figure>
+
+						</div>
+					
+
+				]]>
+			</section>
+		</popup>
+		
+<!--ch 3 part3-->
+	<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+				
+					<figure style="background:url('assets/images/figures/fig3.13Big.jpg') no-repeat scroll center 45px transparent">
+						<span class="greenHeading font_19">If you want a tour of a browser, click on its icon.</span>
+						<div class="fig3_13Browser">
+						<div onclick="window.open('http://windows.microsoft.com/en-us/internet-explorer/products/ie-9/features','_blank')"></div>
+						<div onclick="window.open('http://www.mozilla.org/en-US/firefox/central/','_blank')"></div>
+						<div onclick="window.open('http://support.google.com/chrome/bin/answer.py?hl=en&answer=155618','_blank')"></div>
+						<div onclick="window.open('http://www.apple.com/safari/','_blank')"></div>
+
+						</div>
+					
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 3.13</span> Common Web Browsers <em>(Pablo Fonseca Q./ La Nacion de Costa Rica/Newscom; Lucia Lanpur/Alamy; Tommy (Louth)/ Alamy; 2020WEB/Alamy)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+	<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3.14Big.jpg') no-repeat scroll 65px 15px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 3.14</span> Like most of the popular web browsers, Internet Explorer includes tabbed and privacy browsing. Pinned tabs on the taskbar make accessing your favorite sites even easier.
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="21" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						<ul class="dotted">
+							<li><span class="innerLi"><em>Pinned tabs</em>: You can “dock” tabs to the taskbar (in Internet Explorer 9) or minimize and save them permanently (Google Chrome and Firefox) for easier navigation of your favorite sites.</span></li>
+							<li><span class="innerLi"><em>Tear-off tabs</em>: An opened tab can be dragged away from its current window so it’s then opened in a new window.</span></li>
+							<li><span class="innerLi"><em>Thumbnail previews</em>: Another convenient navigation tool that most browsers share is providing thumbnail previews of all open web pages in open tabs.</span></li>
+							<li><span class="innerLi"><em>Tab isolation</em>: With this feature, tabs are independent of each other, so if one crashes, it does not affect the other tabs.</span></li>
+							<li><span class="innerLi"><em>Combined search and address bar:</em> With this feature, you can both type a website URL or search the web from the address bar.</span></li>
+							<li><span class="innerLi"><em>SmartScreen filter</em>: Most browsers offer built-in protection against phishing, malware, and other web-based threats.</span></li>
+						</ul>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  <ul class="dotted">
+						  	<li><span class="innerLi"><em>Privacy browsing</em>: Privacy features (such as InPrivate Browsing in Internet Explorer) let you browse the web without retaining a history trail, temporary Internet files, cookies, or usernames and passwords. These features are especially helpful when  you use public computers at college or the public library, for example.</span></li>
+							<li><span class="innerLi"><em>Add-ons</em>: Add-ons are small programs that customize and increase the functionality of the browser. Examples include Video DownloadHelper that converts web videos, like those found on YouTube, to files you can save, as well as a Facebook toolbar that integrates Facebook functionality into your browser.</span></li>
+							<li><span class="innerLi"><em>Session Restore</em>: Brings back all your active web pages if the browser or system shuts down unexpectedly.</span></li>
+							</ul>	
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="21" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							<p><strong class="font_16">Why You Should Keep Your Browser</strong></p>
+							<p><strong class="font_16">Software up to Date</strong></p>
+							
+							<p>When new file formats are developed for the web, browsers need new plug-ins to display content properly. Constantly downloading and installing plug-ins can be tedious. Although many websites provide links to other sites where you can download plug-ins, not all do, resulting in frustration when you can’t display the content you want. When new versions of browsers are released, they normally include the latest versions of popular plug-ins. Corrections of security breaches are typically included in these versions of browser software, as well. Therefore, upgrading to the latest version of your browser software provides for safer, more convenient web surfing. Fortunately, updates are free, and you can set most of the popular web browsers to notify you when updates are available or to download the updates automatically.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+						</div>
+					</div>
+			  	</div>
+
+	 		 ]]>
+		</section>
+	</popup>
+		
+		<popup page="21" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3.15Big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 407px">
+						<span>Figure 3.15</span> The Parts of a URL
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="22" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage drive">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Common Top-Level Domains and Their Authorized Users</div>
+			<strong>Figure 3.16</strong></span>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class="shiftLeft17">
+						<thead><tr class="medHeaderFont12">
+							<th><div class="blueGradHeading">Domain Name</div></th>
+							<th><div class="blueGradHeading">Who Can Use It</div></th>
+						</tr></thead>
+						<tbody class="singleLineMed">
+						
+						<tr class="lightBlueGrad ">
+							<td><div><strong>.biz</strong></div></td>
+							<td><div>Businesses</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><strong>.com</strong></div></td>
+							<td><div>Originally for commercial sites, but now can be used by anyone</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><strong>.edu</strong></div></td>
+							<td><div>Degree-granting institutions</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><strong>.gov</strong></div></td>
+							<td><div>Local, state, and federal U.S.governments</div></td>
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div><strong>.info</strong></div></td>
+							<td><div>Information service providers</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><strong>.mil</strong></div></td>
+							<td><div>U.S. military</div></td>
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div><strong>.net</strong></div></td>
+							<td><div>Originally for networking organizations, but no longer restricted</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><strong>.org</strong></div></td>
+							<td><div>Organizations (often not-for-profits)</div></td>
+						</tr>
+						
+						
+					</tbody></table>
+		 </div>
+		  ]]></section>
+		</popup>
+		
+<popup page="23" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage codeTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Examples of Country Codes</div>
+
+
+
+			<strong class="shiftLeft17">Figure 3.17</strong></span>
+			<br><br>
+					<table border="0" cellpadding="0" cellspacing="10" class="shiftLeft17">
+						<thead><tr class="medHeaderFont12">
+							<th><div class="blueGradHeading" style="width:92px">Country Code</div></th>
+							<th><div class="blueGradHeading">Country</div></th>
+						</tr></thead>
+						<tbody class="singleLineMed font_15">
+						
+						<tr class="lightBlueGrad">
+							<td><div class="alignCenter semibold">.au</div></td>
+							<td><div>Australia</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div class="alignCenter semibold">.ca</div></td>
+							<td><div>Canada</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div class="alignCenter semibold">.jp</div></td>
+							<td><div>Japan</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div class="alignCenter semibold">.uk</div></td>
+							<td><div>United Kingdom</div></td>
+						</tr>
+					</tbody></table>
+					
+					<p class="shiftLeft17"><em>Note:</em> For a full listing of country codes, refer to  <span class="strongDBlue" onclick="window.open('http://iana.org/domains/root/db/','_blank')">iana.org/domains/root/db/</span>.</p>
+		 
+		 </div>
+		  ]]></section>
+		</popup>
+		
+	<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3.18Big.jpg') no-repeat scroll 93px 15px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 3.18</span> Navigating a Web Page
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						<p class="start">Most social bookmarking sites, such as Digg (<span class="strongDBlue" onclick="window.open('http://digg.com','_blank')">digg.com</span>) and Reddit (<span class="strongDBlue" onclick="window.open('http://reddit.com','_blank')">reddit.com</span>), prominently feature those articles that have been tagged the most. Some sites, like Newsvine (<span class="strongDBlue" onclick="window.open('http://newsvine.com','_blank')">newsvine.com</span>), just center around newsworthy articles that have been tagged, whereas others, such as TechnoratiMedia (<span class="strongDBlue" onclick="window.open('http://technoratimedia.com','_blank')">technoratimedia.com</span>), just feature blogs that readers have tagged. Diigo (<span class="strongDBlue" onclick="window.open('http://diigo.com','_blank')">diigo.com</span>) allows you not only to tag and bookmark websites, but also to annotate the pages with highlights and sticky notes. Through Diigo, you can archive web pages so they are always available. StumbleUpon (<span class="strongDBlue" onclick="window.open('http://stumbleupon.com','_blank')">stumbleupon.com</span>) recommends websites based on your personal interests and preferences as well as the recommendations of people you know or the general surfing public.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  	
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+				
+	<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3.19Big.jpg') no-repeat scroll 112px 32px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 3.19</span> Delicious is a social bookmarking website that allows you to organize and share your favorite websites.
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+						
+	<popup page="25"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText">Discovering the Semantic Web</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">Think about all the types of data on the web that you access manually, such as appointment times, transportation and entertainment schedules, and store locations and hours. It would seem that computers would be helpful in plugging through all this web data, but oddly, that is not the case. Web pages are designed for people to read, not for computers to manipulate. As yet, no reliable way exists for computers to process the meaning of data on a web page so that it can be used to see relationships or make decisions.</p>
+						<p class="start">The <span class="strongDBlue" glossary="semantic web (Web 3.0)">semantic web</span> (or <span class="strongDBlue" glossary="semantic web (Web 3.0)">Web 3.0</span>) is an evolving extension of the web in which data is defined in such a way to make it more easily processed by computers. Right now, search engines function by recognizing keywords such as <em>office hours</em> and <em>dentist</em>, but they can’t determine, for example, in which office and on what days Dr. Smith works and what his available appointment times are. By using a so-called “agent,” the semantic web would enable computers to find that type of information, coordinate it with your other schedules and  preferences, and then make the appointment for you. </p>
+						<p class="start">The semantic web would also assist you in comparing products, prices, and shipping options by finding the best product option based on specified criteria and then placing the order for you. Additionally, the agent would record the financial transaction into your personal bookkeeping software and arrange for a technician to help install the software, if needed.</p>
+						<p class="start">For the semantic web to work, businesses, services, and software would all use the same categorization structures so that similar information would share the same attributes, ensuring consistency of metadata throughout the web. The semantic web would build on this type of capability so that each website would have text and pictures (for people to read) and metadata (for computers to read) describing the information on the web (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 3.20</span>).</p>	
+						<p class="start">Although some of the semantic web’s functionalities are beginning to emerge in technologies such as Siri in the iPhone 4S, the majority of its functionality and implementation are still in development. The greatest challenge is recoding all the information currently available on the web into the type of metadata that computers can recognize. The very grandeur of that task means that we will not see a fully functional semantic web until sometime in the distant future. In the meantime, we can continue to benefit from each small step toward that goal.</p>	
+						
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  <figure onclick="compTia.additionalPopupContent(1)" style="
+						  	    background: url(assets/images/figures/fig3.20.png) no-repeat 0 0 transparent;
+						  	    height: 366px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 3.20</span>
+							  The Semantic Web <em>(William casey/Shutterstock;TomaszShutterstock;<br/>nattstudio/Fotolia)</em>
+							  </figcaption>
+							</figure>
+							
+					</div>
+				</div>
+			</div></div>
+									<div class="additional">
+									<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig3.20Big.png) no-repeat scroll 180px 0 transparent">
+							<figcaption>
+							  <span>Figure 3.20</span>
+							  The Semantic Web <em>(William casey/Shutterstock;TomaszShutterstock;nattstudio/Fotolia)</em>
+							  </figcaption>
+							  </figure>
+						</div></div>
+			]]></section></popup>
+
+			<popup page="25" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_20" style="top:15px">Doing Business on a Shoestring&mdash;<br/>Thanks to the Internet</div>
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Let’s say you think that flip-flops in school colors would be a popular product. Your school’s bookstore carries everything else with the school’s colors and logo, but not flip-flops. You’ve asked your friends and several classmates, and most of them say they would buy flip-flops in the school’s colors. So what do you do next? How do you move from product concept to selling a physical product? </p>
+					  		<p class="start">Before the Internet, it would have been much more difficult and expensive to get your product produced and distributed. First, you would have had to find someone to design your flip-flops. Then, to make the flip-flops, you would have had to find a manufacturer, who may have required a high minimum order (maybe tens of thousands of pairs of flip-flops). You also would have needed a package design, marketing brochures, a company logo, a storage facility, and more. Finally, the largest hurdle would have been to convince a brick-and-mortar retailer, such as your campus bookstore, to carry your product.</p>
+							<p class="start">Today, however, the Internet brings the power of the global economy right to your door (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 3.21</span>). For product design and manufacturing, you can visit a site like Alibaba (<span class="strongDBlue" onclick="window.open('http://alibaba.com','_blank')">Alibaba.com</span>), which helps entrepreneurs locate manufacturers of all sorts of products. Many manufacturers are happy to work with small business owners tocustom-design products. So if you find a flip-flopstyle you like, you probably can get it customizedwith your school colors.</p>
+							<p class="start">But what happens if the bookstore doesn’t want to sell your flip-flops? If this happens, you can set up a website to sell them yourself. Of course, you may need help doing this, in which case you can locate skilled professionals by using sites such as Guru (<span class="strongDBlue" onclick="window.open('http://guru.com','_blank')">guru.com</span>) or Elance (<span class="strongDBlue" onclick="window.open('http://elance.com','_blank')">elance.com</span>). You simply create a description of the job you need done (such as logo design for a flip-flop company), post it on the site, and invite freelancers to bid on your job. You then contact the freelancers who look promising, review samples of their work, and decide on someone who can help you—and at a competitive price. After your website is designed and up and running, you can place your business on social networking sites, such as Facebook, to help potential customers discover your product and spread the word about your flip flops. You probably already have lots of friends on Facebook who attend your school and would be good potential customers.</p>
+							<p class="start">Another hurdle is determining where you’ll store your product and who will package and ship it to customers. If your parents’ basement isn’t large enough, you can outsource warehousing and order fulfillment to Amazon.com. Amazon will (for a fee) warehouse your inventory and then package and ship it when customer orders are received. Orders don’t have to come through Amazon’s site (although that is an option); you can provide ordering information collected on your site to Amazon, and Amazon will take care of the rest.</p>
+							<p class="start">Although there is always a cost to starting up a business, up-front costs are much lower when you take advantage of the global marketplace and the Internet. So, take that brilliant idea you have and turn it into a business today!</p>
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig3.21.png) no-repeat scroll 0px 0px transparent;
+						  	height: 425px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 3.21</span>
+							   By using the services of only a few websites, you can create and distribute products, such as your own line of custom flip-flops. <em>(M4OSPhotos/Alamy;Elance,Inc.;KevinBritland/Alamy;Anatoliiabii/Alamy;nito/Shutterstock)</em>
+							</figcaption></figure>
+						</div>
+					</div>
+				</div></div>
+
+						<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig3.21Big.png) no-repeat scroll center 0 transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 3.21</span>
+								 By using the services of only a few websites, you can create and distribute products, such as your own line of custom flip-flops. <em>(M4OSPhotos/Alamy;Elance,Inc.;KevinBritland/Alamy;Anatoliiabii/Alamy;nito/Shutterstock)</em>
+							 
+							</figcaption>
+							</figure>
+						</div>
+
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="26" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3.22Big.jpg') no-repeat scroll center 60px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 3.22</span>  ipl2 and Dogpile are alternatives to Google. ipl2 (<span class="strongDBlue" onclick="window.open('http://ipl2.org','_blank')">ipl2.org</span>) is a subject directory that lists resources by subject, and Dogpile (<span class="strongDBlue" onclick="window.open('http://dogpile.com','_blank')">dogpile.com</span>) is a metasearch engine that searches Google, Yahoo!, and Bing.
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+<popup page="27" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Beyond Google: Alternative Search Engines and Subject Directories</div>
+			<strong class="shiftLeft17">Figure 3.23</strong></span>
+					<table border="0" cellpadding="0" cellspacing="10" class="shiftLeft17" style="width:847px">
+						<tbody class="doubleLineDefault">
+						<tr class="lightestBlueGrad">
+							<td><div><span class="semibold">ChaCha</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://Chacha.com','_blank')">Chacha.com</span></div></td>
+							<td><div>Uses live people who help you search; free of charge. Also available by texting your questions to 242242.</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span class="semibold">CompletePlanet</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://aip.completeplanet.com','_blank')">aip.completeplanet.com</span></div></td>
+							<td><div>“Deep web” directory that searches databases not normally searched by typical search engines.</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span class="semibold">Dogpile</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://dogpile.com','_blank')">dogpile.com</span></div></td>
+							<td><div>Metasearch engine that searches Google, Yahoo!, and Bing.</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span class="semibold">Excite</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://excite.com','_blank')">excite.com</span></div></td>
+							<td><div>Website that in addition to having keyword search capabilities includes links to information on a wide variety of topics including travel, weather, concert tickets, and top news items.</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span class="semibold">Info.com</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://info.com','_blank')">info.com</span></div></td>
+							<td><div>Metasearch engine that searches Google, Yahoo!, and Bing.</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span class="semibold">InfoMine</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://infomine.com','_blank')">infomine.com</span></div></td>
+							<td><div>Subject directory of academic resources with keyword search engine capabilities.</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span class="semibold">ipl2</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://ipl2.org','_blank')">ipl2.org</span></div></td>
+							<td><div>Subject directory that combines resources from the Internet Public Library and the Librarians’ Internet Index websites.</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span class="semibold">Open Directory Project</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://dmoz.org','_blank')">dmoz.org</span></div></td>
+							<td><div>Human-edited subject directory with keyword search capabilities. Maintained by a global community of volunteer editors.</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad tripleLineDefault">
+							<td><div><span class="semibold">Yippy</span><br/>
+								<span class="strongDBlue" onclick="window.open('http://yippy.com','_blank')">yippy.com</span></div></td>
+							<td><div>Metasearch engine that groups similar results into topics called clusters (for example, NBA, College Basketball, Photo Gallery, and Articles would be some resulting clusters if you use the search term basketball). Clicking on any of these clusters results in listing those sites specific to that subset of basketball.</div></td>
+						</tr>
+					</tbody></table>
+					
+					<p class="shiftLeft17"><em>Note:</em> For a complete list of search engines, go to <span class="strongDBlue" onclick="window.open('http://searchengineguide.com','_blank')">searchengineguide.com</span>.</p>
+		 
+		 </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="28" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3.24Big.jpg') no-repeat scroll center 30px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 3.24</span> Blinkx is a video search engine that helps you sift through the increasing number of videos on the web. <em>(blinkx)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+	<popup page="28" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3.25Big.png') no-repeat scroll center 70px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 3.25</span> Most search engines, including Google, have an advanced search form to help you refine your searches.
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="28" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+							<p><strong class="larger">Searching to Do Good</strong></p>
+							
+							<p>Wouldn’t it be great to benefit others just by searching the web? Now there’s an easy way to “do good” with every search. GoodSearch (<span class="strongDBlue" onclick="window.open('http://goodsearch.com','_blank')">goodsearch.com</span>) is a Yahoo!-powered search engine that donates half of its revenues (approximately a penny per search) to approved U.S. charities and schools that users designate. The money GoodSearch donates comes from the site’s advertisers. More than 100,000 charitable organizations are being helped by GoodSearch, but if the organization you’re interested in isn’t on the list, as long as it’s a registered U.S. not-for-profit organization, you can apply to have it added.</p>
+							<p class="start">You can also contribute to your favorite charity by shopping online through GoodShop (<span class="strongDBlue" onclick="window.open('http://goodshop.com','_blank')">goodshop.com</span>). Instead of going directly to your favorite online store, go to GoodShop first, find and click through to the store of your choice, and start shopping. Participating stores donate up to 30% of the purchased amount. So, search and shop away—and do some good!</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+						</div>
+					</div>
+			  	</div>
+
+	 		 ]]>
+		</section>
+	</popup>
+	
+	<!--part 4!!!!!-->		
+			<popup page="29" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url(assets/images/figures/fig3.26Big.jpg) no-repeat scroll center 125px   transparent">
+					  <figcaption class="normalFont">
+						<span>Figure 3.26</span> Google’s Specialized Search Tools
+					  </figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="29" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<ul class="dotted">
+							<li><span class="innerLi"><em>Custom Search</em> lets you create a customized search engine to search only a selected set of sites tailored to your needs. You can add this specialized search engine to a website or blog or design it for a specific organization.</span></li>
+							<li><span class="innerLi"><em>Product Search</em> lets you search by product rather than by company. So, if you’re interested in buying a digital camera, Product Search lists cameras by the most popular and provides information on the stores that carry the cameras, along with the average price.</span></li>
+							<li><span class="innerLi"><em>Alerts</em> let you know by e-mail when content that you specify has been updated, so you can monitor a developing news story or be aware of breaking news about your favorite sports team, for example.</span></li>
+						</ul>
+						</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						  </div>
+						</div>
+				</div></div>
+					
+
+						</div>
+			]]></section>
+		</popup>
+		
+		<popup page="30" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>
+							With so much information easily available on the web, the temptation to use it without receiving proper permissions is not only wrong but can also be illegal. So what can you borrow from the web and what must you seek permission to use? Consider these scenarios:</p>
+					  	<ol class="noBMargin">
+					 		<li>With so much information easily available on the web, the temptation to use it without receiving proper permissions is not only wrong but can also be illegal. So what can you borrow from the web and what must you seek permission to use? Consider these scenarios:</li>
+					 		<li>Your hobby is writing children’s books, which you later sell online. Most of what you create is your content, but sometimes you borrow story ideas from other children’s books and just change a few characters or situations. You do not obtain permission from the originators of the story ideas you borrow.</li>
+					 		<li>You’re pressed for time and need to do research for a paper due tomorrow. You find information on an obscure website and copy it into your paper without documenting the source.</li>
+					 		<li>You download a song from the Internet and incorporate it into a PowerPoint presentation for a school project. Because you assume everyone knows the song, you don’t credit it in your sources.</li>
+					 	</ol>
+					 	<p class="start ">Which of the preceding scenarios represent copyright violations? Which represent plagiarism? The distinctions between these scenarios are narrow in some cases, but it’s important to understand the differences. </p>
+						<p class="start"><em>Plagiarism</em> occurs when you use someone else’s ideas or words and represent them as your own. In today’s computer society, it’s easy to copy information from the Internet and paste it into a Word document, change a few words, and call it your own. To avoid plagiarism, properly crediting all information you obtain from the Internet by using quotation marks around all words you borrow directly, and credit your sources for any ideas you paraphrase or borrow.</p>
+						<p class="start">WriteCheck (<span class="strongDBlue" onclick="window.open('http://writecheck.com/','_blank')">writecheck.com</span>) is a website specifically for students to help check for plagiarism violations (<span class="strongDBlue">see Figure 3.27</span>). The site compares your document to a database of publications, books, and web content and identifies possible plagiarism violations. Although some common phrasing may be truly coincidental, real and purposeful plagiarism is reasonably easy to identify. Students can use WriteCheck before submitting an assignment to ensure their papers are free from plagiarism and avoid the serious consequences of this offense.</p>
+						<p class="start"><em>Copyright</em> violation is more serious because it, unlike plagiarism, is punishable by law. Copyright law assumes that all original work is copyrighted even if the work does not display the copyright symbol (©). Copyright violation occurs when you use another person’s material for your own personal economic benefit or when you take away from the economic benefit of the originator. In most cases, citing the source is not sufficient; you need to seek and receive written permission from the copyright holder.</p>
+						<p class="start">There are exceptions to this rule. There is no copyright on government documents, so you can download and reproduce material from any government website. The British Broadcasting Corporation (BBC) is also beginning to digitize and make available its archives of material to the public without copyright restrictions. Teachers and students receive special consideration that falls under a provision called academic fair use. As long as the material is being used for educational purposes only, limited copying and distribution is allowed.</p>
+						<p class="start">One standard applied to academic fair use is the effect the use has on the potential market. For example, a student can include a cartoon in a PowerPoint presentation without seeking permission from the artist. However, to avoid plagiarism, you still must credit your sources of information. </p>
+
+						<p class="start">So, do you now know which of the four scenarios above are plagiarism or copyright violations? Let’s review them.</p>
+					  	<ol>
+					 		<li>You are not in violation because the use of the cartoon is for educational purposes and falls under the academic fair use provision. You must still credit the source, however.</li>
+					 		<li>You are in violation of copyright laws because you are presenting others’ ideas for children’s stories as your own and receiving personal economic benefit from them.</li>
+					 		<li>You are guilty of plagiarism because you copied content from another source and implied it was your own work.</li>
+					 		<li>Again, because your copying is for a school project, you are not in violation of copyright laws because of the academic fair use provision. However, it’s always important to document your sources.</li>
+					 	</ol>
+					</div>
+				</div>
+				<div class="column">
+					<div class="font_18 strong toAbsolute" style="top: 19px;">
+					Plagiarism and Copyright Violation:<br>
+					What Can You Borrow from the Internet?
+					</div>
+					<div class="innerColRight">
+						  <figure  style="
+						  	    background: url(assets/images/figures/fig3.27.jpg) no-repeat 0 0 transparent;
+						  	    height: 433px; margin-left: 38px;">
+							<figcaption class="bottomPos" style="width: 282px;">
+							  <span>Figure 3.27</span>
+							  Students can compare their work to a database of publications in sites such as WriteCheck to check for unintended plagiarism. <em>(Keith morris/Alamy)</em>
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+
+			]]></section>
+		</popup>
+
+
+
+
+
+
+<!--part B-->
+		<popup page="41" distinction="popupFeature" customscript="compTia.features.setupVideo('1975')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Timeline of Early Personal Computer Development</div>
+		<div class="timelineLinkHeader">
+		  <a data="1975" onclick="compTia.features.AG_switch(this)" style="color:#01567a;">1975</a>
+		  <a data="1976" onclick="compTia.features.AG_switch(this)">1976</a>
+		  <a data="jun1977" onclick="compTia.features.AG_switch(this)">June 1977</a>
+		  <a data="oct1977" onclick="compTia.features.AG_switch(this)">October 1977</a>
+		  <a data="nov1977" onclick="compTia.features.AG_switch(this)">November 1977</a>
+		  <a data="apr1981" onclick="compTia.features.AG_switch(this)">April 1981</a>
+		  <a data="aug1981" onclick="compTia.features.AG_switch(this)">August 1981</a>
+		  
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="assets/video/" type="">
+			  <source src="assets/video/" type="">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="41" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/altair8800.jpg') no-repeat  20px 87px transparent">
+					  <figcaption
+					  	class="rightPos"
+					  	style="padding-right: 24px;top: 187px;width: 205px;">
+						<span class="font_17">The Altair 8800</span><br/>
+						<ul class="leftPadding13 font_9">
+							<li><span class="normalFont font_000">Only 256 bytes of memory</span></li>
+							<li><span class="normalFont font_000">No keyboard or monitor</span></li>
+							<li><span class="normalFont font_000">Switches on front used to enter data in machine code (1s and 0s)</span></li>
+							<li><span class="normalFont font_000">Lights on front indicated results of a program</span></li>
+						</ul>
+						<br/>
+							
+					  </figcaption>
+					  <figcaption>
+					  <em>(AP Photo/Heinz Nixdorf Museumsforum; SSPL/The Image Works; arilyn K. Yee/New York Times Co./Getty Images; AP Photo/Steve Castillo; SSPL/Getty Images; Jerry Mason/Photo Researchers, Inc.)</em>
+					</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="42" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/Apple1.jpg') no-repeat 82px 34px transparent">
+					  <figcaption
+					  	class="rightPos font_17"
+					  	style="top: 150px; width: 238px;">
+						<span>Apple I</span>
+					  </figcaption>
+					  <figcaption>
+					  	 <em>(AP Photo/Heinz Nixdorf Museumsforum; SSPL/The Image Works; arilyn K. Yee/New York Times Co./Getty Images; AP Photo/Steve Castillo; SSPL/Getty Images; Jerry Mason/Photo Researchers, Inc.)</em></figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="42" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/Apple2.jpg') no-repeat 117px 54px transparent">
+					  <figcaption
+					  	class="rightPos"
+					  	style="padding-right: 141px; top: 90px; width: 228px;">
+						<span class="font_17">Apple II</span>
+							<ul class="leftPadding13 font_9">
+								<li><span class="normalFont font_000">Featured color monitor, sound, and game paddles</span></li>
+								<li><span class="normalFont font_000">4 KB of RAM</span></li>
+								<li><span class="normalFont font_000">Operating system stored in ROM</span></li>
+								<li><span class="normalFont font_000">Optional floppy disk to load programs (mostly games)</span></li>
+							</ul>						 
+					  </figcaption>
+					  <figcaption><em> (AP Photo/Heinz Nixdorf Museumsforum; SSPL/The Image Works; arilyn K. Yee/New York Times Co./Getty Images; AP Photo/Steve Castillo; SSPL/Getty Images; Jerry Mason/Photo Researchers, Inc.)</em></figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="43" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/commodorePET.jpg') no-repeat scroll 36px 93px transparent">
+					  <figcaption
+					  	class="rightPos"
+					  	style="padding-right: 15px;top: 91px;width: 245px;">
+						<span class="font_17">Commodore PET</span>
+						<ul class="leftPadding13 font_9">
+								<li><span class="normalFont font_000">Featured in <em class="normalFont">Popular Science</em> magazine</span></li>
+								<li><span class="normalFont font_000">Popular in business settings in Europe</span></li>
+							</ul>
+							<br/>
+						</figcaption>
+						<figcaption>
+						<em> (AP Photo/Heinz Nixdorf Museumsforum; SSPL/The Image Works; arilyn K. Yee/New York Times Co./Getty Images; AP Photo/Steve Castillo; SSPL/Getty Images; Jerry Mason/Photo Researchers, Inc.)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="43" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/TSR80.jpg') no-repeat scroll 126px 46px transparent">
+					<figcaption
+					  	class="rightPos"
+					  	style="padding-right: 150px;top: 97px;width: 233px;">
+						<span class="font_17">TRS-80</span>
+							<ul class="leftPadding13 font_9">
+								<li><span class="normalFont font_000">Introduced by Radio Shack</span></li>
+								<li><span class="normalFont font_000">Monochrome display</span></li>
+								<li><span class="normalFont font_000">4 KB of RAM</span></li>
+								<li><span class="normalFont font_000">Circuitry hidden under keyboard</span></li>
+								<li><span class="normalFont font_000">Wildly popular with consumers—sold 10,000 units in the first month</span></li>
+							</ul>
+							<br/>
+						</figcaption>
+						<figcaption
+						<em> (AP Photo/Heinz Nixdorf Museumsforum; SSPL/The Image Works; arilyn K. Yee/New York Times Co./Getty Images; AP Photo/Steve Castillo; SSPL/Getty Images; Jerry Mason/Photo Researchers, Inc.)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="43" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/Osborne.jpg') no-repeat 64px 94px transparent">
+					<figcaption
+					  	class="rightPos"
+					  	style="padding-right: 125px;top: 161px; width: 217px;">
+						<span class="font_17">Osborne</span>
+							<ul class="leftPadding13 font_9">
+								<li><span class="normalFont font_000">First “portable” computer</span></li>
+								<li><span class="normalFont font_000">Weighed 24.5 pounds</span></li>
+								<li><span class="normalFont font_000">5-inch screen</span></li>
+								<li><span class="normalFont font_000">64 kilobytes of RAM</span></li>
+								<li><span class="normalFont font_000">Two floppy disk drives</span></li>
+								<li><span class="normalFont font_000">Preinstalled with spreadsheet and word processing software</span></li>
+							</ul>
+					</figcaption>
+						 <figcaption><em> (AP Photo/Heinz Nixdorf Museumsforum; SSPL/The Image Works; arilyn K. Yee/New York Times Co./Getty Images; AP Photo/Steve Castillo; SSPL/Getty Images; Jerry Mason/Photo Researchers, Inc.)</em>	
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="43" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/IBM.jpg') no-repeat 141px 106px transparent">
+					<figcaption
+					  	class="rightPos"
+					  	style="padding-right: 160px;top: 103px;width: 198px;">
+						<span class="font_17">IBM PC (5150)</span>
+							<ul class="leftPadding13 font_9">
+								<li><span class="normalFont font_000">Marketed to businesses and consumers</span></li>
+								<li><span class="normalFont font_000">64 KB to 256 KB of RAM</span></li>
+								<li><span class="normalFont font_000">Floppy disk drives optional</span></li>
+								<li><span class="normalFont font_000"> Hard disks not supported in early models</span></li>
+								
+							</ul>
+							<br/>
+						</figcaption>
+						<figcaption>
+						 <em> (AP Photo/Heinz Nixdorf Museumsforum; SSPL/The Image Works; arilyn K. Yee/New York Times Co./Getty Images; AP Photo/Steve Castillo; SSPL/Getty Images; Jerry Mason/Photo Researchers, Inc.)</em>	
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="44" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig2big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 2 </span>Bill Gates and Paul Allen are the founders of Microsoft. <em>(Doug Wilson/CORBIS)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="45" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig3big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 537px">
+						<span>Figure 3 </span>Bob Frankston and Dan Bricklin created VisiCalc, the first business application developed for the personal computer.<em> (© www.jimraycroft.com 1982/Daniel Bricklin http://www.bricklin.com/pressinfo.htm)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+<popup page="45" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage software">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Application Software Development</div>
+			<strong class="font_15">Figure 4</strong>
+					<table border="0" cellpadding="0" cellspacing="10" class="softTable">
+						<thead><tr>
+							<th><div class="alignCenter blueGradHeading">YEAR</div></th>
+							<th><div class="blueGradHeading">APPLICATION</div></th>
+						</tr></thead>
+						<tbody>
+						<tr class="lightestBlueGrad">
+							<td>
+							<div><div class="wrap"><strong>1978</strong></div></div></td>
+							<td>
+							<div class="displayTCell"><div class="wrap"><strong>VisiCalc:</strong> First electronic spreadsheet application <br/><strong>WordStar:</strong> First word processing application</div></div></td>
+						
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div><div class="wrap"><strong>1980</strong></div></div></td>
+							<td><div class="displayTCell"><div class="wrap"><strong>WordPerfect:</strong> Best DOS–based word processor, was eventually sold to Novell and was later acquired by Corel</div></div></td>
+						</tr>
+						<tr class="lightestBlueGrad">
+							<td><div><div class="wrap"><strong>1983</strong></div></div></td>
+							<td><div class="displayTCell"><div class="wrap"><strong>Lotus 1-2-3:</strong> Added integrated charting, plotting, and database capabilities to spreadsheet software <br/><strong>Word for MS-DOS:</strong> Introduced in the pages of <i>PC World</i> magazine on the first magazine-inserted demo disk</div></div></td>
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div><div class="wrap"><strong>1985</strong></div></div></td>
+							<td><div class="displayTCell"><div class="wrap"><strong>Excel:</strong> One of the first spreadsheets to use a graphical user interface <br/><strong>PageMaker:</strong> The first desktop publishing software</div></div></td>
+						</tr>
+					</tbody></table>
+		  </div>
+		  ]]></section>
+		</popup>
+				
+		<popup page="46" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig5big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 550px">
+						<span>Figure 5 </span>The Alto was the first computer to use a GUI, and it provided the basis for the GUI that Apple used. However, because of marketing problems, the Alto never was sold.<em> (Josie Lepe/MCT/Newscom)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="46" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig6big.png') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 561px">
+						<span>Figure 6 </span>The Lisa was the first computer to introduce a GUI to the market. Priced too high, it never gained the popularity it deserved.<em> (SSPL/The Image Works)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="46" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig7big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 550px">
+						<span>Figure 7 </span>The Macintosh became one of Apple’s best-selling computers, incorporating a GUI along with other innovations such as the 3.5-inch floppy disk drive.<em> (Ed Kashi/CORBIS)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="48" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig8big.jpg') no-repeat scroll center 18px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 525px">
+						<span>Figure 8 </span>The Jacquard loom used holes punched in stiff cards to make complex designs. This technique would later be used in punch cards that controlled the input and output of data in computers.<em> (JANEK SKARZYNSKI/AFP/Getty Images/Newscom)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="48" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig9big.jpg') no-repeat scroll center 16px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 470px">
+						<span>Figure 9 </span>The Analytical Engine, designed by Charles Babbage, was never fully developed but included components similar to those found in today’s computers.<em> (Chris Howes/Wild Places Photography/Alamy)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="49" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig10big.png') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 450px">
+						<span>Figure 10 </span>The Atanasoff–Berry Computer laid the design groundwork for many computers to come.<em> (Chris Howes/Wild Places Photography/Alamy)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="50" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig11big.png') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 565px">
+						<span>Figure 11 </span>Grace Hopper coined the term computer bug when a moth flew into the Harvard Mark I, causing it to break down.<em> (Naval Historical Center)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="50" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig12big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 12 </span>The ENIAC took up an entire room and required several people to manipulate it.<br/><em>(University of Pennsylvania/AP Images)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="51" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig13big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 13 </span>UNIVACs were the first computers to use magnetic tape for data storage.<em> (CBS/Landov)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="51" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig14big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 14 </span>Transistors were 1/10 the size of vacuum tubes, faster, and produced much less heat.<br/><em>(borissos/Fotolia)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+		<popup page="52" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig15big.jpg') no-repeat scroll 312px 54px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 15 </span>Today’s microprocessors can contain billions of transistors.<em> (Tudor Voinea/Shutterstock)</em>
+						
+						</figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+
+		
+	</chapter>
+</ebook>

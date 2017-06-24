@@ -1,0 +1,1724 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="5">
+
+		
+		<popup page="4" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Common Operating Systems</div>
+			<div class="figureHeader"><strong>Figure 5.1</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="commonTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>OS NAME</div></th>
+								<th><div>DEVELOPED BY</div></th>
+								<th><div>AVAILABLE ON</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Windows 8</span><img src="assets/images/charts/windows8.jpg">
+
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Microsoft</span></div></td>
+							<td><div class="hide" col="1"><span>Laptops, tablets, desktops, <br/>all-in-ones, cell phones</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>OS X Mountain Lion</span><img src="assets/images/charts/lion.png">
+
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Apple</span></div></td>
+							<td><div class="hide" col="2"><span>Laptops, desktops, all-in-ones</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>iOS 5</span>
+							<img src="assets/images/charts/iO.jpg">
+
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>Apple</span></div></td>
+							<td><div class="hide" col="3"><span>Tablets, iPhones, iPod Touches</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Android 3.0</span>
+							<img src="assets/images/charts/android.png" class="Lmargin10">
+
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Google</span></div></td>
+							<td><div class="hide" col="4"><span>Cell phones, tablets</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Linux</span><img src="assets/images/charts/penguin.png">
+
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>Open source</span></div></td>
+							<td><div class="hide" col="5"><span>Laptops, desktops</span></div></td>
+						</tr>
+					</table>
+					<em>(duaneups/Fotolia; Kevork Djansezian/Getty Images; Bloomberg/Getty Images; tibbbb/Fotolia)</em>
+					
+				]]>
+				</section>
+				</popup>
+		
+		<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.2Big.jpg') no-repeat scroll center 5px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5.2</span>
+						Devices such as TV sky cameras, cars, and medical equipment use RTOSs. <br/><em>(John Pyle/Cal Sport Media/Newscom; The Washington Post/GettyImages;Elfstrom/David Elfstrom/iStockphoto)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="5" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p>Developed in 1969 by Ken Thompson and Dennis Ritchie of AT&T’s Bell Labs, the UNIX code was initially not proprietary&mdash;in other words, no company owned it. Rather, any programmer was allowed to use the code and modify it to meet his or her needs. UNIX is now a brand that belongs to the company The Open Group, but any vendor that meets testing requirements and pays a fee can use the UNIX name. Individual vendors then modify the UNIX code to run specifically on their hardware.</p>
+						<p class="start"><strong>What other kinds of computers require a multiuser OS?</strong> Mainframes and supercomputers also require multiuser operating systems. Mainframes routinely support hundreds or thousands of users at time, and supercomputers are often accessed by multiple people working on complex calculations. Examples of mainframe operating systems include UNIX and IBM’s IBM i and z/OS, whereas the vast majority of supercomputers use Linux.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		<!--drag and drop fig5.3-->
+		<popup page="6" distinction="popupFeature" customscript="compTia.features.dragDrop(1)" closescript="compTia.features.dragDrop(0)">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage dragDrop">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Popular Smartphone Operating Systems</div>
+			<div class="dragDropHeader">Match the items on the left <br/>with the boxes on the right</div>
+			
+			<figure id="dragDrop" style="background-image:url('assets/images/figures/fig5.3Big.jpg')">
+			
+			<div class="dragItems">
+				<div item="1" style="top:0">Microsoft</div>
+				<div item="2" style="top:48px">BlackBerry</div>
+				<div item="3" style="top:96px">iOS</div>
+				<div item="4" style="top:144px">Other</div>
+				<div item="5" style="top:192px">Android</div>
+			</div>
+			<div class="dragTargets">
+				<div style="left: 324px; top: 15px;" item="1"></div>
+				<div style="left: 180px; top: 74px;" item="2"></div>
+				<div style="top: 16px; left: 651px;" item="4"></div>
+				<div style="left: 387px; top: 208px;" item="3"></div>
+				<div style="left: 618px; top: 171px;" item="5"></div>
+			</div>
+			<div class="toAbsolute font_18 semiBold bottomPos" id="dragStatus"></div>
+
+			</figure>
+			]]>
+				</section>
+				</popup>
+				
+
+		<popup page="6" distinction="popupFeature" customscript="compTia.features.dragDrop(1)" closescript="compTia.features.dragDrop(0)">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage dragDrop">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Popular Tablet Operating Systems</div>
+			<div class="dragDropHeader">Match the items on the left <br/>with the boxes on the right</div>
+			
+			<figure id="dragDrop" style="background-image:url('assets/images/figures/fig5.4Big.jpg')">
+			
+				<div class="dragItems">
+					<div item="1" style="top:0">Windows</div>
+					<div item="2" style="top:48px">Others</div>
+					<div item="3" style="top:96px">Android</div>
+					<div item="4" style="top:144px">iOS</div>
+				</div>
+				<div class="dragTargets">
+					<div item="1" style="left: 360px; top: 14px;"></div>
+					<div item="4" style="left: 613px; top: 167px;"></div>
+					<div item="2" style="left: 647px; top: 15px;"></div>
+					<div item="3" style="top: 154px; left: 385px;"></div>
+				</div>
+				<div class="toAbsolute font_18 semiBold bottomPos" id="dragStatus"></div>
+
+			</figure>
+			]]>
+				</section>
+				</popup>
+				
+				
+			<popup page="7" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						
+						<p class="start">Linux began in 1991 as a part-time project of Finnish university student Linus Torvalds. It has since been tweaked by scores of programmers as part of the Free Software Foundation GNU Project (<span class="strongDBlue" onclick="window.open('http://gnu.org','_blank')">gnu.org</span>).</p>
+						<p class="start">Linux has a reputation as a stable OS that is not subject to crashes or failures. Because the code is open and available to anyone, Linux can be modified or updated quickly by hundreds of programmers around the world.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  
+						  </div>
+						</div>
+					  </div>
+						</div>
+					]]>
+			</section>	
+			</popup>
+			
+			<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.5Big.jpg') no-repeat scroll center 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5.5</span>
+						Developed by Google, the Android OS is based on Linux and runs easily on netbooks and tablets. <em>(Oleksiy Maksymenko Photography/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="8" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content" style="height: 424px;">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Upgrading Your Operating System</strong>
+								<p class="lessSpacing">If you’ve had your computer for a year or two, you may be wondering whether you should upgrade to the newest release of your OS (such as going from Windows 7 to Windows 8). Here are a few key things to consider before taking the plunge:</p>
+								<ul class="dotted">
+									<li style="line-height:18px;"><span class="innerLi"><strong>Is your current OS still supported?</strong> When the company deploys new versions of operating systems, it may stop supporting older versions. If your current version will no longer be supported, it’s best to upgrade to a newer version.</span></li>
+									<li style="line-height:18px;"><span class="innerLi"><strong>Are there significant features in the new version that you want?</strong> Operating systems are often upgraded to provide extra security, better performance, and additional features intended to make your computer experience more efficient, and perhaps even more fun. But if the only features the new version offers are ones you don’t need, you should reconsider upgrading.</span></li>
+									<li style="line-height:18px;"><span class="innerLi"><strong>Will your hardware work with the new version of the OS?</strong>Check the minimum operating requirements (required RAM, processor speed, hard drive space, etc.) of the new version to ensure that your computer can handle the workload of the new OS. You’ll also need to make sure drivers for the new OS are available for all your hardware devices and peripherals to </span></li>
+								</ul>
+							
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+							
+							<p style="line-height:19px; margin-left:10px;">ensure they’ll work with it. Microsoft has made this easy with Windows Upgrade Advisor, which you can download from Microsoft’s website. The Upgrade Advisor scans your hardware, devices, and installed programs for compatibility, advises you on how to resolve any issues, and recommends what you should do before upgrading.</p>
+							<ul class="dotted">
+								<li style="line-height:19px;"><span class="innerLi"><strong>Is your application software compatible with the new version of the OS?</strong> Usually, application software works fine 	   with a new version of an OS. Sometimes it doesn’t. Check with software vendors regarding compatibility. Most programs that run under Windows 7 will run at least from the desktop in Windows 8. And Windows 8 has an upgrade option in its install program that lets you install Windows 8 over an existing installation of Windows 7. This alleviates you having to install all your application software after upgrading.</span></li>
+							</ul>
+							
+							<p class="start" style="line-height:19px;">Before starting the upgrade, back up all your data files so you won’t lose anything accidentally during the upgrading process. File Recovery and other backup features in Windows make this job less of a hassle.</p>
+						
+							</div>
+						  </div>
+						</div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="9" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.6Big.jpg') no-repeat scroll center 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5.6</span>
+						The Google Chrome OS has a very minimalist look.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="9" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">OS Market Share Battle: <br/>It’s Still a Windows World</strong>
+								<br/><br/>
+								<p class="lessSpacing">So who is winning the OS market share war? It depends on the type of device. For conventional desktop and laptop computers, hands down the winner is still Windows, with over 90% of the market (see figure here). But other operating systems have made huge inroads on portable devices such as phones and tablets. Microsoft hopes to reverse this trend with the release of Windows 8, but only time will tell how well it fares.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/desktop.png) no-repeat scroll 2px 0px transparent;
+						  	height: 256px;">
+							<figcaption class="bottomPos">
+							  <span></span>
+							  Desktop/Laptop Operating Systems (Based on Market Share, July 2012, per <span class="strongDBlue" onclick="window.open('http://netmarketshare.com','_blank')">netmarketshare.com</span>)
+							</figcaption></figure>
+							
+				</div></div></div></div>
+
+
+						<div class="additional">
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/desktopBig.png) no-repeat scroll 105px 10px transparent;">
+							  <figcaption style="margin-left:130px;">
+							  <span></span>
+								 Desktop/Laptop Operating Systems (Based on Market Share, July 2012, per <span class="strongDBlue" onclick="window.open('http://netmarketshare.com','_blank')">netmarketshare.com</span>)
+							 
+							</figcaption>
+							</figure>
+						</div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<!--different Interactive-->
+		<popup page="10" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">The OS</div>
+			<div class="figureHeader font_18"><strong>Figure 5.7</strong> Click on images to reveal the information</div>
+				<figure style="	width:826px;height:486px;
+							background:url(assets/images/figures/fig5.7/fig5.7Big.jpg) 117px -40px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 343px; width: 158px; top: 10px; height: 66px;" roll="fig5.7.1.png"></div>
+						<div style="left: 544px; width: 137px; top: 157px; height: 66px;" roll="fig5.7.2.png"></div>
+						<div style="height: 101px; top: 179px; width: 138px; left: 365px;" roll="fig5.7.3.png"></div>
+						<div style="top: 141px; height: 102px; left: 170px; width: 150px;" roll="fig5.7.4.png"></div>
+						<div style="height: 93px; top: 336px; width: 109px; left: 506px;" roll="fig5.7.5.png"></div>
+						<div style="top: 336px; height: 93px; left: 225px; width: 202px;" roll="fig5.7.6.png"></div>
+					</div>
+					<div class="overlayImages">
+
+						<div roll="fig5.7.1.png" style="background-image: url(assets/images/figures/fig5.7/fig5.7.1.png); width: 180px; height: 54px; left: 339px; top: 78px;"></div>
+						<div roll="fig5.7.2.png" style="background-image: url(assets/images/figures/fig5.7/fig5.7.2.png); width: 206px; height: 54px; left: 530px; top: 223px;"></div>
+						<div roll="fig5.7.3.png" style="background-image: url(assets/images/figures/fig5.7/fig5.7.3.png); width: 180px; height: 54px; left: 358px; top: 278px;"></div>
+						<div roll="fig5.7.4.png" style="background-image: url(assets/images/figures/fig5.7/fig5.7.4.png); height: 54px; width: 180px; left: 164px; top: 245px;"></div>
+						<div roll="fig5.7.5.png" style="background-image: url(assets/images/figures/fig5.7/fig5.7.5.png); width: 180px; height: 54px; left: 492px; top: 430px;"></div>
+						<div roll="fig5.7.6.png" style="background-image: url(assets/images/figures/fig5.7/fig5.7.6.png); height: 54px; width: 190px; left: 212px; top: 430px;"></div>
+						
+						
+					</div>
+			</figure>
+			
+			]]>
+				</section>
+				</popup>
+				
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.8Big.jpg') no-repeat scroll 10px 65px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5.8</span>
+						(a) A command driven interface. (b) A menu driven interface.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<!--different Interactive????-->
+
+		<popup page="12" distinction="popupFeature" customscript="compTia.features.setupVideo('multiStep1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage monitor">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">How Preemptive Multitasking Works</div>
+		<div class="padding70">
+
+		  <a data="multiStep1" style="color:#01567a; padding-left:86px;">STEP 1</a>
+		  <a data="multiStep2">STEP 2</a>
+		  <a data="multiStep3">STEP 3</a>
+		  <a data="multiStep4">STEP 4</a>
+		  <a data="multiStep5">STEP 5</a>
+		  <a data="multiStep6">STEP 6</a>
+		  
+		</div>
+		<div class="monitorActiveGraphic">
+		  <video autoplay="autoplay" width="768" height="420" class="noLMargin">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<popup page="13" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.10Big.jpg') no-repeat scroll -14px 80px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5.10</span>
+						Virtual memory borrows excess storage capacity from the hard drive when there isn’t enough capacity in RAM. <br/><em>(brontazavra/ Shutterstock; aPERFECT/Fotolia; Tim Dobbs/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="13" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').on('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_21" style="top:14px; margin-right: -25px;">Sugar: <br/>The Sweet OS for Every Child</div>
+
+				<div class="content"><div class="columnContain">
+				
+				  <div class="column">
+					<div class="innerColLeft">
+						
+						<p>The Internet is a fantastic tool, but only if you can access it. In an effort to give children in developing countries a better opportunity to “learn, share, and create,” the One Laptop per Child (OLPC) initiative was founded by faculty from the MIT Media Lab, in conjunction with partners such as Google, AMD, and News Corporation. The mission of OLPC (<span class="strongDBlue" onclick="window.open('http://one.laptop.org','_blank')">one.laptop.org</span>) is to ensure that all school-aged children in lesser-developed communities receive their own personal computers so that they are no longer excluded from the benefits computers can provide. To date, the organization has distributed laptops to over 2.4 million children and teachers worldwide.</p>
+					  	<p class="start">This ambitious project to develop and distribute a low-cost laptop computer (current cost: $199) is designed to provide access to electronic textbooks and other learning aids—and eventually the Internet. The main thrust of the project is to overcome the so-called digital divide and provide computing resources to all regardless of their financial means.</p>
+						<p class="start">Called the XO (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 5.11</span>) the laptop is small, rugged, and has a comfortable, child-sized, built-in handle. It also has a tablet-like monitor that can twist to turn the laptop into an e-book reader. The laptop is power efficient, running on less than 1/10th the power a standard laptop requires.</p>
+						<p class="start">At the core of the XO laptop is Sugar, the OS. It is based on the Linux OS, but has a user interface that is completely different from Windows, OS X, or Linux. The key features are as follows:</p>
+						<ul class="dotted">
+							<li><span class="innerLi"><strong>Focus on activities and sharing rather than on applications:</strong> Because the XO is likely to be the first computer that many children use, its user interface was designed to be intuitive. An XO-person (an O on top of an X) icon is used to represent the user and is surrounded by icons that represent home, friends, and neighborhood.</span></li>
+							<li><span class="innerLi"><strong>Focus on multimedia:</strong> A built-in microphone, webcam, and multimedia tools are included to encourage children to create multimedia.</span></li>
+							<li><span class="innerLi"><strong>Focus on collaboration:</strong> Each tool in the OS has the ability to collaborate, which facilitates the community learning experience.</span></li>
+							<li><span class="innerLi"><strong>Built-in networking:</strong> A wireless mesh network connects computers in close proximity, providing the potential for every activity to be a networked activity. Browsing, for example, is no longer an isolated, individual activity; it’s a collaborative group experience (<span class="strongDBlue" onclick="compTia.additionalPopupContent(2)">see Figure 5.12</span>).</span></li>
+							<li><span class="innerLi"><strong>Journaling:</strong> The system records what the child has done, including interactions with others, rather than just what the student has saved. This journal can be tagged, searched, and sorted in a variety of ways.</span></li>
+						</ul>
+						<p class="start">Another general concept behind the OS is that children learn through doing, so the software puts an emphasis on tools for exploration and expression, as well as encouraging students to learn by helping each other. Because Sugar is built on an open source platform, it also encourages students to explore how it works and to modify the code to meet their preferences.</p>
+						</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" style="
+						  	    background: url(assets/images/figures/fig5.11.png) no-repeat center 0 transparent;
+						  	    height: 300px; margin-top: 40px;" >
+							<figcaption class="bottomPos">
+							  <span>Figure 5.11</span>
+							  The XO can be easily converted from a traditional laptop to an e-book reader. <em>(OneLaptop per Child)</em>
+							  </figcaption>
+							</figure>
+					
+						  <figure onclick="compTia.additionalPopupContent(2)" style="
+						  	    background: url(assets/images/figures/fig5.12.png) no-repeat 0 0 transparent;
+						  	    height: 320px; margin-top: 300px; margin-right:-25px;" >
+							<figcaption class="bottomPos">
+							  <span>Figure 5.12</span>
+							  The journaling system chronicles what the student saves as well as the student’s interaction with the machine and with others.
+							  </figcaption>
+							</figure>
+							
+							
+					</div>
+				</div>
+			</div></div>
+									<div class="additional">
+									<div class="ad">
+									
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig5.11Big.png) no-repeat scroll 380px 0 transparent">
+							<figcaption class="topPos" style="width:275px;">
+							  <span>Figure 5.11</span>
+							  The XO can be easily converted from a traditional laptop to an e-book reader. <em>(OneLaptop per Child)</em>
+							  </figcaption>
+							  </figure>
+							  </div>
+							  
+									
+									<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig5.12Big.png) no-repeat scroll 344px 0 transparent">
+							<figcaption class="topPos" style="width:275px;">
+							  <span>Figure 5.12</span>
+							  The journaling system chronicles what the student saves as well as the student’s interaction with the machine and with others.
+							  </figcaption>
+							  </figure>
+							  </div></div>
+
+			]]></section>
+		</popup>	
+		
+		<popup page="14" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  
+						  <p class="start"><strong>What happens if the device is not PnP?</strong> Sometimes you may have a device that is so new the drivers aren’t yet available automatically in Windows. You’ll then be prompted to insert the driver that was provided with the device, usually on a DVD. If you obtain a device secondhand and don’t receive the device driver, or if you’re required to update the device driver, you can often download the necessary driver from the manufacturer’s website. You can also go to websites such as DriverZone (<span class="strongDBlue" onclick="window.open('http://driverzone.com','_blank')">driverzone.com</span>) to locate drivers.</p>
+						
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]>
+			</section>
+			</popup>
+			
+			<popup page="14" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.13Big.jpg') no-repeat scroll 147px 130px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5.13</span>
+						A Windows message showing a successful driver install the first time an external hard drive was connected to the computer.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.14Big.jpg') no-repeat scroll 54px 28px transparent; margin-bottom:-34px;">
+					<figcaption class="normalFont" style="margin-bottom:44px;">
+					  <span>Figure 5.14</span>
+						The Roll Back Driver feature in Windows removes a newly installed driver and replaces it with the last one that worked.
+					</figcaption>
+					</figure>
+					<p class="font_11"><em>>To access the Device Manager window, navigate to the desktop, display Control Panel, and click the <strong>Hardware and Sound</strong> group. Then, in the <strong>Devices and Printers</strong> group, click the <strong>Device Manager</strong> link. To display the Properties dialog box, double-click on a device. Click the <strong>Driver</strong> tab.</em></p>
+				]]>
+			</section>
+		</popup>
+		
+		<!--different Interactive????-->
+
+		<popup page="16" distinction="popupFeature" customscript="compTia.features.setupVideo('bootStep1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">The Boot Process</div>
+		<div class="padding70">
+		  <a data="bootStep1" style="color:#01567a; padding-left:99px; padding-right:135px;">STEP 1</a>
+		  <a data="bootStep2" style="padding-right:135px;">STEP 2</a>
+		  <a data="bootStep3" style="padding-right:135px;">STEP 3</a>
+		  <a data="bootStep4" style="padding-right:135px;">STEP 4</a>
+		  	
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="assets/video/b.mp4" type="video/mp4">
+			  <source src="assets/video/b.ogv" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+
+
+
+
+
+
+
+
+
+		<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.16Big.jpg') no-repeat scroll -5px 73px transparent; margin-bottom:-34px;">
+					<figcaption class="normalFont" style="margin-bottom:44px;">
+					  <span>Figure 5.16</span>
+						The PC settings screen in Windows 8 provides access to the Refresh your PC option.
+					</figcaption>
+					</figure>
+					<p style="font-size:11px;"><em>>To access the PC Settings screen, display the Charms bar on the Start screen (swipe from right, or point cursor to upper-right corner of screen), click <strong>Settings</strong>, then click <strong>More PC Settings</strong>. On the PC Settings screen, click <strong>General</strong>, and scroll down.</em></p>
+				]]>
+			</section>
+		</popup>
+			
+			
+		<popup page="23" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.17Big.jpg') no-repeat scroll -8px 45px transparent; padding-right:21px;">
+					<figcaption class="normalFont">
+					  <span>Figure 5.17</span>
+						(a) Internet Explorer 10, a Windows 8 app, displays full screen. (b) Right-clicking on the Internet Explorer 10 screen displays the open Tabs bar (top) and the Address bar (bottom).
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>	
+		
+		<popup page="24" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.18Big.jpg') no-repeat scroll -8px 10px transparent; padding-right:23px;">
+					<figcaption class="normalFont">
+					  <span>Figure 5.18</span>
+						The Windows 8 Start screen puts the most commonly used features of the OS at your fingertips. You can easily customize it to meet your needs.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>	
+		
+		<popup page="24" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.19Big.jpg') no-repeat scroll 10px 35px transparent;">
+					<figcaption class="normalFont">
+					  <span>Figure 5.19</span>
+						The Windows 8 Apps screen shows all Windows 8 apps and other programs installed on your computer.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.20Big.jpg') no-repeat scroll 295px -5px transparent;">
+					<figcaption class="topPos normalFont" style="width:210px;">
+					  <span>Figure 5.20</span>
+						The thumbnails of open programs allow you to switch quickly between them. <em>(Alan Evans)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="26" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+						<strong class="font_16">Touch Language for Windows 8</strong>
+						<p>Because the main thrust of Windows 8 is to optimize Windows for touch-screen devices, the Windows developers needed to agree on a set of touch interactions they would use when</p>
+						
+							 </div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+						<p>programming Windows 8. If you’re using Windows 8 on a touch-screen device, you may want to learn the gestures shown here. For a quick guide to Windows gesture, <span class="strongDBlue" onclick="window.open('http://www.youtube.com/watch?v=j3X2aZYaXfM','_blank')">click here</span>.</p>
+						
+						<figure onclick="compTia.additionalPopupContent(1)" style=
+						  	"background: url(assets/images/figures/touch.jpg) no-repeat scroll 0 8px transparent;
+						  	height: 333px;
+						  	margin-left: -342px;
+						  	width: 629px;">
+							<figcaption class="bottomPos">
+							  <em></em>
+							</figcaption>
+						  </figure>
+						</div>
+					</div>
+			  	</div>
+				
+				<div class="additional">
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/touchBig.jpg) no-repeat scroll 0 10px transparent">
+							  <figcaption>
+							  <span></span>
+								</figcaption>
+							</figure>
+						</div></div>
+
+	 		 ]]>
+		</section>
+	</popup>
+		
+		<popup page="26" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.21Big.jpg') no-repeat scroll 0px 45px transparent;">
+					<figcaption class="bottomPos normalFont">
+					  <span>Figure 5.21</span>
+						<span class="strongDBlue" onclick="window.open('http://www.apple.com/osx/','_blank')">OS X Mountain Lion</span> adds many of apps that have become so popular in iOS.
+					</figcaption>
+					</figure>
+					]]>
+			</section>
+		</popup>	
+					
+		<popup page="26" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.22Big.jpg') no-repeat scroll 20px 30px transparent;">
+					<figcaption class="bottomPos normalFont">
+					  <span>Figure 5.22</span>
+						The <span class="strongDBlue" onclick="window.open('http://www.ubuntu.com','_blank')">Ubuntu</span> Linux user interface resembles the Windows desktop. <em>(Masterfile)</em>
+					</figcaption>
+					</figure>			
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="26" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_20" style="text-align:center; margin-top: -15px;"> Open Source Software: <br/>Why Isn’t Everyone Using Linux?</div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Proprietary software such as Microsoft Windows and Apple’s OS X is developed by corporations and sold for profit. This means that the <span class="strongDBlue" glossary>source code</span>, the actual lines of instructional code that make the program work, is not accessible to the general public. Without being able to access the source code, it’s difficult for a user to modify the software or see exactly how the program author constructed various parts of the OS.</p>
+					  		<p class="start">Restricting access to the source code protects companies from having their programming ideas stolen, and it prevents customers from using modified versions of the software. However, in the late 1980s, computer specialists became concerned that large software companies (such as Microsoft) were controlling a large portion of market share and driving out competitors. They also felt that proprietary software was too expensive and contained too many bugs (errors).</p>
+					  		<p class="start">These people felt that software should be developed without a profit motive and distributed with its source code free for all to see. The theory was that if many computer specialists examined, improved, and changed the source code, a more full-featured, bug-free product would result. Hence, the open source movement was born.</p>
+							<p class="start">So, if an OS such as Linux is free and relatively bug-free, why does Windows, which users must pay for, have such a huge market share? One reason is that corporations and individuals have grown accustomed to one thing that proprietary software makers can provide: technical support. It’s almost impossible to provide technical support for open source software because anyone can freely modify it; thus, there is no specific developer to take responsibility for technical support. Similarly, corporations have been reluctant to install open source software extensively because of the cost of the internal staff of programmers that must support it.</p>
+							<p class="start">Companies such as Red Hat, Ubuntu, and Xandros have been combating this problem. Red Hat offers a free, open source OS called Fedora (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 5.23</span>). In addition, Red Hat has modified the original Linux source code and markets a version, Red Hat Enterprise Linux, as a proprietary program. Fedora is the testing ground for what eventually goes into this proprietary program. Red Hat Enterprise Linux comes in versions for servers and desktops. Purchasers of Red Hat Enterprise Linux receive a warranty and technical support. Packaging open source software in this manner has made its use much more attractive to businesses. As a result, many web servers are hosted on computers running Linux.</p>
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)"
+						 		style="background: url(assets/images/figures/fig5.23.jpg) no-repeat scroll 0px 0px transparent;
+						  	height: 282px;margin: 0px 0 0 0px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 5.23</span>
+							  Companies like <span class="strongDBlue" onclick="window.open('http://redhat.com','_blank')">Red Hat</span> provide free or low-cost Linux software, such as Fedora, but technical support is often not available. <em>(Paul Sakuma/AP Images)</em>
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig5.23Big.jpg) no-repeat scroll 133px 0 transparent">
+							  <figcaption class="bottomPos" style="margin-left:151px; width:501px;">
+							  <span>Figure 5.23</span>
+								 Companies like <span class="strongDBlue" onclick="window.open('http://redhat.com','_blank')">Red Hat</span> provide free or low-cost Linux software, such as Fedora, but technical support is often not available. <em>(Paul Sakuma/AP Images)</em>
+							 
+							</figcaption>
+							</figure>
+						</div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="27" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content">
+					<div class="column">
+						<div class="innerColLeft">
+						<strong class="font_16">How to Get the Most from Windows Libraries</strong>
+						<p>To get the most out of using Windows libraries, consider the following tips:</p>
+						<ul class="dotted">
+							<li><span class="innerLi"><strong>Add a new library:</strong> To add a new library (such as one for your games), open File Explorer. In the Navigation Pane on the left side of the window, right-click on Libraries, click New, and then click Library. Type in a name for the new library. To add new locations to the library, open the new library, and click on Include a Folder.</span></li>
+							<li><span class="innerLi"><strong>Share or collaborate with libraries:</strong> Say you have pictures saved on your laptop, your dad’s desktop, and your mom’s laptop. As long as all three computers are on the same Homegroup network, you can share each other’s libraries by right-clicking the library name, pointing to Share With, and then clicking one of the two Homegroup options, depending on whether you want to allow editing privileges to those with whom you’re sharing the library.</span></li>
+						</ul>
+						
+							 </div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+						<ul class="dotted">
+							<li><span class="innerLi"><strong>Create a backup library:</strong> Do you store important data in a variety of folders on your computer? Even though it’s best to back up your entire system, you might only need to back up specific folders. In that case, create a new library and call it “Backup.” Add the folders you want to ensure are backed up to the library, and then point your backup software to that library.</span></li>
+						</ul>	
+
+	 		 ]]>
+		</section>
+	</popup>
+	
+	<popup page="28" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.24Big.jpg') no-repeat scroll -7px 65px transparent; width:886px;margin-left:-8px; margin-bottom:-21px;">
+					<figcaption class="bottomPos normalFont" style="margin-bottom:23px;">
+					  <span>Figure 5.24</span>
+						File Explorer lets you see the contents of your computer.
+					</figcaption>
+					</figure>	
+					
+					<p style="margin-left:-8px;"><em>>Right-click the lower-left corner of the screen to display the menu, and then select <strong>File Explorer</strong>.</em></p>		
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="29" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.25Big.jpg') no-repeat scroll 30px 5px transparent;margin-bottom:-42px;">
+					<figcaption class="bottomPos normalFont" style="margin-bottom:50px;">
+					  <span>Figure 5.25</span>
+						The Large Icons view is a good way to display the contents of files and folders. The preview pane on theright lets you see the first page of your document without first opening it.
+					</figcaption>
+					</figure>	
+					
+					<p><em>>To access Large Icons view, click the <strong>View</strong> option from the ribbon in File Explorer, and then select <strong>Large Icons</strong> view. To access the Preview pane, click that icon on the View tab of the ribbon.</em></p>		
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="30" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">Have you ever been sent a file by e-mail and couldn’t open it? Most likely, that was because your computer didn’t have the program needed to open the file. Sometimes, similar programs that you already have installed can be used to open the file, so it’s helpful to know what the file extension is. Sites such as FILExt (<span class="strongDBlue" onclick="window.open('http://filext.com','_blank')">filext.com</span>) can help you identify the source program.</p>
+						</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						  </div>
+						</div>
+				</div></div>
+					
+
+						</div>
+			]]></section>
+		</popup>
+		
+		<popup page="30" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Common File Name Extensions</div>
+
+
+
+			<div class="figureHeader">Figure 5.26</div>
+			<br>
+					<table border="0" cellpadding="0" cellspacing="10" class="extTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div style="width:150px;padding-left:6px">Extension</div></th>
+								<th><div style="width:342px">Type of Document</div></th>
+								<th><div>Application</div></th>
+							</tr>
+						</thead>
+						<tbody class="font_15">
+						
+						<tr class="lightBlueGrad">
+							<td><div>.docx</div></td>
+							<td><div>Word processing document</div></td>
+							<td><div>Microsoft Word 2007 and 2010</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>.xslx</div></td>
+							<td><div>Workbook</div></td>
+							<td><div>Microsoft Excel 2007 and 2010</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>.accdb</div></td>
+							<td><div>Database</div></td>
+							<td><div>Microsoft Access 2007 and 2010</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>.pptx</div></td>
+							<td><div>Presentation</div></td>
+							<td><div>Microsoft PowerPoint 2007 and 2010</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>.pdf</div></td>
+							<td><div>Portable Document Format</div></td>
+							<td><div>Adobe Acrobat or Adobe Reader</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>.rtf</div></td>
+							<td><div>Text (Rich Text Format)</div></td>
+							<td><div>Any program that can read text documents</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>.txt</div></td>
+							<td><div>Text</div></td>
+							<td><div>Any program that can read text documents</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>.htm or html</div></td>
+							<td><div>HyperText Markup Language (HTML) for a web page</div></td>
+							<td><div>Any program that can read HTML</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>.jpg</div></td>
+							<td><div>Joint Photographic Experts Group (JPEG) image</div></td>
+							<td><div>Most programs capable of displaying images</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>.zip</div></td>
+							<td><div>Compressed file</div></td>
+							<td><div>Various file compression programs</div></td>
+						</tr>
+					</tbody></table>
+					
+			</div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="31" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">File-Naming Conventions</div>
+
+
+
+			<strong class="">Figure 5.27</strong>
+			<br>
+					<table border="0" cellpadding="0" cellspacing="10" class="extTable">
+						<thead>
+							<tr class="blueGradHeading thickerHeader">
+								<th><div>&nbsp;</div></th>
+								<th><div style="width:196px">OS X</div></th>
+								<th><div style="width:316px">Windows</div></th>
+							</tr>
+						</thead>
+						<tbody class="font_15">
+						
+						<tr class="lightBlueGrad">
+							<td><div>File and folder name length</div></td>
+							<td><div>As many as 255 characters*</div></td>
+							<td><div>As many as 255 characters</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>Case sensitive?</div></td>
+							<td><div>Yes</div></td>
+							<td><div>No</div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>Forbidden characters</div></td>
+							<td><div>Colon (:)</div></td>
+							<td><div>” / \ * ? <> | :</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>File extensions needed?</div></td>
+							<td><div>No</div></td>
+							<td><div>Yes</div></td>
+						</tr>
+						
+						</tbody></table>
+				<em class="largerCap">*Note: Although OS X supports file names with as many as 255 characters, many applications running on OS X still support only file names with a maximum of 31 characters.</em>		
+					
+			</div>
+		  ]]></section>
+		</popup>
+		
+		<!--interactive???-->
+
+
+		<popup page="31" distinction="popupFeature" customscript="compTia.features.setupVideo('filePath')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Understanding Files Paths</div>
+
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+
+
+
+
+
+
+
+
+
+		<popup page="31" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Understanding File Paths</div>
+			<div class="figureHeader"><strong>Figure 5.28</strong></div>
+			
+			<img src="assets/images/figures/fig5.28Big.jpg" style="margin:90px 0 0 -17px" />
+			]]>
+		</section>
+		</popup>
+		
+		<popup page="32" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">A File Type for Everyone</strong>
+								<br/><br/>
+								<p>Say you’re sending an e-mail to a bunch of people. You’re not sure which word processing software each person uses. How can you be sure everyone will be able to open your attachment? Save the file in Rich Text Format (.rtf), Plain Text (.txt) format, or Portable Document Format (.pdf). Rich Text Format and Plain Text files can be read by any modern word processing program, although some formatting may be lost when you save a document in Plain Text format. Anyone can read a PDF file by downloading the free Adobe Reader program from the Adobe website (<span class="strongDBlue" onclick="window.open('http://adobe.com','_blank')">adobe.com</span>). To save files as RTF, TXT, of PDF files, simply change the file type when saving your file. In Microsoft Word, for example, you can select the file type in the “Save as type” list, shown in <span class="strongDBlue"  onclick="compTia.additionalPopupContent(1)">Figure 5.29</span>.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig5.29.png) no-repeat scroll 0px 0px transparent;
+						  	height: 400px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 5.29</span>
+							  By changing a word processing file’s type type to PDF, RTF, or TXT, you can ensure that anyone can read your file, no matter which word processing program he or she uses.
+							</figcaption></figure>
+							
+				</div></div></div></div>
+
+
+						<div class="additional">
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig5.29Big.png) no-repeat scroll 355px 0px transparent;">
+							  <figcaption class="topPos"style="width:300px;">
+							  <span>Figure 5.29</span>
+							  By changing a word processing file’s type type to PDF, RTF, or TXT, you can ensure that anyone can read your file, no matter which word processing program he or she uses.
+							 
+							</figcaption>
+							</figure>
+						</div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="33" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable font_23">Utility Programs Available Within Windows and as Stand-Alone Programs</div>
+
+
+
+			<div class="figureHeader noTMargin BMargin5">Figure 5.30 Click next to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="utilTable">
+						<thead>
+						<tr class="blueGradHeading">
+							<th><div style="width:156px">WINDOWS<br>UTILITY PROGRAM
+							</div></th>
+							<th><div class="lineSpacing40 alignLeft" style="width:300px;">STAND-ALONE ALTERNATIVES</div></th>
+							<th><div class="lineSpacing40 alignLeft" style="width:300px">WHAT IT DOES</div></th>
+						</tr></thead>
+						<tbody>
+						
+						<tr class="lightBlueGrad">
+							<td><div>File Explorer<br>File Compression
+								<span class="slideNext" col="1">NEXT</span>
+							</div></td>
+							<td><div col="1"><span>WinZip, StuffIt</div></td>
+							<td><div col="1"><span>Reduces file size</div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>Disk Cleanup
+								<span class="slideNext" col="2">NEXT</span>
+							</div></td>
+							<td><div col="2"><span>McAfee Total Protection</span></div></td>
+							<td><div col="2"><span>Removes unnecessary files from your hard drive</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>Error-Checking
+								<span class="slideNext" col="3">NEXT</span>
+							</div></td>
+							<td><div col="3"><span>SeaTools (free download from <span class="strongDBlue" onclick="window.open('http://seagate.com','_blank')">seagate.com</span>)</span></div></td>
+							<td><div col="3"><span>Checks your hard drive for unnecessary or
+							damaged files</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>Task Manager and<br>Resource Monitor
+								<span class="slideNext" col="4">NEXT</span>
+							</div></td>
+							<td><div col="4"><span>None</span></div></td>
+							<td><div col="4"><span>Displays performance measures for processes; provides information on programs and processes running on your computer</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>Disk Defragmenter
+								<span class="slideNext" col="5">NEXT</span>
+							</div></td>
+							<td><div col="5"><span>Norton Utilities, iDefrag</span></div></td>
+							<td><div col="5"><span>Rearranges files on your hard drive to allow for<br>faster access of files</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div>System Restore
+								<span class="slideNext" col="6">NEXT</span>
+							</div></td>
+							<td><div col="6"><span>FarStone Snapshop, Acronis Backup and Security, Norton Ghost</span></div></td>
+							<td><div col="6"><span>Restores your system to a previous, stable state</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>File History,<br>File Recovery
+								<span class="slideNext" col="7">NEXT</span></div></td>
+							<td><div col="7"><span>Acronis True Image, Norton Ghost</span></div></td>
+							<td><div col="7"><span>Backs up important files, makes a complete<br>mirror image of your current computer setup</span></div></td>
+						</tr>
+						
+						</tbody></table>
+			</div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="34" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.31Big.jpg') no-repeat scroll 130px 0px transparent;margin-bottom:-42px;">
+					<figcaption class="bottomPos normalFont" style="margin-bottom:50px;">
+					  <span>Figure 5.31</span>
+						(a) File compression is a built-in utility of the Windows OS. (b) Compressing the Word document reduces the file size from 19,034 KB to 18,457 KB.
+					</figcaption>
+					</figure>	
+					
+					<p><em>>To access the Windows file compression utility, right-click the file or folder that you want to compress, select <strong>Send to</strong> from the shortcut menu, and then select <strong>Compressed (zipped) folder</strong>.</em></p>		
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="35" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.32Big.jpg') no-repeat scroll center 0px transparent;">
+					<figcaption class="bottomPos normalFont">
+					  <span>Figure 5.32</span>
+						The Extraction Wizard in Windows makes unzipping compressed folders and files easy.
+					</figcaption>
+					</figure>	
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="36" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.33Big.jpg') no-repeat scroll 230px 0px transparent;margin-bottom:-42px;">
+					<figcaption class="bottomPo normalFonts" style="margin-bottom:50px;">
+					  <span>Figure 5.33</span>
+						Using Disk Cleanup will help free space on your hard drive.
+					</figcaption>
+					</figure>	
+					
+					<p><em>>Disk Cleanup is accessed by displaying File Explorer, right-clicking on the disk you wish to clean, selecting <strong>Properties</strong> from the shortcut menu, and then clicking the <strong>Disk Cleanup</strong> button on the General tab.</em></p>		
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="36" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">Error-checking also makes a note of any bad sectors so that the system won’t use them again to store data. To locate Error-checking in Windows 8, display File Explorer, right-click the disk you want to diagnose, select Properties, and select the Tools tab. On Macs, you can use the Disk Utility to test and repair disks. Disk Utility is located in the Utilities subfolder in the Applications folder on your hard drive.</p>
+						</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						  </div>
+						</div>
+				</div></div>
+					
+
+						</div>
+			]]></section>
+		</popup>
+		
+		<popup page="37" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.34Big.jpg') no-repeat scroll 230px 0px transparent;margin-bottom:-42px;">
+					<figcaption class="bottomPos normalFont" style="margin-bottom:50px;">
+					  <span>Figure 5.34</span>
+						You can use Windows 8 Task Manager to close nonresponsive programs.
+					</figcaption>
+					</figure>	
+					
+					<p><em>>Task Manager is accessed by holding down <strong>Ctrl, Alt,</strong> and <strong>Del</strong> or by right-clicking on the taskbar at the bottom of the desktop.</em></p>		
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="37"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText">How Disk Defragmenter Utilities Work</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p><span class="strongDBlue" glossary>Disk defragmenting</span> programs group together related pieces of files on the hard drive, allowing the OS to work more efficiently. To understand how disk defragmenter utilities work, you first need to understand the basics of how a hard disk drive stores files. A hard disk drive is composed of several platters, or round, thin plates of metal, covered with a special magnetic coating that records the data. The platters are about 3.5 inches in diameter and are stacked onto a spindle. There are usually two or three platters in any hard disk drive, with data stored on one or both sides. Data is recorded on hard disks in concentric circles called <span class="strongDBlue" glossary="track">tracks</span>. Each track is further broken down into pie-shaped wedges, each called a  <span class="strongDBlue" glossary>sector</span> (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 5.35</span>). The data is further identified by <span class="strongDBlue" glossary="cluster">clusters</span>, which are the smallest segments within the sectors.</p>
+						<p class="start">When you want to save (or write) a file, the bits that make up your file are recorded onto one or more clusters of the drive. To keep track of which clusters hold which files, the drive also stores an index of all sector numbers in a table. To save a file, the computer looks in the table for clusters that aren’t already being used. It then records the file information on those clusters. When you open (or read) a file, the computer searches through the table for the clusters that hold the desired file and reads that file. Similarly, when you delete a file, you’re actually not deleting the file itself but rather the reference in the table to the file.</p>
+						<p class="start">So, how does a disk become fragmented? When only part of an older file is deleted, the deleted section of the file creates a gap in the sector of the disk where the data was originally stored. In the same way, when new information is added to an older file, there may not be space to save the new information sequentially near where the file was originally saved. In that case, the system writes the added part of the file to the next available location on the disk, and a reference is made in the table as to the location of this file fragment. Over time, as files are saved, deleted, and modified, the bits of information for various files fall out of order and the disk becomes fragmented.</p>
+						<p class="start">Disk fragmentation is a problem because the OS isn’t as efficient when a disk is fragmented. It takes longer to locate a whole file because more of the disk must be searched for the various pieces, slowing down your computer. Defragmenting tools take the hard drive through a defragmentation process in which pieces of files scattered over the disk are placed together and arranged sequentially on it. Also, any unused portions of clusters that were too small to save data in before are grouped, increasing the available storage space on the disk. <span class="strongDBlue" onclick="compTia.additionalPopupContent(2)">Figure 5.36</span> shows before and after shots of a fragmented disk that has gone through the defragmentation process. The disk defragmentation utility in Windows 8 is set by default to automatically defragment the hard drive on a regular basis. Macs don’t have a defragmentation utility built into the system. Those users who feel the need to defragment their Mac can use iDefrag, an external program from Coriolis Systems. For more about hard disks and defragmenting, check out the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/hard_disk_anatomy_interactive/index.html','_blank')">Sound Byte “Hard Disk Anatomy.”</span></p>
+						
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+
+							<figure style="
+								    background: url(assets/images/figures/fig5.35.png) no-repeat 48px 0 transparent;
+    								height: 275px;
+    								margin-top: 42px;"
+    								onclick="compTia.additionalPopupContent(1)">
+							  <figcaption class="bottomPos">
+								<span>Figure 5.35</span> On a hard disk platter, data is recorded onto tracks, which are further divided into sectors and clusters.
+							  </figcaption>
+							</figure>
+					
+				
+						<figure style="
+								    background: url(assets/images/figures/fig5.36.png) no-repeat -8px 0 transparent;
+    								height: 400px;
+    								margin-top: 320px;
+									margin-right:-33px;"
+    								onclick="compTia.additionalPopupContent(2)">
+							  <figcaption class="bottomPos" style="width:325px;">
+								<span>Figure 5.36</span> Defragmenting the hard drive arranges file fragments so that they are located next to each other. This makes the hard drive run more efficiently.
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+			<div class="additional">
+						<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig5.35Big.png) no-repeat scroll 290px 0 transparent">
+								<figcaption class="topPos" style="width: 350px; margin-right:15;">
+								<span>Figure 5.35</span> On a hard disk platter, data is recorded onto tracks, which are further divided into sectors and clusters.
+							  </figcaption>
+							  </figure>
+
+						
+					</div>
+					
+					<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig5.36Big.png) no-repeat scroll 86px -4px transparent">
+								<figcaption class="topPos rightPos" style="width: 175px; margin-right:60px;">
+								<span>Figure 5.36</span> Defragmenting the hard drive arranges file fragments so that they are located next to each other. This makes the hard drive run more efficiently.
+							  </figcaption>
+							  </figure>
+
+						</div>
+					</div>
+				</div>
+			]]></section>
+		</popup>
+		
+		<popup page="37" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5.37Big.jpg') no-repeat scroll 165px 0px transparent;margin-bottom:-42px;">
+					<figcaption class="bottomPos normalFont" style="margin-bottom:50px;">
+					  <span>Figure 5.37</span>
+						This System Restore Wizard shows a restore point set manually by a user and automatically by Windows before a backup was run. Setting a restore point is good practice before installing any hardware or software.
+					</figcaption>
+					</figure>	
+					
+					<p><em>>The System Restore Wizard is found by accessing the Control Panel, choosing <strong>System and Security</strong>, clicking the <strong>System</strong> link, selecting <strong>System Protection</strong>and then clicking the <strong>System Restore</strong> button. The System Restore Wizard appears, with the restore points shown on the second page of the Wizard.</em></p>		
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="38" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>The Windows 7 File Recovery tools  are still available in Windows 8 and allow you to have Windows make complete backups of your entire system that you can later restore in the event of a major hard drive crash.</p>
+						<p class="start">OS X includes a backup utility called Time Machine that automatically backs up your files to a specified location. Apple also offers backup hardware called Time Capsules, which are hard disk drives with wireless connectivity, designed to work with Time Machine and record your backup data. Because Time Machine makes a complete image copy of your system, it can also be used to recover your system in the case of a fatal error.  (For more information on backing up your files, <span class="strongDBlue" onclick="compTia.generatePages(9)">see Chapter 9</span>.)</p>
+						</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						  </div>
+						</div>
+				</div></div>
+					
+
+						</div>
+			]]></section>
+		</popup>
+		
+		<popup page="38" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage drive">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Windows Ease of Access Tools</div>
+			<div class="figureHeader"><strong>Figure 5.38</strong> Click on arrows to reveal the table</span></div>
+					<table border="0" cellpadding="0" cellspacing="10" class="TMargin15 windows">
+						<thead><tr class="wideHeaderFont18">
+							<th><div class="blueGradHeading verticleCenterLine">Magnifier</div></th>
+							<th><div class="blueGradHeading verticleCenterLine">Narrator</div></th>
+							<th><div class="blueGradHeading">Speech Recognition</div></th>
+							<th><div class="blueGradHeading">On-Screen Keyboard</div></th>
+							<th><div class="blueGradHeading verticleCenterLine">High Contrast</div></th>
+							
+						</tr></thead>
+						<tbody>
+						<tr class="lightBlueGrad divWidth153 divheight142 centerDivs padding6">
+							
+							<td class="padding6"><div><br><img src="assets/images/charts/eyeglass.png" />
+									<div col="1" class="lbDownArrowBL">NEXT</div></div></td>
+							<td class="padding6"><div class="lightestBlueGrad"><img src="assets/images/charts/white-guy.png" />
+									<div col="2" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div><img src="assets/images/charts/service.png" />
+									<div col="3" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><br><br><img src="assets/images/charts/keyboard.jpg" />
+									<div col="4" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div><br><br><img src="assets/images/charts/easier.jpg" />
+									<div col="5" class="lbDownArrowBL">NEXT</div></div></td>
+											
+						</tr>
+						
+						<tr class="lightBlueGrad divWidth153 divheight173 lineSpacing17 padding6" style="height:198px">
+							
+							<td><div col="1"><ul class="dotted ">
+								<li style="width:92px;margin-left:16px;"><span class="innerLi">Creates a separate window that displays a magnified portion of the screen</span></li>
+								</div></td>
+							<td><div col="2" class="lightestBlueGrad"><ul class="dotted">
+								<li style="width:92px;margin-left:16px;"><span class="innerLi">Reads what is on screen</span></li>
+								<li style="width:92px;margin-left:16px;"><span class="innerLi">Can read the contents of a window, menu options, or text you have typed</span></li></div></td>
+							<td><div col="3"><ul class="dotted">
+								<li style="width:92px;margin-left:16px;"><span class="innerLi">Allows you to dictate text and control your computer by voice</span></li>
+								</div></td>
+							<td><div col="4" class="lightestBlueGrad"><ul class="dotted">
+								<li style="width:92px;margin-left:16px;"><span class="innerLi">Allows you to type with a pointing device</span></li>
+								</div></td>
+							<td><div col="5"><ul class="dotted">
+								<li style="width:92px;margin-left:16px;"><span class="innerLi">Color schemes invert screen colors for vision-impaired individuals</span></li>
+								</div></td>
+							
+						</tr>
+					</tbody></table>
+					<p style="margin-top:-10px;"><em style="font-size:13px;color:black;">>The Ease of Access Center is found by accessing the Control Panel and clicking <strong>Ease of Access</strong></em>.</p>
+					<br/><p><em>Imagery Majestic/Fotolia; Anatoly Maslennikov/Fotolia; gilles lougassi/Fotolia)</em></p>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		
+		<popup page="50" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_0Big.jpg') no-repeat scroll center 45px transparent">
+					<figcaption>
+					  <span></span>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="51" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage ethicsTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes" style="margin-left:-80px;">Systems of Ethics</div>
+			<div class="figureHeader shiftLeft17"><strong>Figure 1</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="shiftLeft17 ethicsTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>ETHICAL SYSTEM</div></th>
+								<th><div>BASIC TENETS</div></th>
+								<th><div>EXAMPLES</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Relativism</span><img src="assets/images/charts/compus.jpg" style="margin-left:25px;">
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>
+							<ul class="cond">
+								<li>No universal moral truth</li>
+								<li>Moral principles dictated by cultural tastes and customs</li>
+							</ul></span></div></td>
+							<td><div class="hide" col="1"><span class="cond">Topless bathing is prevalent in Europe but generally banned on public beaches in the United States</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Divine Command Theory</span><img src="assets/images/charts/cross.jpg" style="margin-left:25px;">
+
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>
+							<ul class="cond">
+								<li>God is all-knowing and sets moral standards</li>
+								<li>Conforming to God’s law is right, breaking it is wrong</li>
+							</ul></span></div></td>
+							<td><div class="hide" col="2"><span class="cond">Christians believe in rules such as the Ten Commandments</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Utilitarianism</span>
+							<img src="assets/images/charts/yellowFaces.jpg" style="margin-top:13px;">
+
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>
+							<ul style="margin-top:-7px;" class="cond">
+								<li>Actions are judged solely by consequences</li>
+								<li>Actions that generate greater happiness are judged to be better than actions that lead to unhappiness</li>
+								<li>Individual happiness is not important—consider the greater good</li>
+							</ul></span></div></td>
+							<td><div class="hide" col="3"><span class="cond">Using weapons of mass destruction ends a war sooner and therefore saves lives otherwise destroyed by conventional fighting</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Virtue Ethics</span>
+							<img src="assets/images/charts/integrity.jpg" style="margin-left:21px;">
+
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>
+							<ul class="cond">
+								<li>Morals are internal</li>
+								<li>Strive to be a person who behaves well spontaneously</li>
+							</ul></span></div></td>
+							<td><div class="hide" col="4"><span class="cond">A supervisor views the person who volunteered to clean up a park as a better person than the workers who are there because of court-ordered community service</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Deontology (Duty-Based)</span><img src="assets/images/charts/judgement.jpg" style="margin-left:19px;">
+
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>
+							<ul class="cond">
+								<li>Focus on adherence to moral duties and rights</li>
+								<li>Morals should apply to everyone equally</li>
+							</ul></span></div></td>
+							<td><div class="hide" col="5"><span class="cond">Human rights (like freedom of religion) should be respected for all people because human rights should be applied universally</span></div></td>
+						</tr>
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				
+				<popup page="51" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">Not all illegal behavior is unethical, though. Civil disobedience, which is manifested by intentionally refusing to obey certain laws, is used as a form of protest to effect change. Gandhi’s nonviolent resistance to the British rule of India, which led to India’s establishment as an independent country, is an example of civil disobedience. Is it ever ethical for one country to control another country’s people?</p>
+						<p class="start">Note that there is also a difference between <em>unethical</em> behavior and <em>amoral</em> behavior:</p>
+						<ul class="dotted">
+							<li><span class="innerLi"><em>Unethical behavior</em> can be defined as not conforming to a set of approved standards of behavior. For instance, using your phone to text message a test answer to your friend during an exam is unethical.</span></li>
+							<li><span class="innerLi"><em>Amoral behavior</em> occurs when a person has no sense of right and wrong and no interest in the moral consequences of his or her actions, such as when a murderer shows no remorse for his or her crime.</span></li>
+						</ul>
+						</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						  </div>
+						</div>
+				</div></div>
+					
+
+						</div>
+			]]></section>
+		</popup>
+		
+			<popup page="52" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_2Big.jpg') no-repeat scroll center 18px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2</span> It would be nice if there were signposts to ethical conduct, but the issues are complex. <em>(Iqoncept/Shutterstock)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="52" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_3Big.jpg') no-repeat scroll center 15px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 3</span> Many different forces shape your personal ethics. <em>(Noam Armonn/Shutterstock; AISPIX by Image Source/Shutterstock;<br/>Rachel Donahue/iStockphoto; Rob Marmion/Shutterstock)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="54" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_4Big.jpg') no-repeat scroll center 100px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 4</span> The field of positive psychology shows that living and working ethically affects your happiness. <br/><em>(Yuri Arcurs/Shutterstock; Yuri Arcurs/Shutterstock)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="54" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_5Big.jpg') no-repeat scroll center 15px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 5</span> How should you respond if you see people in authority at the company’s work behaving unethically? <br/><em>(Shapiro Mike/CSL, CartoonStock Ltd)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="55" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">For instance, suppose you decide to cut costs in your restaurant by hiring workers “off the books” by paying them in cash. Although doing so might boost profits in the short term, the long-term impact on stakeholders can be severe. If you’re caught avoiding paying payroll taxes by paying workers in cash, fines will be levied against your business, which may cause investors to lose money and may affect the company’s ability to repay lenders. The negative publicity from being caught doing something illegal may cause a downturn in business, which, in turn, might force layoffs of employees or even closure of the business. Your simple decision on cutting costs isn’t as simple as it may seem.</p>
+						<p class="start">In summary, in a business environment, your behavior is guided by the ethical principles defined by the business owner or management, but you’re ultimately guided by your own personal ethics.</p>
+						
+						</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+						  </div>
+						</div>
+				</div></div>
+					
+
+						</div>
+			]]></section>
+		</popup>
+		
+		<popup page="55" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage ecTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Ethics in Computing</div>
+			<div class="figureHeader shiftLeft25"><strong>Figure 6</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="shiftLeft25 ecTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>TOPIC</div></th>
+								<th><div>ETHICAL DISCUSSION</div></th>
+								<th><div>DEBATE ISSUE</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Social justice</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Does the deployment of technology to alter the human brain blur the lines between human and machine?</span></div></td>
+							<td><div class="hide" col="1"><span>Will brain technology make some humans superior to others?</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Intellectual property</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Do entire countries support software piracy?</span></div></td>
+							<td><div class="hide" col="2"><span>Can we impose our values and intellectual property laws on the world?</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Privacy</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3"><span>Can employers peer into your personal profiles on social media sites?</span></div></td>
+							<td><div class="hide" col="3"><span>Should personal privacy be protected?</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>E-commerce</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4"><span>Do geolocation devices and applications threaten privacy?</span></div></td>
+							<td><div class="hide" col="4"><span>Do the benefits of geolocation devices and applications outweigh the risks?</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Electronic communication</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>When does big business limit free speech?</span></div></td>
+							<td><div class="hide" col="5"><span>Should companies allow the Chinese government to dictate when to curtail free speech?</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Computer abuse</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>Whose responsibility is it to monitor cyberbullying?</span></div></td>
+							<td><div class="hide" col="6"><span>Should parents bear all the responsibility of monitoring cyberbullying, or should it be in the hands of public officials?</span></div></td>
+						</tr>
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				<popup page="57" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_7Big.jpg') no-repeat scroll center 18px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 7</span> What boundaries should there be on the enhancement of the human brain using technology? <br/><em>(Vladgrin/Fotolia)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="60" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_8Big.jpg') no-repeat scroll center 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 8</span> A crackdown on pirated media in China underscores that issues of intellectual <br/>property play an important role in international trade. <em>(MARK/epa/Corbis)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="63" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_9Big.jpg') no-repeat scroll center 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 9</span> What information are you sharing on Facebook and with whom? <em>(Copyright © 2011 by Facebook Inc.)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="66" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_10Big.jpg') no-repeat scroll center 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10</span> Geolocation applications help you find cool places and businesses. But who do you want to find you with geolocation? <em>(Cseke Timea/Fotolia)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="68" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_11Big.jpg') no-repeat scroll center 10px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 11</span> Is free speech possible in countries (such as China) where information availability is restricted by law? <em>(Kentoh/Shutterstock)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="72" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_12Big.jpg') no-repeat scroll center 25px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 12</span> Cyberbullying involves the use of digital technologies both to bully and to broadcast acts of bullying. <em>(Rawdon Wyatt/Alamy)</em>
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="74" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig5b_13Big.jpg') no-repeat scroll center 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 13</span> Technology helps charities solicit donations.
+						
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+
+		
+	</chapter>
+</ebook>

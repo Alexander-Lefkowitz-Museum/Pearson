@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+<chapter index="3" title="" glossary="35" secondGlossary="54">
+		<page index="0" type="full" distinction="chapterStart" >
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc topPadding10">
+						Using the Internet:<br>
+						Making the Most<br>
+						of the Web’s<br>
+						Resources</div>	
+				<div class="chapterStartNumber">3</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Working and Playing on the Web</span>
+					<img src="assets/images/pics/worldConnections.jpg" class="BMargin8" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">The Internet and How It Works</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">1.</span> What is the origin of the Internet? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,3)">(pp. 80-81)</span></li>
+						<li><span class="ul1DigNumber">2.</span> How does data travel on the Internet?<br/>  <span class="strongDBlue" onclick="compTia.switchPage(0,5)">(p. 82)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/colorIM.jpg" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,6)">Communicating and Collaborating on the Web</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber">3.</span> How can I communicate and collaborate with others using Web 2.0 technologies? <span class="strongDBlue" onclick="compTia.switchPage(0,6)">(p. 83)</span></li>
+						<li><span class="ul1DigNumber">4.</span> How can I communicate with others using e-mail and instant messaging? <br><span class="strongDBlue" onclick="compTia.switchPage(0,7)">(pp. 84–86)</span></li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/blogging/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Blogging
+					</div>
+
+					
+					<hr>
+					
+					<img src="assets/images/pics/webEntertainment.jpg" class="BMargin8" />
+					<span class="orangeHeading" onclick="compTia.switchPage(0,13)">Web Entertainment</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber">5.</span> What multimedia files are found on the web, and what software is needed to access those files? <br/> <span class="strongDBlue" onclick="compTia.switchPage(0,13)">(pp. 90–91)</span></li>
+					</ul>	
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown" style="margin: 4px 0 -2px" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<img src="assets/images/pics/businessOnline.jpg" />
+					<span class="orangeHeading" style="margin-bottom: 0px;" onclick="compTia.switchPage(0,14)">Conducting Business over the Internet: <br/>E-Commerce</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">6.</span> What is e-commerce, and what online safeguards are available? <span class="strongDBlue" onclick="compTia.switchPage(0,14)">(pp. 91–94)</span>
+						</li>
+					</ul>
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_05.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Doing Business Online
+					</div>
+					
+					<hr style="margin-bottom: 3px;">
+					
+					<span class="largeGreenHeading " onclick="compTia.switchPage(0,20)">Using the Web Effectively</span>
+					<img src="assets/images/pics/http.jpg" style="margin-top:-9px;"/>
+					<span class="orangeHeading" style="margin-top:-9px; margin-bottom: 0px;" onclick="compTia.switchPage(0,20)">Accessing and Moving Around the Web</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">7.</span> What is a web browser, and what are a URL and its parts? <span class="strongDBlue" onclick="compTia.switchPage(0,20)">(pp. 97–99)</span>
+						</li>
+						<li><span class="ul1DigNumber lessSpacing">8.</span> How can I use hyperlinks and other tools to get around the web? <span class="strongDBlue" onclick="compTia.switchPage(0,23)">(pp. 100-102)</span></li>
+					</ul>
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/welcome_to_the_web/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Welcome to the Web
+					</div>
+					
+					<hr style="margin-bottom: 0px;">
+					
+					<img src="assets/images/pics/searchingWeb.jpg" />
+					<span class="orangeHeading" style="margin-bottom: 0px;" onclick="compTia.switchPage(0,25)">Searching the Web Effectively</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul style="padding-left:22px">
+						<li><span class="ul1DigNumber lessSpacing">9.</span> How do I search the Internet effectively, and how can I evaluate websites?<br><span class="strongDBlue" onclick="compTia.switchPage(0,25)">(pp. 102–107)</span></li>
+					</ul>
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_06.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Getting Around the Web
+					</div><div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_07.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Using Subject Directories and Search Engines
+					</div>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/finding_information_on_the_web/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Finding Information on the Web
+					</div>
+
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right: -73px; margin-bottom: 66px;">
+							(Dny3d/Fotolia; Marish/Shutterstock; Angela Waye/Shutterstock; Maxx-Studio/Shutterstock; Adimas/Fotolia; HaywireMedia/Fotolia)
+					</span>
+					<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+
+					<div style="width:100%;height:100%;
+							background:no-repeat url(assets/images/figures/bigBen.jpg) 14px 0"></div></div>
+							<div class="font_9 transform90deg floatRight"
+								 style="margin-top:-58px;font-style: italic;">
+								 REUTERS/Andrew Winning</div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">Have you ever seen something and wanted to know what it is or know more about it, but you didn’t know how to find out? <strong>Google Goggles</strong> is an app you install on your smartphone. It’s a visual search engine that uses pictures you’ve taken in order to search the web. Just <strong>snap a picture</strong> with your phone’s camera, upload the picture into Google Goggles, and wait for the search results. Goggles will analyze the image and <strong>highlight the objects</strong> it recognizes; you can then click on the objects to <strong>find out more</strong>. For example, you can use Google Goggles to learn more about a book or DVD by taking a picture of the cover. Or you can get more information about a product by snapping a photo of the <strong>label or bar code</strong>. You can even capture a landmark or building and submit it to Goggles for more information. </p>
+					<p class="moreSpacing start">Because visual search is relatively new, Goggles doesn’t work on things such as plants, animals, apparel, cars, and furniture, but it works well with many other items. So, get out your Goggles and find out more about the world around you by taking a few pictures!</p>
+
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap3ArrSchip_computer.png')" onclick="window.open('http://www.google.com/mobile/goggles/#text','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+
+			<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Working and Playing on the Web</div>
+					<p class="digCompP">You most likely know at least a little bit about how to use the web’s resources to communicate and collaborate with others, how to work with multimedia files, and how business is conducted over the web. In this section, we’ll explore these and other topics. But first, let’s start with a brief lesson on the history of the Internet.</p>
+					
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/worldConnectionsThumbnail.jpg)">
+						<div class="orange">the internet and how</div>
+						<div class="blue" style="margin-left: 176px;">IT WORKS</div>
+					</div>
+					
+					<p class="lessSpacing">It’s hard to imagine life without the <span class="strongDBlue" glossary>Internet</span>, the largest computer network in the world. The Internet is actually a network of networks that connects billions of computer users globally, but its beginnings were much more modest.</p>
+					
+					<h2 class="blueHeading">The Origin of the Internet</h2>
+					<p class="lessSpacing"><strong>Why was the Internet created?</strong> The concept of the Internet was developed in the late 1950s while the United States was in the midst of the Cold War with the Soviet Union (<span class="strongDBlue" onclick="compTia.togglePopup(3,0)">see Figure 3.1</span>). At that time, the U.S. Department of Defense needed a computer network that wouldn’t be disrupted easily in the event of an attack.</p>
+					<p class="start lessSpacing">At the same time, researchers for the Department of Defense were trying to get different computers to communicate with each other using a common communications method that all computers could use. The Internet was created to respond to these two concerns: establishing a <em>secure</em>  form of communications and creating a means by which all computers could communicate.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="HeadingOrangeBackDiagDashes">How the Internet Began</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(3,0)" style="
+						background: url('assets/images/figures/fig3.1.jpg') no-repeat scroll 0px 36px #FFFFFF;
+						height: 495px; overflow: hidden;">
+						<span class="strongDHeading"><strong>Figure 3.1</strong>  Click to reveal interactive timeline</span>
+
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		
+			<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Who invented the Internet?</strong> The modern Internet evolved from an early U.S. government-funded “internetworking” project called the Advanced Research Projects Agency Network (ARPANET). ARPANET began as a four-node network involving UCLA, Stanford Research Institute, the University of California at Santa Barbara, and the University of Utah in Salt Lake City. The first real communication occurred in 1969 between the computer at Stanford and the computer at UCLA. Although the system crashed after the third letter was transmitted, it was the beginning of a revolution. Many people participated in the creation of the ARPANET, but two men, Vinton Cerf and Robert Kahn, are generally acknowledged as the “fathers” of the Internet. They earned this honor because in the 1970s they were primarily responsible for developing the communications protocols (standards) still in use on the Internet today.</p>
+					<p class="start"><strong>So are the web and the Internet the same thing?</strong> Because the <span class="strongDBlue" glossary="World Wide Web (WWW or the web)">World Wide Web</span> (<span class="strongDBlue" glossary="World Wide Web (WWW or the web)">WWW</span> or the <span class="strongDBlue" glossary="World Wide Web (WWW or the web)">web</span>) is what we use the most, we sometimes think of the Internet and the web as being interchangeable. However, the web is only a subset of the Internet, dedicated to broadcasting HTML pages and the means by which we access information over the Internet. The web is based on the Hypertext Transfer Protocol (HTTP), which is why you see an <em>http://</em> at the beginning of web addresses. What distinguishes the web from the rest of the Internet is its use of the following:</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">Common communications protocols that enable computers to talk to each other and display information in compatible formats</span></li>
+						<li><span class="innerLi">Special links that enable users to navigate from one place to another on the web</span></li>
+					</ul>	
+					<p class="start"><strong>Did the same people who created the Internet also create the web?</strong> The web began in 1991, based on a protocol developed by Tim Berners-Lee, a physicist at the European Organization for Nuclear Research (CERN), who wanted a method for linking his research documents so that other researchers could access them. In conjunction with Robert Cailliau, Berners-Lee developed the basic architecture of the web and created the first <span class="strongDBlue" glossary="web browser (browser)">web browser</span>, software that lets you display and interact with text and other media on the web. The original browser could handle only text. Then, in 1993, the Mosaic browser, which could display graphics as well as text, was released. The once popular Netscape Navigator browser evolved from Mosaic and heralded the beginning of the web’s monumental growth.</p>
+					<br/>
+					<div onclick="compTia.togglePopup(4,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Ever Heard of the Internet2?
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">How the Internet Works</h2>
+					<p><strong>How does the Internet work?</strong> All computers and other devices such as smartphones that are connected to the Internet create a network of networks. These Internet-connected devices communicate with each other in turns, just as we do when we ask a question and get an answer. Thus, a computer (or other device) connected to the Internet acts in one of two ways: Either it’s a <span class="strongDBlue" glossary>client</span>, a computer that asks for data, or it’s a <span class="strongDBlue" glossary>server</span>, a computer that receives the request and returns the data to the client. Because the Internet uses clients and servers, it’s referred to as a <span class="strongDBlue" glossary>client/server network</span>.</p>
+					<p class="start lessSpacing">When a client computer puts out a request for information from the server computer, the request travels along transmission lines. These transmission lines are similar to our highway system of roads, with some roads having different speed limits. The transmission lines with the fastest speeds are referred to as <span class="strongDBlue" glossary="Internet backbone">Internet backbones</span>.</p>
+					<p class="start lessSpacing"><strong>How do computers talk to each other?</strong> Suppose you want to order something from Amazon.com. <span class="strongDBlue" onclick="compTia.togglePopup(5,0)">Figure 3.2</span> illustrates what happens when you type <span class="strongDBlue" onclick="window.open('http://www.amazon.com','_blank')">www.amazon.com</span> into your web browser and when Amazon’s home page displays on your computer monitor. </p>
+					<p class="start lessSpacing"><strong>How does the data get sent to the correct computer?</strong>  Each time you connect to the Internet, your computer is assigned a unique identification number. This number, called an <span class="strongDBlue" glossary>Internet Protocol (IP) address</span>, is a set of four numbers separated by periods, such as 123.45.245.91, and is commonly referred to as a <em>dotted quad or dotted</em></p>
+				]]>
+			</section>
+		<section>
+				<![CDATA[
+				<p><em>decimal</em>. IP addresses are the means by which computers connected to the Internet identify each other. Similarly, each <span class="strongDBlue" glossary>website</span> is assigned a unique IP address. However, because the numbers that make up IP addresses are difficult for people to remember, websites are given text versions of their IP addresses. So, Amazon’s website has an IP address of 72.21.211.176 and a name of <span class="strongDBlue" onclick="window.open('http://www.amazon.com','_blank')">www.amazon.com</span>. When you type “www.amazon.com” into your browser, your computer (with its unique IP address) looks for Amazon’s IP address (72.21.211.176). Data is exchanged between Amazon’s server computer and your computer using these unique IP addresses.</p>
+				<br/>
+				<div class="smallHeadingOrangeBackDiagDashes leftPadding10 cond">How the Internet’s Client/Server Model Works</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(5,0)" style="
+						background: url('assets/images/figures/fig3.2.jpg') no-repeat scroll 40px 45px #FFFFFF;
+						height: 288px; overflow: hidden;">
+						<span class="strongDHeading"><strong>Figure 3.2</strong>  Click to reveal active graphic</span>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/colorIMthumbnail.jpg)">
+						<div class="dblue">Communicating and collaborating</div>
+						<div class="orange" style="margin-left: 202px;">ON THE WEB</div>
+					</div>
+							<p>
+							Over time, our use of the web has evolved from passively browsing web pages that were created for us (now referred to as <em>Web 1.0</em>) to actively creating our own web content and sharing and collaborating on it with others (referred to as <em>Web 2.0</em>). <span class="strongDBlue" glossary>Web 2.0</span> can be classified as the <em>social web</em>, in which the user is also a participant. Before Web 2.0 technologies were in place, we were unable to collaborate with others through web applications such as Google Docs, to rate and recommend products or services with Yelp, to tag a friend on social networks such as Facebook, or to share a video on YouTube or a favorite image on Pinterest. These new means of Web 2.0 communication are collectively called <em>social media</em> and also include blogs, wikis, podcasts, and webcasts. Although e-mail still remains the most widely used form of communication on the Internet, social media has truly changed how we communicate.
+							</p>
+							<h2 class="blueHeading">Social Networking</h2>
+							<p><strong>Who hasn’t heard of Facebook or social networking?</strong> As you probably know, <span class="strongDBlue" glossary>social networking</span> refers to using the web to communicate and share information among your friends and others. Social networking services such as Facebook and Twitter have become widely popular because they</p>
+					]]>
+			</section>
+			<section>
+				<![CDATA[
+
+				<p>provide fun ways for users to communicate with their friends through Wall posts, chats, and tagged images. Other social networking sites, such as YouTube and Flickr, provide ways for users to show their friends favorite videos and images they have taken themselves or have found on the web.</p>
+				<p class="start"><strong>How is social networking used in business?</strong> In the business community, professionals often engage in in-person networking to locate and fill open job positions as well as to find clients. Today, networking also happens online. Professional, business-oriented online networks such as LinkedIn are helpful for members seeking potential clients, business opportunities, jobs, or job candidates. Like a true business network, these sites can help you meet other professionals through the people you already know. In addition, businesses use social networking for marketing and communicating directly with their customers. For example, companies may post special deals and offers on their Facebook page or solicit responses from followers that may help with product development or future marketing campaigns.</p>
+				<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(7,1)">Figure 3.3</span> shows the various sites that are considered Web 2.0 social networking sites. As you can see, there is more to social networking than just Facebook and Twitter.</p>
+
+				]]>
+			</section>
+
+		</page>
+		
+			<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="start moreSpacing"><strong>What are some dos and don’ts of social networking?</strong> When social networking sites first became popular, there was concern over privacy issues, especially for school-aged children who put personal information on their pages without considering the possibility of that information being misused by a stalker or identity thief. Although those concerns still exist, many of the most popular social networking sites have improved their privacy policies, thereby reducing, but not eliminating, such concerns. Still, users must be cautious about the type of content they post on these sites. Consider these precautions as you use social networking sites:</p>
+				
+				<ul class="dotted">
+				<li><span class="innerLi">Keep your personal information personal. The year you were born, your physical address, and the routines of your life (sports games, practices, work schedules) should not be broadcast to the general public.</span></li>
+				</ul>
+				
+				<a onclick="compTia.togglePopup(7,0)" class="readMore"></a>
+				<br/>
+				
+				<h2 class="blueHeading">E-Mail</h2>
+				<p class="moreSpacing"><strong>Why do I need e-mail?</strong> Despite the increasing popularity of social networking, e-mail is still the primary means of communication over the Internet. <span class="strongDBlue" glossary="e-mail (electronic mail)">E-mail</span> (short for <span class="strongDBlue" glossary="e-mail (electronic mail)">electronic mail</span>) is a written message sent or</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="HeadingOrangeBackDiagDashes leftPadding10 cond">Types of Social Networking Sites</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(7,1)" style="
+						background: url('assets/images/figures/fig3.3.jpg') no-repeat scroll 5px 40px #FFFFFF;
+						height: 252px; overflow: hidden;">
+						<span class="strongDHeading"><strong>Figure 3.3</strong> Click to reveal the table</span><figcaption></figcaption></figure></div>
+						<br/>
+					<p>received over the Internet. E-mail is the primary method of electronic communication worldwide because it’s fast and convenient. And because it’s <em>asynchronous</em>, users do not need to be communicating at the same time. They can send and respond to messages at their own convenience. E-mail is also convenient for exchanging and collaborating on documents via attachments. </p>	
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="start"><strong>How private is e-mail?</strong> Although e-mail is a more private exchange of information than public social networking sites, e-mails really are not private. Consider the following:</p>
+				<ul class="dotted">
+					<li><span class="innerLi">Because e-mails can be printed or forwarded to others, you never know who may read your e-mail.</span></li>
+					<li><span class="innerLi">Most e-mail content is not protected, so you should never use e-mail to send personal or sensitive information such as bank account or Social Security numbers. Doing so could lead to identity theft.</span></li>
+					<li><span class="innerLi">Employers have access to e-mail sent from the workplace, so use caution when putting negative or controversial content in e-mail.</span></li>
+					<li><span class="innerLi">Even after you’ve deleted a message, it doesn’t really vanish. Many Internet service providers and companies archive e-mail, which can be accessed or subpoenaed in the event of a lawsuit or investigation.</span></li>
+				</ul>
+				
+				<p class="start"><strong>What are some tips on e-mail etiquette?</strong> When you write a casual e-mail to friends, you obviously don’t need to follow any specific e-mail guidelines (except to remember that your e-mail may be forwarded). But when you send e-mail for professional reasons, you should use proper e-mail etiquette. The following are a few guidelines (<span class="strongDBlue" onclick="compTia.togglePopup(8,1)">also see Figure 3.4</span>):</p>
+
+				<ul class="dotted">
+					<li><span class="innerLi">Be concise and to the point.</span></li>
+				</ul>
+				
+				<a onclick="compTia.togglePopup(8,0)" class="readMore"></a>		
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(8,1)" style=" height:287px; background:no-repeat url(assets/images/figures/fig3.4.jpg) -1px 0; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.4</span> Using simple guidelines of e-mail etiquette can promote a professional image and make your message more effective.
+							</figcaption></figure>
+					<br/>
+						<div class="itSimContain"
+							onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_mylabs/simulations/2012/IT/communincating_sharing_on_the_web/','_blank')">
+							<div class="itSimContent">
+								<span>IT</span>
+								<span>Simulation: Communicating and Sharing on the Web</span>
+							</div>
+						</div>	
+				<br/>			
+				<p class="start"><strong>Are there different types of e-mail systems?</strong> There are two different types of e-mail systems:</p>
+				<ol>
+						<li><span class="strongDBlue" glossary>Web-based e-mail</span>, such as Yahoo! mail or Gmail, is managed with your web browser and allows you to access your e-mail from the web.
+						<li>An <span class="strongDBlue" glossary>e-mail client</span> requires a program, such as Microsoft Outlook, to be installed on your computer. When you open the program, your e-mail is downloaded to your computer.
+						
+					</ol>			
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="start moreSpacing">The primary difference between the two is access. Web-based e-mail allows you to access e-mail from any Internet-connected device, but you can’t see your e-mail when you’re offline. With an e-mail client, you view your e-mail on the computer on which the e-mail client software has been installed, but you can then view and manage your e-mail while you’re offline. Both systems can be used together for the “best of both worlds.” You can have a Gmail account, for example, so that you can read your e-mail from any computer connected to the Internet, and you can also have Outlook installed on your primary computer and set up the program to display your Gmail account (<span class="strongDBlue" onclick="compTia.togglePopup(9,0)">see Figure 3.5</span>).</p>
+				
+				<figure onclick="compTia.togglePopup(9,0)" style=" height:266px; background:no-repeat url(assets/images/figures/fig3.5.jpg) 0px 0; margin-top: 15px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.5</span> (a) Client-Based and (b) Web-Based E-mail Systems
+							</figcaption></figure>
+					]]>
+			</section>
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading">Instant Messaging</h2>
+				<p><strong>Is instant messaging just for friends?</strong> You’ve most likely used <span class="strongDBlue" glossary>instant messaging (IM)</span> services—programs that let you communicate in real time over the Internet. Although IM is most often used for conversations between friends, many businesses use IM as a means of instant communication between coworkers. Some IM systems provide mechanisms to hold conversations with more than one person, either through simultaneous individual conversations or with group chats. And some programs even let you conduct video chats using a webcam.</p>
+				
+				<a onclick="compTia.togglePopup(9,1)" class="readMore"></a>	
+				
+				<h2 class="blueHeading">Wikis</h2>
+				<p><strong>What are wikis?</strong> You’ve no doubt heard of Wikipedia (<span class="strongDBlue" onclick="window.open('http://wikipedia.org','_blank')">wikipedia.org</span>), the popular collaborative online encyclopedia. Wikipedia is one example of a <span class="strongDBlue" glossary>wiki</span>, a website that allows users to add, remove, or edit its content. Wiki content such as that found on Wikipedia is created collaboratively by multiple users, resulting in an emergent “common” opinion rather than the opinion of an individual writer. Because of wiki technology, Wikipedia’s content can be updated continually.</p>
+				<p class="start"><strong>What else are wikis used for?</strong> Wikis are not just used to create Wikipedia; they’re also useful tools for business collaboration. Rather than needing to pass documents back and forth via e-mail and possibly</p>
+					]]>
+			</section>
+
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="moreSpacing">losing track of which version is the most recent, wikis allow all who have access to the wiki page to post their ideas and modify the content of just one document (<span class="strongDBlue" onclick="compTia.togglePopup(10,1)">see Figure 3.6</span>). Wikis provide the extra benefit of users  being able to access, review, and even revert back to past versions at any time.</p>
+				
+				<a onclick="compTia.togglePopup(10,0)" class="readMore"></a>
+				<br/>
+				<p class="start moreSpacing"><strong>Why isn’t Wikipedia good to use as a source for a research paper?</strong> The idea behind content that is managed and edited by many users, such as that found in Wikipedia and other large public wikis, is that the group will keep the content valid. However, because wikis are publicly editable, they can’t be trusted completely. If a user adds erroneous  content, the community of users can quickly catch and correct it, but if you used Wikipedia as a source, you may have referenced erroneous content before it was corrected. To help address these concerns, Wikipedia has implemented tighter access controls, requiring users who want editing privileges to register with the site. Citizendium (<span class="strongDBlue" onclick="window.open('http://citizendium.org','_blank')">citizendium.org</span>), another open wiki encyclopedia, requires contributors to provide real names and sign an ethics pledge, and all postings are monitored.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(10,1)" style=" height:493px; background:no-repeat url(assets/images/figures/fig3.6.jpg) 0px 0; margin-top: 15px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.6</span> Rather than collaborating by exchanging e-mails and attachments—and potentially losing track of the most recent version of a document—different users can collaborate on a wiki page. <em>Orange Line Media/Shutterstock; Christopher Halloran/Shutterstock; Kzenon/Shutterstock)</em>
+							</figcaption></figure>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Blogs</h2>
+					<p><strong>Why do people write blogs?</strong> A <span class="strongDBlue" glossary="blog (weblog)">blog</span> (short for <span class="strongDBlue" glossary="blog (weblog)">weblog</span>) is a personal log or journal posted on the web. Anyone can create a blog, and there are millions of  blogs available to read, follow, and comment on. Blogs are generally written by a single author and are arranged as a listing of entries on a single page, with the most recent blog entry appearing at the top of the list. In addition, blogs are public. Blogs have searchable and organized content, making them user friendly. They’re accessible from anywhere using a web browser.</p>
+					
+					<a onclick="compTia.togglePopup(11,0)" class="readMore"></a>
+					<br/>
+					<p class="start"><strong>Are there any problems with blogs?</strong> The popularity of blogs has brought about a new problem: <em>spam blogs (splogs)</em>, which are artificially created blog sites filled with fake articles or stolen text (a tactic known as <em>blog scraping</em>). Splogs, which contain links to other sites associated with the splog’s creator, have the intention of either increasing traffic to, or increasing search engine rankings for, these usually disreputable or useless websites. Although not really harmful, splogs are another unwanted form of content that continues to grow like weeds on the web.</p>
+					
+					<div onclick="compTia.togglePopup(11,1)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						What’s Your Pinterest?
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/blogging/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Blogging
+						</div>
+						In this Sound Byte, you’ll see why blogs are one of today’s most popular publishing mediums. You’ll also learn how to create and publish your own blog.
+					</div></div>
+					
+					<h2 class="blueHeading">Podcasts and Webcasts</h2>
+					<p class="moreSpacing"><strong>What is a podcast?</strong> A <span class="strongDBlue" glossary>podcast</span> consists of a series of audio or video files that are distributed over the Internet. There are podcasts for radio shows, audiobooks, magazines, and even educational programs, which you can download to your computer, iPod, or other music player. What makes podcasts different from other audio  files found on the web is that podcasts deliver their content using <span class="strongDBlue" glossary>Really Simple Syndication (RSS)</span>. RSS is a format that sends the latest content of the podcast series automatically to an aggregator  such as iTunes or Google Reader. An <span class="strongDBlue" glossary>aggregator</span> locates all the RSS series to which you’ve subscribed and automatically downloads only the new content to your computer or media player. If you have several favorite websites or podcasts, rather than needing to check each site for updated content, aggregators collect all the site updates in one place. These updates or changes to the content are then delivered automatically if you subscribe to the podcast, instead of you having to search for the latest content and download it yourself. </p>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			
+			<section>
+				<![CDATA[
+					<p class="start lessSpacing"><strong>Where can I find podcasts?</strong>  Most newspapers, television news organizations, and radio sites offer podcasts of their programs. Although many podcasts are news related, others offer entertaining and educational content. For example, you can access lessons on yoga, foreign language classes, or DIY tips. Many schools are beginning to supply students with course content updates through podcasts, and instructors sometimes create podcasts of their lectures. <span class="strongDBlue" onclick="compTia.togglePopup(12,1)">Figure 3.7</span> lists some places you can find podcasts.</p>
+
+					<a onclick="compTia.togglePopup(12,0)" class="readMore TMargin5"></a>
+					
+					<p class="start lessSpacing"><strong>What’s a webcast?</strong> A <span class="strongDBlue" glossary>webcast</span> is the (usually live) broadcast of audio or video content over the Internet. Unlike podcasts, which are prerecorded and made available for download, most webcasts are distributed in “real time,” meaning that they’re live or one-time events. Some webcasts are</p>
+					
+					<div class="smallHeadingOrangeBackDiagDashes tallerOrangeHead TMargin5 leftPadding20">Podcast Directories and Aggregators</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(12,1)" style="background: url('assets/images/figures/fig3.7.jpg') no-repeat scroll 3px 33px #FFFFFF;
+						height: 208px;">
+						
+						<span class="strongDHeading leftPadding6"><strong>Figure 3.7</strong> Click to enlarge the table</span>
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+   				]]>
+			</section>
+			
+			<section>
+				<![CDATA[
+					<p class="lessSpacing">archived so they can be viewed at a later date. Webcasts are not updated automatically like podcasts, but some, such as Microsoft’s On-Demand Webcasts, are RSS feeds.</p>
+					<p class="start lessSpacing">Webcasts use continuous audio and video feeds, which let you view and download large audio and video files. Webcasts can include noninteractive content such as a simultaneous broadcast of a radio or television program, but more recent webcasts invite interactive responses from the viewing or listening audience. For example, ORLive (<span class="strongDBlue" onclick="window.open('http://orlive.com','_blank')">orlive.com</span>) provides surgical webcasts that demonstrate the latest surgical innovations and techniques. Webcasts also are used in the corporate world to broadcast annual meetings and in the educational arena to transmit seminars. </p>
+					
+					<p class="start lessSpacing"><span class="strongDBlue" onclick="compTia.togglePopup(12,2)">Figure 3.8</span> lists the popular methods of online communication that we’ve discussed.</p>
+
+					<div class="smallHeadingOrangeBackDiagDashes tallerOrangeHead TMargin20 leftPadding20">Methods of Online Communication</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(12,2)" style="background: url('assets/images/figures/fig3.8.jpg') no-repeat scroll 16px 34px #FFFFFF;
+						height: 208px;">
+						
+						<span class="strongDHeading leftPadding6"><strong>Figure 3.8</strong> Click to reveal the table</span>
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/webEntertainmentThumbnail.jpg)">
+						<div class="orange">web </div>
+						<div class="blue" style="margin-left: 100px">ENTERTAINMENT</div>
+					</div>
+					
+					<p class="lessSpacing">When you think of how you use the Internet for entertainment purposes, what comes to mind? Streaming audio and video, Internet radio, MP3s, interactive gaming, and smart TV are all favorite responses. What makes all these forms of web entertainment so popular is their multimedia content. <span class="strongDBlue" glossary>Multimedia</span> is anything that involves one ort more forms of media in addition to text. It includes the following:</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Graphics</em> such as drawings, charts, and photos (the most basic form of multimedia).</span></li>
+						<li><span class="innerLi"><em>Audio files</em> such as the clips you hear when you visit websites, MP3 files you download, podcasts and webcasts, and live broadcasts you can listen to through Internet radio.</span></li>
+						<li><span class="innerLi"><em>Video files</em> ranging from simple, short video clips on sites such as YouTube (<span class="strongDBlue" onclick="window.open('http://youtube.com','_blank')">youtube.com</span>) to movies and television shows on sites such as Hulu (<span class="strongDBlue" onclick="window.open('http://hulu.com','_blank')">hulu.com</span>).</span></li>
+					</ul>
+					<p class="start lessSpacing"><strong>What are streaming audio and video?</strong> <span class="strongDBlue" glossary>Streaming audio</span> continuously feeds an audio file to your browser so you avoid having to wait for the entire file to download completely before listening to it. Likewise, <span class="strongDBlue" glossary>streaming video</span> continuously feeds a video file to your browser so that you can watch large files as they download instead of first having to download the files completely. Without streaming audio and video, you</p>
+					]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>wouldn’t be able to watch movies on Netflix or on demand from your cable provider, listen to live audio broadcasting, or even play some online games.</p>
+					<p class="start"><strong>Do I need anything besides a browser to view or hear multimedia on the web?</strong> Most graphics onthe web will appear in your browser without any additional software. However, to view and hear some multimedia files—for example, podcasts, YouTube videos, and audio files—you might need a special software program called a <span class="strongDBlue" glossary="plug-in (player)">plug-in (or player)</span>. <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 3.9</span> lists the most popular plug-ins.</p>
+					<p class="start"><strong>How do I get players and plug-ins?</strong> If you purchased your computer within the past several years, many plug-ins probably came preinstalled on your computer. If a website requires a plug-in you don’t</p>
+					
+					<br/>
+					<div class="smallHeadingOrangeBackDiagDashes boldCond tallerOrangeHead">Popular Plug-Ins and Players and Their Uses</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(13,0)" style="background: url('assets/images/figures/fig3.9.jpg') no-repeat scroll 5px 39px #FFFFFF;
+						height: 125px;">
+						
+						<span class="strongDHeading"><strong style="padding-left:6px">Figure 3.9</strong> Click to reveal the table</span>
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+				
+				<br/>
+				<div onclick="compTia.togglePopup(13,1)" class="bitsAndBytesBlue noTMargin">
+					<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+					Why Can’t I Run Flash-Based Multimedia on My iPad or iPhone?
+				</div>
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>have, it usually  displays a message on the screen that includes links to a site where youcan download the plug-in free of charge. For example, to use streaming video, your browser might send you to the Adobe website, where you can download Flash Player.</p>
+					<a onclick="compTia.togglePopup(14,0)" class="readMore BMargin10"></a>
+					
+					<p class="start"><strong>Is there any way to get multimedia web content to load faster?</strong> When you’re on the Internet, your browser keeps track of the sites you’ve visited so that it can load them faster the next time you visit them. This <em>cache</em> (temporary storage place) of the text pages, images, and video files from recently visited websites can make your web surfing more efficient, but it can also slow down your hard drive. Additionally, if you don’t have your cache settings configured to check for updates to the web page, your browser may not load the most recent content. To keep your system running efficiently, consider doing the following:</p>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Delete your temporary Internet cache every month or so, depending on your usage.</span></li>
+						<li><span class="innerLi">To ensure the most recent website content is displayed, click Refresh or press the F5 key if you revisit a site in the same browsing session.</span></li>
+						<li><span class="innerLi">Clear your Internet cache manually or adjust the setting in your web browser so that it clears the cache automatically every time you exit the browser.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO bgPosition00" style="background-image:url(assets/images/pics/businessOnlineThumbnail.jpg)">
+						<div class="dblue" style="margin-left:57px">conducting business over the internet:</div>
+						<div class="orange" style="margin-left: 200px">E-COMMERCE</div>
+					</div>
+					
+					<p>It’s hard to believe that only a few years ago, many people were scared to buy things online. Today, there is little hesitation, and you can buy nearly anything on the web, including big-ticket items such as homes and cars. <span class="strongDBlue" glossary="e-commerce (electronic commerce)">E-commerce—short for electronic commerce</span>—is the process of conducting business online, such as through advertising and selling products. <span class="strongDBlue" onclick="compTia.togglePopup(15,0)">Figure 3.10</span> shows the most common items purchased through e-commerce transactions.</p>
+					<p class="start"><strong>Are there different types of e-commerce? </strong>  There are three types of e-commerce business models:</p>
+					<ol>
+						<li><span class="strongDBlue" glossary>Business-to-consumer (B2C)</span>  transactions take place between businesses and consumers. Such transactions include those between customers and completely online businesses (such as <span class="strongDBlue" onclick="window.open('http://Amazon.com','_blank')">Amazon.com</span>) and those between customers and stores that have both an online and a physical presence, such as Target (<span class="strongDBlue" onclick="window.open('http://target.com','_blank')">target.com</span>). Such businesses are referred to as <em>click-and-brick</em> businesses. Some click-and-bricks allow online purchases and in-store pickups and returns.
+						<li><span class="strongDBlue" glossary>Business-to-business (B2B)</span> transactions occur when businesses buy and sell goods and services to other businesses. An example is Omaha Paper Company (<span class="strongDBlue" onclick="window.open('http://omahapaper.com','_blank')">omahapaper.com</span>), which distributes paper products to other companies.
+					</ol>
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi"><span class="strongDBlue" glossary>Consumer-to-consumer (C2C)</span> transactions occur when consumers sell to each other through auction sites such as eBay (<span class="strongDBlue" onclick="window.open('http://ebay.com','_blank')">ebay.com</span>) and exchange sites such as Craigslist (<span class="strongDBlue" onclick="window.open('http://craigslist.org','_blank')">craigslist.org</span>).
+					</ol>	
+					
+					<figure onclick="compTia.togglePopup(15,0)"
+					style="height:365px;
+						   background:url(assets/images/figures/fig3.10.jpg) no-repeat 0px 0 transparent;
+						   margin-top: 40px;">
+
+						<figcaption
+							class="bottomPos ">
+   				<span>Figure 3.10</span> Top Five Online Consumer Purchases <em>(urfin/Shutterstock; RusN/iStockphoto)</em></figcaption></figure>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<p class="start"><span class="strongDBlue" glossary>Social commerce</span> is a subset of e-commerce that uses social networks to assist in marketing and purchasing products. If you’re on Facebook, you’ve no doubt noticed the many businesses that have Facebook pages asking you to “Like” them. Consumers are voicing their opinionson Facebook and other sites about products and services by providing ratings and reviews, and studies show that such peer recommendations have a major influence on buying behavior. When you see your friend on Facebook recommend a product or service, you’re more likely to click through to that retailer and check out the product.</p>
+				
+				<a onclick="compTia.togglePopup(15,1)" class="readMore"></a>
+				
+				<br/>
+				<h2 class="blueHeading noTMargin">E-commerce Safeguards</h2>
+				<p><strong>Just how safe are online transactions?</strong> When you buy something online, you most likely use a credit or debit card; therefore, money is exchanged  directly between your credit card company and the online merchant’s bank. Because online shopping eliminates a salesclerk or other human intermediary from the transaction, it can actually be safer than traditional retail shopping.</p>
+				
+				<div class="activeHelpdeskContain">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_05.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Doing Busisness Online
+						</div>
+						In this Active Helpdesk call, you’ll learn about e-commerce and what e-commerce safeguards protect you when you’re doing business online.
+					</div></div>
+				
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What precautions should I take when shopping online?</strong> In addition to using some basic common computing sense such as having a firewall and up-to-date antivirus software on your computer and using strong passwords for all your online accounts, there are several important guidelines to follow to ensure your online shopping experience is a safe one (<span class="strongDBlue" onclick="compTia.togglePopup(16,0)">see Figure 3.11</span>):</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Look for visual indicators that the website is secure.</strong> Check that the beginning of the URL changes from “http://” to “https://” — with the s standing for <span class="strongDBlue" glossary>secure socket layer</span>. Also, look for a small icon of a closed padlock in the toolbar (in both Internet Explorer and Firefox) and a green-colored address bar, indications that the site may be secure. (However, note that even if a site has these indicators, it still might not be safe. Consider the validity of the sitebefore making a purchase.)</span></li>
+						<li><span class="innerLi"><strong>Shop at well-known, reputable sites.</strong> If you aren’t familiar with a site, investigate it with the Better Business Bureau (<span class="strongDBlue" onclick="window.open('http://bbb.org','_blank')">bbb.org</span>) or at bizrate (<span class="strongDBlue" onclick="window.open('http://bizrate.com','_blank')">bizrate.com</span>). Make sure the company has a phone number and street address in addition to a website. You can also look for third-party verification such as that from TRUSTe or the Better Business Bureau. But let common sense prevail. Online deals that seem too good to be true are generally just that—and may be pirated or illegal distributions.</span></li>
+					</ul>
+				]]>
+			</section>
+	<section>
+				<![CDATA[
+				<div class="HeadingOrangeBackDiagDashes boldCond">Online Shopping Precautions</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(16,0)" style="background: url('assets/images/figures/fig3.11.jpg') no-repeat scroll 5px 39px #FFFFFF;
+						height: 264px;">
+						
+						<span class="strongDHeading"><strong style="padding-left:6px">Figure 3.11</strong> Click to enlarge the table</span>
+						
+						<figcaption>
+   					</figcaption></figure>
+   				</div>
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<ul class="dotted">
+					<li><span class="innerLi"><strong>Pay by credit card, not debit card.</strong> Federal laws protect credit card users, but debit card users don’t have the same level of protection. If possible, reserve one credit card for Internet purchases only; even better, use a prepaid credit card that has a small credit limit. For an extra layer of security, find out if your credit card company has a service that confirms your identity with an extra password or code that only you know to use when making an online transaction or that offers a one-time-use credit card number. Also, consider using a third-party payment processor such as PayPal or Google Wallet. PayPal also offers a security key that provides additional security to your PayPal account.</span></li>
+					<li><span class="innerLi"><strong>When you place an order, check the return policy, save a copy of the order, and make sure you receive a confirmation number.</strong> Make sure you read and understand the fine print on warranties, return policies, and the retailer’s privacy statements. If the site disappears overnight, this information may help you in filing a dispute or reporting a problem to a site such as the Better Business Bureau.</span></li>
+					<li><span class="innerLi"><strong>Avoid making online transactions when using public computers.</strong> Public computers may have <em>spyware</em> installed, programs that track and log your keystrokes and can retrieve your private information. Similarly, unless you have specific protection on your own notebook computer, avoid making wireless transactions in public hotspots.</span></li>
+				</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">Whether you’re doing business, playing games, or communicating with friends or colleagues, the Internet makes these activities more accessible. The Internet can potentially make these experiences and activities more enriched as well, although you must take precautions for the safest of experiences.</p>
+					
+					<br/>
+					<div onclick="compTia.togglePopup(17,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Making Safe Online Payments Using PayPal and Google Wallet
+					</div>
+					
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_3_Part_1/Ch3Pt1.html','_blank')">Replay Video 3.1</span>.</span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(9)">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+	
+		</page>
+		
+		<!--quiz-->
+		
+		<page index="18" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Which of the following would be the hardest for you to live without?</div>
+					<ol class="pollQuestions">
+						<li>Social networking services</li>
+						<li>E-mail</li>
+						<li>IM</li>
+						<li>Blogs</li>
+						<li>Podcasts/webcasts</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+<page index="19" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(10)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+
+<!--part 3-->
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Using the Web Effectively</div>
+					<p class="digCompP">You no doubt know how to use the web—to buy products, send e-mail, visit Facebook, and use Google—but do you know how to use it effectively? In this section, we’ll look at ways to make your online experience more enjoyable, more productive, and even more efficient.</p>
+					
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/httpThumbnail.jpg)">
+						<div class="orange">accessing and moving</div>
+						<div class="blue" style="margin-left: 155px;">AROUND THE WEB</div>
+					</div>
+					
+					<p class="moreSpacing">None of the activities for which we use the web could happen without an important software application: a web browser. Recall that a browser is software that lets you locate, view, and navigate the web. Most browsers today are <em>graphical</em> browsers, meaning they can display pictures (graphics) in addition to text and other forms of multimedia such as sound and video. The most common browsers are displayed in <span class="strongDBlue" onclick="compTia.togglePopup(20,0)">Figure 3.13</span>.</p>
+					
+					<h2 class="blueHeading">Web Browsers</h2>
+					<p class="moreSpacing"><strong>What features do browsers offer?</strong> Most popular browsers share similar features that make the user experience more efficient (as shown in <span class="strongDBlue" onclick="compTia.togglePopup(20,1)">Figure 3.14</span>). For example, most browsers include a built-in search box in which you can designate your preferred default search engine and tools for printing, page formatting, and security settings.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(20,0)" style="height: 246px; background:no-repeat url(assets/images/figures/fig3.13.jpg) 70px 0 transparent; margin-top: 5px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.13 </span> Common Web Browsers <em>(Pablo Fonseca Q./ La Nacion de Costa Rica/Newscom; Lucia Lanpur/Alamy; Tommy (Louth)/ Alamy; 2020WEB/Alamy)</em>
+   					</figcaption></figure>
+					
+				<figure onclick="compTia.togglePopup(20,1)" style="height: 270px; background:no-repeat url(assets/images/figures/fig3.14.jpg) 0px 0 transparent; margin-top: 5px;">	
+					<figcaption class="bottomPos" style="margin-left: 63px; width: 305px;">
+								<span>Figure 3.14 </span> Like most of the popular web browsers, Internet Explorer includes tabbed and privacy browsing. Pinned tabs on the taskbar make accessing your favorite sites even easier. 
+   					</figcaption>
+						<div class="playIcon" style="margin-top: 220px; margin-left: 0px;"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_3_14.html','_blank')"></div></figure>
+					
+					]]>
+			</section>
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>Other features include the following:</p>
+						<ul class="dotted">
+							<li><span class="innerLi"><em>Tabbed browsing</em>: Web pages are loaded in “tabs” within the same browser window. Rather than having to switch among web pages in several open windows, you can flip between the tabs in one window. You may also save a group of tabs as a Favorites group if there are several tabs you often open at the same time.</span></li>
+						</ul>
+						
+					<a onclick="compTia.togglePopup(21,0)" class="readMore TMargin5"></a>
+				<br/>		
+					
+					<h2 class="blueHeading">URLs, Protocols, and Domain Names </h2>
+					<p><strong>What do all the parts of a URL mean?</strong> You gain initial access to a particular website  by typing its unique address, or <span class="strongDBlue" glossary="Uniform Resource Locator (URL)">Uniform Resource Locator (URL</span>, pronounced “you-are-ell”), in your browser. A website is
+composed of many different web pages, each of which is a separate document with its own unique URL. Like  a regular street address, a URL is composed of several parts that help identify the web document it stands for (<span class="strongDBlue" onclick="compTia.togglePopup(21,2)">see Figure 3.15</span>):</p>
+						<ul class="dotted">
+							<li><span class="innerLi">the <em>protocol</em> (set of rules) used to retrieve the document;</span></li>
+							<li><span class="innerLi">the <span class="strongDBlue" glossary>domain name</span>;  and</span></li>
+							<li><span class="innerLi">the <em>path</em> or subdirectory</span></li>
+						</ul>	
+					<div onclick="compTia.togglePopup(21,1)" class="bitsAndBytesBlue">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Why You Should Keep Your Browser Software up to Date
+					</div>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(21,2)" style="height: 188px; background:no-repeat url(assets/images/figures/fig3.15.jpg) 40px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.15 </span> The Parts of a URL
+   					</figcaption></figure>
+				<br/>	
+					<p class="start">Although every part of a URL is important information that ensures the web page you requested actually displays in your browser, you don’t have to type in every part in the location or address bar of the browser. Most current browsers no longer require you to enter the protocol or the “www,” and most don’t even require the domain if it’s a .com—the browser will enter those in automatically.</p>
+					<p class="start"><strong>What’s the protocol?</strong> You’re probably most familiar with URLs that begin with http, which is short for <span class="strongDBlue" glossary="Hypertext Transfer Protocol (HTTP)">Hypertext Transfer Protocol</span> (<span class="strongDBlue" glossary="Hypertext Transfer Protocol (HTTP)">HTTP</span>). HTTP is the protocol that allows files to be transferred from a <span class="strongDBlue" glossary>web server</span>—a computer that hosts the website you’re requesting—so that you can see it on your computer. The HTTP protocol is what the web is based on.</p>
+					<p class="start"><strong>Is HTTP the only protocol I need to use?</strong> HTTP is the most common protocol, but it’s not the only one. HTTP is part of the Internet protocol suite, a group of protocols that govern how information is exchanged on a network. Another protocol in that group is the</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p><span class="strongDBlue" glossary="file transfer protocol (ftp)">File Transfer Protocol</span> (<span class="strongDBlue" glossary="file transfer protocol (ftp)">FTP</span>). As its name implies, FTP was originally designed, before the HTTP protocol was developed, to transfer files from your computer to a web server. Today, FTP is often used when you have large files to upload or download. To connect to most FTP servers, you need a user ID and password. To upload and download files from FTP sites, you can use a browser or file transfer software such as WS_FTP, Fetch, or FileZilla.</p>
+					<p class="start">BitTorrent, like FTP, is a protocol used to transfer files, though it’s not part of the Internet protocol suite. To use BitTorrent, you install a software client program. It uses a <em>peer-to-peer networking system</em>,  so that sharing occurs  between connected computers that also have the BitTorrent client installed. BitTorrent was developed in 2001 and has been gaining popularity, especially among users who want to share music, movies, and games. Use caution, however, when accessing BitTorrent content. Because it is a peer-to-peer system, it’s possible for copyrighted material to be shared illegally.</p>
+					<p class="start"><strong>What’s in a domain name?</strong> The domain name identifies the site’s <span class="strongDBlue" glossary>host</span>, the location that maintains the computers that store the website files. For example, <span class="strongDBlue" onclick="window.open('http://www.berkeley.edu','_blank')">www.berkeley.edu</span> is the domain name for the University of California at Berkeley. The suffix in the domain name after the dot (such as “com” or “edu”) is called the <span class="strongDBlue" glossary>top-level domain</span>. This suffix indicates the kind of organization to which the host belongs. <span class="strongDBlue"  onclick="compTia.togglePopup(22,0)">Figure 3.16</span> lists the most frequently used top-level domains.</p>
+					<p class="start">Each country has its own top-level domain. These are two-letter designations such as .za for South Africa and .us for the United States. </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>A sampling of country codes is shown in <span class="strongDBlue"  onclick="compTia.togglePopup(23,0)">Figure 3.17</span>. Within a country-specific domain, further subdivisions can be made for regions or states. For instance, the .us domain contains subdomains for each state, using the two-letter abbreviation of the state. For example, the URL for Pennsylvania’s website is <span class="strongDBlue" onclick="window.open('http://www.state.pa.us','_blank')">www.state.pa.us</span>.</p>
+					<p class="start"><strong>What’s the information after the domain name that I sometimes see?</strong> When the URL is only the domain name, such as <span class="strongDBlue" onclick="window.open('http://www.nytimes.com','_blank')">www.nytimes.com</span>, you’re requesting a site’s home page. However, sometimes a forward slash and additional text follow the domain name, such as in <span class="strongDBlue" onclick="window.open('http://www.nytimes.com/pages/crosswords','_blank')">www.nytimes.com/pages/crosswords</span>. The information after each slash indicates a particular file or <span class="strongDBlue" glossary="path (subdirectory)">path</span> (or <span class="strongDBlue" glossary="path (subdirectory)">subdirectory</span>) within the website. In <span class="strongDBlue"  onclick="compTia.togglePopup(21,2)">Figure 3.15</span>, you would connect to the crossword page on the <em>New York Times</em> site.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes boldCond font_16 tallerOrangeHead leftPadding10">Common Top-Level Domains and Their Authorized Users</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(22,0)" style="background: url('assets/images/figures/fig3.16.jpg') no-repeat scroll 7px 39px #FFFFFF;
+						height: 215px;">
+						<span class="strongDHeading"><strong class="leftPadding6">Figure 3.16</strong> Click to enlarge the table</span>
+						
+						<figcaption>
+   					</figcaption></figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes boldCond">Examples of Country Codes</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(23,0)" style="background: url('assets/images/figures/fig3.17.jpg') no-repeat scroll 1px 36px #FFFFFF;
+						height: 209px;">
+						
+						<span class="strongDHeading"><strong class="leftPadding6">Figure 3.17</strong> Click to enlarge the table</span>
+						
+						<figcaption>
+   					</figcaption></figure></div>
+					
+					<h2 class="blueHeading">Hyperlinks and Beyond</h2>
+					<p><strong>What’s the best way to get around in a website?</strong> As its name implies, the web is a series of interconnected paths, or links. You’ve no doubt moved around the web by clicking on <span class="strongDBlue" glossary="hyperlink">hyperlinks</span>, specially coded elements that let you jump from one web page to another within the same website or to another site altogether (<span class="strongDBlue"  onclick="compTia.togglePopup(23,1)">see Figure 3.18</span>). Generally, text that operates as a hyperlink appears in a different color (often blue) and is usually underlined, but sometimes images also act as hyperlinks. When you hover your cursor over a hyperlink, the cursor changes to a hand with a finger pointing upward.</p>
+					<p class="start lessSpacing"><strong>What other tools can I use to navigate a website?</strong> To move back or forward one page at a time, you can use the browser’s Back and Forward buttons (<span class="strongDBlue"  onclick="compTia.togglePopup(23,1)">see Figure 3.18</span>).</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">To help navigate more quickly through a website, some sites  provide a <span class="strongDBlue" glossary>breadcrumb trail</span>&mdash;a navigation aid that shows users the path they have taken to get to a web page, or where the page is located within the website. It usually appears at the top of a page. <span class="strongDBlue"  onclick="compTia.togglePopup(23,1)">Figure 3.18</span> shows an example of a breadcrumb trail. “Breadcrumbs” get their name from the fairy tale “Hansel and Gretel,” in which the characters drop breadcrumbs on the trail to find their way out of a forest. By clicking on earlier links in a breadcrumb trail, you can go directly to a previously visited web page without having to use the Back button to navigate back through the website.</p>
+					<p class="start">The History list on your browser’s toolbar is also a handy feature. The History list shows all the websites and pages you’ve visited over a certain period of time. These sites are organized according to date and can go back </p>
+				<br/>	
+					<figure onclick="compTia.togglePopup(23,1)" style="height: 243px; background:no-repeat url(assets/images/figures/fig3.18.jpg) 40px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.18 </span> Navigating a Web Page
+   					</figcaption></figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>as far as three weeks, depending on your browsing activity. To access the History list in Internet Explorer, click the star in the upper right hand corner of the browser window and then click the History tab.</p>
+				<br/>	
+					<h2 class="blueHeading">Favorites, Live Bookmarks, and Tagging</h2>
+					<p><strong>What’s the best way to mark a site so I can return to it later?</strong>  If you want an easy way to return to a specific web page, you can use your browser’s <span class="strongDBlue" glossary>Bookmarks</span> feature (Internet Explorer calls this feature <span class="strongDBlue" glossary>Favorites</span>). This feature places a marker of the site’s URL in an easily retrievable list in your browser’s toolbar. To organize the sites into categories, most browsers offer tools to create folders.</p>
+					<p class="start">Favorites and Bookmarks are great for quickly locating those sites you use most, but they’re accessible to you only when you’re on your own computer. Although most browsers provide features that let you export the list of bookmarks to a file you can import to another computer or another browser, another way to access your Bookmarks and Favorites from any computer is to use MyBookmarks (<span class="strongDBlue" onclick="window.open('http://mybookmarks.com','_blank')">mybookmarks.com</span>), a free Internet service that stores your Bookmarks and Favorites online.</p>
+				<br/>	
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/welcome_to_the_web/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Welcome to the Web
+						</div>
+						In this Sound Byte, you’ll visit the web in a series of guided tours of useful websites. This tour serves as an introductory guide for web newcomers but is also a great resource for more experienced users.
+					</div></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>What are live bookmarks?</strong> <span class="strongDBlue" glossary="social bookmarking (tagging)">Live bookmark</span> is a feature in Firefox that adds the technology of RSS feeds to bookmarking. Safari and Internet Explorer also have built-in RSS readers, while Chrome requires that you add on an extension. Because the web is constantly changing, the site you bookmarked last week may subsequently change and add new content. Traditionally, you would notice the change only the next time you visited the site. Live bookmarks deliver content updates to you as soon as they become available using RSS, the same technology that updates blogs and podcasts that we described earlier in the chapter. Live bookmarks and RSS feeds are useful if you’re interested in the most up-to-date news stories, sports scores, or stock prices.</p>
+					<p class="start"><strong>What is tagging?</strong> <span class="strongDBlue" glossary>Tagging</span>, also known as <span class="strongDBlue" glossary>social bookmarking</span>, is like bookmarking your favorite website, but instead of saving it to your browser for only you to see, you’re saving it to a social bookmarking site so that you can share it with others. A social bookmark or tag is a <span class="strongDBlue" glossary>keyword</span> or term that you assign to a web page, digital image, or video. A tag can be something you create to describe the digital content, or it can be a suggested term provided by the website. For example, as you were surfing the web you came across a web page with a great article on inexpensive places to go for spring break. You might tag the article with the term <em>vacations</em>. Others on the same social bookmarking site who are looking for websites about vacations may use <em>vacations</em> as the search term and find the article you tagged.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					
+					<p class="start lessSpacing">Delicious (<span class="strongDBlue" onclick="window.open('http://delicious.com','_blank')">delicious.com</span>) is one of the original social bookmarking sites (<span class="strongDBlue" onclick="compTia.togglePopup(25,1)">see Figure 3.19</span>). Delicious lets you group related links and organize them into themed “stacks.” So if you’ve collected several links to websites about different places to go to over spring break, you can collect all those links into one stack about vacations. Or if you want to see what links others may have found about interesting vacations, you could search Delicious with the term <em>vacations</em> to see other vacation-related stacks.</p>
+					<a onclick="compTia.togglePopup(25,0)" class="readMore TMargin5"></a>
+					
+					<figure onclick="compTia.togglePopup(25,1)" style="height: 220px; background:no-repeat url(assets/images/figures/fig3.19.jpg) 25px 0 transparent; margin-top: 10px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.19 </span> Delicious is a social bookmarking website that allows you to organize and share your favorite websites.
+   					</figcaption></figure>
+					
+					<div class="greenHorzButton" onclick="compTia.togglePopup(25,2)">
+					<span class="largeBoldWhite">DIG DEEPER</span>
+					<strong>Discovering the Semantic Web</strong>
+				</div>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd BMargin15"></div>
+
+					<div class="fancyHeadingBO bgPosition00"
+						 style="background-image:url(assets/images/pics/searchingWebThumbnail.jpg)">
+						<div class="dblue" style="margin-left: 58px;">searching the web</div>
+						<div class="orange" style="margin-left: 174px;">EFFECTIVELY</div>
+					</div>
+					
+					<p>You’ve most likely “Googled” something today, and if you did, your search is one of over eight billion searches today. Google is the world’s most popular <span class="strongDBlue" glossary>search engine</span>—a set of programs that searches the web for <span class="strongDBlue" glossary="keyword">keywords</span> (specific words you wish to look for or <em>query</em>) and then returns a list of the sites on which those keywords are found. In fact, Google has become so popular that its name is synonymous with looking for information on the web. Other popular search engines include Yahoo!, Bing, and Ask.com. But there are even more options for searching the web.</p>
+					<p class="start">For some web searches, it might be better to use a <span class="strongDBlue" glossary>subject directory</span>, which is a structured outline of websites organized by topics and subtopics. By drilling down through the topics and subtopics, you can narrow down to a list of meaningful websites to look through. For example, if you wanted to know about exhibits of 3-D photography, you might click Arts>Visual Arts>Photography> 3-D> Exhibits in a subject directory.  In Yahoo’s subject directory (<span class="strongDBlue" onclick="window.open('http://dir.yahoo.com','_blank')">dir.yahoo.com</span>), the result would be list of relevant websites about 3-D photography exhibits. The website ipl2 (<span class="strongDBlue" onclick="window.open('http://ipl2.org','_blank')">ipl2.org</span>) is a subject directory that combines resources from the Internet Public Library and the Librarians’ Internet Index websites (<span class="strongDBlue" onclick="compTia.togglePopup(26,0)">see Figure 3.22</span>).</p>
+
+					<img onclick="compTia.togglePopup(25,3)" src="assets/images/layout/trendsinitSilver.jpg" class="TMargin10" />
+				]]>
+			</section>
+		</page>
+		
+	<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<figure onclick="compTia.togglePopup(26,0)" style="height: 520px; background:no-repeat url(assets/images/figures/fig3.22.jpg) 50px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.22 </span> ipl2 and Dogpile are alternatives to Google. ipl2 (<span class="strongDBlue" onclick="window.open('http://ipl2.org','_blank')">ipl2.org</span>) is a subject directory that lists resources by subject, and Dogpile (<span class="strongDBlue" onclick="window.open('http://dogpile.com','_blank')">dogpile.com</span>) is a metasearch engine that searches Google, Yahoo!, and Bing.
+   					</figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">If you can’t decide which search engine is best, you may want to try a metasearch engine. <span class="strongDBlue" glossary="metasearch engine">Metasearch  engines</span>, such as Dogpile (<span class="strongDBlue" onclick="window.open('http://dogpile.com','_blank')">dogpile.com</span>; <span class="strongDBlue" onclick="compTia.togglePopup(26,0)">see Figure 3.22</span>), search other search engines rather than individual websites. <span class="strongDBlue" onclick="compTia.togglePopup(27,0)">Figure 3.23</span>  lists search engines and subject directories that are alternatives to Google, Yahoo!, and Bing.</p>
+				<br/>	
+					<h2 class="blueHeading">Using Search Engines Effectively</h2>
+					<p class="moreSpacing"><strong>How do search engines work?</strong> Search engines have three components:</p>
+					
+					<ol>
+						<li>The first component is a program called a <em>spider</em>, which constantly collects data on the web, following links in websites and reading web pages. Spiders get their name because they crawl over the web using multiple “legs” to visit many sites simultaneously.</li>
+						<li>As the spider collects data, the second component of the search engine, an <em>indexer program</em>, organizes the data into a large database.</li>
+						<li>When you use a <em>search engine</em>, you interact with the third component: the <em>search engine software</em>. This software searches the indexed data, pulling out relevant information according to your search.</li>
+					</ol>
+					
+					<p class="start moreSpacing">The resulting list appears in your web browser as a list of hits— sites that match your search.</p>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="doubleLineheadingOrangeDiagDashed">Beyond Google: Alternative Search Engines <br/>and Subject Directories
+					</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(27,0)" style="background: url('assets/images/figures/fig3.23.jpg') no-repeat scroll 6px 36px #FFFFFF;
+						height: 250px;">
+						
+						<span class="strongDHeading"><strong style="padding-left:6px">Figure 3.23</strong> Click to enlarge the table</span>
+						
+						<figcaption>
+   					</figcaption></figure></div>
+					
+					<p class="start"><strong>Why don’t I get the same results from all search engines? </strong>Each search engine uses a unique formula, or <em>algorithm</em>, to formulate the search and create the resulting index of related sites. In addition, search engines differ in how they rank the search results. Most search engines rank their results based on the frequency of the appearance of your queried keywords in websites as well as the location of those words in the sites. This means that sites that include the keywords in their URL or site name most likely appear at the top of the hit list. An important part of a company’s marketing strategy is designing the corporate website to ensure it appears near the top of a Google search.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">Search engines also differ as to which sites they search. For instance, Google and Bing search nearly the entire web, whereas specialty search engines search only sites that are relevant to a particular topic or industry. Specialty search engines exist for almost every industry or interest. DailyStocks (<span class="strongDBlue" onclick="window.open('http://dailystocks.com','_blank')">dailystocks.com</span>) is a search engine used primarily by investors that searches for corporate information. Search Engine Watch (<span class="strongDBlue" onclick="window.open('http://searchenginewatch.com','_blank')">searchenginewatch.com</span>) has a list of many specialty search engines, organized by industry.</p>
+					<p class="start"><strong>Can I use a search engine to search just for images and videos?</strong> With the increasing popularity of multimedia, search engines such as Google, Bing, and Yahoo! let you search the web for digital images and audio and video files. After putting in your search term, select Video from Google’s left menu to display only the search results that are videos. You can further narrow down the video selection by using the filtering tools. Blinkx (<span class="strongDBlue" onclick="window.open('http://blinkx.com','_blank')">blinkx.com</span>) is a video search engine that helps you sift through all the video posted on the web (<span class="strongDBlue" onclick="compTia.togglePopup(28,0)">see Figure 3.24</span>).</p>
+				<br/>	
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_07.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Using Subject Directories and Search Engines
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about how to search the Internet using search engines and subject directories, as well as how to use advanced search options to search the web more effectively.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(28,0)" style="height: 280px; background:no-repeat url(assets/images/figures/fig3.24.jpg) 0px 0 transparent;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.24 </span> Blinkx is a video search engine that helps you sift through the increasing number of videos on the web. <em>(blinkx)</em>
+   					</figcaption></figure>
+				<br/>	
+					<p class="start lessSpacing"><strong>How can I refine my searches for better results?</strong> You’ve probably searched for something on Google and gotten back a list of hits that includes thousands—even millions—of web pages that have no relevance to the topic you’re interested in. Initially, <span class="strongDBlue" glossary="Boolean operator">Boolean operators</span> were needed to help refine a search. Boolean operators are words such as <em>AND, NOT,</em> and <em>OR</em> that describe the relationships between keywords in a search. Today, most search engines offer an advanced search page that provides the same types of strategies in a well-organized form (<span class="strongDBlue" onclick="compTia.togglePopup(28,1)">see Figure 3.25</span>). Using the advanced search form can make your Internet research a lot more efficient. With the simple addition of a few words or constraints, you can narrow your </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="lessSpacing">search results to a more manageable and more meaningful list.</p>
+					<p class="start lessSpacing"><strong>Are there other helpful search strategies?</strong> Instead of using the advanced search form, you can use other strategies to help refine your searches when entering your search phrases:</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Search for a phrase.</strong>  To search for an exact phrase, place quotation marks around your keywords. The search engine will look for only those websites that contain the words in <em>that exact order</em>. For example, if you want information on the movie <em>The Green Hornet</em> and you type these words without quotation marks, your search results will contain pages that </span></li>
+					</ul>	
+					
+					<figure onclick="compTia.togglePopup(28,1)" style="height: 245px; background:no-repeat url(assets/images/figures/fig3.25.png) 5px 0 transparent; margin-bottom: 10px; margin-top: 5px;">
+							
+							<figcaption class="bottomPos">
+								<span>Figure 3.25 </span> Most search engines, including Google, have an advanced search form to help you refine your searches.
+   					</figcaption></figure>
+					
+					<div onclick="compTia.togglePopup(28,2)" class="bitsAndBytesBlue noTMargin">
+					<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+					Searching to Do Good
+				</div>
+				]]>
+			</section>
+		</page>
+		
+<!--part 4-->
+		
+		<page index="29" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain">
+					<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_06.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Getting Around the Web
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about web browsers, URLs, and how to use hyperlinks and other tools to get around the web.
+					</div></div>
+					
+					<p>include either of the words Green and Hornet, although not necessarily in that order. Typing '<em>The Green Hornet</em>” in quotation marks guarantees that search results will include this exact phrase.</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Search within a specific website.</strong> To search just a specific website, you can use the search keyword, then site: followed by the website’s URL. For example, searching with <em>processor site</em>: <span class="strongDBlue" onclick="window.open('http://www.wired.com','_blank')">www.wired.com</span> returns results about processors from the Wired.com website. The same method works for entire classes of sites in a given top-level domain or country code.</span></li>
+					</ul>
+					
+					<figure onclick="compTia.togglePopup(29,0)"
+						style="background:url(assets/images/figures/fig3.26.jpg) no-repeat 0px 0;
+							    height: 174px; margin-left: -3px;">
+						<figcaption
+							class="bottomPos">
+   				<span>Figure 3.26</span> Google’s Specialized Search Tools</figcaption></figure>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<ul class="dotted">
+						<li><span class="innerLi"><strong>Use a wild card.</strong> The asterisk (“*”) is a wild card, or placeholder, feature that is helpful when you need to search with unknown terms. Another way to think about the wild card search feature is as a “fill in the blank.” For example, searching with <em>Congress voted* on the * bill</em> might bring up an article about the members of Congress who voted <em>no</em> on the <em>healthcare</em> bill or a different article about the members of Congress who voted yes on the <em>energy</em> bill.</span></li>
+					</ul>
+				<p class="start"><strong>How else can I customize my searches?</strong>  Many other specialty search strategies and services are available. Try clicking on the “More” hyperlink in Google’s menu at the top of Google’s website, then click the “Even More” option for a listing of all the specialized search products Google offers, including the following (<span class="strongDBlue" onclick="compTia.togglePopup(29,0)">see Figure 3.26</span>):</p>	
+					
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Scholar</em> searches scholarly literature such as peer-reviewed papers, theses, and publications from academic organizations. Each search result contains bibliographic information, as well.</span></li>
+					</ul>
+					
+				<a onclick="compTia.togglePopup(29,1)" class="readMore"></a>
+				
+				<br/><br/>
+				
+				<div class="itSimContain"
+					 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_mylabs/simulations/2012/IT/file_management/','_blank')">
+					<div class="itSimContent">
+						<span>IT</span>
+						<span>Simulation - File Management</span>
+					</div>
+				</div>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+
+					<div class="soundByteContain">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/finding_information_on_the_web/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Finding Information on the Web
+						</div>
+						In this Sound Byte, you’ll learn how and when to use search engines and subject directories. Through guided tours, you’ll learn effective search techniques, including how to use Boolean operators and metasearch engines.
+					</div></div>
+					<h2 class="blueHeading">Evaluating Websites</h2>
+					
+					<p><strong>How can I make sure a website is appropriate to use for research? </strong>When you’re using the Internet for research, you shouldn’t assume that everything you find is accurate and appropriate to use. The following is a list of questions to consider before you use an Internet resource; the answers to these questions will help you decide whether you should consider a website to be a good source of information:</p>
+					
+					<ul class="dotted">
+						<li><span class="innerLi"><em class="strong">Authority</em>: Who is the author of the article or the sponsor of the site? If the author is well known or the site is published by a reputable news source (such as the <em>New York Times</em>), then you can feel more confident using it as a source than if you are unable to locate such information. <em>Note</em>: Some sites include a page with information about the author or the site’s sponsor.</span></li>
+						<li><span class="innerLi"><em class="strong">Bias</em>: Is the site biased? The purpose of many websites is to sell products or services or to persuade rather than inform. These sites, though useful in some situations, present a biased point of view. Look for sites that offer several sets of facts or consider opinions from several sources.</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="orangeHorzButton BMargin5" onclick="compTia.togglePopup(30,0)">
+						<span class="largeBoldWhite">ethics</span>
+						<span class="medBoldGrey">in IT</span>
+						<strong class="normalFont" style="margin-top: -9px;">Plagiarism and Copyright Violation: <br/>What Can You Borrow from the Internet?</strong>
+					</div>
+					
+					<ul class="dotted">
+						<li><span class="innerLi"><em class="strong">Relevance</em>: Is the information on the site current? Material can last a long time on the web. Some research projects (such as historical accounts) depend on older records. However, if you’re writing about cutting-edge technologies, you need to look for the most recent sources. Therefore, look for a date on information to make sure it is current.</span></li>
+						<li><span class="innerLi"><em class="strong">Audience</em>: For what audience is the site intended? Ensure that the content, tone, and style of the site match your needs. You probably wouldn’t want to use information from a site geared toward teens if you’re writing for adults, nor would you use a site that has a casual style and tone for serious research.</span></li>
+						<li><span class="innerLi"><em class="strong">Links</em>: Are the links available and appropriate? Check out the links provided on the site to determine whether they’re still working and appropriate for your needs. Don’t assume that the links provided are the only additional sources of information. Investigate other sites on your topic, as well. You should also be able to find the same information on at least three different websites to help verify the information is accurate.</span></li>
+					</ul>
+					
+
+				
+				<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_3_Part_2/Ch3Pt2.html','_blank')">Replay Video 3.2</span></span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(11)">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+
+				]]>
+			</section>
+		</page>	
+		
+		<page index="31" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Which web browser do you use most often?</div>
+					<ol class="pollQuestions">
+						<li>Internet Explorer</li>
+						<li>Firefox</li>
+						<li>Google Chrome</li>
+						<li>Safari</li>
+						<li>Other</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<h1><span class="chapter">3</span> Chapter Review</h1>
+			<div class="largerTitle">summary//</div>
+
+				<img src="assets/images/pics/worldConnectionM.jpg" class="floatPositioned"/>
+				<h2>The Internet and How It Works</h2>
+				<span class="prePseudoLi preContent1 strong">What is the origin of the <br/>Internet?</span>
+
+
+			<ul class="dotted TMargin5 clearLeft">
+				<li><span class="innerLi">The Internet is the largest computer network in the world, connecting millions of computers.</span></li>
+				<li><span class="innerLi">Government and military officials developed the early Internet as a reliable way to communicate in the event of war. Eventually, scientists and educators used the Internet to exchange research.</span></li>
+				<li><span class="innerLi">Today, we use the Internet and the web (which is a part of the Internet) to shop, research, communicate, and entertain ourselves.</span></li>
+			</ul>
+
+					<h4 class="TMargin10">2. How does data travel on the Internet?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">A computer (or other device) connected to the Internet acts as either a client (a computer that asks for information) or a server (a computer that receives the request and returns the information to the client).</span></li>
+						<li><span class="innerLi">Data travels between clients and servers along a system of communication lines or pathways. The largest and fastest of these pathways is the Internet backbone.</span></li>
+					</ul>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<ul class="dotted">
+						<li><span class="innerLi">To ensure that data is sent to the correct computer along the pathways, IP addresses (unique ID numbers) are assigned to all computers connected to the Internet.</span></li>
+					</ul>
+					<br/>
+
+				<img src="assets/images/pics/colorIMM.jpg" class="floatPositioned TMargin4" />
+				<h2 style="margin:0 0 4px">Communicating and Collaborating on the Web</h2>
+				<span class="prePseudoLi strong preContent3">How can I communicate and collaborate with others using Web 2.0 technologies?</span>
+					<br/>
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">Web 2.0 can be described as the social web, in which the user is also a participant. Before Web 2.0 technologies were in place, we were only able to be passive users of the web.</span></li>
+						<li><span class="innerLi">Examples of Web 2.0 technologies include social networking sites, blogs, wikis, podcasts, and webcasts. Social networking sites enable you to communicate and share information with friends as well as meet and connect with others.</span></li>
+						<li><span class="innerLi">Blogs are journal entries posted to the web that are generally organized by a topic or area of interest and are publicly available. Generally, one person writes the blog, and others can comment on the journal entries.</span></li>
+						<li><span class="innerLi">Video logs are personal journals that use video as the primary content in addition to text, images, and audio.</span></li>
+						<li><span class="innerLi">Wikis are a type of website that allows users to collaborate on content—adding, removing, or editing it.</span></li>
+						<li><span class="innerLi">Podcasts are audio or video content that is available over the Internet. Users subscribe to receive updates to podcasts.</span></li>
+					</ul>
+				
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="chapterReview">
+		<section>
+			<![CDATA[
+				<ul class="dotted clearLeft">
+					<li><span class="innerLi">Webcasts are broadcasts of audio or video content over the Internet. Most webcasts are distributed in “real time,” unlike podcasts that are usually prerecorded and made available for download.</span></li>
+				</ul>
+				
+			<br/>	
+				<span class="prePseudoLi strong preContent4">How can I communicate with others using e-mail and instant messaging?</span>
+				<ul class="dotted clearLeft">
+					<li><span class="innerLi">Communication was one of the reasons the Internet was developed and is one of the primary uses of the Internet today.</span></li>
+					<li><span class="innerLi">E-mail allows users to communicate electronically without the parties involved being available at the same time, whereas instant-messaging services are programs that enable you to communicate in real time with others who are online.</span></li>
+				</ul>
+		<br/>	
+			<img src="assets/images/pics/webEntertainmentM.jpg" class="floatPositioned TMargin4" />
+				<h2 style="margin:0 0 4px">Web Entertainment</h2>
+				<span class="prePseudoLi strong preContent5">What multimedia files are found on the web, and what software is needed to access those files?</span>
+					<br/>
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">Multimedia is anything that involves one or more forms of media in addition to text, such as graphics, audio, and video clips.</span></li>
+						<li><span class="innerLi">Sometimes you need a special software program called a <em>plug-in</em> (<em>or player</em>) to view and hear multimedia files. Plug-ins are often installed in new computers or are offered free of charge at manufacturers’ websites.</span></li>
+					</ul>
+			]]>
+		</section>
+		<section>
+			<![CDATA[
+				
+				<img src="assets/images/pics/blueOnlineM.jpg" class="floatPositioned TMargin4" />
+				<h2 style="margin:0 0 4px">Conducting Business over the Internet: E-Commerce</h2>
+				<span class="prePseudoLi strong preContent6">What is e-commerce, and what online safeguards are available?</span>
+					<br/>
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">E-commerce is the business of conducting business online.</span></li>
+						<li><span class="innerLi">E-commerce includes transactions between businesses (B2B), between consumers (C2C), and between businesses and consumers (B2C).</span></li>
+						<li><span class="innerLi">Because more business than ever before is conducted online, numerous safeguards have been put in place to ensure that transactions are protected. Some important safeguards to keep in mind include looking for indicators that the website is secure, shopping at well-known, reputable sites, and avoiding making online transactions on public computers.</span></li>
+					</ul>
+					
+				<br/>	
+					<img src="assets/images/pics/httpM.jpg" class="floatPositioned TMargin4" />
+				<h2 style="margin:0 0 4px">Accessing and Moving Around the Web</h2>
+				<span class="prePseudoLi strong preContent7">What is a web browser, and what are a URL and its parts?</span>
+					<br/>
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">Once you’re connected to the Internet, in order to locate, navigate to, and view web pages, you need to install special software called a web browser on your system.</span></li>
+						<li><span class="innerLi">The most common web browsers are Internet Explorer, Firefox, Google Chrome, and Safari.</span></li>
+					</ul>
+			]]>
+		</section>	
+	
+		</page>
+		
+		<page index="34" type="ColumnColumn" distinction="chapterReview">
+		<section>
+			<![CDATA[
+				<ul class="dotted clearLeft">
+						<li><span class="innerLi"> You gain access to a website by typing in its address, called a Uniform Resource Locator (URL).</span></li>
+						<li><span class="innerLi">A URL is composed of several parts, including the protocol, the domain, the top-level domain, and paths (or subdirectories).</span></li>
+					</ul>
+				
+				<h4>8. How can I use hyperlinks and other tools to get around the web?</h4>
+				<ul class="dotted clearLeft">
+					<li><span class="innerLi">One unique aspect of the web is that you can jump from place to place by clicking on specially formatted pieces of text or images called <em>hyperlinks</em>.</span></li>
+					<li><span class="innerLi">You can also use the Back and Forward buttons, History lists, breadcrumb trails, and Favorites or Bookmarks to navigate the web.</span></li>
+					<li><span class="innerLi">Favorites, live bookmarks, and social bookmarking help you return to specific web pages without having to type in the URL and help you organize the web content that is most important to you.</span></li>
+				</ul>
+				
+				<br/>	
+					<img src="assets/images/pics/searchingWebM.jpg" class="floatPositioned TMargin4" />
+				<h2 style="margin:0 0 4px">Searching the Web Effectively</h2>
+				<span class="prePseudoLi strong preContent9">How do I search the Internet effectively, and how can I evaluate websites?</span>
+					<br/>
+					<ul class="dotted clearLeft">
+						<li><span class="innerLi">A search engine is a set of programs that searches the web using specific keywords you wish to query and then returns a list of the websites on which those keywords are found.</span></li>
+						<li><span class="innerLi">Search engines can be used to search for images, podcasts, and videos in addition to traditional text-based web content.</span></li>
+					</ul>	
+			]]>
+		</section>
+		<section>
+			<![CDATA[
+			<ul class="dotted clearLeft">
+						<li><span class="innerLi">A subject directory is a structured outline of websites organized by topic and subtopic. Metasearch engines search other search engines.</span></li>
+						<li><span class="innerLi">Not all websites are equal, and some are better sources for research than others. To evaluate whether it is appropriate to use a website as a resource, determine whether the author of the site is reputable and whether the site is intended for your particular needs. In addition, make sure that the site content is not biased, the information on the site is current, and all the links on the site are available and appropriate. If multiple sites offer the same content, this is another indication that the information is accurate.</span></li>
+					</ul>
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+						<br/>
+						<img src="assets/images/layout/techTouchS3b.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+						
+
+			]]>
+		</section>	
+	
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 3 glossary//</div>
+					
+					<span class="strongDBlue" glossary>aggregator</span> 88<br/>
+					<span class="strongDBlue" glossary>blog (weblog)</span> 88<br/>
+					<span class="strongDBlue" glossary>Bookmarks</span> 101<br/>
+					<span class="strongDBlue" glossary>Boolean operator</span> 105<br/>
+					<span class="strongDBlue" glossary>breadcrumb trail</span> 100<br/>
+					<span class="strongDBlue" glossary>business-to-business (B2B)</span> 91<br/>
+					<span class="strongDBlue" glossary>business-to-consumer (B2C)</span> 91<br/>
+					<span class="strongDBlue" glossary>client</span> 82<br/>
+					<span class="strongDBlue" glossary>client/server network</span> 82<br/>
+					<span class="strongDBlue" glossary>consumer-to-consumer (C2C)</span> 92<br/>
+					<span class="strongDBlue" glossary>domain name</span> 98<br/>
+					<span class="strongDBlue" glossary>e-commerce (electronic commerce)</span> 91<br/>
+					<span class="strongDBlue" glossary>e-mail (electronic mail)</span> 84<br/>
+					<span class="strongDBlue" glossary>e-mail client</span> 85<br/>
+					<span class="strongDBlue" glossary>Favorites</span> 101<br/>
+					<span class="strongDBlue" glossary>File Transfer Protocol (FTP)</span> 99<br/>
+					<span class="strongDBlue" glossary>host</span> 99<br/>
+					<span class="strongDBlue" glossary>hyperlink</span> 100<br/>
+					<span class="strongDBlue" glossary>Hypertext Transfer Protocol (HTTP)</span> 98<br/>
+					<span class="strongDBlue" glossary>instant messaging (IM)</span> 86<br/>
+					<span class="strongDBlue" glossary>Internet</span> 80<br/>
+					<span class="strongDBlue" glossary>Internet backbone</span> 82<br/>
+					<span class="strongDBlue" glossary>Internet Protocol (IP) address</span> 82<br/>
+					<span class="strongDBlue" glossary>keyword</span> 101<br/>
+					<span class="strongDBlue" glossary>live bookmark</span> 101<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>metasearch engine</span> 103<br/>
+				<span class="strongDBlue" glossary>multimedia</span> 90<br/>
+				<span class="strongDBlue" glossary>path (subdirectory)</span> 99<br/>
+				<span class="strongDBlue" glossary>plug-in (player)</span> 90<br/>
+				<span class="strongDBlue" glossary>podcast</span> 88<br/>
+				<span class="strongDBlue" glossary>Really Simple Syndication (RSS)</span> 88<br/>
+				<span class="strongDBlue" glossary>search engine</span> 102<br/>
+				<span class="strongDBlue" glossary>secure socket layer</span> 93<br/>
+				<span class="strongDBlue" glossary>semantic web (Web 3.0)</span> 102<br/>
+				<span class="strongDBlue" glossary>server</span> 82<br/>
+				<span class="strongDBlue" glossary>social bookmarking (tagging)</span> 101<br/>
+				<span class="strongDBlue" glossary>social commerce</span> 92<br/>
+				<span class="strongDBlue" glossary>social networking</span> 83<br/>
+				<span class="strongDBlue" glossary>streaming audio</span> 90<br/>
+				<span class="strongDBlue" glossary>streaming video</span> 90<br/>
+				<span class="strongDBlue" glossary>subject directory</span> 102<br/>
+				<span class="strongDBlue" glossary>top-level domain</span> 99<br/>
+				<span class="strongDBlue" glossary>Uniform Resource Locator (URL)</span> 98<br/>
+				<span class="strongDBlue" glossary>video log (vlog or video blog)</span> 88<br/>
+				<span class="strongDBlue" glossary>Web 2.0</span> 83<br/>
+				<span class="strongDBlue" glossary>web-based e-mail</span> 85<br/>
+				<span class="strongDBlue" glossary>web browser (browser)</span> 81<br/>
+				<span class="strongDBlue" glossary>webcast</span> 89<br/>
+				<span class="strongDBlue" glossary>web server</span> 98<br/>
+				<span class="strongDBlue" glossary>website</span>82 <br/>
+				<span class="strongDBlue" glossary>wiki</span> 86<br/>
+				<span class="strongDBlue" glossary>World Wide Web (WWW or the web)</span> 81<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">making the transition to...next semester//</div>
+			<ol>
+				<li><span class="innerLi">Plagiarism Policies</span><br/><span class="innerLi notStrong">Does your school have a plagiarism policy?</span></li>
+					<ol>
+						<li><span class="notStrong">Search your school’s website to find the school’s plagiarism policy. What does it say?</span></li>
+						<li><span class="notStrong">How well do you paraphrase? Find some websites that help test or evaluate your paraphrasing skills.</span></li>
+						<li><span class="notStrong">Create an account at WriteCheck. This website checks your written work against content on the web and produces an originality report. Submit at least three different drafts of your work to WriteCheck to check for any intended or unintended cases of plagiarism before submitting your final work for a grade. What were the results?</span></li>
+					</ol>
+				<li><span class="innerLi">Searching Beyond Google</span><br/><span class="innerLi notStrong">While Google is probably your first choice among search engines, there are many other very good search engines that are worth knowing about. Conduct searches for inexpensive travel deals for spring break by using the search engines in the following list. Record your results and a summary of the differences among search engines. Would you choose to use any of these search engines again? Why or why not?</span></li>
+					<ol>
+					<li><span class="notStrong">Yippy.com</span></li>
+					<li><span class="notStrong">Dogpile.com</span></li>
+					<li><span class="notStrong">Chacha.com</span></li>
+				</ol>
+			
+			</ol>
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			<div class="title">making the transition to...the workplace//</div>
+			<ol>
+				<li><span class="innerLi">Online Résumé Resources</span><br/><span class="innerLi notStrong">Using a search engine, locate several web resources that offer assistance in writing a résumé. For example, the University of Minnesota (<span class="strongDBlue innerLi" onclick="window.open('http://umn.edu/ohr/careerdev/resources/resume','_blank')">umn.edu/ohr/careerdev/resources/resume</span>) has a résumé tutor that guides you as you write your résumé.</span></li>
+				<ol>
+					<li><span class="notStrong">What other websites can you find that help you write a résumé?</span></li>
+					<li><span class="notStrong">Do these sites all offer the same services and have the same features?</span></li>	
+				</ol>
+				<li><span class="innerLi">Evaluating Web 2.0 Content</span><br/><span class="innerLi notStrong">You are aware of the guidelines you should use to evaluate the quality of content on a website, but you find yourself using other kinds of web content such as blogs, wikis, social networking sites, and social bookmarks. Visit <span class="strongDBlue innerLi" onclick="window.open('http://library.albany.edu/usered/eval/evalweb','_blank')">library.albany.edu/usered/eval/evalweb</span> and review the new guidelines for evaluating web content in the Web 2.0 environment. After reviewing the guidelines, describe the guidelines for evaluating web content at the following sites:</span></li>
+					<ol>
+						<li><span class="notStrong">Free research sites such as Google Scholar (<span class="strongDBlue" onclick="window.open('http://scholar.google.com','_blank')">scholar.google.com</span>)</span></li>
+						<li><span class="notStrong">Document repositories such as California Digital Library (<span class="strongDBlue" onclick="window.open('http://cdlib.org','_blank')">cdlib.org</span>)</span></li>
+						<li><span class="notStrong">Blogs and wikis such as TechCrunch (<span class="strongDBlue" onclick="window.open('http://techcrunch.com','_blank')">techcrunch.com</span>)</span></li>
+						<li><span class="notStrong">Social networking sites such as Twitter (<span class="strongDBlue" onclick="window.open('http://twitter.com','_blank')">twitter.com</span>)</span></li>
+						<li><span class="notStrong">Social bookmarking sites such as Delicious (<span class="strongDBlue" onclick="window.open('http://delicious.com','_blank')">delicious.com</span>)</span></li>
+						<li><span class="notStrong">Multimedia sites such as YouTube (<span class="strongDBlue" onclick="window.open('http://youtube.com','_blank')">youtube.com</span>)</span></li>
+					</ol>	
+			</ol>
+		]]>
+	</section>
+</page>
+
+<page index="37" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+		
+			<ol>
+				<span class="prePseudoLi strong preContent3">Facebook Privacy and Security<span class="notStrong">Your aunt contacted you last night. Your cousin, who is 14, wants a Facebook account. Your aunt has heard lots of stories of how difficult it is to protect your privacy on Facebook, and she wants your advice. Research the privacy and security settings on Facebook and create a “User’s Guide” for your aunt to work through with your cousin. Make sure you include information on how to remove your cousin from Facebook search results, make contact information private, keep friendships private, adjust Wall posting visibility, set up photo album privacy, and customize photo tagging, and explain what personal information should and should not be included on your cousin’s profile.</span>
+			</ol>	
+				
+			<div class="title">
+				team time //
+			</div>
+			<h3>Comparing Internet Search Methods</h3>
+			<h4>Problem</h4>
+			<p>With millions of sites on the Internet, finding useful information can be a daunting—and, at times, an impossible—task. However, there are methods to make searching easier, some of which have been discussed in this chapter. In this Team Time, each team will search for specific items or pieces of information on the Internet and compare search methodologies.</p>
+			<h4>Process</h4>
+			<p>Split your group into three or more teams, depending on class size. Each group will create a team wiki using free wiki software such as that</p>
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+		
+			<p>found at <span class="strongDBlue" onclick="window.open('http://pbworks.com','_blank')">pbworks.com</span>. To appreciate fully the benefits of wiki collaboration, each team should have at least five or six members.</p>
+			
+			<ol>
+				<li><span class="notStrong">Each team should come up with a theme for its wiki. Suggestions include the following:</span></li>
+				
+					<span class="psudoUlLi notStrong">Best computer technology websites</span>
+					<span class="psudoUlLi notStrong">Coolest new technology gadgets</span>
+					<span class="psudoUlLi notStrong">All-time greatest musicians</span>
+					<span class="psudoUlLi notStrong">All-time greatest athletes</span>
+					<span class="psudoUlLi notStrong">Best places to visit in the United States</span>
+					<span class="psudoUlLi notStrong">Best beaches in the United States</span>
+					<span class="psudoUlLi notStrong">Best skiing areas around the world</span>
+					
+				<li><span class="notStrong">Each student should pick one example to research and then design a wiki page highlighting that subject. For example, if the team chose all-time greatest musicians, one student could select Bruce Springsteen and create a wiki page on Bruce Springsteen. The wiki page should contain links to other websites and, if possible, images and videos.</span></li>
+				<li><span class="notStrong">After the team wikis are created, teams should make their wikis available to the other teams for comments.</span></li>
+			</ol>
+			
+			<h4>Conclusion</h4>
+			<p>After all the team wikis have been completed and shared, discuss the following with your class: What is the benefit of using wiki technology to create team pages? How did wikis help or hinder the team process? What other conclusions can the class draw about using wiki technology?</p>
+		]]>
+	</section>
+</page>	
+
+<page index="38" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">ethics project//</div>
+			<h4>Plagiarism</h4>
+			<p>In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play may or may not match your own personal beliefs, but your research and use of logic will enable you to represent whichever view is assigned. An arbitrator will watch and comment on both sides of the arguments, and together the team will agree on an ethical solution.</p>
+			<br/>
+			<h4>Problem</h4>
+			<p>Plagiarism, or portraying another’s work as your own, has been around for a long time and extends well beyond the classroom. For example, Nick Simmons, the son of Gene Simmons (from KISS) and a member of A&E’s <em>Family Jewels</em> reality series, created a comic book series, <em>Incarnate</em>. Radical Publishing picked up the series but quickly stopped publication when Internet messages accused the author of copying from other similar series. Similarly, the Australian band Men at Work was cited for copying a melody from “Kookaburra Sits in the Old Gum Tree” for its 1980s hit “Down Under” and owes the owner years of royalties.</p>
+			<br/>
+			<h4>Research Areas to Consider</h4>
+			<span class="psudoUlLi">Plagiarism violations</span>
+			<span class="psudoUlLi">Comic book series <em>Incarnate</em></span>
+			<span class="psudoUlLi">Australian band Men at Work</span>
+			<span class="psudoUlLi">Plagiarism consequences</span>
+			
+		
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+		<div class="ColShiftSpacer"></div>
+			<h4>Process</h4>
+			<ol>				
+				<li><span class="notStrong">Divide the class into teams.</span></li>
+				<li><span class="notStrong">Research the areas cited above and devise a scenario in which someone has violated plagiarism rules.</span></li>
+				<li><span class="notStrong">Team members should write a summary that provides background information for their character—for example, author, publisher, or arbitrator—and that details their character’s behaviors to set the stage for the role-playing event. Then, team members should create an outline to use during the role-playing event.</span></li>
+				<li><span class="notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+				<li><span class="notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+			</ol>
+			<h4>Conclusion</h4>
+			<p>As technology becomes ever more prevalent and integrated into our lives, more and more ethical dilemmas will present themselves. Being able to understand and evaluate both sides of an argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+		]]>
+	</section>
+</page>	
+
+		<page index="39" type="full" distinction="chapterStartB" >
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top: 32px;">
+						
+						The History of the Personal Computer</div>	
+					<div class="chapterStartNumberFocus">Technology <br/>in Focus</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="40" type="ColumnColumn" distinction="tocB">
+			<section>
+				<![CDATA[
+					
+					<h2 class="semibold">Technology in Focus: <br/>The History of the Personal Computer</h2>
+					<hr>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" style="display:inline;">The First Personal Computer: </span>
+					<span>The Altair  (<span class="strongDBlue" onclick="compTia.switchPage(0,41)">pp. 118-119</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" style="display:inline;">The Apple I and II </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,42)">p. 119</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" style="display:inline;">Enter the Competition </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,43)">p. 120</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" style="display:inline;">Other Important Advancements </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,43)">p. 120-122</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" style="display:inline;">The Graphical User Interface </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,45)">pp. 122-124</span>)</span>
+					</div>
+					
+					<div class="BMargin15">
+					<span class="orangeHeading" style="display:inline;">The Internet Boom </span>
+					<span>(<span class="strongDBlue" onclick="compTia.switchPage(0,47)">p. 124</span>)</span>
+					</div>
+					
+					<div>
+					<span class="orangeHeading">Making the Personal Computer Possible: </span>
+					<span>Early Computers (<span class="strongDBlue" onclick="compTia.switchPage(0,47)">pp. 124-129</span>)</span>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<img src="assets/images/figures/3B.jpg">
+					
+					<div class="loader"></div>
+					
+				]]>
+			</section>
+		</page>
+
+	<page index="41" type="ColumnColumn" distinction="">
+			<section>
+			<!--heading has green and blue background behing it, with white text.-->
+				<![CDATA[
+				
+				<div class="BMargin10 strong font_23 font_fff">
+
+					<div class="floatRight height100"
+						 style="padding:12px 21px; 
+								width:208px;
+								background-color:#009ecb">
+						The History of the Personal Computer</div>
+					<div class="height100"
+						 style="padding:12px 21px; 
+						 		width:122px;
+								background-color:#8dc63f;">Technology in Focus</div>
+					
+				</div>
+				<p>Ever wonder how big the first personal computer was or how much the first laptop weighed? Computers are such an integral part of our lives that we don’t often stop to think about how far they’ve come or where they got their start. In just 40 years, computers have evolved from expensive, huge machines that only corporations could own to small, powerful devices that almost anyone can have. In this Technology in Focus feature, we look at the history of the personal computer. <span class="strongDBlue" onclick="compTia.togglePopup(41,0)">Figure 1</span> presents a timeline of early personal computer development.</p>
+				<br/>
+				<span class="orangeHeading normalFontFamily strong">The First Personal Computer: The Altair</span>
+				<p>Our journey through the history of the personal computer starts in 1975. At that time, most people weren’t familiar with the mainframes and supercomputers that large corporations and the government owned. With price tags exceeding the cost of buildings, and with few if any practical home uses, these monster machines weren’t appealing to or attainable by average Americans.</p>
+				<p class="start" >However, in 1975, the first personal computer, the <span class="strongDBlue" glossary>Altair 8800</span> (<span class="strongDBlue" onclick="compTia.togglePopup(41,1)">see Figure 1.1</span>), was born. At $395 for a do-it-yourself kit or $498 for a fully assembled unit (about $2,100 in today’s dollars), the price was reasonable enough that computer fanatics could finally own their own computers.</p>
+				<div class="loader"></div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes leftPadding10 cond">Timeline of Early Personal Computer Development</div>
+					<div class="orangeWrap">
+						
+						<figure onclick="compTia.togglePopup(41,0)" style="
+							width:400px;
+							height:495px;
+							background: url(assets/images/figures/fig1.jpg) #fff no-repeat 0px 28px">
+							<span class="strongDHeading font_15" style="margin:6px 0 0 7px"><strong>Figure 1</strong>  Click to reveal active graphic</span>
+							<figcaption>
+	   					</figcaption></figure>
+   					</div>
+
+				]]>
+			</section>
+		</page>
+		
+		<page index="42" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">The Altair was primitive by today’s standards—no keyboard,no monitor, and completely not user friendly. Despite its limitations, computer enthusiasts flocked to the machine. Many who bought it had been taught to program, but until that point, they had access only to big, clumsy computers at their jobs. With the Altair, they could create their own programs. Within three months, 4,000 orders were placed for the machine.</p>
+					<p class="start">The release of the Altair marked the start of the personal computer boom. In fact, two men whose names you might have heard were among the first Altair owners: Bill Gates and Paul Allen were so enamored by the “minicomputer” that they wrote a compiling program (a program that translates user commands into commands the computer can understand) for it. The two later convinced the Altair’s developer to buy their program, marking the start of a company called Microsoft. We’ll get to that story later. First, let’s see what their rivals were up to.</p>
+					<br/>
+					<span class="orangeHeading normalFontFamily strong">The Apple I and II</span>
+					<p>Around the time the Altair was released, <span class="strongDBlue" glossary>Steve Wozniak</span>, an employee at Hewlett-Packard, was dabbling with his own computer design. <span class="strongDBlue"  glossary>Steve Jobs</span>, who was working for computer game manufacturer Atari at the time, liked Wozniak’s prototypes and made a few suggestions. Together, the two built a personal computer, the <span class="strongDBlue" glossary>Apple I</span>, in Wozniak’s garage (<span class="strongDBlue" onclick="compTia.togglePopup(42,0)">see Figure 1.2</span>) and formed the Apple Computer Company in 1976.</p>
+				]]>
+			</section>
+			
+			<section>
+			<!--new side box set up. Light blue box with a image icon on the right. -->
+				<![CDATA[
+				<div class="lightBlueBoxContain">
+					<div class="lightBlueBoxContent">
+						<img src="assets/images/pics/appleGrey.jpg" style="float:right" />
+						<h2 class="notStrong noTMargin noBMargin" style="color:#000">Why Is It Called "Apple"?</h2>
+						<p>Steve Jobs wanted Apple Computer to be the “perfect” computer company. Having recently worked at an apple orchard, Jobs thought of the apple as the perfect fruit because it was high in nutrients, came in a nice package, and was not easily damaged. Thus, he and Wozniak decided to name their computer company Apple.</p>
+						<em class="font_9 font_grey">(Prisma Bildagentur AG/Alamy)</em>
+					</div>
+				</div>
+				<p class="start TMargin15">A year later, in 1977, the <span class="strongDBlue" glossary>Apple II</span> was born (<span class="strongDBlue" onclick="compTia.togglePopup(42,1)">see Figure 1.3</span>). The Apple II included a color monitor, sound, and game paddles. Priced around $1,300 (about $4,900 in today’s dollars), one of its biggest innovations was that the operating system was stored in read-only memory (ROM). Previously, the operating system had to be rewritten every time the computer was turned on. The friendly features of the Apple II operating system encouraged less technically oriented computer enthusiasts to write their own programs.</p>
+				<p class="start">An instant success, the Apple II would eventually include a spreadsheet program, a word processor, and desktop publishing software. These programs gave personal computers, like the Apple, functions beyond gaming and special programming and led to their popularity.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="43" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<span class="orangeHeading normalFontFamily strong">Enter the Competition</span>
+					<p class="lessSpacing">Around the time Apple was experiencing success with its computers, a number of competitors entered the market. The largest among them were Commodore, Radio Shack, Osborne, and IBM. The <span class="strongDBlue" glossary>Commodore PET</span> (<span class="strongDBlue" onclick="compTia.togglePopup(43,0)">see Figure 1.4</span>) was aimed at the business market and did well in Europe, while Radio Shack’s <span class="strongDBlue" glossary>TRS-80</span> (<span class="strongDBlue" onclick="compTia.togglePopup(43,1)">see Figure 1.5</span>) was clearly aimed at the U.S. consumer market. Just one month after its release in 1977, it had sold about 10,000 units.</p>
+					<h2 class="blueHeading">The Osborne: The Birth of Portable Computing</h2>
+					<p class="lessSpacing">The Osborne Company introduced the first portable computer, the <span class="strongDBlue" glossary>Osborne</span>, in 1981 (<span class="strongDBlue" onclick="compTia.togglePopup(43,2)">see Figure 1.6</span>). Although portable, the $1,795 (about $4,500 in today’s dollars) computer weighed 24.5 pounds and featured a miniscule 5-inch screen. The Osborne was an overnight success, and its sales quickly reached 10,000 units per month. However, despite the Osborne’s popularity, the Osborne Company eventually closed. Compaq bought the Osborne design and in 1983 produced its own portable computer.</p>
+					<h2 class="blueHeading">IBM PCs</h2>
+					<p class="lessSpacing">By 1980, IBM primarily made mainframe computers, which it sold to large corporations, and hadn’t taken the personal computer seriously. In 1981, however, IBM released its first personal computer, the <span class="strongDBlue" glossary>IBM PC</span> (<span class="strongDBlue" onclick="compTia.togglePopup(43,3)">see Figure 1.7</span>). Because many companies were familiar with IBM mainframes, they </p>
+				]]>
+			</section>
+			
+			<section>
+			
+				<![CDATA[
+				<p class="lessSpacing">adopted the IBM PC. The term <em>PC</em> soon became the term used to describe all personal computers.</p>
+				<p class="start lessSpacing">IBM marketed its PC through retail outlets such as Sears to reach the home market, and it quickly dominated the market. In January 1983, <em>Time </em>magazine, playing on its annual person of the year issue, named the computer “1982 Machine of the Year.”</p>
+				<br/>
+				<span class="orangeHeading normalFontFamily strong">Other Important Advancements</span>
+				<p class="lessSpacing">It wasn’t just the hardware of the personal computer that was developing. At the same time, advances in programming languages and operating systems and the influx of application software were leading to more useful and powerful machines.</p>
+				<h2 class="blueHeading">The Importance of BASIC</h2>
+				<p start="lessSpacing">The software industry began in the 1950s with programming languages such as FORTRAN, ALGOL, and COBOL. These languages were used mainly by businesses to create financial, statistical, and engineering programs. However, the 1964 introduction of <span class="strongDBlue" glossary>Beginners All-Purpose Symbolic Instruction Code (BASIC)</span> revolutionized the software industry. BASIC was a language that beginning programming students could easily learn. It thus became enormously popular—and the key language of the PC. In fact, <span class="strongDBlue" glossary>Bill Gates</span> and <span class="strongDBlue" glossary>Paul Allen</span> (<span class="strongDBlue" onclick="compTia.togglePopup(44,0)">see Figure 2</span>) used BASIC to write their program for the Altair. As we noted earlier, this program led to the creation of <span class="strongDBlue" glossary>Microsoft</span>, a company that produced computer software.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="44" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(44,0)"
+						style="background:url(assets/images/figures/fig2.jpg) no-repeat 62px 0;
+							    height: 311px;
+								margin-top: 0px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 2</span> Bill Gates and Paul Allen are the founders of Microsoft. <em>(Doug Wilson/CORBIS)</em></figcaption></figure>
+					<h2 class="blueHeading">The Advent of Operating Systems</h2>
+					<p>Because data on the earliest personal computers was stored on audio cassettes, many programs weren’t saved or reused. This meant that programs had to be rewritten whenever they were needed. In 1978, Steve Wozniak designed a 5.25-inch floppy disk drive so that programs could be saved easily and operating systems developed.</p>
+					<p class="start">Operating systems are written to coordinate with the specific processor chip that controls the computer. At that time, Apples ran on a Motorola chip, whereas PCs (IBMs and so on) ran on an Intel chip.</p>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p><span class="strongDBlue"  glossary>Disk Operating System (DOS)</span>, developed by Wozniak and introduced in 1977, was the OS that controlled the first Apple computers. The <span class="strongDBlue" glossary>Control Program for Microcomputers (CP/M)</span>, developed by Gary Kildall, was the OS designed for the Intel 8080 chip (the processor for PCs).</p>
+					<p class="start">In 1980, when IBM was entering the personal computer market, it approached Bill Gates at Microsoft to write an OS program for the IBM PC. Gates recommended that IBM investigate the CP/M OS, but IBM couldn’t arrange a meeting with the founder, Gary Kildall. Microsoft reconsidered the opportunity and developed <span class="strongDBlue" glossary>MS-DOS</span> for IBM computers. Eventually, virtually all PCs running on the Intel chip used MS-DOS as their OS. Microsoft’s reign as one of the dominant players in the personal computer landscape had begun.</p>
+					<br/>
+					<h2 class="blueHeading">The Software Application Explosion: <br/>VisiCalc and Beyond</h2>
+					<p>Because the floppy disk was a convenient way to distribute software, its inclusion in personal computers set off an application software explosion. In 1978, Harvard Business School student Dan Bricklin recognized the potential for a personal computer spreadsheet program. He and his friend Bob Frankston (<span class="strongDBlue" onclick="compTia.togglePopup(45,0)">see Figure 3</span>) created the program <span class="strongDBlue" glossary>VisiCalc</span>, which became an instant success. Finally, ordinary home users could see how owning a personal computer could benefit them. More than 100,000 copies of VisiCalc were sold in its first year.</p>
+					
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="45" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(45,0)"
+						style="background:url(assets/images/figures/fig3.jpg) no-repeat 62px 0;
+							    height: 238px;
+								margin-top: 0px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 3</span> Bob Frankston and Dan Bricklin created VisiCalc, the first business application developed for the personal computer. <em>(© www.jimraycroft.com 1982/Daniel Bricklin http://www.bricklin.com/pressinfo.htm)</em></figcaption></figure>
+					
+					<p class="start">After VisiCalc, other electronic spreadsheet programs entered the market. <span class="strongDBlue" glossary>Lotus 1-2-3</span> came on the market in 1983, and <span class="strongDBlue" glossary>Microsoft Excel</span> entered the scene in 1985. These products became so popular that they eventually put VisiCalc out of business.</p>
+					<p class="start">Meanwhile, word processing software was gaining a foothold in the industry. Until then, there were separate, dedicated word processing machines; personal computers, it was believed, were for computation and data management only. However, once <span class="strongDBlue" glossary>WordStar</span>, the first word processing application, became available for personal computers in 1979, word processing became another important use for the personal computer. Competitors such as <span class="strongDBlue" glossary>Word for MS-DOS</span> (the precursor to Microsoft Word) and <span class="strongDBlue" glossary>WordPerfect</span> soon entered the market. <span class="strongDBlue" onclick="compTia.togglePopup(45,1)">Figure 4</span> lists some of the important dates in application software development.</p>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="smallHeadingOrangeBackDiagDashes cond leftPadding15">Application Software Development</div>
+					<div class="orangeWrap">
+					<figure onclick="compTia.togglePopup(45,1)"
+						style="
+							background: url(assets/images/figures/fig4.jpg) no-repeat scroll center 32px #FFFFFF;
+							height: 162px;
+							overflow: hidden;">
+						<span class="strongDHeading strong font_15 TMargin5"><strong>Figure 4</strong> Click to enlarge the table</span> 
+						</figure>
+   				</div>
+				<br/>
+					<span class="orangeHeading normalFontFamily strong">The Graphical User Interface</span>
+				
+					<p>Another important advancement in personal computers was the introduction of the <span class="strongDBlue" glossary >graphical user interface (GUI)</span>, which allowed users to interact with the computer more easily. Until that time, users had to use complicated command- or menu-driven interfaces to interact with the computer. Apple was the first company to take full commercial advantage of the GUI, but the GUI was not invented by a computer company.</p>
+					
+					<h2 class="blueHeading">Xerox: Birth of the GUI</h2>
+					<p>In 1972, a few years before Apple launched its first personal computer, photocopier manufacturer <span class="strongDBlue" glossary >Xerox</span> was designing a personal computer of its own. Named the <span class="strongDBlue" glossary>Alto</span> (<span class="strongDBlue" onclick="compTia.togglePopup(46,0)">Figure 5</span>), the computer included a word processor, based on the What You See Is What You Get (WYSIWYG) principle, that incorporated a file management system with directories and folders. It also had a mouse and could connect to a network. None of the other personal</p>
+					
+				]]>
+			</section>
+	
+		</page>
+		
+		<page index="46" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p class="lessSpacing">computers of the time had these features. For a variety of reasons, Xerox never sold the Alto commercially. Several years later, it developed the Star Office System, which was based on the Alto. Despite its convenient features, the Star never became popular because no one was willing to pay the $17,000 asking price.</p>
+					<br/>
+					<figure onclick="compTia.togglePopup(46,0)" >
+						<img src="assets/images/figures/fig5.jpg">
+							<figcaption class="rightPos topPos" style="width: 264px;">
+							
+   				<span>Figure 5</span> The Alto was the first computer to use a GUI, and it provided the basis for the GUI that Apple used. However, because of marketing problems, the Alto never was sold. <em> (Josie Lepe/MCT/Newscom)</em></figcaption></figure>
+				<figure onclick="compTia.togglePopup(46,1)" style="height:210px;margin-top: 10px;">
+					<img src="assets/images/figures/fig6.png">
+					<figcaption class="bottomPos">
+   				<span>Figure 6</span> The Lisa was the first computer to introduce a GUI to the market. Priced too high, it never gained the popularity it deserved. <em>(SSPL/The Image Works)</em></figcaption></figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">The Lisa and the Macintosh</h2>
+					<p class="lessSpacing">Xerox’s ideas were ahead of their time, but many of the ideas of the Alto and Star would soon catch on. In 1983, Apple introduced the <span class="strongDBlue" glossary>Lisa</span>, the first successful personal computer brought to market that used a GUI (<span class="strongDBlue" onclick="compTia.togglePopup(46,1)">Figure 6</span>). Legend has it that Jobs had seen the Alto during a visit to Xerox in 1979 and had been influenced by its GUI. He therefore incorporated a similar user interface into the Lisa, providing features such as windows, drop-down menus, icons, a file system with folders and files, and a point-and-click device called a mouse. The only problem with the Lisa was its price. At $9,995 (about $23,000 in today’s dollars), few buyers were willing to take the plunge.</p>
+					<p class="start lessSpacing">A year later, in 1984, Apple introduced the </strong> <span class="strongDBlue" glossary>Macintosh</span>, shown in <span class="strongDBlue" onclick="compTia.togglePopup(46,2)">Figure 7</span>. The Macintosh was everything the Lisa was and then some,</p><br>
+					
+				<figure onclick="compTia.togglePopup(46,2)" style="height:230px; margin-top: -1px;
+				background:url(assets/images/figures/fig7.jpg) no-repeat 50px 0 transparent;">
+					
+					<figcaption class="bottomPos noWrap" style="width:415px">
+   				<span>Figure 7</span> The Macintosh became one of Apple’s best-selling computers, incorporating<br>a GUI along with other innovations such as the 3.5-inch floppy disk drive.<em> (Ed Kashi/CORBIS)</em></figcaption></figure>
+				
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="47" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p>and at about a third of the cost. The Macintosh was also the first personal computer to utilize 3.5-inch floppy disks with a hard cover, which were smaller and sturdier than the previous 5.25-inch floppies.</p>
+				<br/>
+				<span class="orangeHeading normalFontFamily strong">The Internet Boom</span>
+				<p>The GUI made it easier for users to work on the computer. The Internet provided another reason for people to buy computers. Now people could conduct research and communicate in a new way. In 1993, the web browser <span class="strongDBlue" glossary >Mosaic</span> was introduced. This browser allowed users to view multimedia on the web, causing Internet traffic to increase by nearly 350%.</p>
+				<p class="start">Meanwhile, companies discovered the Internet as a means to do business, and computer sales took off. IBM–compatible PCs became the computer system of choice when, in 1995, Microsoft introduced <span class="strongDBlue" glossary >Internet Explorer</span>, a browser that integrated web functionality into Microsoft Office applications, and <span class="strongDBlue" glossary >Windows 95</span>, the first Microsoft OS designed to be principally a GUI OS.</p>
+				<p class="start">About a year earlier, in 1994, a team of developers launched the <span class="strongDBlue" glossary >Netscape</span> web browser, which soon became a predominant player in browser software. However, pressures from Microsoft became too strong, and in 1998, Netscape announced it would no longer charge for the product and would make the code available to the public.</p>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="orangeHeading normalFontFamily strong">Making the Personal Computer Possible:<br/>Early Computers</span>
+				<p class="lessSpacing">Billions of personal computers have been sold over the past three decades. But the computer is a compilation of parts, each of which is the result of individual inventions. Let’s look at some early machines that helped to create the personal computer we know today.</p>
+				<br/>
+				<h2 class="blueHeading">The Pascalene Calculator and the Jacquard Loom</h2>
+					<p class="lessSpacing">From the earliest days of humankind, we have been looking for a more systematic way to count and calculate. Thus, the evolution of counting machines led to the development of the computer we know today. The <span class="strongDBlue" glossary >Pascalene</span> was the first accurate mechanical calculator. This machine, created by the French mathematician <span class="strongDBlue" glossary >Blaise Pascal</span> in 1642, used revolutions of gears, like odometers in cars, to count by tens. The Pascalene could be used to add, subtract, multiply, and divide. The basic design of the Pascalene was so sound that it lived on in mechanical calculators for more than 300 years.</p>
+					<p class="start lessSpacing">Nearly 200 years later, <span class="strongDBlue" glossary >Joseph Jacquard</span> revolutionized the fabric industry by creating a machine that automated the weaving of complex patterns. Although not a counting or calculating machine, the <span class="strongDBlue" glossary >Jacquard loom</span> (<span class="strongDBlue" onclick="compTia.togglePopup(48,0)">shown in Figure 8</span>) was significant because it relied on stiff cards with punched holes to automate the weaving process. Much later, this punch-card process would be adopted as a means for computers to record and read data.</p>
+					
+				
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="48" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				
+					<figure onclick="compTia.togglePopup(48,0)"
+						style="background: url(assets/images/figures/fig8.jpg) no-repeat scroll 0px 0 transparent;
+					    height: 280px;">
+						<figcaption class="rightPos topPos" style="width: 182px;">
+   				<span>Figure 8</span> The Jacquard loom used holes punched in stiff cards to make complex designs. This technique would later be used in punch cards that controlled the input and output of data in computers. <br/>
+   				<em>(JANEK SKARZYNSKI/AFP/Getty Images/Newscom)</em></figcaption>
+   			</figure>
+			
+			<h2 class="blueHeading TMargin10">Babbage’s Engines</h2>
+					<p class="lessSpacing">In 1834, <span class="strongDBlue" glossary >Charles Babbage</span> designed the first automatic calculator, called the <span class="strongDBlue" glossary >Analytical Engine</span> (<span class="strongDBlue" onclick="compTia.togglePopup(48,1)">see Figure 9</span>). The machine was actually based on another machine called the <span class="strongDBlue" glossary >Difference Engine</span>, which was a huge steam-powered mechanical calculator that Babbage designed to print astronomical tables. Although the Analytical Engine was never developed, Babbage’s detailed drawings and descriptions of the machine include components similar to those found in today’s computers, including the store (akin to RAM) and the mill (a central processing unit), as well as input and output devices. This invention gave Charles Babbage the title of “father of computing.”</p>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<figure onclick="compTia.togglePopup(48,1)"
+						style="background: url(assets/images/figures/fig9.jpg) no-repeat scroll 0px 0 transparent; height: 268px;">
+						<figcaption class="rightPos topPos" style="width: 218px;">
+   				<span>Figure 9</span> The Analytical Engine,<br>designed by Charles Babbage, was never fully developed but included components similar to those found in today’s computers. <br/><em>(Chris Howes/Wild Places Photography/Alamy)</em></figcaption>
+   			</figure>
+			
+			<p class="start lessSpacing TMargin5">Meanwhile, Ada Lovelace, who was the daughter of poet Lord Byron and was a student of mathematics (which was unusual for women of the time), was fascinated with Babbage’s Engines. She translated an Italian paper on Babbage’s machine and, at the request of Babbage, added her own extensive notes. Her efforts are thought to be the best description of Babbage’s Engines. </p>
+					<h2 class="blueHeading">The Hollerith Tabulating Machine</h2>
+					<p class="lessSpacing">In 1890, <span class="strongDBlue" glossary >Herman Hollerith</span>, while working for the U.S. Census Bureau, was the first to take Jacquard’s punch-card concept and apply it to computing with his <span class="strongDBlue" glossary >Hollerith Tabulating Machine</span>. Until that time, census data had been tabulated manually in a long, laborious process.</p>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="49" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p >Hollerith’s tabulating machine automatically read data that had been punched onto small punch cards, speeding up the tabulation process. Hollerith’s machine became so successful that he left the Census Bureau in 1896 to start the Tabulating Machine Company. His company later changed its name to International Business Machines, or IBM.</p>
+			<br/>
+			<h2 class="blueHeading">The Z1 and the Atanasoff–Berry Computer</h2>
+					<p >German inventor <span class="strongDBlue" glossary >Konrad Zuse</span> is credited with a number of computing inventions. His first, in 1936, was a mechanical calculator called the <span class="strongDBlue" glossary >Z1</span>. The Z1 is thought to be the first computer to include certain features integral to today’s systems, such as a control unit and separate memory functions.</p>
+					<p class="start">In 1939, John Atanasoff, a professor at Iowa State University, and his student Clifford Berry built the first electrically powered digital computer, called the <span class="strongDBlue" glossary="Atanasoff-Berry Computer (ABC)">Atanasoff–Berry Computer (ABC)</span>, shown in <span class="strongDBlue" onclick="compTia.togglePopup(49,0)">Figure 10</span>. The computer was the first to use vacuum tubes, instead of the mechanical switches used in older computers, to store data. Although revolutionary at the time, the machine weighed 700 pounds, contained a mile of wire, and took about 15 seconds for each calculation. (In comparison, today’s personal computers can perform billions of calculations in 15 seconds.) Most importantly, the ABC was the first computer to use the binary system and to have memory that repowered itself upon booting. The design of the ABC would be central to that of future computers.</p>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">The Harvard Mark I</h2>
+				<p class="lessSpacing">From the late 1930s to the early 1950s, <span class="strongDBlue" glossary >Howard Aiken</span> and <span class="strongDBlue" glossary >Grace Hopper</span> designed the Mark series of computers used by the U.S. Navy for ballistic and gunnery calculations. Aiken, an electrical engineer and physicist, designed the computer, while Hopper did the programming. The <span class="strongDBlue" glossary >Harvard Mark I</span>, finished in 1944, could add, subtract, multiply, and divide.</p>
+					
+					<p class="start lessSpacing">However, many believe Hopper’s greatest contribution to computing was the invention of the <span class="strongDBlue" glossary >compiler</span>, a program that translates English language instructions into computer language. The team was also responsible for a common computer-related expression. Hopper was the</p>
+					
+					<figure onclick="compTia.togglePopup(49,0)"
+						style="background: url(assets/images/figures/fig10.jpg) no-repeat scroll 21px 12px transparent;    height: 305px; margin-top: 4px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 10</span> The Atanasoff–Berry Computer laid the design groundwork for many computers to come. <em>(Ames Laboratory)</em></figcaption>
+   			</figure>
+	
+				]]>
+			</section>
+		</page>
+		
+		<page index="50" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<p>first to “debug” a computer when she removed a moth that had flown into the Harvard Mark I that had caused the computer to break down (<span class="strongDBlue" onclick="compTia.togglePopup(50,0)">see Figure 11</span>). After that, problems that caused a computer not to run were called <em>bugs.</em></p>
+				<figure onclick="compTia.togglePopup(50,0)"
+						style="background: url(assets/images/figures/fig11.png) no-repeat scroll 50px 0 transparent;    height: 223px; margin-top: 10px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 11</span> Grace Hopper coined the term computer bug when a moth flew into the Harvard Mark I, causing it to break down. <em>(Naval Historical Center)</em></figcaption>
+   			</figure>
+			<br/>
+			<h2 class="blueHeading">The Turing Machine</h2>
+					<p class="lessSpacing">Meanwhile, in 1936, British mathematician <span class="strongDBlue" glossary >Alan Turing</span> created an abstract computer model that could perform logical operations. The <span class="strongDBlue" glossary >Turing Machine</span> was not a real machine but rather a hypothetical model that mathematically defined a mechanical procedure (or algorithm). Additionally, Turing’s concept described a process by which the machine could read, write, or erase symbols written on squares of an infinite paper tape. This concept of an infinite tape that could be read, written to, and erased was the precursor to today’s RAM.</p>
+					
+					]]>
+			</section>
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">The ENIAC</h2>
+				<p>The <span class="strongDBlue" glossary >Electronic Numerical Integrator and Computer (ENIAC)</span>, shown in <span class="strongDBlue" onclick="compTia.togglePopup(50,1)">Figure 12</span>, was another U.S. government–sponsored machine developed to calculate the settings used for weapons. Created by <span class="strongDBlue" glossary >John W. Mauchly</span> and <span class="strongDBlue" glossary >J. Presper Eckert</span> at the University of Pennsylvania, it was placed in operation in 1944. Although the ENIAC is generally thought of as the first successful high-speed electronic digital computer, it was big and clumsy. The ENIAC used nearly 18,000 vacuum tubes and filled approximately 1,800 square feet of floor space. Although inconvenient, the ENIAC served its purpose and remained in use until 1955.</p>
+					
+					<figure onclick="compTia.togglePopup(50,1)"
+						style="background: url(assets/images/figures/fig12.jpg) no-repeat scroll 50px 0 transparent;height: 295px; margin-top: 10px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 12</span> The ENIAC took up an entire room and required several people to manipulate it. <em>(University of Pennsylvania/AP Images)</em></figcaption>
+   			</figure>
+	
+				]]>
+			</section>
+		</page>
+		
+		<page index="51" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">The UNIVAC</h2>
+				<p>The <span class="strongDBlue" glossary="Universal Automatic Computer (UNIVAC)">Universal Automatic Computer</span>, or <span class="strongDBlue" glossary="Universal Automatic Computer (UNIVAC)">UNIVAC</span>, was the first commercially successful electronic digital computer. Completed in 1951, the UNIVAC operated on magnetic tape (<span class="strongDBlue" onclick="compTia.togglePopup(51,0)">see Figure 13</span>), which set it apart from its competitors, which ran on punch cards. The UNIVAC gained notoriety when, in a 1951 publicity stunt, it was used to predict the outcome of the Stevenson–Eisenhower presidential race. After analyzing only 5% of the popular vote, the UNIVAC correctly identified Dwight D. Eisenhower as the victor. After that, UNIVAC soon became a household word. The UNIVAC and computers like it were considered <span class="strongDBlue" glossary >first-generation computers</span> and were the last to use vacuum tubes to store data.</p>
+				<figure onclick="compTia.togglePopup(51,0)"
+						style="background: url(assets/images/figures/fig13.jpg) no-repeat scroll 0px 0 transparent;    height: 261px; margin-top: 10px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 13</span> UNIVACs were the first computers to use magnetic tape for data storage. <br/><em>(CBS/Landov)</em></figcaption>
+   			</figure>
+			]]>
+			</section>
+			<section>
+				<![CDATA[
+				<h2 class="blueHeading noTMargin">Transistors and Beyond</h2>
+				<p>Only a year after the ENIAC was completed, scientists at the Bell Telephone Laboratories in New Jersey invented the <span class="strongDBlue" glossary >transistor</span>, another means to store data (<span class="strongDBlue" onclick="compTia.togglePopup(51,1)">see Figure 14</span>). The transistor replaced the bulky vacuum tubes of earlier computers and was smaller and more powerful than tubes. It was used in almost everything, from radios to phones. Computers that used transistors were referred to as <span class="strongDBlue" glossary >second-generation computers</span>. Still, transistors were limited as to how small they could be made.</p>
+					
+					<figure onclick="compTia.togglePopup(51,1)"
+						style="background: url(assets/images/figures/fig14.jpg) no-repeat scroll 50px 0 transparent;    height: 246px; margin-top: 41px;"
+		                                                 >
+						<figcaption class="bottomPos">
+   				<span>Figure 14</span> Transistors were 1/10 the size of vacuum tubes, faster, and produced much less heat.  <em>(borissos/Fotolia)</em></figcaption>
+   			</figure>
+	
+				]]>
+			</section>
+		</page>
+		
+		<page index="52" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+				
+				<p class="start">A few years later, in 1958, <span class="strongDBlue" glossary >Jack Kilby</span>, while working at Texas Instruments, invented the world’s first <span class="strongDBlue" glossary >integrated circuit</span>, a small chip capable of containing thousands of transistors. This consolidation in design enabled computers to become smaller and lighter. The computers in this early integrated circuit generation were considered <span class="strongDBlue" glossary >third-generation computers</span>.</p>
+				<p class="start">Other innovations in the computer industry further refined the computer’s speed, accuracy, and efficiency. However, none was as significant as the 1971 introduction by the Intel Corporation of the <span class="strongDBlue" glossary >microprocessor chip</span>, a small chip containing millions of transistors (<span class="strongDBlue" onclick="compTia.togglePopup(52,0)">see Figure 15</span>). The microprocessor functions as the central processing unit (CPU), or brains, of the computer. Computers that use a microprocessor chip are called <span class="strongDBlue" glossary >fourth-generation computers</span>.</p>
+				<p class="start">As you can see, personal computers have come a long way since the Altair and have a number of inventions and people to thank for their amazing popularity. What will the future bring?</p>
+
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the next Chapter:</strong>
+							<span class="dot"><span onclick="compTia.modules.toggleModule(12)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+
+			]]>
+			</section>
+			<section>
+				<![CDATA[
+				
+					<figure onclick="compTia.togglePopup(52,0)"
+						style="background: url(assets/images/figures/fig15.jpg) no-repeat scroll 70px 0 transparent;    height: 382px; margin-top: 10px;">
+						<figcaption class="bottomPos">
+   				<span>Figure 15</span> Today’s microprocessors can contain billions of transistors. <br/><em>(Tudor Voinea/Shutterstock)</em></figcaption>
+   			</figure>
+	
+				]]>
+			</section>
+		</page>
+		<page index="53" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">Which of the following developments do you think was the most important?</div>
+					<ol class="pollQuestions">
+						<li>Altair 8800</li>
+						<li>GUI</li>
+						<li>Mosaic</li>
+						<li>Transistor</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="54" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title" style="font-size:20px;">History of the Personal Computer glossary//</div>
+					
+					<span class="strongDBlue" glossary>Alan Turing</span> 127<br/>
+					<span class="strongDBlue" glossary>Altair 8800</span> 118<br/>
+					<span class="strongDBlue" glossary>Alto</span> 122<br/>
+					<span class="strongDBlue" glossary>Analytical Engine</span> 125<br/>
+					<span class="strongDBlue" glossary>Apple I</span> 119<br/>
+					<span class="strongDBlue" glossary>Apple II</span> 119<br/>
+					<span class="strongDBlue" glossary>Atanasoff-Berry Computer (ABC)</span> 126<br/>
+					<span class="strongDBlue" glossary="Beginners All-Purpose Symbolic Instruction Code (BASIC)">Beginners All Purpose Symbolic Instruction Code (BASIC)</span> 120<br/>
+					<span class="strongDBlue" glossary>Bill Gates</span> 120<br/>
+					<span class="strongDBlue" glossary>Blaise Pascal</span> 124<br/>
+					<span class="strongDBlue" glossary>Charles Babbage</span> 125<br/>
+					<span class="strongDBlue" glossary>Commodore PET</span> 120<br/>
+					<span class="strongDBlue" glossary>compiler</span> 126<br/>
+					<span class="strongDBlue" glossary>Control Program for Microcomputers (CP/M)</span> 121<br/>
+					<span class="strongDBlue" glossary>difference engine</span> 125<br/>
+					<span class="strongDBlue" glossary>Disk Operating System (DOS)</span> 121<br/>
+					<span class="strongDBlue" glossary>Electronic Numerical Integrator and Computer (ENIAC)</span> 127<br/>
+					<span class="strongDBlue" glossary>First-generation computers</span> 128<br/>
+					<span class="strongDBlue" glossary>Fourth-generation computers</span> 129<br/>
+					<span class="strongDBlue" glossary>Grace Hopper</span> 126<br/>
+					<span class="strongDBlue" glossary>Graphical user Interface (GUI)</span> 122<br/>
+					<span class="strongDBlue" glossary>Harvard Mark I</span> 126<br/>
+					<span class="strongDBlue" glossary>Herman Hollerith</span> 125<br/>
+					<span class="strongDBlue" glossary>Hollerith Tabulating Machine</span> 125<br/>
+					<span class="strongDBlue" glossary>Howard Aiken</span> 126<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>IBM PC</span> 120<br/>
+				<span class="strongDBlue" glossary>integrated circuit</span> 129<br/>
+				<span class="strongDBlue" glossary>Internet Explorer</span> 124<br/>
+				<span class="strongDBlue" glossary>Joseph Jacquard</span> 124<br/>
+				<span class="strongDBlue" glossary>Konrad Zuse</span> 126<br/>
+				<span class="strongDBlue" glossary>Jack Kilby</span> 129<br/>
+				<span class="strongDBlue" glossary>Jacquard loom</span> 124<br/>
+				<span class="strongDBlue" glossary>J. Presper Eckert</span> 127<br/>
+				<span class="strongDBlue" glossary>John W. Mauchly</span> 127<br/>
+				<span class="strongDBlue" glossary>Lisa</span> 123<br/>
+				<span class="strongDBlue" glossary>Lotus 1-2-3</span> 122<br/>
+				<span class="strongDBlue" glossary>Macintosh</span> 123<br/>
+				<span class="strongDBlue" glossary>Microprocessor chip</span> 129<br/>
+				<span class="strongDBlue" glossary>Microsoft</span> 120<br/>
+				<span class="strongDBlue" glossary>Microsoft Excel</span> 122<br/>
+				<span class="strongDBlue" glossary>Mosaic</span> 124<br/>
+				<span class="strongDBlue" glossary>MS-DOS</span> 121<br/>
+				<span class="strongDBlue" glossary>NetScape</span> 124<br/>
+				<span class="strongDBlue" glossary>Osborne</span> 120<br/>
+				<span class="strongDBlue" glossary>Pascalene</span> 124<br/>
+				<span class="strongDBlue" glossary>Paul Allen</span> 120<br/>
+				<span class="strongDBlue" glossary>Second-generation computers</span> 128<br/>
+				<span class="strongDBlue" glossary>Steve Jobs</span> 119<br/>
+				<span class="strongDBlue" glossary>Steve Wozniak</span> 119<br/>
+				<span class="strongDBlue" glossary>Third-generation computers</span> 129<br/>
+				<span class="strongDBlue" glossary>transistor</span> 128<br/>
+				<span class="strongDBlue" glossary>TRS-80</span> 120<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="55" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					
+					<span class="strongDBlue" glossary>Turing Machine</span> 127<br/>
+					<span class="strongDBlue" glossary>Universal Automatic Computer (UNIVAC)</span> 128<br/>
+					<span class="strongDBlue" glossary>VisiCalc</span> 121<br/>
+					<span class="strongDBlue" glossary>Windows 95</span> 124<br/>
+					<span class="strongDBlue" glossary>Word for MS-DOS</span> 122<br/>
+					<span class="strongDBlue" glossary>WordStar</span> 122<br/>
+					<span class="strongDBlue" glossary>WordPerfect</span> 122<br/>
+					<span class="strongDBlue" glossary>Xerox</span> 122<br/>
+					<span class="strongDBlue" glossary>Z1</span> 126<br/>
+					<br/><br/>
+					
+					
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+				
+				]]>
+			</section>
+		</page>
+
+	</chapter>
+</ebook>

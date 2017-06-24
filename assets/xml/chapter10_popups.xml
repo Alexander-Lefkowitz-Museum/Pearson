@@ -1,0 +1,1036 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="10">
+
+
+		<popup page="3" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.1Big.jpg') no-repeat scroll 107px 26px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.1</span>
+						In 2012, driverless cars became legal in the state of California. Software both controls and drives the car with no human input at all. <em>(AP Photo/Eric Risberg)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<!--needs motionGraphic-->
+		<popup page="4" distinction="popupFeature" customscript="compTia.features.setupVideo('10_2-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">System Development Life Cycle</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="10_2-1">STEP 1</a>
+						<a data="10_2-2">STEP 2</a>
+						<a data="10_2-3">STEP 3</a>
+						<a data="10_2-4">STEP 4</a>
+						<a data="10_2-5">STEP 5</a>
+						<a data="10_2-6">STEP 6</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+					 
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="5" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.3Big.jpg') no-repeat scroll 42px 65px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.3</span>
+						Data-flow diagrams illustrate the way data travels in a system.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="6" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">The More Minds the Better</strong>
+								<br/>
+								<p>In each phase of the SDLC, a style of interaction called <em>joint application development (JAD)</em> can be useful in creating successful, flexible results. JAD is popular because it helps designers adapt quickly to changes in program specifications. In JAD, the customer is intimately involved in the project, right from the beginning. Slow communication and lengthy feedback time make the traditional development process extremely time consuming. In JAD “workshops,” there are no communication delays. Such workshops usually include end users, developers, subject experts, observers (such as senior managers), and a facilitator. The facilitator enforces the rules of the meeting to make sure all voices are heard and that agreement is reached as quickly as possible. Also called <em>accelerated design</em> or <em>facilitated team techniques</em>, JAD’s goal is to improve design quality by fostering clear communication. For more details, search the Internet using keywords like <em>JAD</em>, <em>JAD methodology</em>, and <em>JAD tutorial</em>.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+				</div></div></div></div>
+
+
+					
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="6" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText font_16">When Software Runs Awry</div>
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>In the field of software programming, mistakes can be costly. Consider these examples:</p>
+						<ul class="dotted">
+							<li><span class="innerLi">In 1996, Europe’s newest unmanned rocket,  the Ariane 5, had to be destroyed seconds after launch, along with its cargo of four scientific satellites. Cost: $500 million. The problem occurred when the guidance computer tried to convert rocket velocity from a 64-bit to a 16-bit value. Programmers had not properly coded for this, and an overflow error resulted. When the guidance system shut down, control passed to the backup unit, which also failed because it was running the same algorithm.</span></li>
+							<li><span class="innerLi">When one switch in the AT&T network had a minor problem in 1990, system software fired off a message to the other 113 AT&T switching centers. This sparked a cascade of shutdowns, bringing down the entire network for nine hours. An estimated 75 million phone calls were missed, and over 200,000 airline reservations were lost. A single line of code in a large software upgrade was in error and led to the shutdown.</span></li>
+							<li><span class="innerLi">The cost from software mistakes is not just monetary. In 1991, an Iraqi Scud missile destroyed an American Army barracks, killing 28 soldiers and injuring over 100. The Patriot defense system had failed to intercept the missile because its software had made a rounding error and incorrectly computed the time, causing the system to ignore the incoming missile.</span></li>
+						</ul>
+						
+						<p>Could better software engineering practices have prevented these failures? Many different factors contributed to this set of accidents, including the following:</p>
+						
+						<ul class="dotted">
+							<li><span class="innerLi">Simple programming errors</span></li>
+							<li><span class="innerLi">Inadequate safety engineering</span></li>
+							<li><span class="innerLi">Poor human–computer interaction design</span></li>
+							<li><span class="innerLi">Inadequate or inappropriate testing</span></li>
+							<li><span class="innerLi">Too little focus on safety by the manufacturing organization</span></li>
+							<li><span class="innerLi">Inadequate reporting structure at the company level</span></li>
+						</ul>
+						
+						<p class="start">Who should be held responsible for defective software? Is it the corporate management, who did not institute a defined software process? Is it the production managers, who forced tight schedules that demanded risky software engineering practices? What about the software engineers who wrote the defective code? What about the users of the software? Can they be held responsible for accidents? What if they made changes to the system?</p>
+						<p class="start"></p>
+						
+						<ol>
+							<li><span class="innerLi"><em>Public:</em>  Software engineers shall act consistently with the public interest.</span></li>
+							<li><span class="innerLi"><em>Client and Employer:</em>  Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.</span></li>
+							<li><span class="innerLi"><em>Product:</em>  Software engineers shall ensure that their products and related modifications meet the highest professional standards possible.</span></li>
+							<li><span class="innerLi"><em>Judgment:</em>  Software engineers shall maintain integrity and independence in their professional judgment.</span></li>
+							<li><span class="innerLi"><em>Management:</em>  Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintenance.</span></li>
+							<li><span class="innerLi"><em>Profession:</em>  Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.</span></li>
+							<li><span class="innerLi"><em>Colleagues:</em>  Software engineers shall be fair to and supportive of their colleagues.</span></li>
+							<li><span class="innerLi"><em>Self:</em>  Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.</span></li>
+						</ol>
+						
+						<p class="start">Can you think of other steps the software industry could take to make sure its work contributes positively to our society? </p>
+						<br/>
+						<p class="front_11"><sup>1</sup> “Software Engineering Code of Ethics and Professional Practice,” by IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices. Copyright © 2011 by the Institute of Electrical and Electronics Engineers. Reprinted by permission.</p>
+						
+						<br/><br/><br/><br/>
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						 
+					</div>
+				</div>
+			</div></div>
+
+			]]></section>
+		</popup>
+		
+		<!--needs motionGraphic-->
+		<popup page="7" distinction="popupFeature" customscript="compTia.features.setupVideo('10_4-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Program Development Life Cycle (PDLC)</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;padding-right:100px;color:#01567a" data="10_4-1">STEP 1</a>
+						<a data="10_4-2" style="padding-right:100px;">STEP 2</a>
+						<a data="10_4-3" style="padding-right:100px;">STEP 3</a>
+						<a data="10_4-4" style="padding-right:100px;">STEP 4</a>
+						<a data="10_4-5" style="padding-right:100px;">STEP 5</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+					 
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="9" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage parkingGarageTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Complete Problem Statement for the Parking Garage Example</div>
+			<div class="figureHeader" ><strong>Figure 10.5</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="parkingGarageTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>&nbsp;</div></th>
+								<th><div>problem statement</div></th>
+								
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Program Goal</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Compute the total pay for a fixed number of hours worked at a parking garage.</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Input</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Number of hours worked (a positive number)</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Output</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>Total pay earned (a postive number)</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div><span>Process</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4">Total pay earned is computed as $7.50 per hour for the first eight hours worked each day. Any hours worked consecutively beyond the first eight are calculated at $11.25 per hour.<span></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Error Handling</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>The input (number of hours worked) must be a positive real number. If it is a negative number or another unacceptable character, the program will force the user to reenter the information.</span></div></td>
+						</tr>
+						
+						<tr >
+							<td ><div style="height:150px;" class="lightBlueGrad"><span>Testing Plan</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td>
+							<table  class="parkingGarage2Table">
+								<thead>
+									<tr class="blueGradHeading">
+										<th><div col="6" style="font-size:20px;font-weight:bold;display:none;">Input</div></th>
+										<th><div class="hide"  col="6" >output</div></th>
+										<th><div class="hide"  col="6">notes</div></th>
+									</tr>
+							</thead>
+							<tr class="lightBlueGrad">
+							<td><div col="6" style="display:none;"><span>8</span></div></td>
+							<td><div class="hide" col="6" ><span></span>8*7.50</div></td>
+							<td><div class="hide" col="6"><span>Testing positive input</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div col="6" style="display:none;"><span>3</span></div></td>
+							<td><div class="hide" col="6" ><span>3*7.50</span></div></td>
+							<td><div class="hide" col="6"><span>Testing positive input</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div col="6" style="display:none;"><span>12</span></div></td>
+							<td><div class="hide" col="6" ><span>8*7.50 + 4*11.25</span></div></td>
+							<td><div class="hide" col="6"><span>Testing overtime input</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div col="6" style="display:none;"><span>-6</span></div></td>
+							<td><div class="hide" col="6" ><span>Error message/ask user to reenter value</span></div></td>
+							<td><div class="hide" col="6"><span>Handling error</span></div></td>
+						</tr>
+						</table>
+					</td></tr>
+				
+						
+						
+					</table>
+					
+				]]>
+				</section>
+				</popup>
+				
+		<!--needs motionGraphic-->
+		<popup page="10" distinction="popupFeature" customscript="compTia.features.setupVideo('10_6')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+				
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">An Algorithm</div>
+					<div class="padding70">
+					  <a style="padding-left:99px;color:#01567a" data="10_6"></a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.7Big.jpg') no-repeat scroll 83px 35px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.7</span>
+						Standard Symbols Used in Flowcharts
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>	
+		
+		<popup page="12" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.8Big.jpg') no-repeat scroll 120px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.8</span>
+						Decision points force the program to travel down one branch of the algorithm or another.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>	
+		
+		<!--needs motionGraphic-->
+		<popup page="13" distinction="popupFeature" customscript="compTia.features.setupVideo('10_9-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Looping</div>
+					<div class="padding70">
+					 	<a style="padding-left:99px;padding-right:205px; color:#01567a" data="10_9-1">STEP 1</a>
+						<a data="10_9-2" style="padding-right:205px;">STEP 2</a>
+						<a data="10_9-3" style="padding-right:205px;">STEP 3</a>
+					  
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="14" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.10Big.jpg') no-repeat scroll 20px 10px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.10</span>
+						(a) A top-down design is applied to the highest level of task in our parking garage example, (b) the tasks are further refined into subtasks, and (c) subtasks are refined into a sequence of instructions—an algorithm.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.11Big.jpg') no-repeat scroll 85px 35px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.11</span>
+						The Employee class includes the complete set of information (data) and actions (methods or behaviors) that describe an Employee.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="16" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.12Big.jpg') no-repeat scroll 234px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.12</span>
+						In object-oriented programming, a single base class—for example, Sugar Cookies—helps you quickly create many additional derived classes, such as Chocolate and Mini-Chip Sugar Cookies. <em>(Nataliya Dolotko/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="17" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">My Algorithm Can Beat Your Algorithm!</strong>
+								<br/>
+								<p>Programming became a competitive sport with the advent of LEGO MIND STORMS. The First LEGO League conducts a programming competition each year using the LEGO MIND STORMS series of LEGO kits. These kits include gears, wheels, motors, and a motorized, programmable LEGO “brick” that contains a microprocessor. Sensors feed the robots information such as sounds, images, and temperatures. Teams then use ROBOLAB software to develop programs and send them to the brick’s microprocessor. You can try out this software in a small demo at the ROBOLAB site (<span class="strongDBlue" onclick="window.open('http://robolabonline.com','_blank')">robolabonline.com</span>). The microprocessor unit can be told to turn the motor on or off, switch the direction of a wheel’s rotation, or turn on sensors to measure temperature or light levels. The ROBOLAB software even allows beginning programmers to drag and drop elements such as “if” statements and loops. Synthesizing their understanding of motors and their talent for logical thinking,</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+							<p>teams design robots that can travel through mazes, cross bridges, and deliver packages— whatever tasks the LEGO League has come up with for that year’s tournament.</p>
+							
+				</div></div></div></div>
+
+
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="18" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage sameDifTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Sample Code for Different Language Generations</div>
+			<div class="figureHeader"><strong>Figure 10.13</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="sameDifTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div style="text-align:center;padding-left:0px;width:152px;">Generation</div></th>
+								<th><div>Example</div></th>
+								<th><div>Sample Code</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>1GL</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>Machine</span></div></td>
+							<td><div class="hide" col="1"><span><strong>Bits</strong> describe the commands to the CPU. <br/>1110 0101 1001 1111 0000 1011 1110 0110</span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>2GL</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>Assembly</span></div></td>
+							<td><div class="hide" col="2"><span><strong>Words</strong> describe the commands to the CPU. <br/>ADD Register 3, Register 4, Register 5</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>3GL</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>FORTRAN, BASIC, C, Java</span></div></td>
+							<td><div class="hide" col="3"><span><strong>Symbols</strong> describe the commands to the CPU. <br/>Total Pay = Pay + Overtime Pay</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div style="height:69px;"><span>4GL</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" style="height:69px;" col="4"><span>SQL</span></div></td>
+							<td><div class="hide" style="height:69px;" col="4"><span><strong>More powerful commands</strong> allow complex work to be done in a single sentence. <br/>SELECT isbn, title, price, price*0.06 AS sales_tax <br/>FROM books WHERE price>100.00 ORDER BY title;</span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div style="height:66px;"><span>5GL</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" style="height:66px;" col="5"><span>PROLOG</span></div></td>
+							<td><div class="hide" style="height:66px;" col="5"><span>Programmers can build applications <strong>without specifying an <br/>algorithm</strong>. Find all the people who are Mike’s cousins as: ?-cousin <br/>(Mike, family)</span></div></td>
+						</tr>
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				<popup page="19"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText strong" style="font-size:13px;">The Building Blocks of Programming Languages: Syntax, Keywords, Data Types, and Operators</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>Programming languages are evolving constantly. New languages emerge every year, and existing languages change dramatically. Therefore, it would be extremely difficult and time consuming for programmers to learn every programming language. However, all languages have several common elements: rules of syntax, a set of keywords, a group of supported data types, and a set of allowed operators. By learning these four concepts, a programmer will be better equipped to approach any new language.</p>
+						<p class="start">The transition from a well-designed algorithm to working code requires a clear understanding of the rules (syntax) of the programming language being used. <span class="strongDBlue" glossary>Syntax</span> is an agreed-on set of rules defining how a language must be structured. The English language has a syntax that defines which symbols are words (for example, <em>gorilla</em> is a word but <em>allirog</em> is not) and what order words and symbols (such as semicolons and commas) must follow. </p>
+						<p class="start">Likewise, all programming languages have a formal syntax that programmers must follow when creating code <span class="strongDBlue" glossary="statement">statements</span>, which are sentences in a code. <span class="strongDBlue" glossary="syntax error">Syntax errors</span> are violations of the strict, precise set of rules that define the programming language. In a programming language, even misplacing a single comma or using a lowercase letter where a capital letter is required will generate a syntax error and make the program unusable.</p>
+						<p class="start"><span class="strongDBlue" glossary="keyword">Keywords</span> are a set of words that have predefined meanings for a particular language. Keywords translate the flow of the algorithm into the structured code of the programming language. For example, when the algorithm indicates where a binary decision must be made, the programmer translates that binary decision into the appropriate keyword(s) from the language.</p>
+						<p class="start">To illustrate further, in the programming language C++, the binary decision asking whether you worked enough hours to qualify for overtime pay would use the keywords <span class="strongDBlue" glossary>if else</span>. At this point in the code, the program can follow one of two paths: If you indicated through your input that you worked fewer than or equal to eight hours, the program takes one path; if not (else), it follows another. <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 10.14</span> shows this binary decision in the algo rithm and the corresponding lines of C++ code that use the “if else” keywords.</span></p>
+						<p class="start">Loops are likewise translated from algorithm to code by using the appropriate keyword from the language. For example, in the programming language Visual Basic, programmers use the keywords <span class="strongDBlue" glossary>For</span> and <span class="strongDBlue" glossary>Next</span> to implement a loop. After the keyword For, an input or output item is given a starting value. Then the statements, or “sentences,” in the body of the loop are executed. When the command Next is run, the program returns to the For statement and increments the value of the input or output item by 1. It then tests that the value is still inside the range given. If it is, the body of the loop is executed again. This continues until the value of the input or output item is outside the range listed. The loop is then ended, and the statement that follows the loop is run.</p>
+						<p class="start">In the parking garage example, the following lines of Visual Basic code loop to sum up the total pay for the entire week:</p>
+						
+						<p style="font-family:Courier;margin-left: 65px;">For Day = 1 to 7
+										<br/>&nbsp;&nbsp;&nbsp;&nbsp;Total Pay = Total Pay + Pay;
+										<br/>Next Day</p>
+						<p class="start">In this statement, the starting value of the input item Day is 1, and the program loops through until Day equals 7. Then, when Day equals 8, we move out of the loop, to the line of code that comes after the loop.</p>
+						<p class="start">Often, a quick overview of a language’s keywords can reveal the unique focus of that language. For example, the language C++ includes the keywords <em>public, private,</em> and <em>protected</em>, which indicate that the language includes a mechanism for controlling security.</p>
+						<p class="start">Each time programmers want to store data in their program, they must ask the OS for storage space at a RAM location. <span class="strongDBlue" glossary="data type (field type)">Data types</span> describe the kind of data being stored at the memory location. Each programming language has its own data types (although there is some degree of overlap). For example, C++ includes data types that represent integers, real numbers, characters, and Boolean (true–false) values. These C++ data types show up in code statements as <em>int</em> for integer, <em>float</em> for real numbers, <em>char</em> for characters, and bool for Boolean values.</p>				
+						<p class="start">Because it takes more room to store a real number such as 18,743.23 than it does to store the integer 1, programmers use data types in their code to indicate to the OS how much memory it needs to allocate. Programmers must be familiar with all the data types available in the language so that they can assign the most appropriate one for each input and output value, without wasting memory space.</p>
+						<p class="start"><span class="strongDBlue" glossary="operator">Operators</span> are the coding symbols that represent the fundamental actions of the language. Each programming language has its own set of operators. Many languages include common algebraic operators such as +, −, *, and / to represent the mathematical operations of addition, subtraction, multiplication, and division, respectively. Some languages, however, introduce new symbols as operators. The language APL (short for A Programmer’s Language) was designed to solve multidimensional mathematical problems. APL includes less familiar operators such as rho, sigma, and iota, each representing a complex mathematical operation. Because it contains many specialized operators, APL requires programmers to use a special keyboard (<span class="strongDBlue" onclick="compTia.additionalPopupContent(2)">see Figure 10.15</span>).</p>
+						<p class="start">Programming languages sometimes include other unique operators. The C++ operator >>, for example, is used to tell the computer to read data from the keyboard or from a file. The C++ operator && is used to tell the computer to check whether two statements are both true. “Is your age greater than 20 AND less than 30?” is a question that requires the use of the && operator.</p>
+						<p class="start">In the following C++ code, several operators are being used. The > operator checks whether the number of hours worked is greater than 0. The && operator checks that the number of hours worked is simultaneously positive AND less than or equal to 8. If that happens, then the = operator sets the output Pay to equal the number of hours multiplied by $7.50:</p>
+						
+						<p style="font-family:Courier;text-align: center;">if (Hours > 0 && Hours &lt;= 8)
+																	<br/>Pay = Hours * 7.50;</p>
+						<p class="start">Knowing operators such as these, as well as the other common elements described earlier, helps programmers learn new programming languages.</p>
+						
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+
+							<figure style="
+								    background: url(assets/images/figures/fig10.14.png) no-repeat 30px 0 transparent;
+    								height: 270px;
+    								margin-top: 640px;"
+    								onclick="compTia.additionalPopupContent(1)">
+							  <figcaption class="bottomPos">
+								<span>Figure 10.14</span> The binary decision in the algorithm has been converted into C++ code.
+							  </figcaption>
+							</figure>
+					
+				
+						<figure style="
+								    background: url(assets/images/figures/fig10.15.png) no-repeat -8px 0 transparent;
+    								height: 160px;
+    								margin-top: 959px;"
+    								onclick="compTia.additionalPopupContent(2)">
+							  <figcaption class="bottomPos" style="width:325px;">
+								<span>Figure 10.15</span> APL requires programmers to use an APL keyboard that includes the many specialized operators in the language.
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+			<div class="additional">
+						<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig10.14Big.png) no-repeat scroll 155px 20px transparent">
+								<figcaption class="bottomPos">
+								<span>Figure 10.14</span> The binary decision in the algorithm has been converted into C++ code.
+							  </figcaption>
+							  </figure>
+
+						
+					</div>
+					
+					<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig10.15Big.png) no-repeat scroll 50px 84px transparent">
+								<figcaption class="bottomPos">
+								<span>Figure 10.15</span> APL requires programmers to use an APL keyboard that includes the many specialized operators in the language.
+							  </figcaption>
+							  </figure>
+
+						</div>
+					</div>
+				</div>
+			]]></section>
+		</popup>
+				
+				<!--needs motionGraphic-->
+				<popup page="19" distinction="popupFeature" customscript="compTia.features.setupVideo('10_16-1')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">C++ Program</div>
+					<div class="padding70">
+					 	<a style="padding-left:99px;color:#01567a" data="10_16-1">STEP 1</a>
+						<a data="10_16-2">STEP 2</a>
+						<a data="10_16-3">STEP 3</a>
+						<a data="10_16-4">STEP 4</a>
+						<a data="10_16-5">STEP 5</a>
+						<a data="10_16-6">STEP 6</a>
+					  
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+				
+		
+		
+		<popup page="20" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.17Big.jpg') no-repeat scroll 79px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.17</span>
+						A function is a reusable component that can be used in different settings.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="21" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.18Big.jpg') no-repeat scroll 164px 20px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.18</span>
+						The jGRASP IDE is a free tool that helps the programmer visualize the code as it runs to help eliminate logical errors.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="22" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.19Big.jpg') no-repeat scroll 170px 22px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.19</span>
+						Debugging—the process of correcting errors in a program—combines logic with an understanding of the problem to be solved. <br/><em>(ARTSILENSEcom/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="23" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Many Languages on Display</strong>
+								<br/>
+								<p>At the 99 Bottles of Beer site <span class="strongDBlue" onclick="window.open('http://99-bottles-of-beer.net','_blank')">99-bottles-of-beer.net</span>, you can find a simple program that displays the lyrics to the song, “99 Bottles of Beer on the Wall.” If you’ve ever sat through round after round of this song on a long school bus trip, you know how repetitive it is. That means the code to write this song can take advantage of looping statements. This site presents the program in more than 1,400 different languages. Also check out the Rosetta Code wiki (<span class="strongDBlue" onclick="window.open('http://rosettacode.org/wiki/Rosetta_Code','_blank')">rosettacode.org/wiki/Rosetta_Code</span>) to see solutions to many other programming problems in a wide variety of languages.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+							
+				</div></div></div></div>
+
+
+					
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="28" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.20Big.jpg') no-repeat scroll 203px 5px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.20</span>
+						When attacking a problem, you can choose from many different programming languages. This chart of the <span class="strongDBlue" onclick="window.open('http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html','_blank')">Tiobe Index</span> shows how popular certain languages are at specific times.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="31" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.21Big.jpg') no-repeat scroll 150px 10px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.21</span>
+						The Toolbox in Visual Basic allows the programmer to drag and drop any of the items shown here into a program.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+			<!--needs motionGraphic-->
+		<popup page="32" distinction="popupFeature">
+			<section><![CDATA[
+								<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"></div>
+		<div class="HeadingOrangeBackDiagDashes">Java Programs </div>
+			<div class="figureHeader"><strong>Figure 10.22</strong>  Click on arrow to reveal</div>
+				<figure style="	width:826px;height:479px;
+							background:url(assets/images/figures/fig10.22/fig10.22Big.png) 29px 140px no-repeat">
+
+					<div class="overlayButtons">
+						
+						<div style="left: 151px; width: 83px; top: 151px; height: 66px;" roll="fig10.22.1.png"></div>
+						<div style="left: 477px; width: 137px; top: 117px; height: 50px;" roll="fig10.22.2.png"></div>
+						<div style="height: 53px; top: 228px; width: 142px; left: 530px;" roll="fig10.22.3.png"></div>
+						<div style="top: 217px; height: 84px; left: 366px; width: 72px;" roll="fig10.22.4.png"></div>
+					</div>
+					<div class="overlayImages">
+
+						<div roll="fig10.22.1.png" style="background-image: url(assets/images/figures/fig10.22/fig10.22.1.png); width: 442px; height: 202px; left: 234px; top: 106px;"></div>
+						<div roll="fig10.22.2.png" style="background-image: url(assets/images/figures/fig10.22/fig10.22.2.png); width: 206px; height: 168px; left: 585px; top: 0px;"></div>
+						<div roll="fig10.22.3.png" style="background-image: url(assets/images/figures/fig10.22/fig10.22.3.png); width: 134px; height: 145px; left: 652px; top: 220px;"></div>
+						<div roll="fig10.22.4.png" style="background-image: url(assets/images/figures/fig10.22/fig10.22.4.png); height: 137px; width: 180px; left: 385px; top: 272px;"></div>
+						
+						
+					</div>
+					<figcaption class="bottomPos">
+					  <span>Figure 10.22</span>
+						Java programs can be compiled once and then run on many different platforms.
+					</figcaption>
+			</figure>
+					
+			]]></section>
+		</popup>
+		
+		<popup page="33" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Really Want to Learn? Work for Free!</strong>
+								<br/>
+								<p>The open source software movement is a grass roots collection of developers who believe that software projects can be managed start to finish by groups of individuals instead of companies. Open source software is developed and maintained at no charge by groups of people who are brought together by common interests such as photo editing. When completed, the software product and its source code are distributed free of charge.</p>
+								<p class="start">The development, testing, and maintenance of the open-source code are managed through resources such as SourceForge (<span class="strongDBlue" onclick="window.open('http://sourceforge.net','_blank')">sourceforge.net</span>), a development website that hosts more than 100,000 programs. If you want more of a social net work flavor, try <span class="strongDBlue" onclick="window.open('http://github.com','_blank')">github.com</span>, where you can “follow” programmers whose work you like. Both sites offer version-control tools to allow specific versions of a project to be coordinated so that many people can work on a project at the same time. Communication tools and publicity tools are also provided to help the project succeed in reaching its audience.</p>
+								
+							</div>
+						  </div>
+						  <div class="column">
+						<div class="innerColRight">
+								<p class="start">If you’re looking to learn about software development by doing it, investigate these sites and volunteer for a project. And once you have the skills you need, you can work for pay through <span class="strongDBlue" onclick="window.open('http://vWorker.com','_blank')">vWorker.com</span>, a website that distributes projects to at-home programmers for real pay.</p>
+							
+				</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="33" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.23Big.jpg') no-repeat scroll 90px 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.23</span>
+						 The <span class="strongDBlue" onclick="window.open('http://developer.apple.com/xcode/','_blank')">Xcode IDE tool</span> provides a supportive environment for developing OS X applications.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="34" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.24Big.jpg') no-repeat scroll 67px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.24</span>
+						Adobe Dreamweaver is a popular tool for creating web pages.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<!--needs motionGraphic-->
+		
+		<popup page="35" distinction="popupFeature" customscript="compTia.features.setupVideo('10_25-0')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+					<div class="arrowLeft">
+					</div>
+					<div class="arrowRight">
+					</div>
+					<div class="close"> </div>
+					<div class="HeadingOrangeBackDiagDashes">Client/Server Type of Internet Application</div>
+					<div class="padding70">
+					  <a style="padding-left:99px; padding-right: 135px;color:#01567a" data="10_25-0">INTRO</a>
+						<a style="padding-right: 135px;" data="10_25-1">STEP 1</a>
+						 <a style="padding-right: 135px;" data="10_25-2">STEP 2</a>
+						 <a style="padding-right: 135px;" data="10_25-3">STEP 3</a>
+						
+					</div>
+					<div class="wideVideoGraphic">
+					  <video autoplay="autoplay" width="688" height="376">
+						<source src="assets/video/b.mp4" type="video/mp4">
+						  <source src="assets/video/b.ogv" type="video/ogg">
+						  Your browser does not support the video tag.
+					  </video>
+				</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		
+		<popup page="36" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.26Big.jpg') no-repeat scroll 144px 22px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.26</span>
+						An ASP program can (a) write HTML code as its (b) output. (c) This image illustrates how the HTML page would show up in a browser.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="37" distinction="popupFeature" customscript="compTia.features.micsTable()" closescript="$('table span.slideNext').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage proLangTable">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Popular Programming Languages</div>
+			<div class="figureHeader"><strong>Figure 10.27</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="proLangTable">
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Programming Language</div></th>
+								<th><div>Features</div></th>
+								<th><div>Typical Setting</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>C/C++ and C#</span>
+							<span class="slideNext floatRight" col="1">NEXT</span></div></td>
+							
+							<td><div class="hide" col="1"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Can create compact code that executes quickly</span></li>
+									<li><span class="innerLi">Provides high- and low-level access</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="1"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Used in industrial applications such as banking and engineering</span></li>
+								</ul></span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>Java</span>
+							<span class="slideNext floatRight" col="2">NEXT</span></div></td>
+							
+							<td><div class="hide" col="2"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Is architecture neutral</span></li>
+									<li><span class="innerLi">Is object-oriented</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="2"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Used to create applets that can be delivered over the web</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>Objective C</span>
+							<span class="slideNext floatRight" col="3">NEXT</span></div></td>
+							
+							<td><div class="hide" col="3"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Has a framework for writing iOS applications</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="3"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Used to create applications for OS X and Apple mobile devices</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div style="height:52px; line-height:47px;"><span>Visual Basic</span>
+							<span class="slideNext floatRight" col="4">NEXT</span></div></td>
+							
+							<td><div class="hide" col="4" style="height:52px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Is easy to learn and use</span></li>
+									<li><span class="innerLi">Is object-oriented</span></li>
+									<li><span class="innerLi">Has a drag-and-drop interface</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="4" style="height:52px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Used in prototype development</span></li>
+									<li><span class="innerLi">Used to design graphical user interfaces</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<thead>
+							<tr class="blueGradHeading">
+								<th><div>Web Technologies</div></th>
+								<th><div>Features</div></th>
+								<th><div>Typical Setting</div></th>
+							</tr>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div><span>AJAX</span>
+							<span class="slideNext floatRight" col="5">NEXT</span></div></td>
+							
+							<td><div class="hide" col="5"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Uses a combination of existing technologies like JavaScript, CSS, and XML</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="5"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Creates websites that can update without the user refreshing the page</span></li>
+								</ul></span></div></td>
+						</tr>
+				
+						<tr class="lightestBlueGrad">
+							<td><div><span>HTML5</span>
+							<span class="slideNext floatRight" col="6">NEXT</span></div></td>
+							
+							<td><div class="hide" col="6"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Latest version of HTML but currently in development</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="6"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Introduces tags like &lt;video> and supports <br/>drag-and-drop</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div style="height:52px;line-height:47px;"><span>VBScript</span>
+							<span class="slideNext floatRight" col="7">NEXT</span></div></td>
+							
+							<td><div class="hide" col="7" style="height:52px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Is similar in syntax to Visual Basic</span></li>
+									<li><span class="innerLi">Has classes that represent buttons, drop down lists, and other web page components</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="7" style="height:52px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Creates code that lives on the client machine and adds interaction to web pages</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+						<tr class="lightestBlueGrad">
+							<td><div style="height:52px;line-height:47px;"><span>XML</span>
+							<span class="slideNext floatRight" col="8">NEXT</span></div></td>
+							
+							<td><div class="hide" col="8" style="height:52px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Enables users to define their own tags</span></li>
+									<li><span class="innerLi">Facilitates exchange of information between websites</span></li>
+								</ul></span></div></td>
+							<td><div class="hide" col="8" style="height:52px;"><span>
+								<ul class="dotted">
+									<li><span class="innerLi">Used in the construction of web services</span></li>
+								</ul></span></div></td>
+						</tr>
+						
+					</table>
+					
+					
+				]]>
+				</section>
+				</popup>
+				
+				
+				<popup page="38" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.28Big.jpg') no-repeat scroll 105px 47px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.28</span>
+						Xcode 4 integrates all the tools required to program iOS applications from scratch.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="38" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+			<div class="headerText font_18" style="line-height:22px; text-align:center; margin-top:-12px;margin-right: -10px;">Emerging Technologies: <br/>Unite All Your Video Game Design Tools</div>
+
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>Unity is a game-development environment that supports home video-game production by combining many tools into one package, giving you what you need to edit, test, and play your game idea quickly. It can generate real-time shadowing effects, for example, and has preprogrammed scripts integrated. After you’ve polished your production, Unity allows you to publish for web, mobile, or console platforms. With over 500,000 developers using Unity, and over 60 million installs of the Unity browser plug-in, the potential of this tool is amazing (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 10.29</span>).</p>
+					  		<p class="start">You’ll start with the built-in Unity editor so you can quickly assemble a 3-D environment. Unity gives you access to its Asset Store right from the editor window. Art assets are supplied so that you instantly have materials to create your own landscape. Tutorials and sample projects are available, as well as character models and textures. Grab a sound effect or some code to simulate a great explosion effect. If you create assets you’d like to distribute, you can put them up for sale within the Asset Store.</p>
+					  		<p class="start">Unity incorporates lighting control and shading and the application of textures in order to develop rich terrains. Its built-in physics engine lets objects respond to gravity, friction, and collisions. One example is the “wheel collider,” a module that simulates the traction of real car tires. Audio processing is included, with effects like echo, reverb, and a chorus filter, as are tools to make real-time networking available from your game.</p>
+							<p class="start">Programming is handled through several flexible scripting languages—JavaScript, C#, and an implementation of Python named Boo. It has a visual interface that lets you drag and drop objects to set variables, or you can choose to sync with an external IDE  like Visual Studio. There’s an integrated debugger so that you can pause your game, check variable values, and quickly repair errors. When it’s time to optimize the performance before your final release, you can use the built-in profiler: It reports statistics on where the processing time is being spent so that you can fine tune game play.</p>
+							<p class="start">Unity is available in a free downloadable version (<span class="strongDBlue" onclick="window.open('http://unity3d.com','_blank')">unity3d.com</span>) and in a pay version, Unity 3D  Pro. The Pro version adds features but also can be licensed and used by companies. The free version of Unity can be used to create games that can be sold—there is no royalty or revenue sharing required. And there are modules that let you easily port your code to a number of target platforms: PC, iOS, Android, and web, as well as Xbox 360, PS3,  and Wii.</p>
+							<p class="start">You’ll also find an active community to support you as you learn. The Unify Community offers a Script Wiki (<span class="strongDBlue" onclick="window.open('http://unifycommunity.com/wiki','_blank')">unifycommunity.com/wiki</span>) to organize the many tutorials, tips, and programming resources that users have contributed. There is a dedicated IRC (Internet Relay Chat) channel for live chatting with Unity users. If you need help distributing your finished game, you can join Union, a service that brings your game to new markets for you.</p>
+							<p class="start">If you’re interested in video game development, architectural visualizations, or just creating interactive animations, download Unity and realize the power of programming.</p>
+							</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							
+				
+				<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig10.29.png) no-repeat scroll -6px 0px transparent;
+						  	height: 230px;margin: 7px 0 0 -9px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 10.29</span>
+							  <span class="strongDBlue" onclick="window.open('http://unity3d.com/','_blank')">Unity</span> is a free game engine that can build web, mobile, or console games.
+							</figcaption></figure>
+				</div></div></div></div>
+
+
+						<div class="additional">
+						
+						
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig10.29Big.png) no-repeat scroll 125px 36px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 10.29</span>
+								<span class="strongDBlue" onclick="window.open('http://unity3d.com/','_blank')">Unity</span> is a free game engine that can build web, mobile, or console games.
+							 
+							</figcaption>
+							</figure>
+						</div></div></div></div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="39" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig10.30Big.jpg') no-repeat scroll 42px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 10.30</span>
+						There will always be a variety of languages, each with its own personality. <em>(Luis Guillermo Restrepo Rivas)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+</chapter>
+</ebook>

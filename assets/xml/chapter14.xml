@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+	<chapter index="14" title="" glossary="0">
+	
+		<page index="0" type="ColumnColumn" distinction="contents">
+			<section>
+				<![CDATA[
+					<img src="assets/images/layout/largeGreenDashBox.png" style="float:left; margin-right:13px;" />
+					<h1 class="cond">About the Authors</h1>
+					
+					<img src="assets/images/figures/alan.jpg" class="floatPositioned" />
+					<h3>Alan Evans</h3>
+					<p class="BMargin25" style="line-height:19px;">Alan is currently a faculty member at Moore College of Art and Design and Montgomery County Community College, teaching a variety of computer science and business courses. He holds a BS in accounting from Rider University and an MS in information systems from Drexel University, and he is a certified public accountant. After a successful career in business, Alan finally realized that his true calling is education. He has been teaching at the college level since 2000. Alan enjoys giving presentations at technical conferences and meets regularly with computer science faculty and administrators from other colleges to discuss curriculum development and new methods of engaging students.</p>
+					
+					<img src="assets/images/figures/kandella.jpg" class="floatPositioned" />
+					<h3>Kendall Martin, PhD</h3>
+					<p style="line-height:19px;">Kendall is an Associate Professor at Montgomery County Community College with teaching</p>
+					<p>experience at both the undergraduate and graduate levels at a number of institutions, including Villanova University, DeSales University, Ursinus College,</p>
+					<p style="margin-left:112px;">and Arcadia University.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="cond shiftUp10">tenth<br/><span style="font-size:72px;">10</span></h2>
+					<p class="lefttransform90deg font_21 floatRight" style="color:#8f8e8e;margin-top: -56px; margin-right: -21px;">EDITION</p>
+					
+					<p class="BMargin20" style="line-height:19px;">Kendall’s education includes a BS in electrical engineering from the University of Rochester and an MS and a PhD in engineering from the University of Pennsylvania. She has industrial experience in research and development environments (AT&T Bell Laboratories), as well as experience with several start-up technology firms.</p>
+					
+					<img src="assets/images/figures/mary.jpg" class="floatPositioned" />
+					<h3>Mary Anne Poatsy, MBA</h3>
+					<p class="BMargin20" style="line-height:19px;">Mary Anne is a senior faculty member at Montgomery County Community College, teaching various computer application and concepts courses in face-to-face and online environments. She enjoys speaking at various professional conferences about innovative classroom strategies. She holds a BA in psychology and education from Mount Holyoke College and an MBA in finance from Northwestern University’s Kellogg Graduate School of Management.</p>
+					
+					<p style="line-height:19px;">Mary Anne has been in teaching since 1997, ranging from elementary and secondary education to Montgomery County Community College, Gwynedd-Mercy College, Muhlenberg College, and Bucks County Community College, as well as training in the professional environment. Before teaching, she was a vice president at Shearson Lehman Hutton in the Municipal Bond Investment Banking Department.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="font_15 BMargin5"><strong>Editor in Chief:</strong> Michael Payne</p>
+					<p class="font_15 BMargin5"><strong>Executive Acquisitions Editor:</strong> Jenifer Niles</p>
+					<p class="font_15 BMargin5"><strong>Product Development Manager:</strong> Laura Burgess</p>
+					<p class="font_15 BMargin5"><strong>Editorial Assistant:</strong> Andra Skaalrud</p>
+					<p class="font_15 BMargin5"><strong>Development Editor:</strong> Shannon LeMay-Finn</p>
+					<p class="font_15 BMargin5"><strong>Director of Marketing:</strong> Maggie Moylan Leen</p>
+					<p class="font_15 BMargin5"><strong>Marketing Coordinator:</strong> Susan Osterlitz</p>
+					<p class="font_15 BMargin5"><strong>Editor, Digital Learning & Assessment:</strong> Eric Hakanson</p>
+					<p class="font_15 BMargin5"><strong>Art Director:</strong> Jonathan Boylan</p>
+					<p class="font_15 BMargin5"><strong>Cover Design:</strong> Jonathan Boylan</p>
+					<p class="font_15 BMargin5"><strong>Cover Art:</strong> &copy; Glowimages.com/Westend61</p>
+					<p class="font_15"><strong>Design and Programming by:</strong> <span class="strongDBlue" onclick="window.open('http://www.allthingsmedia.com/','_blank')">All Things Media</span></p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="BMargin10" style="line-height:19px;">Credits and acknowledgments borrowed from other sources and reproduced, with permission, in this textbook appear on the appropriate page within the text.</p>
+					<p class="BMargin10" style="line-height:19px;">Microsoft and/or its respective suppliers make no representations about the suitability of the information contained in the documents and related graphics published as part of the services for any purpose. All such documents and related graphics are provided “as is” without warranty of any kind. Microsoft and/or its respective suppliers hereby disclaim all warranties and conditions with regard to this information, including all warranties and conditions of merchantability, whether express, implied or statutory, fitness for a particular purpose, title and non-infringement. In no event shall Microsoft and/or its respective suppliers be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of information available from the services.</p>
+					<p class="BMargin10" style="line-height:19px;">The documents and related graphics contained herein could include technical inaccuracies or typographical errors. Changes are periodically added to the information here in. Microsoft and/or its respective suppliers may make improvements and/or changes in the product(s) and/or the program(s) described herein at any time.</p>
+					<p class="BMargin10" style="line-height:19px;">Microsoft&reg; and Windows&reg; are registered trademarks of the Microsoft Corporation in the U.S.A. and other countries. This book is not sponsored or endorsed by or affiliated with the Microsoft Corporation.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p style="line-height:19px;"><strong>Copyright &copy; 2013, 2012, 2011 Pearson Education, Inc., <br/>publishing as Prentice Hall. First Digital Edition Copyright &copy; 2014.</strong></p>
+					<p class="BMargin10" style="line-height:19px;">All rights reserved. Manufactured in the United States of America. This publication is protected by Copyright, and permission should be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means, electronic, mechanical, photocopying, recording, or likewise. To obtain permission(s) to use material from this work, please submit a written request to Pearson Education, Inc., Permissions Department, 1 Lake Street, Upper Saddle River, New Jersey, 07458. </p>
+					<p class="BMargin10" style="line-height:19px;">Many of the designations by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps. CIP Data on file</p>
+					
+					<img style="height:42px;width:137px; background:no-repeat url(assets/images/figures/BigPearson.jpg) 0px 0;">
+				]]>
+			</section>
+		</page>
+	
+	</chapter>
+</ebook>

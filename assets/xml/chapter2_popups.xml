@@ -1,0 +1,1499 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="2">
+
+		<popup page="4" distinction="popupImage">
+			<section>
+				<![CDATA[
+					
+						<figure style="background:url('assets/images/figures/infoFigBig.jpg') no-repeat scroll center center transparent">
+						  <figcaption class="bottomPos normalFont">
+							<span>Figure 2.1 </span> Computers process data into information. <em>(Michaeljung/Shutterstock)</em>
+						  </figcaption>
+						</figure>
+				]]>
+			</section>
+		</popup>
+
+
+		<popup page="5" distinction="popupFeature" customscript="compTia.features.setupVideo()" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">How Much Is a Byte?</div>
+		<div class="vidLinkHeader">
+		  <a data="b" style="color:#01567a; padding-right:14px;">Byte (B)</a>
+		  <a data="kb" style="padding-right:14px;">Kilobyte (KB)</a>
+		  <a data="mb" style="padding-right:14px;">Megabyte (MB)</a>
+		  <a data="gb" style="padding-right:14px;">Gigabyte (GB)</a>
+		  <a data="tb" style="padding-right:14px;">Terabyte (TB)</a>
+		  <a data="pb" style="padding-right:14px;">Petabyte (PB)</a>
+		  <a data="eb" style="padding-right:14px;">Exabyte (EB)</a>
+		  <a data="zb" style="padding-right:14px;">Zettabyte (ZB)</a>
+		</div>
+		<div class="wideVideoGraphic">
+		  <video autoplay="autoplay" width="688" height="376">
+			<source src="assets/video/b.mp4" type="video/mp4">
+			  <source src="assets/video/b.ogv" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+
+		<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/pop/fig2.3.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 407px">
+						<span>Figure 2.3</span> (a) A tablet PC has a monitor that swivels to become a touch-sensitive input device; (b) an all-in-one computer does not need a separate tower.   				<em>(PRNewsFoto/Mindjet LLC/AP Images; PRNewsFoto/Apple/AP Images)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+
+		<popup page="7" distinction="bbFeature">
+			<section><![CDATA[
+					<div class="content">
+					  <div class="column">
+						<div class="innerColLeft">
+						  <p>
+						  <strong class="larger">Putting Your Computer to Work...</strong></p>
+						  <p><strong class="larger">While You Sleep</strong></p>
+						  <p>Complex scientific research, such as human genome exploration, requires vast computing power. Software has been developed to tie individual computers in a grid to enable them to work together. This effectively creates a cheap supercomputer that many not-for-profit research organizations use to research problems that will benefit the greater good...and your computer can help. Visit the World Community Grid (<span onclick="window.open('http://worldcommunitygrid.org','_blank')" class="strongDBlue">worldcommunitygrid.org</span>) and download its software. Once installed on your computer, it allows your computer to work on research during the many times when your CPU is idle (or at least not working to its full potential). Your computer can participate in exciting research projects on muscular dystrophy, sustainable water, and cancer. So tell your computer to get to work!</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  <figure style=
+						  	"background: url(assets/images/pics/bborbs.jpg) no-repeat scroll 0 0 transparent;
+						  	height: 257px;
+						  	margin-left: 13px;
+						  	width: 328px;">
+							<figcaption class="bottomPos">
+							  <em>(adimas/Fotolia)</em>
+							</figcaption>
+						  </figure>
+						</div>
+					  </div>
+					</div>
+			]]>
+			</section>
+		</popup>
+
+		<popup page="8" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/pics/pop/romba.jpg') no-repeat scroll center 24px transparent">
+					  <figcaption
+					  	class="bottomPos normalFont">
+						<span>Figure 2.4</span> This robot vacuum includes an embedded computer.  <em>(Jirsak/Shutterstock)</em>
+					  </figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		<popup page="9" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						<strong class="larger">What are some other alternative keyboards?</strong>
+						<br>
+						  <p>The size of laptop keyboards and other portable computer devices have become quite compact. Flexible keyboards are a terrific alternative if you want a full-sized keyboard for your laptop, net-book, or tablet. You can roll one up, fit it in your backpack, and plug it into a USB port when you need it. Another compact key-board alternative is the <em>virtual laser keyboard</em> (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 2.6</span>), which is about the size of a cell phone. It projects an image of a keyboard onto any flat surface, and sensors detect the motion of your fingers as you "type." Data is transmitted to the device via Bluetooth.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  <figure onclick="compTia.additionalPopupContent(1)" style="
+						  	background: url(assets/images/figures/fig2.6.jpg) no-repeat scroll 47px 0 transparent;
+						  	height: 100%;">
+							<figcaption class="bottomPos">
+							  <span>Figure 2.6</span>
+							  The virtual laser keyboard projects the image of a QWERTY keyboard on any surface. Sensors detect typing motions, and data is transmitted to a computing device via Bluetooth technology.
+							  <br>
+							  <em>(Martin Meissner/AP Images)</em>
+							  </figcaption>
+							</figure>
+						  </div>
+						</div>
+					  </div>
+						</div>
+						<div class="additional">
+						<div class="column">
+						  <div class="innerColLeft">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig2.6Big.jpg) no-repeat scroll 2px 0 transparent">
+							  <figcaption class="topPos" style="left: 319px;width: 341px;">
+								<span>Figure 2.6</span>
+								The virtual laser keyboard projects the image of a QWERTY keyboard on any surface. Sensors detect typing motions, and data is transmitted to a computing device via Bluetooth technology.
+								<br>
+								  <em>(Martin Meissner/AP Images)</em>
+								</figcaption>
+							  </figure>
+							</div>
+						  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+
+		<popup page="10" distinction="bbFeature">
+			<section>
+				<![CDATA[
+				<div class="content" style="height: 442px;">
+					<div class="column">
+						<div class="innerColLeft">
+							
+							<p class="lessSpacing"><strong class="larger">Switching Your Keyboard Layout</strong></p>
+							<p class="lessSpacing">The Dvorak keyboard is an alternative keyboard layout that puts the most commonly used letters in the English language on “home keys”—the keys in the middle row of the keyboard. The Dvorak keyboard’s design reduces the distance your fingers travel for most keystrokes, increasing typing speed.</p> 
+							<p class="start lessSpacing">But did you know that you can change your keyboard from the QWERTY layout to the Dvorak layout without buying a new keyboard? You can use the Windows operating system to customize the keyboard by changing the keyboard layout. The keyboard layout then controls which characters appear on the screen when you press the keys on your keyboard. If you suffer from a repetitive strain injury such as carpal tunnel syndrome, you may find it useful to switch to the Dvorak keyboard layout. You can also switch layouts to conform to different foreign languages. Instructions for changing keyboard layouts are shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 2.7</span>.</p> 
+							<p class="start lessSpacing">You might also find it useful to cover the keys on the keyboard with stickers of the corresponding characters of the newly configured layout so that the characters on your keyboard match up to the new layout.</p>
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(1)" style="
+							background: url('assets/images/figures/fig2.7.jpg') no-repeat scroll 0 0 transparent;
+							height: 343px;
+							margin-left: -20px;
+							width: 400px;">
+							<figcaption class="bottomPos">
+							<span>Figure 2.7</span> You can customize the layout of your keyboard using the Windows operating system. <br/>>To change the keyboard layout in Windows 8, open Control Panel, click
+							<strong><em>Change input methods</em></strong> in the Clock, Language, and Region section. Click the
+							<strong><em>Options</em></strong> link. Click the
+							<strong><em>Add an input method</em></strong>
+							link. Scroll to find the appropriate keyboard and click the
+							<strong><em>Preview</em></strong> 
+							link to view it. Then left-click the keyboard, and click
+							<strong><em>Add</em></strong>.
+							
+							</figcaption>
+							</figure>
+							<div class="playIcon" style="margin-left: -20px;"
+							onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_2_7.html','_blank')"></div>
+				  		</div>
+					</div>
+			  	</div>
+				<div class="additional">
+					<div class="column">
+						<div class="innerColLeft">
+							<figure class="showOverflow" onclick="compTia.additionalPopupContent(0)" style="
+								background: url(assets/images/figures/fig2.7Big.jpg) no-repeat scroll 2px 0 transparent;
+								height: 100%;
+								width: 548px;">
+								<figcaption class="topPos" style="left: 564px;width: 170px;">
+								<span>Figure 2.7</span> You can customize the layout of your keyboard using the Windows operating system. <br/>>To change the keyboard layout in Windows 8, open Control Panel, click <strong>
+								  <em>Change input methods</em>
+								</strong> in the Clock, Language, and Region section. Click the
+								<strong><em>Options</em></strong>
+								link. Click the
+								<strong><em>Add an input method</em></strong> 
+								link. Scroll to find the appropriate keyboard and click the
+								<strong><em>Preview</em></strong> link to view it. Then left-click the keyboard, and click
+								<strong><em>Add</em></strong>.
+					  			</figcaption>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+
+	  ]]>
+	</section>
+		</popup>
+		<popup page="10" distinction="readMoreFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				  <div class="content">
+					<div class="columnContain">
+					  <div class="column">
+						<div class="innerColLeft">
+						  <p class="start">If you have special ergonomic needs or want to customize the functionality of your mouse, there are plenty of options. Most mice have two or three buttons that let you execute commands and open shortcut menus. (Mice for Macs sometimes have only one button.) As shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 2.9</span>, many mice, such as the Cyborg R.A.T. 9 Gaming Mouse, have additional programmable buttons and wheels that let you quickly maneuver through web pages or games. In addition, the R.A.T. 9 is customizable to fit any size hand and grip style by allowing for length and width adjustments. Aside from gamers, many people use customizable mice to reduce susceptibility to repetitive strain injuries.</p>
+						  <p class="start">
+							<strong>How do wireless mice work?</strong> Wireless mice are similar to wireless keyboards in that they use batteries and send data to the computer by RF or Bluetooth technologies. If you have an RF wireless keyboard, then your RF wireless mouse and keyboard usually can share the same RF receiver. Wireless mice for laptops have their own receivers that often clip into the bottom of the mouse for easy storage when not in use.</p> 
+							<p class="start">Apple has developed the Magic Mouse, the first multitouch wireless mouse (see <span class="strongDBlue" onclick="compTia.additionalPopupContent()">Figure 2.10</span>). The top surface of the mouse is the button. Use your finger to scroll in any direction, swipe your finger across the mouse to move through web pages and photos, and tap on the mouse to click and double-click.
+							</p>
+						  </div>
+						</div>
+						<div class="column">
+						  <div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)"
+								style="
+								background: url(assets/images/figures/fig2.9.jpg) no-repeat scroll 0 0 transparent;															height: 315px;">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.9</span>Customizable mice offer programmable buttons and adjustable fittings to meet most any need. <em>(R.A.T.)</em>
+							  </figcaption>
+							</figure>
+							<figure style="
+								background: url(assets/images/figures/fig2.10.jpg) no-repeat scroll 0 0 transparent;															height: 262px;
+								margin-top:33px">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.10</span> 													The Magic Mouse by Apple has multitouch technology. <em>(Marcio Jose Sanchez/AP Images)</em>
+							  </figcaption>
+							</figure>
+						  </div>
+						</div>
+					  </div>
+					</div>
+					<div class="additional">
+
+						  <figure onclick="compTia.additionalPopupContent(0)"
+						  	style="
+						  	background: url(assets/images/figures/fig2.9Big.jpg) no-repeat scroll 2px 0 transparent;
+						  	height: 100%;">
+							<figcaption class="topPos" style="left: 497px; width: 246px;">
+							  <span>Figure 2.9</span> 													Customizable mice offer programmable buttons and adjustable fittings to meet most any need. <em>(R.A.T.)</em>
+							</figcaption>
+						  </figure>
+
+					</div>
+				  </div></div>
+				]]>
+			</section>
+		</popup>
+		<popup page="11" distinction="readMoreFeature">
+			<section><![CDATA[
+					  <div class="content"><div class="columnContain">
+						<div class="column">
+						  <div class="innerColLeft">
+							<p>
+							<strong>What input devices are used with games?</strong> Game controllers such as joysticks, game pads, and steering wheels are also considered input devices because they send data to the computer. Game controllers, which are similar to the devices used on gaming consoles such as the Xbox 360 and the PlayStation, are also available for use with computers. They have buttons and min-iature pointing devices that provide input to the computer. Most game controllers, such as those for Rock Band and the Wii system, are wireless to provide extra mobility.</p>
+						  </div>
+						</div>
+						<div class="column">
+						  <div class="innerColRight"></div>
+						</div>
+					  </div></div>
+					]]>
+				</section>
+		</popup>
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+				<figure style="background:url(assets/images/figures/fig2.11Big.jpg) no-repeat scroll center 61px transparent">
+				  <figcaption>
+					<span>Figure 2.11</span> Touch pads and trackpoint devices take the place of a mouse on laptop computers. <em>(Yongkai/Dreamstime)</em>
+				  </figcaption>
+				</figure>
+			]]></section>
+		</popup>
+		<popup page="11" distinction="bbFeature">
+			<section><![CDATA[
+
+			  <div class="content">
+				<div class="column">
+				  <div class="innerColLeft">
+					<p>
+					<strong class="larger">Keystroke Shortcuts</strong></p>
+					<p>Did you know that you can combine certain keystrokes to take shortcuts within an application, such as Microsoft Word, or within the operating system itself? The following are a few of the most helpful Windows-based shortcuts. For more Windows-based shortcuts, visit <span onclick="window.open('http://support.microsoft.com','_blank')" class="strongDBlue">support.microsoft.com</span>. For a list of shortcuts for Macs, see <span onclick="window.open('http://apple.com/support','_blank')" class="strongDBlue">apple.com/support</span>.</p>
+					<span class="bbBlue_arrow" onclick="compTia.additionalPopupContent(1)">CLICK TO VIEW SHORTCUT CHART</span>
+				  </div>
+				</div>
+				<div class="column">
+				  <div class="innerColRight"></div>
+				</div>
+			  </div>
+			  <div class="additional">
+				<div class="column">
+						<table class="keyShortcuts" border="0" cellpadding="0" cellspacing="10">
+						<thead><tr class="font_fff">
+							<th><div class="blueGradHeading">Text Formatting</div></th>
+							<th><div class="blueGradHeading">File Management</div></th>
+							<th><div class="blueGradHeading">CUT / COPY / PASTE</div></th>
+							<th><div class="blueGradHeading">Window Controls</div></th>
+						</tr></thead>
+						<tbody><tr>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+B</strong> applies (or removes) <strong>bold</strong> formatting to/from selected text.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+O</strong> opens the Open dialog box</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+X</strong> cuts (removes) selected text and stores it in Clipboard.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Alt+F4</strong> closes the current window.</div></div></td>
+						</tr>
+						<tr>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+I</strong> applies (or removes) <em>italic</em> formatting to/from selected text.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+N</strong> opens a new document.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+C</strong> copies selected text to Clipboard.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap">Windows Key+Tab displays open Windows 8 apps.</div></div></td>
+						</tr>
+						<tr>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+U</strong> applies (or removes) <span style="text-decoration:underline;">underlining</span> to/from selected text.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+S</strong> saves a document.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+V</strong> pastes selected text (previously cut or copied) from Clipboard.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap">Windows <strong>Key+L</strong> locks the computer.</div></div></td>
+						</tr>
+						<tr>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"></div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"><strong>Ctrl+P</strong> opens the Print dialog box.</div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap"></div></div></td>
+							<td><div class="greyGradInsetShadow displayTCell"><div class="wrap">Windows <strong>Key+F</strong> opens the Search bar in Files mode.</div></div></td>
+						</tr>
+					</tbody></table>
+				  </div>
+				</div>
+			]]>
+		</section>
+		</popup>
+		<popup page="12" distinction="popupImage">
+			<section>
+				<![CDATA[
+					<figure style="background:url(assets/images/figures/fig2.12Big.jpg) no-repeat scroll center 21px  transparent">
+					  <figcaption class="normalFont">
+						<span>Figure 2.12</span> Virtual keyboards are found on tablets and other touch-screen devices. <em>(PhotoNonStop/Glow Images)</em>
+					  </figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		<popup page="12" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url(assets/images/figures/fig2.13Big.jpg) no-repeat scroll center 45px   transparent">
+					  <figcaption class="normalFont">
+						<span>Figure 2.13</span> Video conferencing is simplified with software from <span class="strongDBlue" onclick="window.open('http://ooVoo.com','_blank')">ooVoo.com</span>
+					  </figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+
+		<popup page="13"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText">How Touch Screens Work</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>
+							Touch-screen technology was developed in 1971 and was used primarily with ATMs and fast-food order displays. The technology for monitors and other displays was made popular by the iPod Touch in 2007 and is now in many smartphones, tablet computers, and laptop and desktop monitors. Windows 8 brought the touch-screen interface to Windows users. But how do touch-screen monitors know where you’re touching? How do they know what you want them to do? </p>
+					  	<p class="start">
+					  		The basic idea behind touch screens is pretty straightforward—when you place your finger or stylus on a screen, it changes the physical state of the screen and registers your touch. The location of your touch is then translated into a command. Three basic systems are used to recognize a person’s touch: <em>resistive, capacitive,</em> and <em>surface acoustic wave</em>. All of these systems require the basic components of a touch-responsive glass panel, controller, and software driver, combined with a display and computer processor. </p>
+					 	<p class="start">
+							The <em>resistive system</em> maps the exact location of the pressure point created when a user touches the screen. The <em>capacitive system</em> (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 2.14</span>) uses the change in the electrical charge on the glass panel of the monitor, which is created by the user’s touch, to generate a location. The third technology, <em>surface acoustic wave system</em>, uses two transducers (electrical devices that convert energy from one form to another) that are placed along the <em>x</em> and <em>y</em> axes of the monitor’s glass plate. Reflectors, which are also placed on the glass, are used to reflect an electric signal sent from the sending transducer to the receiving transducer. The receiving transducer determines whether the signal has been disturbed by a touch event and locates the touch instantly. With all three systems, the display’s software driver then translates the touch into something the operating system can understand, similar to how a mouse driver translates a mouse’s movements into a click or drag. </p>
+						<p class="start">
+							Because the resistive system uses pressure to register a touch, it doesn’t matter if the touch is created by a finger or another device. On the other hand, a capacitive system must have conductive input, so generally a finger is required. The surface acoustic wave system allows touches by any object.</p>
+						<p class="start">
+					  		The iPhone introduced another complexity to the touch-screen system—a multitouch user interface. In addition to just pressing the screen in one location, multitouch technology can process multiple simultaneous touches on the screen. For example, pinching or spreading out your thumb and finger together makes the display zoom out and in, respectively. The features of each touch, such as size, shape, and location, are also determined. </p>
+					  	<p class="start">
+					  		A touch-sensitive screen, like the one used with the iPhone and iPad and with many other smartphones and tablet computers, arranges the capacitors in a coordinate system so the circuitry can sense changes at each point along the grid (<span class="strongDBlue" onclick="compTia.additionalPopupContent(2)">see Figure 2.15</span>). Consequently, every point on the grid  generates its own signal when touched, and can do so even as another signal is being generated simultaneously. The signals are then relayed to the device’s processor. This allows the device to determine the location and movement of simultaneous touches in multiple locations. </p>
+
+					  	<p class="start">After detecting the position and type of touch occurring on the display, the device’s processor combines this information with the information it has about the application in use and what was being done in the application when the touch occurred. The processor relays that information to the program in use, and the command is executed. All this happens seemingly instantaneously.</p>
+
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+
+							<figure style="
+								    background: url(assets/images/figures/fig2.14.jpg) no-repeat 0 0 transparent;
+    								height: 273px;
+    								margin-top: 406px;"
+    								onclick="compTia.additionalPopupContent(1)">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.14</span>Some basic touch screens use a capacitive system to detect touches and translate them into meaningful commands that are understood by the computer’s operating system.
+							  </figcaption>
+							</figure>
+							<figure style="
+								background: url(assets/images/figures/fig2.15.jpg) no-repeat scroll 0 0 transparent;
+								height: 496px;
+								margin-top:367px" onclick="compTia.additionalPopupContent(2)">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.15</span>
+								Multitouch screens use a coordinate-based grid to arrange the capacitors so the circuitry can detect and respond to multiple touches occurring at the same time.
+							  </figcaption></figure>
+
+
+					</div>
+				</div>
+			</div></div>
+			<div class="additional">
+						<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig2.14Big.jpg) no-repeat scroll 134px 0 transparent">
+								<figcaption style="width: 350px">
+								<span>Figure 2.14</span>Some basic touch screens use a capacitive system to detect touches and translate them into meaningful commands that are understood by the computer’s operating system.
+							  </figcaption>
+							  </figure>
+
+						</div>
+						<div class="ad">
+							<div class="column">
+						 	<div class="innerColLeft">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig2.15Big.jpg) no-repeat scroll 36px 0 transparent">
+							  
+							  </figure>
+						</div></div>
+					<div class="column">
+					<div class="innerColRight">
+						<figure class="height100"><figcaption class="topPos">
+								<span>Figure 2.15</span>
+								Multitouch screens use a coordinate-based grid to arrange the capacitors so the circuitry can detect and respond to multiple touches occurring at the same time.
+							  </figcaption></figure>
+					</div></div>
+					</div>
+				</div>
+			]]></section>
+		</popup>
+		<popup page="13" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>
+							You’ve probably heard news stories about people using computers to unleash viruses or commit identity theft. You may also have read about students who were prosecuted for illegally sharing copyrighted material such as songs and videos. These are both examples of <em>unethical</em> behavior while using a computer. However, what constitutes <em>ethical</em> behavior while using a computer?</p>
+					  	<p class="start">
+					  		Loosely defined, <em>ethics</em> is a system of moral principles, rules, and accepted standards of conduct (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 2.17</span>). So what are the accepted standards of conduct when using computers? The Computer Ethics Institute has developed the Ten Commandments of Computer Ethics, which is widely cited as a benchmark for companies developing computer usage and compliance policies for employees. These guidelines are applicable for schools and students, as well. The ethical computing guidelines listed below are based on the Computer Ethics Institute’s work:</p>
+					 	<span class="lightBlueStrong font_15">Ethical Computing Guidelines</span>
+					 	<ol style="margin-left: 8px;">
+					 		<li>Avoid causing harm to others when using computers.</li>
+					 		<li>Do not interfere with other people’s efforts at accomplishing work with computers.</li>
+					 		<li>Resist the temptation to snoop in other people’s computer files.</li>
+					 		<li>Do not use computers to commit theft.</li>
+					 		<li>Agree not to use computers to promote lies.</li>
+					 		<li>Do not use software (or make illegal copies for others) without paying the creator for it.</li>
+					 		<li>Avoid using other people’s computer resources without appropriate authorization or proper compensation.</li>
+					 		<li>Do not claim other people’s intellectual output as your own.</li>
+					 		<li>Consider the social consequences of the products of your computer labor.</li>
+					 		<li>Only use computers in ways that show consideration and respect for others.</li>
+					 	</ol>
+					 	<p class="start">The United States has enacted laws that support some of these guidelines, such as Guideline 6, the breaking of which would violate copyright laws, and Guideline 4, which is enforceable under numerous federal and state larceny laws. Other guidelines, however, require more subtle interpretation as to what behavior is unethical because there are no laws designed to enforce them. </p>
+						<p class="start">Consider Guideline 7, which covers unauthorized use of resources. The school you attend probably provides computer resources for you to use for coursework. But if your school gives you access to computers and the Internet, is it ethical for you to use those resources to run an eBay business on the weekends? Although it might not be technically illegal, you’re tying up computer resources that other students could use for their intended purpose: learning and completing coursework. (This behavior also violates Guidelines 2 and 10.) </p>
+						<p class="start">Throughout the chapters in this book, we touch on many topics related to these guidelines. So keep them in mind as you study, and think about how they relate to the actions you take as you use computers in your life.</p>
+
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  <figure onclick="compTia.additionalPopupContent(1)" style="
+						  	    background: url(assets/images/figures/fig2.17.jpg) no-repeat 0 0 transparent;
+						  	    height: 275px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 2.17</span>
+							  Strive to take the “high road” and behave ethically by not claiming others’ work as your own intellectual output. <em>(Jae C. Hong, file/AP Images)</em>
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+									<div class="additional">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig2.17Big.jpg) no-repeat scroll 118px 0 transparent">
+							<figcaption>
+							  <span>Figure 2.17</span>
+							  Strive to take the “high road” and behave ethically by not claiming others’ work as your own intellectual output. <em>(Jae C. Hong, file/AP Images)</em>
+							  </figcaption>
+							  </figure>
+
+						</div>
+			]]></section>
+		</popup>
+<popup page="13" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage shiftLeft">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Types of Microphones</div>
+			<div class="figureHeader shiftUp10"><strong>Figure 2.16</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="micTable" style="margin-top:-3px;" >
+						<thead><tr>
+							<th><div class="blueGradHeading">MICROPHONE TYPE</div></th>
+							<th><div class="blueGradHeading">ATTRIBUTES</div></th>
+							<th><div class="blueGradHeading">BEST USED FOR</div></th>
+						</tr></thead>
+						<tbody>
+						<tr class="lightestBlueGrad">
+							<td><div class="inner displayTCell">
+								<div class="micImageNext">
+									<img src="assets/images/pics/mic_closeTalk.jpg" /><br>
+									<span class="slideNext" col="1">NEXT</span></div>
+									<span class="micType">Close Talk</span>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="1">
+								<ul>
+									<li>Attached to a headset (allows for listening)</li>
+									<li>Leaves hands free</li>
+								</ul>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="1">
+								<ul>
+									<li>Video conferencing</li>
+									<li>Phone calls</li>
+									<li>Speech recognition software</li>
+								</ul>
+							</div></td>
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div class="inner displayTCell">
+								<div class="micImageNext">
+									<img src="assets/images/pics/mic_omnidirectional.jpg" />
+									<span class="slideNext" col="2">NEXT</span></div>
+									<span class="micType">Omnidirectional</span>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="2">
+								<ul>
+									<li>Picks up sounds equally well from all directions</li>
+								</ul>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="2">
+								<ul>
+									<li>Conference calls in meeting rooms</li>
+								</ul>
+							</div></td>
+						</tr>
+						<tr class="lightestBlueGrad">
+							<td><div class="inner displayTCell">
+								<div class="micImageNext">
+									<img style="margin-right:25px" src="assets/images/pics/mic_unidirectional.jpg" /><br>
+									<span class="slideNext" col="3">NEXT</span></div>
+									<span class="micType">Unidirectional</span>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="3">
+								<ul>
+									<li>Picks up sounds from only one direction</li>
+								</ul>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="3">
+								<ul>
+									<li>Recordings with one voice (podcasts)</li>
+								</ul>
+							</div></td>
+						</tr>
+						<tr class="lightBlueGrad">
+							<td><div class="inner displayTCell">
+								<div class="micImageNext">
+									<img style="margin-right:20px" src="assets/images/pics/mic_clipOn.jpg" /><br>
+									<span class="slideNext" col="4">NEXT</span></div>
+									<span class="micType">Clip-on (Lavalier)</span>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="4">
+								<ul>
+									<li>Clips to clothing</li>
+									<li>Available as wireless</li>
+								</ul>
+							</div></td>
+							<td><div class="inner displayTCell hide" col="4">
+								<ul>
+									<li>Presentations requiring freedom of movement</li>
+									<li>Leaves hands free for writing on whiteboards</li>
+								</ul>
+							</div></td>
+						</tr>
+					</tbody></table>
+					<em>(Yuri Arcurs/Fotolia; Blue Microphones; Sumnersgraphicsinc/Fotolia; Feliks Gurevich/Shutterstock)</em>
+		  </div>
+		  ]]></section>
+		</popup>
+<popup page="14" distinction="readMoreFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+							<div class="content"><div class="columnContain">
+								<div class="column">
+								  <div class="innerColLeft">
+									<p>
+									<span class="strongDBlue" glossary="organic light-emitting diode (OLED) displays">Organic light-emitting diode (OLED)</span> displays use organic compounds that produce light when exposed to an electric current. Unlike LCDs and LEDs, OLEDs do not require a backlight to function and therefore draw less power and have a much thinner display, sometimes as thin as 3 mm (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 2.18</span>). They are also brighter and more environmentally friendly than LCDs. Because of their lower power needs, OLED displays run longer on a single battery charge than do LEDs, which is why OLED technology is probably the technology used in your cell phone, iPod, and digital camera.</p>
+									<p class="start moreSpacing">
+									  <strong>How do LCD monitors work?</strong> Monitor screens are grids made up of millions of tiny dots, called <span class="strongDBlue" glossary="pixel">pixels</span>. When these pixels are illuminated by the light waves generated by a fluorescent panel at the back of your screen, they create the images you see on the screen or monitor. Each pixel is actually made up of three red, blue, and green subpixels; some newer LCD TVs on the market have even added a fourth color: yellow. LCD monitors are made of two or more sheets of material filled with a liquid crystal solution (<span class="strongDBlue" onclick="compTia.additionalPopupContent(2)">see Figure 2.19</span>) A fluorescent panel at the back of the LCD monitor generates light waves. When electric current passes through the liquid crystal solution, the crystals move around and either block the fluorescent light or let the light shine through. This blocking or passing of light by the crystals causes images to form on the screen. The various combinations of red, blue, and green make up the components of color we see on our monitors.</p>
+									</div>
+								  </div>
+								  <div class="column">
+									<div class="innerColRight">
+
+
+
+							<figure onclick="compTia.additionalPopupContent(1)"
+								style="
+								    background: url(assets/images/figures/fig2.18.png) no-repeat 40px 0 transparent;
+    								height: 385px;">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.18</span>Because they don’t need a backlight, OLED displays are much thinner than traditional screens, making LCD and LED screens seem bulky. <em>(Jae C. Hong, file/AP Images)</em>
+							  </figcaption>
+							</figure>
+							<figure onclick="compTia.additionalPopupContent(2)" style="
+								background: url(assets/images/figures/fig2.19.png) no-repeat scroll 0 0 transparent;
+								height: 262px;
+								margin-top:33px">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.19</span>
+								A magnification of a single pixel in an LCD monitor.
+							  </figcaption></figure>
+
+
+
+									</div>
+								  </div>
+							</div></div>
+					<div class="additional">
+						<div class="ad">
+						<div class="column">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig2.18Big.png) no-repeat scroll 38px 0 transparent">
+							  </figure>
+
+						  </div>
+						<div class="column">
+
+							<figure class="showOverflow height100" style="width:325px">
+							  <figcaption class="topPos">
+								<span>Figure 2.18</span>Because they don’t need a backlight, OLED displays are much thinner than traditional screens, making LCD and LED screens seem bulky. <em>(Jae C. Hong, file/AP Images)</em>
+							  </figcaption>
+							  </figure>
+
+						  </div>
+						</div>
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100 width100"
+								style="background: url(assets/images/figures/fig2.19Big.png) no-repeat scroll center 0 transparent">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.19</span>
+								A magnification of a single pixel in an LCD monitor.
+								</figcaption>
+							  </figure>
+						</div>
+
+						</div>
+				]]></section>
+		</popup>
+
+
+<popup page="14" distinction="readMoreFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">
+							<strong>Is a bigger screen size always better?</strong> The bigger the monitor, the more you can display, and depending on what you want to display, size may matter. In general, the larger the panel, the larger number of pixels it can display. For example, a 27-inch monitor can display 2560 × 1440 pixels, whereas a 21.5-inch monitor may only be able to display 1680 × 1050 pixels. However, most new monitors have at least the 1920 × 1080 resolution required to display Blu-ray movies.</p>
+					  	<p class="start moreSpacing">
+					  		Larger screens can also allow you to view multiple documents or web pages at the same time, creating the effect of using two separate monitors side by side. Buying two smaller monitors might be cheaper than buying one large monitor. For either option—a big screen or two separate screens—check that your computer has the appropriate video hardware to support these display devices.</p>
+					 	<p class="start moreSpacing">
+							<strong>What other features should I look for in an LCD monitor?</strong> Some monitors, especially those on laptop computers, come with built-in features such as speakers, webcams, and microphones. A built-in multiformat memory card reader is convenient for displaying images directly on the monitor or for downloading pictures quickly from a camera memory card to your PC. Another nice feature to look for in a desktop LCD monitor is a built-in USB port. This feature lets you connect extra peripherals easily without reaching around the back of the PC.</p>
+						<p class="start moreSpacing">
+							<strong>How do I show output to a large group of people?</strong> A projector lets you project images from your computer onto a wall or viewing screen. Projectors are commonly used in business and education settings such as conference rooms and classrooms. Many projectors are small and lightweight, and some, such as the 3M MPro 150 (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 2.21</span>), are small enough to fit in the palm of your hand. These portable projectors are ideal for businesspeople who have to make presentations at client loca-tions. Entertainment projectors, such as the Wonderwall, include stereo speakers and an array of multimedia connectors, making them a good option for use in the home to display TV programs, DVDs, digital images, or video games in a large format. If your computer is equipped with an HDMI port, you can also choose to connect your computer directly to an HDTV.</p>
+					</div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)"
+								style="
+								background: url(assets/images/figures/fig2.21.jpg) no-repeat scroll 0 0 transparent;
+								height: 158px;
+							    margin-top: 550px;">
+							  <figcaption class="bottomPos">
+								<span>Figure 2.21</span> Inexpensive projectors are showing up more frequently in business and the home to provide large images for movie viewing and gaming. <em>(3M)</em>
+							  	</figcaption>
+							</figure>
+						  </div>
+						</div>
+				</div></div>
+					<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig2.21Big.jpg) no-repeat scroll 0 46px transparent">
+							  <figcaption>
+								<span>Figure 2.21</span>
+								Inexpensive projectors are showing up more frequently in business and the home to provide large images for movie viewing and gaming. 
+								  <em>(3M)</em>
+								</figcaption>
+							  </figure>
+
+						</div>
+			]]></section>
+		</popup>
+
+		<popup page="14" distinction="bbFeature">
+			<section><![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Testing and Calibrating Your PC Monitor</strong>
+								<p>Most new PC monitors don’t need color or tint adjustments, but some can benefit from a few tweaks that will ultimately enhance your video experience. This might be especially important if you’re a web designer, digital photographer, or graphics professional. In those professions especially, you want to make sure the colors are displayed on the monitor as accurately as possible. Before you start the calibration process, check that your monitor is set to the “native” resolution (usually the recommended setting). Some monitors have their own calibration program; otherwise, you can work through the adjustments manually or use the display utility in your operating system.</p>
+								<p class="start">If you’re running Windows 7 or 8, you can use the Display Color Calibration utility found by displaying the Control Panel and then clicking Appearance and Personalization. Click Display, and then in the Navigation Pane, click Calibrate color. The Display Color Calibration utility will check the gamma,</p>
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								<p>brightness, contrast, and color balance settings. Gamma describes the relationship between the varying levels of brightness a monitor can display. Brightness determines how dark colors appear on your display. When brightness is set too high, dark colors appear washed out. Contrast determines how white and light colors display. (Note that most laptop computers don’t have controls to adjust contrast.) Color balance makes adjustments to the red, blue, and green controls.</p>
+							</div>
+						  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		<popup page="15" distinction="popupFeature" customscript="compTia.features.setupVideo('ratio')" closescript="$('.arrowLeft,.arrowRight','#features').off('click')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage monitor">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Factors to Consider When Shopping for a Monitor</div>
+		<div class="vidLinkHeader">
+
+		  <a data="ratio" style="color:#01567a; padding-right:47px;">Aspect Ratio</a>
+		  <a data="resolution" style="padding-right:47px;">Screen Resolution</a>
+		  <a data="contrast" style="padding-right:47px;">Contrast Ratio</a>
+		  <a data="angle" style="padding-right:47px;">Viewing Angle</a>
+		  <a data="brightness" style="padding-right:47px;">Brightness</a>
+		  <a data="response" style="padding-right:47px;">Response Time</a>
+		</div>
+		<div class="monitorActiveGraphic">
+		  <video autoplay="autoplay" width="790" height="432" class="noLMargin">
+			<source src="assets/video/bitsbytes/b.mp4" type="video/mp4">
+			  <source src="assets/video/bitsbytes/b.ogv" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+
+
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+				<figure style="background:url(assets/images/figures/fig2.22Big.jpg) no-repeat scroll center 30px transparent">
+				  <figcaption class="normalFont">
+					<span>Figure 2.22</span> Inkjet printers are popular among home users, especially with the rise of digital photography. Many inkjet printers are optimized for printing photos from digital cameras.  <em>(TheVectorminator/Shutterstock)</em>
+				  </figcaption>
+				</figure>
+			]]></section>
+		</popup>
+		<popup page="16" distinction="popupImage">
+			<section><![CDATA[
+				<figure style="background:url(assets/images/figures/fig2.23Big.jpg) no-repeat scroll center 41px transparent">
+				  <figcaption class="normalFont">
+					<span>Figure 2.23</span>
+						Laser printers print quickly and offer high-quality printouts.
+						<em>(Xerox Corporation)</em>
+				  </figcaption>
+				</figure>
+			]]></section>
+		</popup>
+		<popup page="16" distinction="readMoreFeature">
+			<section><![CDATA[
+
+			<div class="content"><div class="columnContain">
+				<div class="column">
+				  <div class="innerColLeft">
+					<p>Laser printers are often used in office or classroom settings because they print faster than inkjet printers and produce higher-quality printouts. Black-and-white laser printers have also been common in homes for a decade. Over the past few years, the price of color laser printers has fallen dramatically, making them price competitive with high-end inkjet printers. Thus, color laser printers are a viable option for the home. If you print a high volume of pages, consider a laser printer. When you include the price of ink or toner in the overall cost, color laser printers can be more economical than inkjets.</p>
+					<p class="moreSpacing start">
+					  <strong>Why should I consider a wireless printer?</strong> One reason you may have bought a laptop was to use a computer without the restriction of wires. Wireless printing offers you the same freedom. In addition, wireless printers let several people print to the same printer from different places. There are two types of wireless printers: WiFi and Bluetooth. Both WiFi and Bluetooth printers have a range of up to approximately 300 feet. WiFi, however, sends data more quickly than Bluetooth.</p>
+					</div>
+				  </div>
+				  <div class="column">
+					<div class="innerColRight">
+					  <p class="start moreSpacing">Wireless printers are also great for printing from portable devices. If you’re using a device running Apple’s iOS (such as an iPhone), AirPrint makes printing easy. AirPrint is a feature of iOS that facilitates printing to AirPrint-compatible wireless printers, and many printers produced today are AirPrint compatible.</p>
+					  <p class="moreSpacing start">
+						<strong>Can I carry my printer with me?</strong> Although some inkjet printers are small enough to be considered portable, you may want to consider a printer designed for portability. These compact printers can connect to your computer, camera, or smartphone via Bluetooth technology or through a USB port. Portable printers are often compact enough to fit in a briefcase or backpack, are lightweight, and can run on batteries as well as AC power.</p>
+					  </div>
+					</div>
+				  </div></div>
+					]]></section>
+		</popup>
+
+		<popup page="17" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.24Big.jpg') no-repeat scroll -20px 91px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.24</span> Specialty printers: (a) all-in-one printer, (b) plotter, (c) thermal printer. 
+					  (<em>Adisa/Fotolia; Provided Courtesy of Xerox Corporation; Zebra Technologies</em>)
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		<popup page="17" distinction="bbFeature">
+			<section><![CDATA[
+
+					  <div class="content">
+						<div class="column">
+						  <div class="innerColLeft">
+							<p class="lessSpacing">
+							<strong class="larger">Does It Matter What Paper I Print On?</strong></p>
+							<p>The quality of your printer is only part of what controls the quality of a printed image. The paper you use and the printer settings that control the amount of ink used are equally important.</p>
+							<ul class="dotted lessSpacing">
+								<li><span class="innerLi">If you’re printing text-only documents for personal use, using low-cost paper is fine. You also may want to consider selecting draft mode in your printer settings to conserve ink. However, if you’re printing more formal documents, such as business correspondence, you may want to choose a higher-quality paper (determined by the paper’s weight, whiteness, and  brightness) and adjust your print setting to "normal" or "best."</span></li>
+								<li><span class="innerLi">The weight of paper is measured in pounds, with 20 pounds being standard. A heavier paper may be best for projects such as brochures, but be sure to check that your printer can handle the added thickness of the paper.</span></li>
+								<li><span class="innerLi">The degree of paper whiteness is a matter of personal preference. Generally, the whiter the paper, the brighter the printed color. However, for more-formal documents, you may want to use a creamier color.</span></li>
+							</ul>
+						  </div>
+						</div>
+						<div class="column">
+						  <div class="innerColRight">
+							<ul class="dotted lessSpacing">
+								<li><span class="innerLi">The brightness of paper usually varies from 85 to 94. The
+  higher the number, the brighter the paper, and the easier it is
+  to read printed text.</span></li>
+								<li><span class="innerLi">Opacity, or the “show through” of ink from one side of the
+  paper to the other, is especially important if you’re printing on
+  both sides of the paper.</span></li>
+							</ul>
+							<p class="lessSpacing">	If you’re printing photos, paper quality can have a big impact on your results. Photo paper is more expensive than regular paper and comes in a variety of textures ranging from matte to high gloss. For a photo-lab look, high-gloss paper is the best choice. Semigloss (often referred to as satin) is good for formal portraits, while a matte surface is often used for black-and-white photo printing.</p>
+						  </div>
+						</div>
+					  </div>
+				]]></section>
+		</popup>
+
+
+	<popup page="18" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Major Printer Attributes</div>
+			<strong>Figure 2.25</strong> Click on arrows to reveal the table
+					<table border="0" cellpadding="0" cellspacing="10" class="printerTable">
+						
+						<tbody>
+				<tr class="lightestBlueGrad">
+						<td><img src="assets/images/layout/table/attribute.jpg" /></td>
+						<td><div class="lightBlueGrad"><div class="wrap" style="padding-top:3px;"><strong>Speed</strong><br>
+								<img src="assets/images/charts/rocket.jpg" />
+						<div col="1" class="lbDownArrowBL">NEXT</div>
+							</div></div></td>
+						<td><div><div class="wrap" style="padding-top:3px;"><strong>Resolution</strong><br>
+								<img src="assets/images/charts/eyeglass.jpg" />
+						<div col="2" class="lbDownArrowBL">NEXT</div>
+							</div></div></td>
+						<td><div class="lightBlueGrad"><div class="wrap" style="padding-top:3px;"><strong>Color Output</strong><br>
+								<img src="assets/images/charts/stackofmoney.jpg" />
+						<div col="3" class="lbDownArrowBL">NEXT</div>
+							</div></div></td>
+						<td><div><div class="wrap" style="padding-top:3px;"><strong>Cost of Consumables</strong><br>
+								<img src="assets/images/charts/waveofcolor.jpg" />
+						<div col="4" class="lbDownArrowBL">NEXT</div>
+							</div></div></td>
+				</tr>
+				<tr class="lightestBlueGrad">
+					<td><img src="assets/images/layout/table/considerations.jpg" /></td>
+					<td><div col="1" class="lightBlueGrad"><div class="wrap">
+					<ul>
+					<li>Print speed is measured in pages per minute (<em>PPM</em>).</li>
+					<li>Black-and-white documents print faster than color documents.</li>
+					<li>Laser printers often print faster than inkjets.</li></ul></div></div></td>
+					
+					<td><div col="2"><div class="wrap">
+					<ul>
+					<li>Resolution refers to a printer’s image clarity.</li>
+					<li>Resolution is measured in dots per inch (<em>dpi</em>).</li>
+					<li>Higher dpi = greater level of detail and clarity.</li>
+					<li>Recommended dpi:</li>
+					<li class="noListStyle">
+						<ul class="discListStyle">
+						<li>Black-and-white text: 300</li>
+						<li>General purpose images: 1200</li>
+						<li>Photos: 4800</li></ul></li>
+					</ul>
+					</div></div></td>
+					
+					<td><div col="3" class="lightBlueGrad"><div class="wrap">
+					<ul style="line-height: 14px;">
+					<li>Printers with separate cartridges for each color produce the best quality output.</li>
+					<li>Inkjet and laser color printers generally have four colors (black, cyan, magenta, and yellow).</li>
+					<li>Higher-quality printers have six cartridges (the four above plus light cyan and light magenta).</li>
+					<li>With separate cartridges, you only need to replace the empty one.</li></ul></div></div></td>
+					
+					<td><div col="4"><div class="wrap">
+					<ul>
+					<li>Consumables are printer cartridges and paper.</li>
+					<li>Printer cartridges can exceed the cost of some printers.</li>
+					<li>Consumer magazines such as <em>Consumer Reports</em> can help you research costs.</li></ul></div></div></td>
+				</tr>
+			</tbody></table>
+		
+		  ]]></section>
+		</popup>
+		
+		<popup page="23" distinction="popupFeature" customscript="compTia.features.setupVideo('single')" closescript="">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage cores">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Processors</div>
+		<div class="vidLinkHeader">
+		  <a data="single"  style="color:#01567a">SINGLE-CORE</a>
+		  <a data="double" >DUAL-CORE</a>
+		</div>
+		
+		<div class="coresActiveGraphic">
+		  <video autoplay="autoplay" width="768" height="420" class="Lmargin10">
+			<source src="assets/video/single.mp4" type="video/mp4">
+			  <source src="assets/video/single.ogv" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="24" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.28Big.png') no-repeat scroll center 91px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.28</span> (a) Internal hard drives are a computer’s primary nonvolatile storage. (b) External hard drives are often used to back up data from internal hard drives.
+					  <em>(Ragnarock/Shutterstock; Utflytter/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.29Big.png') no-repeat scroll center 91px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.29</span> Smaller, portable external hard drives enable you to take a significant amount of data and programs on the road with you. 
+					  <em>(Inga Nielsen/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		
+		<popup page="25" distinction="bbFeature">
+			<section>
+				<![CDATA[
+
+						<div class="content">
+						  <div class="column">
+							<div class="innerColLeft">
+								<strong class="font_16">Taking Care of Flash Drives</strong>
+								<p>Although they’re fairly rugged and can withstand much abuse, flash drives can fail. Therefore, it’s important to know how to care for your flash drive to extend its life and keep your data safe.</p>
+								<ol>
+									<li>Don’t expose your flash drive to moisture or extreme temperatures.</li>
+									<li>Keep the end covered or closed when not in use. This prevents dust and other particles from interfering with the connections.</li>
+									<li>Never “defragment” a flash drive, as doing so can reduce its life expectancy.</li>
+									<li>A flash drive has a limited amount of writes in its lifetime. Depending on the device, it could be 10,000 or 100,000, which seems like a lot. However, over years of extensive use, the number of writes will add up. It’s best to make edits to documents on the computer and then transfer the finished document to your flash drive.</li>
+								</ol>	
+							</div>
+						  </div>
+						  <div class="column">
+							<div class="innerColRight">
+								<ol>
+									<li class="liHide"></li>
+									<li class="liHide"></li>
+									<li class="liHide"></li>
+									<li class="liHide"></li>
+									<li>Remove the flash drive correctly. All files and folders must be closed, with no active documents running, before the device is removed. To properly eject the device, use the “Safely remove hardware” feature in the taskbar, or select Eject from Windows Explorer (called File Explorer in Windows 8). (Mac users should select Eject from the Finder menu.) If you find that you can’t eject the flash drive using these methods, power down the computer before removing the drive.</li>
+								</ol>
+							</div>
+						  </div>
+						</div>
+
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="25" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.30Big.png') no-repeat scroll 210px 45px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.30</span> Flash drives are a convenient means of portable storage and come in many different shapes and sizes.
+					  <em>(Rafael Angel Irusta Machin/Alamy; Handout/KRT/Newscom)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="26" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage drive">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Hard Drive and Flash Drive Storage Capacity</div>
+			<strong>Figure 2.31</strong> Click on arrows to reveal the table</span>
+					<table border="0" cellpadding="0" cellspacing="10" class="horzTable">
+						<tbody>
+						<tr class="lightBlueGrad">
+							<td><img src="assets/images/layout/table/driveType.jpg" /></td>
+							<td><div><span>Solid-state drive (SSD)</span>
+									<div col="1" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><span>External portable hard drive</span>
+									<div col="2" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div><span>Mechanical internal hard drive</span>
+									<div col="3" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><span>Flash drive</span>
+									<div col="4" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div><span>Flash memory card</span>
+									<div col="5" class="lbDownArrowBL">NEXT</div></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><img src="assets/images/layout/table/image.jpg" /></td>
+							<td><div class="alignCenter" style="height: 179px;" col="1"><img src="assets/images/charts/SSDcard.jpg" /></div></td>
+							<td><div class="alignCenter" style="height: 179px;" col="2" class="lightestBlueGrad"><img src="assets/images/charts/PortableDrive.jpg" /></div></td>
+							<td><div class="alignCenter" style="height: 179px;" col="3"><img src="assets/images/charts/InternalDrive.png" /></div></td>
+							<td><div class="alignCenter" style="height: 179px;" col="4" class="lightestBlueGrad"><img src="assets/images/charts/FlashDrive.png" /></div></td>
+							<td><div class="alignCenter" style="height: 179px;" col="5"><img src="assets/images/charts/SanDisk.png" /></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><img src="assets/images/layout/table/typCapacity.jpg" /></td>
+							<td><div col="1"><span>5 TB or more</span></div></td>
+							<td><div col="2" class="lightestBlueGrad"><span>4 TB or more</span></div></td>
+							<td><div col="3"><span>As much as 6 TB or more</span></div></td>
+							<td><div col="4" class="lightestBlueGrad"><span>256 GB or more</span></div></td>
+							<td><div col="5"><span>128 GB</span></div></td>
+						</tr>
+					</tbody></table>
+					<p class="shiftLeft17"><em>(Oleksiy Mark/iStockphoto; Joel-t/iStockphoto; D. Hurst/Alamy; Cphoto/Fotolia; ZUMA Wire Service/Alamy)</em></p>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="26" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage optical">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Optical Storage Media Capacities</div>
+			<strong>Figure 2.32</strong> Click on arrows to reveal the table
+					<table border="0" cellpadding="0" cellspacing="10" class="horzTable">
+						<tbody>
+						<tr class="lightBlueGrad">
+							<td><img src="assets/images/layout/table/medType.jpg" /></td>
+							<td><div><span>Blu-ray (dual layer)</span>
+									<div col="1" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><span>Blu-ray</span>
+									<div col="2" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div><span>DVD DL (dual layer)</span>
+									<div col="3" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div class="lightestBlueGrad"><span>DVD</span>
+									<div col="4" class="lbDownArrowBL">NEXT</div></div></td>
+							<td><div><span>CD</span>
+									<div col="5" class="lbDownArrowBL">NEXT</div></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><img src="assets/images/layout/table/image.jpg" /></td>
+							<td><div class="alignCenter" style="height: 179px" col="1"><img src="assets/images/charts/BlueRay.png" /></div></td>
+							<td><div class="alignCenter" style="height: 179px" col="2" class="lightestBlueGrad"><img src="assets/images/charts/BD-R.png" /></div></td>
+							<td><div class="alignCenter" style="height: 179px" col="3"><img src="assets/images/charts/DoubleSideDisk.png" /></div></td>
+							<td><div class="alignCenter" style="height: 179px" col="4" class="lightestBlueGrad"><img src="assets/images/charts/DVD-R.png" /></div></td>
+							<td><div class="alignCenter" style="height: 179px" col="5"><img src="assets/images/charts/TDK.png" /></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><img src="assets/images/layout/table/typCapacity.jpg" /></td>
+							<td><div col="1"><span>50 GB</span></div></td>
+							<td><div col="2" class="lightestBlueGrad"><span>25 GB</span></div></td>
+							<td><div col="3"><span>8.5 GB</span></div></td>
+							<td><div col="4" class="lightestBlueGrad"><span>4.7 GB</span></div></td>
+							<td><div col="5"><span>700 MB</span></div></td>
+						</tr>
+						
+					</tbody></table>
+					<p class="shiftLeft17"><em>(PRNewsFoto/Sony Electronics Inc/AP Images; Coyote-Photography.co.uk/Alamy; dimedrol68/Fotolia; Niels Poulsen/Alamy; Studio 101/Alamy)</em></p>
+		  </div>
+		  ]]></section>
+		</popup>
+		<popup page="27" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.33Big.jpg') no-repeat scroll 30px 0 transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.33</span>
+						Many of the same ports appear on both (a) desktop and (b) laptop computers.
+						<em>(Restyler/Fotolia; Alexkar08/Shutterstock)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+
+                                                                     
+                                                                     
+                                             
+<popup page="28" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.34Big.png') no-repeat scroll center 0 transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.34</span>
+						Common data transfer and connectivity ports. Each port is represented by a standard icon.
+						<em>(jStock/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="29" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.35Big.png') no-repeat scroll center 52px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.35</span>
+						Video ports (VGA ports) connect monitors and multimedia devices to the computer; audio ports are used to connect speakers, headphones, and microphones. 
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="29" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.36Big.jpg') no-repeat scroll center 91px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.36</span>
+						VGA (left) and DVI (right) cables are used to connect LCD monitors to computers.
+						<em>(Marek Kosmal/Fotolia)</em> 
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="29" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.37Big.jpg') no-repeat scroll center 91px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.37</span>
+						HDMI is the latest digital connector type for HD home theater equipment.
+						<em>(DSGPro/iStockphoto)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="30" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.38Big.jpg') no-repeat scroll center 0 transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.38</span>
+						Expansion cards can (a) fit on the motherboard in a desktop computer or (b) in a card slot on your laptop to provide your computer with additional ports.
+						<br/><em>(Andrew Kitching/Alamy; Editorial Image, LLC/Alamy)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="30" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.39Big.jpg') no-repeat scroll center 30px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.39</span>
+						If you don’t have enough USB ports to support your USB devices, consider getting an expansion hub, which can add four or more USB ports to your system.
+						<br/><em>(Norman Chan/Fotolia)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="31" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+					<div class="column">
+					  <div class="innerColLeft">
+						  <p class="start">In Sleep mode, the computer enters a state of greatly reduced power consumption, which saves energy. To put your computer into Sleep mode in Windows 8, display the Charms bar, click (or touch) the Setting option, then click Power option and select the Sleep option. To wake up your computer, press a key or the power button. In a few seconds, the computer will resume with exactly the same programs running and documents displayed as when you put it to sleep.</p> 
+						  <p class="start">If you don’t ever want to completely turn off your computer, you can change what happens when you press the power button or close the lid on your laptop. By accessing the Power Options System Settings window (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 2.40</span>), you can decide if you want your computer to Sleep, Hibernate, or Shut Down when you press the power button.</p>
+						</div>
+					  </div>
+					  <div class="column">
+						<div class="innerColRight">
+						  <figure onclick="compTia.additionalPopupContent(1)" 
+						  style="background: url(assets/images/figures/fig2.40.jpg) no-repeat scroll 0px 0 transparent;
+						  	height: 272px;">
+							<figcaption class="bottomPos" style="background: no-repeat scroll bottom 0px transparent">
+							  <span>Figure 2.40</span>
+							  You can determine what happens when you click the power button on your computer or close the lid through the Power Options System Settings screen.
+							</figcaption>
+							</figure>
+							<br>
+						<p class="italic" style="width: 350px;">>To access Power Options System Settings, display the Control Panel, click <strong>Hardware and Sound</strong>, and then select <strong>Change what the power buttons</strong> do under Power Options.
+						<div class="playIcon" style="bottom:45px"
+							 onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_2_40.html','_blank')"></div></p>
+					
+							
+						  </div>
+						</div>
+					  </div>
+						</div>
+						<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig2.40Big.jpg) no-repeat scroll 0 0px transparent">
+							  <figcaption class="rightPos" style="width: 250px;bottom:100px">
+							  <span>Figure 2.40</span>
+								You can determine what happens when you click the power button on your computer or close the lid through the Power Options System Settings screen.				 
+							</figcaption>
+							<p style="float: right;
+									  margin-top: 322px;
+									  line-height:21px;
+									  font-style: italic;
+									  width: 253px;">
+									  >To access Power Options System Settings, display the Control Panel, click <strong>Hardware and Sound</strong>, and then select <strong>Change what the power buttons</strong> do under Power Options.</p>
+							</figure>
+						</div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="32" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.41Big.png') no-repeat scroll center 95px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.41</span>
+						The Settings panel in Windows 8 presents several power options. For a warm boot, choose <strong>Restart</strong>. To power down the computer completely, choose <strong>Shut down</strong>. To put your computer into a lower power mode, select <strong>Sleep</strong>.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="33" distinction="readMoreFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+			<div class="content"><div class="columnContain">
+				<div class="column">
+				  <div class="innerColLeft">
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Purchase an adjustable chair.</strong> Adjust the height of your chair so that your feet touch the floor (or use a footrest to get the right position). The back support needs to be adjustable so that you can position it to support your lumbar (lower back) region. You should also be able to move the seat or adjust the back so that you can sit without exerting pressure on your knees. If your chair doesn’t adjust, place a pillow behind your back to provide support.</span></li>
+						<li><span class="innerLi"><strong>Assume a proper position while typing.</strong> Improperly positioned keyboards are one of the leading causes of repetitive stress  injuries in computer users. Your wrists should be flat (not bent) with respect to the keyboard, and your forearms should be parallel to the floor. Additionally, your wrists should not be resting on the keyboard while typing. You can adjust the height of your chair or install a height-adjustable keyboard tray to ensure a proper position. Specially designed ergonomic keyboards such as the one shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 2.43</span> can help you achieve the proper wrist position.</span></li>
+						<li><span class="innerLi"><strong>Take breaks.</strong> Remaining in the same position for long periods of time increases stress on your body. Shift your position in your chair and stretch your hands and fingers periodically. Likewise, staring at the screen for long periods can lead to eyestrain, so rest your eyes by periodically taking them off the screen and focusing them on an object at least 8 feet away.</span></li>
+						<li><span class="innerLi"><strong>Ensure the lighting is adequate.</strong> Ensuring that you have proper lighting in your work area minimizes eyestrain. Eliminate sources of direct glare (light shining directly into your eyes) or reflected glare (light shining off the computer screen) and ensure there is enough light to read comfortably. If you still can’t eliminate glare from your computer screen, you can buy an an-tiglare screen to place over your monitor.</span></li>
+					</ul>
+
+					</div>
+				  </div>
+				  <div class="column">
+					<div class="innerColRight">
+					<figure onclick="compTia.additionalPopupContent(1)" 
+						  style="background: url(assets/images/figures/fig2.43.png) no-repeat scroll 0px 0 transparent;
+						  	height: 226px;margin-top:178px">
+							<figcaption class="bottomPos">
+							  <span>Figure 2.43</span>
+							   Ergonomic keyboards that curve and contain built-in wrist rests help maintain proper hand position and minimize wrist strain. 
+							   <em>(Dmitry Melnikov/Shutterstock)</em>
+							</figcaption></figure>
+							</div>
+					</div>
+				  </div></div>
+				<div class="additional">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig2.43Big.png) no-repeat scroll center -24px transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 2.43</span>
+								 Ergonomic keyboards that curve and contain built-in wrist rests help maintain proper hand position and minimize wrist strain. 
+								 <br/> <em>(Dmitry Melnikov/Shutterstock)</em>
+							 
+							</figcaption>
+							</figure>
+						</div>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="33" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.42Big.jpg') no-repeat scroll center 15px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.42</span>
+						Using proper equipment that is adjusted correctly helps prevent repetitive strain injuries while working at a computer.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="34" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage injuries">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes" style="margin-bottom:9px">Preventing Injuries While on the Go</div>
+			<strong>Figure 2.44</strong> Click on arrows to reveal the table
+					<table border="0" cellpadding="0" cellspacing="10" class="gridTable">
+						<thead>
+							<tr>
+								<th><div class="blueGradHeading"></div></th>
+								<th><div class="blueGradHeading" style="width:132px"><span>PDA/SMARTPHONE REPETITIVE STRAIN INJURIES</span>
+								<div col="1" class="lbDownArrowBL">NEXT</div>
+										</div></th>
+								<th><div class="blueGradHeading" style="width:132px"><span>Portable Media Player Hearing Damage</span>
+								<div col="2" class="lbDownArrowBL">NEXT</div>
+										</div></th>
+								<th><div class="blueGradHeading" style="width:132px"><span>Small-Screen Vision Issues</span>
+								<div col="3" class="lbDownArrowBL">NEXT</div>
+										</div></th>
+								<th><div class="blueGradHeading" style="width:132px"><span><br><br>Lap Injuries</span>
+								<div col="4" class="lbDownArrowBL">NEXT</div>
+										</div></th>
+								<th><div class="blueGradHeading" style="width:132px"><span>Tablet Repetitive Strain Injuries</span>
+								<div col="5" class="lbDownArrowBL">NEXT</div>
+										</div></th>
+							</tr>
+						</thead>
+						<tbody>
+						<tr>
+							<td><div class="widthAuto"></div></td>
+							<td><div col="1"><img src="assets/images/charts/texting.png" />
+							</div></td>
+							<td><div col="2" class="lightestBlueGrad"><img src="assets/images/charts/EarBuds.png" />
+							</div></td>
+							<td><div col="3"><img src="assets/images/charts/MobileScreen.png" />
+							</div></td>
+							<td><div col="4" class="lightestBlueGrad"><img src="assets/images/charts/laptopFire.png" />
+							</div></td>
+							<td><div col="5"><img src="assets/images/charts/Tablet.png" />
+							</div></td>
+						</tr>
+						
+						<tr>
+							<td><img src="assets/images/layout/table/malady.jpg" /></td>
+							<td><div col="1"><span>Repetitive strain injuries (such as DeQuervain’s tendonitis) from constant typing of instant messages</span></div></td>
+							<td><div col="2" class="lightestBlueGrad"><span>Hearing loss from high-decibel sound levels in earbuds</span></div></td>
+							<td><div col="3"><span>Blurriness and dryness caused by squinting to view tiny screens on mobile devices</span></div></td>
+							<td><div col="4" class="lightestBlueGrad"><span>Burns on legs from heat generated by laptop</span></div></td>
+							<td><div col="5"><span>Pain caused from using tablets for prolonged periods in uncomfortable positions</span></div></td>
+						</tr>
+						
+						<tr>
+							<td><img src="assets/images/layout/table/PreventativeMeasures.jpg" /></td>
+							<td><div col="1"><span>Restrict length and frequency of messages, take breaks, and perform other motions with your thumbs and fingers during breaks to relieve tension.</span></div></td>
+							<td><div col="2" class="lightestBlueGrad"><span>Turn down volume (you should be able to hear external noises, such as people talking), use software that limits sound levels (not to exceed 60 decibels), and use external, over-ear style headphones instead of earbuds.</span></div></td>
+							<td><div col="3"><span>Blink frequently or use eye drops to maintain moisture in eyes, after 10 minutes take a break and focus on something at least 8 feet away for 5 minutes, use adequate amount of light, and increase the size of fonts.</span></div></td>
+							<td><div col="4" class="lightestBlueGrad"><span>Place a book, magazine, or laptop cooling pad between your legs and laptop.</span></div></td>
+							<td><div col="5"><span>Restrict the length of time you work at a tablet, especially typing or gaming. Use the same ergonomic position you would use for a laptop when using a tablet.</span></div></td>
+						</tr>
+						
+					</tbody></table>
+		  </div>
+		  ]]></section>
+		</popup>
+		<popup page="34" distinction="readMoreFeature">
+			<section><![CDATA[
+					  <div class="content"><div class="columnContain">
+						<div class="column">
+						  <div class="innerColLeft">
+							<p class="start">People with motor control issues may have difficulty with pointing devices. To aid such users, special trackballs are available that can be easily manipulated with one finger and can be attached to almost any surface, including a wheelchair. When arm motion is severely restrained, head-mounted pointing devices can be used. Generally, these involve a camera mounted on the computer monitor and a device attached to the head (often installed in a hat). When the user moves his or her head, the camera detects the movement and moves the cursor. In this case, mouse clicks are controlled by a switch that can be manipulated by the user’s hands or feet or even by using an instrument that fits into the mouth and senses the user blowing into it.</p>
+						  </div>
+						</div>
+						<div class="column">
+						  <div class="innerColRight"></div>
+						</div>
+					  </div></div>
+					]]>
+				</section>
+		</popup>
+		<popup page="35" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig2.45Big.png') no-repeat scroll center 130px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 2.45</span>
+						(a) Input consoles for people who can’t type with their hands and (b) keyboards designed for one-handed use make computer interaction easier for individuals with disabilities. <em>(www.maltron.com; www.maltron.com)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		<popup page="35" distinction="trendsFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText">Innovations in Printing</div>
+				<div class="content"><div class="columnContain">
+					<div class="column">
+						<div class="innerColLeft">
+							<p>With the advent of the computer, many speculated that ours would become a paperless society. Instead of saving printed documents and other output as was done prior to the PC, information would be saved in a digital state: hard drives replacing filing cabinets, online photo buckets replacing photo albums and scrapbooks, and e-books replacing our favorite texts. Hard drive capacities do enable us to save more content, and online storage systems enable us to save pictures and other files to the “cloud.” Additionally, e-book readers have increased in popularity. But has this push toward digital content begun to make the printer obsolete? Surprisingly, no. People still have a deep-rooted need to see, feel, mark, share, or use their digital images or information in a physical form. New technologies that push the boundaries of printing, such as printing from the cloud and 3-D printing, are being developed and refined.</p>
+					  		
+					  		<h2 class="blueHeading">Cloud Printing</h2>
+					  		
+					  		<p>
+								To print a document from a desktop or laptop computer, you must have a printer associated with your computer. Usually this is not a problem because at home, at school, or in the office, there is generally one printer, and all the PCs connected to it have the software and cables or wireless capabilities needed to use it. But what happens if you want to print something from your smartphone or tablet? Common solutions have been to e-mail the document to yourself or transfer the document to a web-based storage service such as Dropbox so that a printer-connected computer could access it. Another solution is Google Cloud Print, a service that lets you configure your printers so you can access them from mobile devices.</p> 
+								<p class="start">Google Cloud Print uses cloud-ready printers (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 2.46</span>) that are now available from manufacturers such as HP, Kodak, and Epson. These printers connect directly to the Internet and register themselves with Google Cloud Print without needing to be connected to a computer. Once a printer is registered with Cloud Print, printing jobs can be sent to it from mobile devices (such as tablets and smartphones) using the Internet. Conventional printers that you already own can also be registered with Cloud Print, although they require connection to the Internet through a computer.</p>
+							
+							<h2 class="blueHeading">3-D Printing</h2>
+					  		
+					  		<p>Printing a 3-D model of a proposed building or new prototype is common for architects and engineers. The process builds a model one layer at a time from the bottom up. The procedure begins by spreading a layer of powder on a platform. Then, depending on the technology, the printer uses nozzles similar to those in an inkjet printer to spray tiny drops of glue at specific places to solidify the powder, or the powder is solidified through a melting process. The printer repeats solidifying layers of powder until the model is built to specifications. This technology has spurred the manufacturing of a variety of consumer goods, from toys to clothing. Shapeways (<span class="strongDBlue" onclick="window.open('http://shapeways.com','_blank')">shapeways.com</span>) uses 3-D printing to enable anyone to turn his or her 3-D designs into real physical models. Then, those models can be personalized, bought, or sold through Shapeways’s online community.</p> 
+							<p class="start">3-D printing is being used in the medical community as well. Bespoke Innovations (<span class="strongDBlue" onclick="window.open('http://bespokeinnovations.com','_blank')">bespokeinnovations.com</span>) is using 3-D printing to create prosthetic limbs with more life-like form and textures, as well as to give the recipient the ability to further personalize the prosthetic to include tattoos! As mentioned in Chapter 1, researchers at Wake Forest Institute for Regenerative Medicine have developed a way to use similar inkjet technologies to build heart, bone, and blood vessel tissues in the lab. They have also developed a way to “print” restorative cells directly into a soldier’s wound at the site where the injury occurred, thus significantly improving the soldier’s chances of survival.</p> 
+							<p class="start">Taking traditional technologies, such as inkjet printing, and applying them to solve current human struggles is a long and tedious process, but without these pioneers experimenting with different applications, society would advance a lot more slowly.</p>
+								
+						
+						</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)" 
+						 		style="background: url(assets/images/figures/fig2.46.png) no-repeat scroll 0px 0px transparent;
+						  	height: 232px;margin: 373px 0 0 -24px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 2.46</span>
+							  Cloud-ready printers only need an Internet connection to be accessed from any mobile device.</em>
+							</figcaption></figure>
+					
+					
+							<figure onclick="compTia.additionalPopupContent(2)" 
+						 		style="background: url(assets/images/figures/3Dprinting.jpg) no-repeat scroll 0px 0px transparent;
+						  	height: 275px;margin: 287px 0 0 -24px;">
+							<figcaption class="bottomPos">
+							  <span></span>
+							 3D printing is being used to produce more realistic artificial limbs that can even contain tattoos! <em>(Shariff Che’Lah/Fotolia)</em>
+							</figcaption></figure>
+						</div>
+					</div>
+				</div></div>
+
+
+						<div class="additional">
+						<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig2.46Big.png) no-repeat scroll center 0 transparent">
+							  <figcaption class="bottomPos">
+							  <span>Figure 2.46</span>
+								 Cloud-ready printers only need an Internet connection to be accessed from any mobile device.</em>
+							 
+							</figcaption>
+							</figure>
+						</div>
+						
+					<div class="ad">
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/3DprintingBig.jpg) no-repeat scroll center 0 transparent">
+							  <figcaption class="bottomPos">
+							  <span></span>
+							3D printing is being used to produce more realistic artificial limbs that can even contain tattoos! <em>(Shariff Che’Lah/Fotolia)</em>
+							 
+							</figcaption>
+							</figure>
+						</div>	
+				
+
+				]]>
+			</section>
+		</popup>
+	</chapter>
+</ebook>

@@ -1,0 +1,359 @@
+#popupFeature {
+    background-color: #FFFFFF;
+    bottom: 24px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.28);
+    font-family: MyriadPro;
+    height: 540px;
+    overflow: hidden;
+    padding: 24px 45px;
+    position: relative;
+    width: 866px;
+    display:none;
+    margin:0 auto;
+    z-index: 215;
+}
+
+#popupFeature .arrowLeft,
+#popupFeature .arrowRight {
+    position:absolute;
+    cursor: pointer;
+    width:40px;
+    height:83px;
+    top: 261px;
+    background: url("../images/layout/bitsAndBytesArrows.png") no-repeat transparent;
+}
+#popupFeature .arrowLeft {
+    background-position: 0 0;
+    left:82px;
+} 
+#popupFeature .arrowRight {
+    background-position: -43px 0;
+    right:85px;
+}
+#popupFeature .cores .arrowLeft,
+#popupFeature .monitor .arrowLeft {
+    left:27px;
+}
+#popupFeature .cores .arrowRight,
+#popupFeature .monitor .arrowRight {
+    right:56px;
+}
+video {
+    margin-top:22px;
+    margin-left: 69px;
+}
+#ethicsFeature ol {
+    padding-left: 18px;
+}
+#popupFeature .ActiveGraphicPage {
+    border-top: 7px solid #F58220;
+    border-right: 7px solid #F58220;
+    border-bottom: 8px solid #F58220;
+    border-left: 7px solid #F58220;
+    height: 100%;
+    margin: -31px 0 0 -45px;
+    padding: 0 15px 41px 62px;
+    width: 100%;
+}
+
+#popupFeature .ActiveGraphicPage.injuries>strong,
+#popupFeature .ActiveGraphicPage.optical>strong,
+#popupFeature .ActiveGraphicPage.drive>strong,
+#popupFeature .ActiveGraphicPage.software>strong {
+    margin-left:-17px;
+}
+#popupFeature .ActiveGraphicPage.injuries .HeadingOrangeBackDiagDashes,
+#popupFeature .ActiveGraphicPage.optical .HeadingOrangeBackDiagDashes,
+#popupFeature .ActiveGraphicPage.drive .HeadingOrangeBackDiagDashes,
+#popupFeature .ActiveGraphicPage.software .HeadingOrangeBackDiagDashes {
+    margin-left:-85px;
+}
+
+/*</KC TABLE>*/
+#popupFeature .HeadingOrangeBackDiagDashes {
+    line-height: 49px;
+    height: 49px;
+    font-size: 24px;
+    margin-left: -78px;
+    margin-right: -21px;
+    padding-left: 65px;
+    background-image: url("../images/layout/orangeHeadingBg.png");
+    margin-bottom: 19px;
+}
+
+#popupFeature .HeadingOrangeBackDiagDashesTable {
+    line-height: 49px;
+    height: 49px;
+    font-size: 24px;
+    margin-left: -68px;
+    margin-right: -21px;
+    padding-left: 65px;
+    background-image: url("../images/layout/orangeHeadingBg.png");
+    margin-bottom: 19px;
+}
+
+#popupFeature .step2,
+#popupFeature .step3,
+#popupFeature .step4,
+#popupFeature .step5,
+#popupFeature .padding70,
+#popupFeature .bootLinkHeader,
+#popupFeature .multiLinkHeader,
+#popupFeature .vidLinkHeader,
+#popupFeature .timelineLinkHeader {
+    font-family: MyriadPro-boldCond;
+    font-size: 18px;
+    color: #919190;
+}
+.vidLinkHeader a {
+    padding-right:16px;
+}
+.padding70 a {
+    padding-right:70px;
+}
+.timelineLinkHeader a {
+    padding-right:51px;
+}
+.multiLinkHeader a {
+    padding-right:100px;
+}
+.bootLinkHeader a {
+    padding-right:121px;
+    padding-left:53px;
+}
+#popupFeature .redirect {
+    background: url("../images/ebook_icons.png") no-repeat scroll -299px 0 transparent;
+    cursor: pointer;
+    height: 29px;
+    position: absolute;
+    right: 17px;
+    text-align: center;
+    top: 64px;
+    width: 29px;
+}
+.step2 a {
+    padding-right:200px;
+}
+
+.step3 a {
+    padding-right:202px;
+}
+.step4 a {
+    padding-right:135px;
+}
+.step5 a {
+    padding-right:103px;
+}
+#popupFeature .padding70,
+#popupFeature .bootLinkHeader,
+#popupFeature .multiLinkHeader,
+#popupFeature .vidLinkHeader,
+#popupFeature .timelineLinkHeader {
+    font-family: MyriadPro-boldCond;
+    font-size: 18px;
+    color: #919190;
+}
+.vidLinkHeader a {
+    padding-right:14px;
+}
+.padding70 a {
+    padding-right:70px;
+}
+.timelineLinkHeader a {
+    padding-right:51px;
+}
+.multiLinkHeader a {
+    padding-right:100px;
+}
+.bootLinkHeader a {
+    padding-right:121px;
+    padding-left:53px;
+}
+.monitor .vidLinkHeader a {
+    padding-right:70px
+}
+#popupFeature .cores .vidLinkHeader {
+    padding-left: 171px;
+}
+#popupFeature .cores .vidLinkHeader a {
+    padding: 0 83px;
+}
+#popupFeature .close {
+    background: url("../images/ebook_icons.png") no-repeat scroll -299px 0 transparent;
+    cursor: pointer;
+    height: 29px;
+    position: absolute;
+    right: 17px;
+    text-align: center;
+    top: 64px;
+    width: 29px;
+}
+#popupFeature .reloadVideo {
+    cursor: pointer;
+    position: absolute;
+    right: 69px;
+    top: 64px;
+}
+.wideVideoGraphic {
+	width:817px;
+}
+
+figure#keyboardFigure {
+    width:862px;
+    height:265px;
+    position:relative;
+    background-image:url(../images/figures/kbFig/base.jpg);
+}
+figure#keyboardFigure #overlayKeyImages div {
+    display:none;
+    position:absolute;
+    background: no-repeat transparent;
+    height: 100%;
+    width: 100%;
+}
+figure#fig2_5 {
+    height:100%;
+    position:relative;
+    background:no-repeat 0 40px url(../images/figures/fig2.5/fig2.5.jpg);
+}
+figure#keyboardFigure .overlays {
+    -moz-transform: rotate(-22deg) translateY(16px);
+    -ms-transform: rotate(-22deg) translateY(16px);
+    -webkit-transform: rotate(-22deg) translateY(16px);
+    transform: rotate(-22deg) translateY(16px);
+}
+
+.overlays div{
+    position:absolute;
+}
+figure#fig2_5 #overlayCircleImages {margin:6px 0 0 1px;}
+figure#fig2_5 #overlayCircleImages>div {
+    height:100%;
+    width:100%;
+    display:none;
+    position:absolute;
+    top:0;
+    background-repeat: no-repeat;
+}
+    
+figure#keyboardFigure #overlayKeyImages,
+figure#fig2_5 #overlayCircleImages,
+#overlayMBImages {
+    width:100%;
+    height:100%;
+    position:absolute;
+    background: no-repeat scroll 0 0 transparent;
+}
+#overlayMBImages {
+    height:445px;
+    width:100%;
+    z-index:301;
+    background-repeat: no-repeat;
+}
+#fig2_26 {
+    background: url("../images/figures/fig2.26/fig2.26.jpg") no-repeat scroll 0 0 transparent;
+    height: 472px;
+    margin-top: 40px;
+    width: 435px;
+}
+#fig2_26 .overlays {
+    position:absolute;
+    z-index:302;
+}
+div#features .popup {
+    background: url("../images/layout/popup.png") no-repeat scroll 0 bottom transparent;
+    bottom: 0;
+    box-shadow: -2px -1px 6px rgba(0, 0, 0, 0.4);
+    height: 665px;
+    padding-top: 8px;
+    left: 0;
+    font-family:MyriadPro;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    display:none;
+    z-index: 142;
+}
+div#features .contentHold {
+    height:100%;
+}
+div#features #popupImage {
+    background-color: #FFFFFF;
+    bottom: 24px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.28);
+    font-family: MyriadPro;
+    height: 540px;
+    left: 34px;
+    overflow: hidden;
+    padding: 24px 45px;
+    position: absolute;
+    width: 866px;
+    display:none;
+    z-index: 205;
+}
+div#features .popup .close {
+    cursor: pointer;
+    height: 31px;
+    position: absolute;
+    right: 21px;
+    top: 21px;
+    color:#01af3e;
+    width: 33px;
+    z-index:300;
+}
+div#features #popupImage .close {
+    background: url("../images/ebook_icons.png") no-repeat scroll -330px 0 transparent;
+    color: #01AF3E;
+    cursor: pointer;
+    height: 29px;
+    position: absolute;
+    right: 26px;
+    top: 21px;
+    width: 29px;
+    z-index: 301;
+}
+div#features #popupImage figure{
+    height:100%;
+}
+
+.tallerOrangeHead { padding: 6px 0 6px 13px !important}
+
+#popupFeature .ActiveGraphicPage.dragDrop {
+
+}
+.ActiveGraphicPage.dragDrop .dragDropHeader {
+    width:305px;
+    font-size:24px;
+    font-weight:bold;
+    margin-bottom:24px;
+}
+.ActiveGraphicPage.dragDrop figure#dragDrop {
+    background:no-repeat top right;
+    width:100%;
+    height:370px;
+}
+
+.ActiveGraphicPage.dragDrop .dragItems,
+.ActiveGraphicPage.dragDrop .dragTargets {
+    position:absolute;
+    width:100%;
+    height:400px;
+}
+
+.ActiveGraphicPage.dragDrop .dragItems div,
+.ActiveGraphicPage.dragDrop .dragTargets div {
+    position:absolute;
+    width:131px;
+    height:33px;
+    cursor: pointer;
+}
+.ActiveGraphicPage.dragDrop .dragItems div {
+    background: url(../images/layout/dragSilver.png);
+    color:#000;
+    width:104px;
+    height:31px;
+    font-size:18px;
+    line-height:28px;
+    text-align:center;
+    z-index:500;
+}

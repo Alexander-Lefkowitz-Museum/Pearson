@@ -1,0 +1,601 @@
+<?xml version="1.0"?>
+<ebook>
+	<chapter index="1">
+		<popup page="1" distinction="popupImage">
+			<section><![CDATA[
+					Nothing yet
+				]]>
+			</section>
+		</popup>
+		<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig1.1Big.jpg') no-repeat scroll center 54px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 600px">
+						<span>Figure 1.1</span> How much of a role did social media play in the transfer of power in Egypt in 2011?<br><em>(AP Photo/Muhammed Abu Zaid)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		<popup page="4" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig1.2Big.jpg') no-repeat scroll center 34px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 600px">
+						<span>Figure 1.2 </span> The Ushahidi crisis-mapping tool saved lives during the Kenyan elections, but now it is also used for many other purposes, like finding the nearest Fair Trade store at <span class="strongDBlue" onclick="window.open('http://ftrn.org/ispotfairtrade','_blank')">ftrn.org/ispotfairtrade</span>.
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		<popup page="5" distinction="readMoreFeature" >
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+				<div class="column">
+				  <div class="innerColLeft">
+						<p><strong>Health Care.</strong> Infectious diseases account for about one-fifth of all deaths worldwide. Researchers say the odds of a flu pandemic occurring in the next century are nearly 100 percent. Could technology help us develop and deliver vaccines in a way that saves lives? With newer scientific visualization tools, scientists are developing antibodies for flu viruses and even HIV, viruses that are difficult to target because they continually change shape. Computationally intense modeling software is helping researchers increase the pace of vaccine production, saving lives.</strong></p>
+						<p class="start">Retinal prosthetics are another example of global health concerns being addressed with technology. Macular degeneration and retinitis pigmentosa are two diseases that destroy the retina; they account for the majority of blindness in developing nations. Sheila Nirenberg of Cornell University is working on a microchip that can replace the function of the retina, translating incoming light into the electrical pulses the brain needs for vision. These biomedical chips could restore quality vision to the blind.</p>
+						</div>
+					  </div>
+					  
+					  <div class="column">
+						<div class="innerColRight">
+						  <p><strong>The Environment.</strong> What if every cell phone in the world had built-in atmospheric sensors? Then millions of points of air and water quality data from around the world could be constantly acquired. Tagged with geographical information, the data could alert scientists to new trends in our environment. And what if phone sensors could monitor for flu viruses? We could protect ourselves from pandemics by identifying outbreaks very early. Ideas like these are being explored by University of California, Los Angeles researcher Dr. Deborah Estrin, the director at the <span class="strongDBlue" onclick="window.open('http://research.cens.ucla.edu/','_blank')">Center for Embedded Networked Sensing</span>. Can you think of other ways you could use your cell phone to improve society?</p>
+						  </div>
+						</div>
+					  </div>
+					]]>
+			</section>
+		</popup>
+		
+		<popup page="5" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashesTable">Technology in Action: Taking on Global Problems</div>
+			<div class="figureHeader"><strong>Figure 1.4</strong> Click on arrows to reveal the table</div>
+					<table border="0" cellpadding="0" cellspacing="10" class="globalProblemTable">
+						<thead>
+						<th><div class="blueGradHeading">PERSON/ORGANIZATION</div></th>
+						<th><div class="blueGradHeading">GLOBAL PROBLEM</div></th>
+						<th><div class="blueGradHeading">TECHNOLOGY USED</div></th>
+						<th><div class="blueGradHeading">ACTION</div></th>
+						<th><div class="blueGradHeading">FIND OUT MORE...</div></th>
+						</thead>
+						
+						<tr class="lightBlueGrad">
+							<td><div>Peter Gabriel/The Witness Project
+
+							<span class="slideNext" col="1">NEXT</span></div></td>
+							<td><div class="hide" col="1">Human rights abuses</div></td>
+							<td><div class="hide" col="1">Video cameras</div></td>
+							<td><div class="hide" col="1">Provide video documentation of human rights abuses; the project contributed to the arrest of warlords in the Democratic Republic of Congo for the recruitment of child soldiers</div></td>
+							<td><div class="hide" col="1">The Witness Project:<br/><span class="strongDBlue" onclick="window.open('http://witness.org','_blank')">witness.org</span></div></td>
+						</tr>
+				
+						<tr class="orangeGrad">
+							<td><div>Johnny Lee/Google
+
+							<span class="slideNextWhite" col="2">NEXT</span></div></td>
+							<td><div class="hide" col="2">The digital divide prevents many from taking advantage of modern learning devices like smartboards</div></td>
+							<td><div class="hide" col="2">Nintendo Wii remote and open source software</div></td>
+							<td><div class="hide" col="2">Enables users to create a smartboard for $50; the smartboard can record and store lecture content and is touch sensitive</div></td>
+							<td><div class="hide" col="2">Johnny Lee's blog:<br/><span class="strongDBlue" onclick="window.open('http://procrastineering.blogspot.com','_blank')">procrastineering.<br/>blogspot.com</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>United Nations World Food Programme (WFP)
+
+							<span class="slideNext" col="3">NEXT</span></div></td>
+							<td><div class="hide" col="3">One in seven people in the world do not get enough food to eat</div></td>
+							<td><div class="hide" col="3">GIS (geographical information systems) and mobile devices</div></td>
+							<td><div class="hide" col="3">The WFP can analyze the location and need for food, positioning food where it will help the most</div></td>
+							<td><div class="hide" col="3">World Food Programme:<br/><span class="strongDBlue" onclick="window.open('http://wfp.org','_blank')">wfp.org</span></div></td>
+						</tr>
+						
+						<tr class="orangeGrad">
+							<td><div>Hod Lipson and Evan Malone<br/>/The Fab@Home Project
+
+							<span class="slideNextWhite" col="4">NEXT</span></div></td>
+							<td><div class="hide" col="4">Cost and access barriers prevent people from having basic devices, gears, and parts</div></td>
+							<td><div class="hide" col="4">3-D printers and open source software</div></td>
+							<td><div class="hide" col="4">Printers enable users to fabricate 3-D objects such as electrical parts</div></td>
+							<td><div class="hide" col="4">Fab@Home:<br/><span class="strongDBlue" onclick="window.open('http://fabathome.org','_blank')">fabathome.org</span></div></td>
+						</tr>
+						
+						<tr class="lightBlueGrad">
+							<td><div>Massachusetts Institute of Technology (MIT) Center for Future Civic Media
+
+							<span class="slideNext" col="5">NEXT</span></div></td>
+							<td><div class="hide" col="5">Disposal of so many display devices into landfills</div></td>
+							<td><div class="hide" col="5">Software that allows multiple displays to connect and be reused</div></td>
+							<td><div class="hide" col="5">The software enables users to create one huge display device from a set of smaller units, thereby keeping monitors out of landfills</div></td>
+							<td><div class="hide" col="5">Junkyard Jumbotron:<br/><span class="strongDBlue" onclick="window.open('http://jumbotron.media.mit.edu','_blank')">jumbotron.media.<br/>mit.edu</span></div></td>
+						</tr>
+					</table>
+					
+				]]>
+				</section>
+				</popup>
+				
+		<popup page="5" distinction="ethicsFeature" customscript="compTia.features.popupScroll()" closescript="$('#ethicsFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<strong class="font_18">The Digital Divide and the Mobile Bridge</strong>
+					  	<p>The digital divide, the gap between those with easy access to technology and those with little to no access (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 1.5</span>), is a problem that leads to complex social issues. For those who lack access to the Internet and computers, it is difficult to develop computer skills, which are very often critical to future success. Less familiarity with the Internet can also lead to a lower level of active, engaged citizenship. So how should we attack the problem of the digital divide in the United States?</p>
+					 	<p class="start">Recent studies from the University of Michigan show that without Internet access at home, teens from low-income households (family income under $30,000 a year) are more likely than their wealthier counterparts to use their cell phones to go online. So the widening penetration of cell phones might be the answer to ending the digital divide. Or is it?</p>
+						<p class="start">Going online using a cell phone plan is the most expensive of all options, and data transfer speeds are often slow. So teens with the least money are likely paying the most to get the slowest online experience. And they are more likely paying for it themselves, as opposed to teens from wealthier households in which, according to the same University of Michigan study, the teens are more likely to be on family plans paid for by someone else.</p>
+						<p class="start">In addition, teen cell phone usage is limited to managing online social networks, playing games, or listening to music. Computer tasks and skills that could lead to economic advancement, like filling out job applications or running a business, are not yet handled easily on mobile devices. So by not having free Internet access available, is our society placing those groups least able to afford access at an unfair disadvantage?</p>
+						<p class="start">Will the increasing penetration of smartphones and faster cellular Internet access eliminate the digital divide in the United States? Should our	government intervene and make sure there is sufficient free Internet access for all? Is it ethical to deprive the poorer segment of our society of a needed commodity? Answering challenging questions like these is part of being an informed citizen.</p>
+
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  <figure class="neg25LMargin" onclick="compTia.additionalPopupContent(1)"
+						  	style="
+						  	    background: url(assets/images/figures/fig1.5.png) no-repeat 0 0 transparent;
+						  	    height: 240px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 1.5</span>
+							  Can we bridge the digital divide through mobile devices? Should we? <em>(EIGHTFISH/Alamy)</em>
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+			<div class="additional">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig1.5Big.png) no-repeat 0 0 transparent">
+							<figcaption>
+							  <span>Figure 1.5</span>
+							   Can we bridge the digital divide through mobile devices? Should we? <em>(EIGHTFISH/Alamy)</em>
+							  </figcaption>
+							  </figure>
+
+						</div>
+
+
+
+			
+
+
+
+
+
+			]]></section>
+		</popup>
+		<popup page="5" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig1.3Big.jpg') no-repeat scroll center 34px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 600px">
+						<span>Figure 1.3 </span> The Next Einstein Initiative is rallying the support of the world to identify mathematical genius <em>(The Next Einstein Initiative)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		<popup page="6" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+				<div class="column">
+				  <div class="innerColLeft">
+				  <ul class="dotted">
+						<li><span class="innerLi"><strong>Autonomy:</strong> the freedom to work without constant direction and control.</span></li>
+						<li><span class="innerLi"><strong>Mastery:</strong> the feeling of confidence and excitement from seeing your own skills progress.</span></li>
+						<li><span class="innerLi"><strong>Purpose:</strong> the understanding that you are working for something larger than yourself.</span></li>
+					</ul>
+
+						<p class="start">Together, these three factors play into how we are fundamentally wired and can produce incredibly motivated behavior. The combination of motivation, technology, and a cognitive surplus is leading to powerful projects that are changing the world.</p>
+						</div>
+					  </div>
+					]]></section>
+					  
+		</popup>
+		<popup page="6" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig1.6Big.jpg') no-repeat scroll center 62px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 490px">
+						<span>Figure 1.6</span> Our understanding of human motivation can play a role in our use of technology to impact society.
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		<popup page="7" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig1.7Big.jpg') no-repeat scroll center 52px transparent">
+					  <figcaption
+					  	class="normalFont">
+						<span>Figure 1.7</span> The Virtual Choir 3 performance of "Water Night" included over 3,700 singers from 73 countries.
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+
+		<popup page="7" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				  <div class="content"><div class="columnContain">
+				<div class="column">
+				  <div class="innerColLeft">
+				 <p class="start">Studies show 82 percent of shoppers go to the Internet on their cell phone before they make a purchase. They are often using so-called location-aware price comparison tools. Apps like ShopSavvy and RedLaser scan the bar code of the item and then compare prices with those of nearby stores and with the best prices available online. Techy shoppers can then get "mobile coupons" (or <em>mobicoupons</em>) delivered to their cell phones thanks to sites like Zavers and Cellfire. The future promises specialized coupons created just for you based on your location and past buying preferences.</p>
+						</div>
+					  </div>
+				]]></section>
+					  
+		</popup>
+		<popup page="8" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig1.8Big.jpg') no-repeat scroll center 43px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 600px">
+					  	<span>Figure 1.8</span> Call a Bike uses digital technology to change our lifestyle from one of ownership to one of subscription.<br><em>(Ernst Klinker/Alamy)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+
+		<popup page="11" distinction="popupImage">
+			<section><![CDATA[
+					<figure style="background:url('assets/images/figures/fig1.9Big.jpg') no-repeat scroll center 100px transparent">
+					  <figcaption
+					  	class="normalFont"
+					  	style="width: 600px">
+						<span>Figure 1.9</span> Do you know what all the words in a computer ad mean? Can you tell whether the ad includes all the information necessary to make a purchasing decision? <em>(Akova/Fotolia; Dmytro Shevchenko/Fotolia; Norman Chan/Fotolia)</em>
+					  </figcaption>
+					</figure>
+			]]>
+			</section>
+		</popup>
+		
+<popup page="12" distinction="popupFeature">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage">
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">What Does It Mean to Be Computer Literate?</div>
+			<strong></strong>
+					<table border="0" cellpadding="0" cellspacing="10" class="literateTable font_14">
+						<tbody>
+							<tr>
+								<td><div class="lightBlueGrad"><img src="assets/images/charts/passward.png" style="padding-left:28px;"/>
+									<br/><p style="padding: 5px 12px;line-height: 15px;">You can <strong>avoid falling prey to hackers and viruses</strong> because you are aware of how they operate.</p></div></td>
+								<td><div class="lightestBlueGrad"><img src="assets/images/charts/protection.png" style="padding-left:28px;"/>
+									<br/><p style="padding: 5px 12px;line-height: 15px;">You know how to <strong>protect yoursef from identity theft.</strong></p></div></td>
+								<td><div class="lightBlueGrad"><img src="assets/images/charts/apps.png" style="padding-left:28px;"/>
+									<br/><p style="padding: 5px 12px;line-height: 15px;">You can <strong>separate the real privacy and security risks from things you don’t have to worry about.</strong></p></div></td>		
+							</tr>
+							
+							<tr>
+								<td><div class="lightestBlueGrad"><img src="assets/images/charts/worldWeb.png" style="padding-left:28px;"/>
+									<br/><p style="padding: 5px 12px;line-height: 15px;">You know how to find information and <strong> use the web effectively.</strong></p></div></td>
+								<td><div class="lightBlueGrad"><img src="assets/images/charts/spam.png" style="padding-left:28px;"/>
+									<br/><p style="padding: 5px 12px;line-height: 15px;">You can <strong>avoid being overwhelmed by spam, adware, and spyware.</strong></p></div></td>
+								<td><div class="lightestBlueGrad"><img src="assets/images/charts/tools.png" style="padding-left:28px;"/>
+									<br/><p style="padding: 5px 12px;line-height: 15px;">You know how to <strong>diagnose and fix problems</strong> with your hardware and software.</p></div></td>			
+							</tr>	
+							</tbody></table>
+			</div>
+		  ]]></section>
+		</popup>
+		<!--14 needs video-->
+		<popup page="13" distinction="popupFeature" customscript="compTia.features.setupVideo('step1')">
+			<section><![CDATA[
+				<div class="ActiveGraphicPage monitor">
+		<div class="arrowLeft">
+		</div>
+		<div class="arrowRight">
+		</div>
+		<div class="close"> </div>
+		<div class="HeadingOrangeBackDiagDashes">Data Mining</div>
+		<div class="padding70">
+
+		  <a data="step1" style="color:#01567a; padding-left: 99px;padding-right:205px;">Step 1</a>
+		  <a style="padding-right:205px;" data="step2">Step 2</a>
+		  <a style="padding-right:205px;" data="step3">Step 3</a>
+		  
+		</div>
+		<div class="monitorActiveGraphic">
+		  <video autoplay="autoplay" width="790" height="432" class="noLMargin">
+			<source src="" type="video/mp4">
+			  <source src="" type="video/ogg">
+			  Your browser does not support the video tag.
+		  </video>
+			</div>
+		  </div>
+		  ]]></section>
+		</popup>
+		
+		<popup page="14" distinction="readMoreFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+
+				<div class="content">
+				<div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start">
+							Using computers in the arts and entertainment fields goes far beyond just producing web pages, though. Dance and music programs like the ones at the Atlanta Ballet and The Juilliard School use computers to create new performances for audiences. A live dancer can be wired with sensors connected to a computer that captures the dancer's movements. Based on the data it collects, the computer generates a virtual dancer on a screen. The computer operator can easily manipulate this virtual dancer, as well as change the dancer's costume and other aspects of the dancer's appearance, with the click of a mouse. This allows artists to create new experiences for the audience.</p>
+					  	<p class="start">
+					  		And what if you see yourself working in an art museum? Today, museums are using technology to enhance visitors' experiences (<span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">see Figure 1.12</span>). New York's Museum of Modern Art (MoMA), for example, offers a full range of options for tech-savvy visitors: old-fashioned museum audio guides, podcasts that visitors can listen to with their smartphones, and multimedia tours that visitors download through MoMA WiFi (<span class="strongDBlue" onclick="window.open('http://moma.org','_blank')">moma.org</span>) to their own MP3 device. These multimedia guides even enable visitors to listen to music the artist listened to when he or she was creating a particular work or to look at other works that reflect similar techniques or themes as those they’re viewing. Developing these solutions for museums is a great career for someone with an artistic education and knowledge of technology.</p>
+					 	
+					</div>
+					</div>
+					<div class="column">
+						<div class="innerColRight">
+							<figure onclick="compTia.additionalPopupContent(1)"
+								style="
+								background: url(assets/images/figures/fig1.12.jpg) no-repeat scroll 35px 0 transparent;
+								height: 375px;
+							    margin-top: 170px;">
+							  <figcaption class="bottomPos">
+								<span>Figure 1.12</span> Multimedia tours using mobile devices and wireless technology are commonplace in museums and galleries. <em>(AP Photo/Danny Johnston)</em>
+							  	</figcaption>
+							</figure>
+						  </div>
+						</div>
+				</div></div>
+				<div class="additional">
+					<figure onclick="compTia.additionalPopupContent(0)"
+						class="showOverflow height100"
+						style="background: url(assets/images/figures/fig1.12Big.jpg) no-repeat scroll 0 3px transparent">
+					  <figcaption class="topPos" style="margin-left:330px; width:378px;">
+						<span>Figure 1.12</span>
+						Multimedia tours using mobile devices and wireless technology are commonplace in museums and galleries. 
+						  <em>(AP Photo/Danny Johnston)</em>
+						</figcaption>
+					  </figure>
+				</div>
+				]]></section>
+		</popup>
+		
+		<popup page="14" distinction="bbFeature">
+			<section><![CDATA[
+
+					  <div class="content">
+						<div class="column">
+						  <div class="innerColLeft">
+							<p class="lessSpacing rightPadding20">
+							<strong class="larger">NASA Wants You...to Learn</strong>
+							<p>As you read this chapter, hundreds of satellites are orbiting the globe and taking detailed pictures of Earth. Until recently, these photos weren't available to the public. However, thanks to NASA and some savvy software developers, an application called World Wind is making some 10 trillion bytes of imagery available to you. Need a picture of Mount Fuji for your science project or an aerial picture of your house for your PowerPoint presentation? Just download the software from <span class="strongDBlue" onclick="window.open('http://www.nasa.gov/offices/education/programs/national/ltp/opportunities','_blank')">www.nasa.gov/offices/<br>education/programs/national/ltp/opportunities</span>, and you're ready to go. You'll find several learning applications at this site as well. For example, Virtual Lab lets you pretend you have your own scanning electron microscope, and Moonbase Alpha is a game that simulates life on a space settlement, complete with 3-D graphics, team play, and chatting features. With a few clicks, you can have interactive learning resources that open the world to you.</p>
+							
+						  </div>
+						</div>
+						<div class="column">
+						  <div class="innerColRight">
+						 </div>
+						</div>
+					  </div>
+				]]></section>
+		</popup>
+
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig1.13Big.jpg') no-repeat scroll center 10px transparent">
+					<figcaption style="width:570px;">
+					  <span>Figure 1.13</span>  Internet applications have become sophisticated learning resources. For example, IndustryMasters (<span class="strongDBlue noRPadding" onclick="window.open('http://industrymasters.com','_blank')">industrymasters.com</span>) allows students to compete online for domination of a global market while giving instructors the chance to introduce many business concepts.
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="15" distinction="readMoreFeature">
+			<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="start moreSpacing">
+							Computerized education in the classroom may prove to be the tool that helps teachers reach greater success, despite increasing class sizes and tightening financial constraints. The Khan Academy (<span class="strongDBlue noRPadding" onclick="window.open('http://khanacademy.org','_blank')" >khanacademy.org</span>) is a terrific example of a technological tool for education. Salman Khan was an investment analyst in Boston in 2006 when he began to post videos to YouTube so that he could teach algebra to his young cousins in New Orleans. Today, his nonprofit Khan Academy contains over 3,000 videos, and several million students a month use the site.</p>
+					  	<p class="start moreSpacing">
+					  		A classroom teacher can also follow what is happening in the classroom by using the dashboard, a screen that shows which topics each student has mastered, which they are making progress with, and which have them spinning their wheels. Now a teacher can approach a student already knowing exactly what is frustrating them and can avoid the dreaded question, "Oh, what don't you understand?"</p>
+					 </div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+						<p class="start moreSpacing">As an educator, being computer literate will help you constructively integrate computer technologies like those discussed here into lesson plans and interactions for your students.</p>
+							
+						  </div>
+						</div>
+				</div></div>
+				
+				]]></section>
+		</popup>	
+		
+		<popup page="15" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig1.14Big.jpg') no-repeat scroll center 80px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 1.14</span>  The Art Project presents an interactive tour through several museums. Thousands of works of art are displayed in high resolution with a pullout information panel (<span class="strongDBlue noRPadding" onclick="window.open('http://googleartproject.com','_blank')">googleartproject.com</span>). <em>(REUTERS/Stefan Wermuth)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+			
+		<popup page="16" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig1.15Big.jpg') no-repeat scroll center 80px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 1.15</span>  Tissue-rendering programs add layers of muscles, fat, and skin to <br/>recovered skulls to create faces that can be used to identify victims. <em>(Digital Art/Corbis)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>	
+		 
+		<popup page="17"  distinction="digDeeperFeature" customscript="compTia.features.popupScroll()" closescript="$('#digDeeperFeature .scroll').off('mousedown mouseup')">
+			<section><![CDATA[
+				<div class="headerText">Making Reality Even More Real</div>
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p>
+							We're familiar with digital data—comfortable with carrying around music, some files, contact lists, and calendars. But what about combining what you see with additional digital information, as you see it?</p>
+					  	
+						<p class="start"><span class="strongDBlue" glossary>Augmented reality</span> combines our normal sense of the world around us with an overlay of digital information, all displayed on a screen. For example, a number of smartphone apps are currently available that use the integrated compass and camera of your phone to add information to your environment. As shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(1)">Figure 1.16</span>, the image seen through the camera's lens provides a baseline, and additional information can be displayed over the image. New York Nearest Subway is another popular app that augments reality by indicating in an overlay the location of the nearest subway.</p>
+						<p class="start">There are also devices being created that will augment reality even more intelligently. One of the most promising of these new tools is called SixthSense. This wearable device, which hangs around your neck and consists of a camera, a projector, and a mirror, can communicate with the Internet wirelessly via your cell phone. SixthSense augments your experience of reality by adding the information you need as you need it.</p>
+						<p class="start">For example, say you're in a bookstore and select the title <em>Ambient Findability</em> (<span class="strongDBlue" onclick="compTia.additionalPopupContent(2)">see Figure 1.17</span>). As you hold the book, its Amazon rating appears on the cover. You open to the inside sleeve, and the comments from readers at Amazon begin to scroll over the page. Then you can tap any of those comments for more detail.</p>	
+						<p class="start">SixthSense also responds to gestures, so that when you make a rectangle with your fingers, it takes a photograph. Any flat surface—a wall, table, whatever—can be used to "dump" your photos into a "pile." Using your hands, you can shuffle the images or resize or rotate an image. You can even draw a watch-sized circle on your wrist and SixthSense will display an analog watch face on your arm.</p>	
+						<p class="start">In fact, your hand is as good a flat surface as any to SixthSense. Need to make a phone call? SixthSense will display a keypad, like the one shown in <span class="strongDBlue" onclick="compTia.additionalPopupContent(3)">Figure 1.18</span>, on your palm. Tap out the numbers on the virtual keypad, and one touch of a red CALL button that appears on your palm places your call.</p>	
+						<p class="start">The shirt of the person walking toward you will also work as a projection surface. As a person approaches a SixthSense wearer, it recognizes their face, heads off to their Facebook page or blog, and scans the most recent entries. It then projects the keywords that describe the person and their interests on their clothing as you watch them approach.</p>	
+						<p class="start">Currently, SixthSense is small but not very stylish. The product is constructed from off-the-shelf components costing about $350. Within a few years, its inventors believe it can be produced as a button-sized device, costing less than a cell phone costs now. In fact, you can read directions for building the hardware yourself and can download the software for free at <span class="strongDBlue" onclick="window.open('http://code.google.com/p/sixthsense','_blank')">code.google.com/p/sixthsense</span>.</p>
+						<p class="start">Augmented reality combines the digital information we have accumulated in an immediate and spontaneous manner. This kind of direct integration of digital information with the physical world around us is a hallmark of our digital future. So where will your new reality take you?</p>
+						<p><span class="strongDBlue" onclick="window.open('https://www.youtube.com/watch?v=Vb2uojqKvFM&feature=youtube_gdata_player','_blank')">To see augmented reality in action, click here.</span></p>
+							
+					</div>
+				</div>
+				<div class="column">
+					<div class="innerColRight">
+						  <figure onclick="compTia.additionalPopupContent(1)" style="
+						  	    background: url(assets/images/figures/fig1.16A.jpg) no-repeat 39px 0 transparent;
+						  	    height: 302px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 1.16</span>
+							  Augmented reality apps let you look through your phone's camera to see your environment with extra information superimposed. <br/><em>(Kyodo/AP Images)</em>
+							  </figcaption>
+							</figure>
+							<br/>
+							
+							 <figure onclick="compTia.additionalPopupContent(2)" style="
+						  	    background: url(assets/images/figures/fig1.17.jpg) no-repeat 19px 0 transparent;
+						  	    height: 235px; margin-top:120px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 1.17</span>
+							  SixthSense recognizes what information you might want added to your environment and displays it automatically. <em>(Pranav Mistry)</em>
+							  </figcaption>
+							</figure>
+							<br/>
+							
+							<figure onclick="compTia.additionalPopupContent(3)" style="
+						  	    background: url(assets/images/figures/fig1.18.png) no-repeat 24px 0 transparent;
+						  	    height: 185px; margin-top:85px;">
+							<figcaption class="bottomPos">
+							  <span>Figure 1.18</span>
+							  Any surface can become an input device using SixthSense. <em>(Pranav Mistry)</em>
+							  </figcaption>
+							</figure>
+					</div>
+				</div>
+			</div></div>
+									<div class="additional">
+									<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig1.16Big.jpg) no-repeat scroll 0px 0 transparent">
+							<figcaption class="topPos" style="margin-left:440px; width:330px;">
+							  <span>Figure 1.16</span>
+							  Augmented reality apps let you look through your phone's camera to see your environment with extra information superimposed. <em>(Kyodo/AP Images)</em>
+							  </figcaption>
+							  </figure>
+
+						</div>
+						
+								<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig1.17Big.jpg) no-repeat scroll 118px 0 transparent">
+							<figcaption>
+							  <span>Figure 1.17</span>
+							  SixthSense recognizes what information you might want added to your environment and displays it automatically. <em>(Pranav Mistry)</em>
+							  </figcaption>
+							  </figure>
+
+						</div>
+						
+						<div class="ad">
+
+							<figure onclick="compTia.additionalPopupContent(0)"
+								class="showOverflow height100"
+								style="background: url(assets/images/figures/fig1.18Big.png) no-repeat scroll 118px 0 transparent">
+							<figcaption>
+							  <span>Figure 1.18</span>
+							  Any surface can become an input device using SixthSense. <em>(Pranav Mistry)</em>
+							  </figcaption>
+							  </figure>
+
+						</div>
+			]]></section></popup>
+			
+			<popup page="17" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig1.19Big.jpg') no-repeat center 47px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 1.19</span> No bigger than the period at the end of this sentence, Hitachi's µ-chip can hold <br/>digital information, which can then be read when it passes a detector. <em>(ERIKO SUGITA/Reuters/Landov)</em>
+					</figcaption>
+					</figure>
+				]]>
+			</section>
+		</popup>
+		
+		<popup page="17" distinction="readMoreFeature" customscript="compTia.features.popupScroll()" closescript="$('#readMoreFeature .scroll').off('mousedown mouseup')">
+		<section><![CDATA[
+
+				<div class="content"><div class="columnContain">
+				  <div class="column">
+					<div class="innerColLeft">
+						<p class="moreSpacing">
+							Simulations also can model the structure of solar magnetic flares, which can interfere with broadcasts on Earth. With a career in meteorology, you will be studying the data produced by these simulations, hoping to improve predictions about weather phenomena.</p>
+					  	<p class="start moreSpacing">
+					  		Other technological applications in the sciences are being used on some of the oldest sites on Earth. The ancient site of Pompeii has been under the scrutiny of tourists and archaeologists for decades. Sadly, decades of foot traffic and hundreds of years of exposure to the elements have eroded portions of the ruins. Today, scientists are using 3-D scanners and imaging software to capture a detailed record of the ruins' current condition. This virtual re-creation is so lifelike that archaeologists can study the ruins on-screen instead of at the actual site. Using the scans as well as satellite imagery, aerial photography, and other data, scientists will eventually be able to re-create missing portions of the ruins in a virtual model. Will you be using these tools someday to make records of other decaying sites?</p>
+					 </div>
+				</div>
+					<div class="column">
+						<div class="innerColRight">
+						</div>
+						</div>
+				</div></div>
+				
+				]]></section>
+		</popup>
+		
+		<popup page="17" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig1.20Big.png') no-repeat scroll 65px 150px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 1.20</span> Software that combines radar information in new ways increases the accuracy of tornado predictions <br/>and allows for earlier warning of threatened towns. <em>(Steve Bloom Images/Alamy; National Oceanic and Atmospheric Administration NOAA)</em>
+					</figcaption>
+					</figure>
+		]]>
+			</section>
+		</popup>
+		
+		<popup page="18" distinction="popupImage">
+			<section><![CDATA[
+
+					<figure style="background:url('assets/images/figures/fig1.21Big.png') no-repeat scroll 220px 0px transparent">
+					<figcaption class="normalFont">
+					  <span>Figure 1.21</span> Robots with articulated joints that mimic human <br/>limbs can balance, stand, walk, and even hug. <em>(Press Association/AP Images)</em>
+					</figcaption>
+					</figure>
+		]]>
+			</section>
+		</popup>
+		
+		
+	</chapter>
+</ebook>

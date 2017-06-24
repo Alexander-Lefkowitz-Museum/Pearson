@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+	<chapter index="0" title="" glossary="0">
+	
+		<page index="0" type="full" distinction="cover">
+			<section>
+				<![CDATA[
+					<img style="height:101%;width:101%;" src="assets/images/pics/cover.jpg">
+				]]>
+			</section>
+		</page>
+		
+		
+		<page index="1" type="full" distinction="">
+			<section>
+				<![CDATA[
+					<div style="height:74px;witdh:961px; background:no-repeat url(assets/images/layout/longBlueStrips.png) 0px 0; margin-left: -50px;margin-top: -24px;"></div>
+					<p class="strong TMargin20" style="text-align:center; font-size:70px; color:#0275c6;line-height: 67px;">Technology <br/>in Action</p>
+					<p class="strong TMargin15" style="text-align:center; font-size:30px; color:#0275c6;">COMPLETE</p>
+					<p class="strong" style="text-align:center; font-size:30px; margin-top:40px;">10<sup style="font-size: 17px;">TH</sup> EDITION</p>
+					<p style="text-align:center; font-size:30px; color:#8dc63f; margin-top:35px;">Alan Evans <strong style="color:black;">|</strong> Kendall Martin <strong style="color:black;">|</strong> Mary Anne Poatsy</p>
+					
+					<img style="height:42px;width:137px; background:no-repeat url(assets/images/figures/SmallPearson.jpg) 0px 0; margin-left:365px; margin-top:53px;">
+					<p class="TMargin5" style="text-align:center; font-size:15px;">Boston&ensp;&ensp;&ensp;Columbus&ensp;&ensp;&ensp;Indianapolis&ensp;&ensp;&ensp;New York&ensp;&ensp;&ensp;San Francisco&ensp;&ensp;&ensp;Upper Saddle River
+					<br/>Amsterdam&ensp;&ensp;&ensp;Cape Town&ensp;&ensp;&ensp;Dubai&ensp;&ensp;&ensp;London&ensp;&ensp;&ensp;Madrid&ensp;&ensp;&ensp;Milan&ensp;&ensp;&ensp;Munich&ensp;&ensp;&ensp;Paris&ensp;&ensp;&ensp;Montréal&ensp;&ensp;&ensp;Toronto
+					<br/>Delhi&ensp;&ensp;&ensp;Mexico City&ensp;&ensp;&ensp;Sâo Paulo&ensp;&ensp;&ensp;Sydney&ensp;&ensp;&ensp;Hong Kong&ensp;&ensp;&ensp;Seoul&ensp;&ensp;&ensp;Singapore&ensp;&ensp;&ensp;Taipei&ensp;&ensp;&ensp;Tokyo</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="contents">
+			<section>
+				<![CDATA[
+					<img src="assets/images/layout/largeGreenDashBox.png" style="float:left; margin-right:13px;" />
+					<h1 class="cond">Getting Started</h1>
+					
+					<p class="font_15"><strong>Technology in Action 10th Edition eBook</strong>  is a totally new experience for learning about technology – using technology to learn technology.</p>
+					<p class="TMargin20 font_15">Please <span class="strongDBlue" onclick="compTia.toggleHelpVideo(1)">watch</span> this short tutorial video to become familiar with all the tools and features of this digital textbook.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="cond shiftUp10">tenth<br/><span style="font-size:72px;">10</span></h2>
+					<p class="lefttransform90deg font_21 floatRight" style="color:#8f8e8e;margin-top: -56px;margin-right: -21px;">EDITION</p>
+					
+					<h4 style="letter-spacing:1px;">Watch the <span style="font-size:25px;"><i>HELP</i></span> video</h4>
+					<img src="assets/images/pics/getStarted.jpg" onClick="compTia.toggleHelpVideo(1)">
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="contents">
+			<section>
+				<![CDATA[
+					<img src="assets/images/layout/largeGreenDashBox.png" style="float:left; margin-right:13px;" />
+					<h1 class="cond">Contents at a Glance</h1>
+					
+					<div class="contentsChapters">
+						<table><tr><td><span onclick="compTia.moveTo(1,1)">Chapter 1</span><br>
+							<span>Using Technology to Change the World </span></td><td><div> </div></td><td>5</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(2,1)">Chapter 2</span><br>
+							<span>Looking at Computers: Understanding the Parts </span></td><td><div> </div></td><td>31</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(3,1)">Chapter 3</span><br>
+							<span>Using the Internet: Making the Most of the Web’s Resources </span></td><td><div> </div></td><td>77</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(3,40,0)">Technology in Focus</span><br>
+							<span>The History of the Personal Computer </span></td><td><div> </div></td><td>116</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(4,1)">Chapter 4</span><br>
+							<span>Application Software: Programs That Let You Work and Play </span></td><td><div> </div></td><td>133</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(5,1)">Chapter 5</span><br>
+							<span>System Software: The Operating System,</span><br>
+							<span>Utility Programs, and File Management </span></td><td><div> </div></td><td>171</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(5,49,0)">Technology in Focus</span><br>
+							<span>Information Technology Ethics </span></td><td><div> </div></td><td>219</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(6,1)">Chapter 6</span><br>
+							<span>Understanding and Assessing Hardware:
+							Evaluating Your System </span></td><td><div> </div></td><td>248</td></tr>
+						</table>
+
+						<table><tr><td><span onclick="compTia.moveTo(7,1)">Chapter 7</span><br>
+							<span>Networking: Connecting Computing Devices </span></td><td><div> </div></td><td>290</td></tr>
+						</table>
+					</div>
+
+					
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<h2 class="cond shiftUp10">tenth<br/><span style="font-size:72px;">10</span></h2>
+					<p class="lefttransform90deg font_21 floatRight" style="color:#8f8e8e;margin-top: -56px;margin-right: -21px;">EDITION</p>
+					
+				<div class="contentsChapters">
+					<table><tr><td>
+					<span onclick="compTia.moveTo(7,44)">Technology in Focus</span><br/>
+					<span>Under the Hood </span></td><td><div> </div></td><td>334</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(8,1)">Chapter 8</span><br/>
+					<span>Digital Devices and Media: Managing a Digital Lifestyle </span></td><td><div> </div></td><td>354</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(9,1)">Chapter 9</span><br/>
+					<span>Securing Your System: Protecting Your</span><br/>
+					<span>Digital Data and Devices </span></td><td><div> </div></td><td>400</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(9,59,0)">Technology in Focus</span><br/>
+					<span>Careers in IT </span></td><td><div> </div></td><td>458</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(10,1)">Chapter 10</span><br/>
+					<span>Behind the Scenes: Software Programming </span></td><td><div> </div></td><td>475</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(11,1)">Chapter 11</span><br/>
+					<span>Behind the Scenes: Databases and Information Systems </span></td><td><div> </div></td><td>527</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(12,1)">Chapter 12</span><br/>
+					<span>Behind the Scenes: Networking and Security</span><br/>
+					<span>in the Business World </span></td><td><div> </div></td><td>574</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(13,1)">Chapter 13</span><br/>
+					<span>Behind the Scenes: How the Internet Works </span></td><td><div> </div></td><td>618</td></tr></table>	
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(14,0,0)">About the Author </span>
+					</td><td><div> </div></td><td>xx</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(14,1,0)">Credits </span>
+					 </td><td><div> </div></td><td>xx</td></tr></table>
+				</div>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="4" type="ColumnColumn" distinction="contents">
+			<section>
+				<![CDATA[
+					<img src="assets/images/layout/largeGreenDashBox.png" style="float:left; margin-right:13px;" />
+					<h1 class="cond">Glossary at a Glance</h1>
+					
+					<div class="contentsChapters moreTableMargin">
+					<table><tr><td>
+					<span onclick="compTia.moveTo(1,22)">Chapter 1
+					</span></td><td><div> </div></td><td>27</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(2,41)">Chapter 2
+					</span></td><td><div> </div></td><td>72</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(3,35)">Chapter 3
+					</span></td><td><div> </div></td><td>112</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(3,54)">Technology in Focus
+					</span></td><td><div> </div></td><td>131</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(4,34)">Chapter 4
+					</span></td><td><div> </div></td><td>167</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(5,43)">Chapter 5
+					</span></td><td><div> </div></td><td>214</td></tr></table>
+
+					<table><tr><td>
+					<span onclick="compTia.moveTo(5,76,0)">Technology in Focus
+					</span></td><td><div> </div></td><td>247</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(6,38)">Chapter 6
+					</span></td><td><div> </div></td><td>286</td></tr></table>
+					
+					<table><tr><td>
+					<span onclick="compTia.moveTo(7,38)">Chapter 7
+					</span></td><td><div> </div></td><td>329</td></tr></table>
+					</div>
+					
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<h2 class="cond shiftUp10">tenth<br/><span style="font-size:72px;">10</span></h2>
+					<p class="lefttransform90deg font_21 floatRight" style="color:#8f8e8e;margin-top: -56px;margin-right: -21px;">EDITION</p>
+					
+					<div class="contentsChapters moreTableMargin">
+						<table><tr><td>
+						<span onclick="compTia.moveTo(7,62)">Technology in Focus</span>
+						</span></td><td><div> </div></td><td>353</td></tr></table>
+						
+						<table><tr><td>
+						<span onclick="compTia.moveTo(8,42)">Chapter 8</span>
+						</span></td><td><div> </div></td><td>396</td></tr></table>
+						
+						<table><tr><td>
+						<span onclick="compTia.moveTo(9,51)">Chapter 9</span>
+						</span></td><td><div> </div></td><td>451</td></tr></table>
+						
+						<table><tr><td>
+						<span onclick="compTia.moveTo(9,74)">Technology in Focus</span>
+						</span></td><td><div> </div></td><td>474</td></tr></table>
+						
+						<table><tr><td>
+						<span onclick="compTia.moveTo(10,46)">Chapter 10</span>
+						</span></td><td><div> </div></td><td>521</td></tr></table>
+						
+						<table><tr><td>
+						<span onclick="compTia.moveTo(11,41)">Chapter 11</span>
+						</span></td><td><div> </div></td><td>568</td></tr></table>
+						
+						<table><tr><td>
+						<span onclick="compTia.moveTo(12,38)">Chapter 12</span>
+						</span></td><td><div> </div></td><td>612</td></tr></table>
+						
+						<table><tr><td>
+						<span onclick="compTia.moveTo(13,31)">Chapter 13</span>
+						</span></td><td><div> </div></td><td>649</td></tr></table>	
+					</div>
+					
+				]]>
+			</section>
+		</page>
+		
+		
+	</chapter>
+</ebook>

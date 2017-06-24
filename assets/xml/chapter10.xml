@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+	<chapter index="10" title="" glossary="46">
+	
+		<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc" style="padding-top: 32px;">
+						Behind the<br/>
+						Scenes: Software<br/>
+						Programming</div>	
+				<div class="chapterStartNumber floatLeft" style="letter-spacing: -35px;">10</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Understanding Software <br/>Programming</span>
+					<img src="assets/images/pics/programming.jpg" style="margin-top:-48px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">The Importance of Programming</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">1.</span> Why do I need to understand how to create software? <span class="strongDBlue" onclick="compTia.switchPage(0,3)">(p. 478)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/lifeCycle.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,4)">The Life Cycle of an Information System</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">2.</span> What is a system development life cycle, and what are the phases in the cycle? <span class="strongDBlue" onclick="compTia.switchPage(0,4)">(pp. 479-481)</span></li>
+					</ul>
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/programCycle.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,6)">The Life Cycle of a Program</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">3.</span> What is the life cycle of a program? <span class="strongDBlue" onclick="compTia.switchPage(0,6)">(pp. 481-482)</span></li>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">4.</span> What role does a problem statement play in programming? <span class="strongDBlue" onclick="compTia.switchPage(0,7)">(pp. 482-485)</span></li>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">5.</span> How do programmers create algorithms and move from algorithm to code? <span class="strongDBlue" onclick="compTia.switchPage(0,10)">(pp. 485-486)</span></li>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">6.</span> What steps are involved in completing the program? <span class="strongDBlue" onclick="compTia.switchPage(0,12)">(pp. 487-500)</span></li>
+					</ul>
+					
+					<div class="activeHelpdesk" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_22.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Understanding Software Programming
+					</div>
+					
+					<div class="soundByte floatRight" style="margin-right:25px;width:162px;"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/looping_around_ide/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Looping Around the IDE
+					</div>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/programming_for_end_users_macros/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Programming for End Users
+					</div>
+					
+				
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,28)">Programming Languages</span>
+					<img src="assets/images/pics/languages.jpg" style="margin-top:-27px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,28)">Many Languages for Many Projects</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">7.</span> How do programmers select the right programming language for a specific task? <span class="strongDBlue" onclick="compTia.switchPage(0,28)">(pp. 503-505)</span></li>
+					</ul>
+					
+					<div class="activeHelpdesk" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_7/ch10_hdcall02/indexfull.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Selecting the Right Programming Language
+					</div>
+					
+					<hr>
+					
+					<img src="assets/images/pics/programLangauge.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,30)">Exploring Programming Languages</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li style="margin-right:-55px;"><span class="ul1DigNumber">8.</span> What are the most popular programming languages for different types of application development? <span class="strongDBlue" onclick="compTia.switchPage(0,30)">(pp. 505-515)</span></li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/storytelling_in_alice/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						3D Programming the Easy Way
+					</div>
+					
+					<hr>
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown noShadow" style="position:relative;top:170px;left:30px;box-shadow: 1px 1px 3px white;" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+					
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right:-28px;margin-bottom:6px;">
+							(Stockbyte/Getty Images; Dondesigns/iStockphoto; S.John/Fotolia; Erik Dreyer/Stone/Getty Images)
+					</span>
+					<div class="loader"></div>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+					
+					<div style="width:110%;height:100%;
+							background:no-repeat url(assets/images/figures/angryBirds.png) 0px 145px"></div></div>
+							<div class="font_9 floatLeft"
+								 style="margin-top:-157px;font-style: italic;margin-left:130px;">(Jason Alden/Bloomberg/Getty Images)
+								 </div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">Want a tool that can launch you into programming for mobile devices really quickly? Try <strong>Corona</strong>. It’s simpler and easier than programming directly in Objective C or Java—just hit a button and <strong>preview your app</strong> as it will look on an <strong>iPad</strong> or a <strong>Droid</strong> phone. Some of the top-rated e-books have been built using Corona. Download a <strong>free trial copy</strong> of Corona, and you can start creating your own Angry Birds–style game today.</p>
+					
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap10ArrSchip_computer.png')" onclick="window.open('http://www.coronalabs.com','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Understanding Software Programming</div>
+					<p class="digCompP">Every day we face a wide array of tasks. Some tasks are complex and require creative thought and a human touch. But tasks that are repetitive, work with electronic information, and follow a series of clear steps are candidates for automation with computers—automation achieved through programming. In this part of the chapter, we’ll look at some of the basics of programming.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/programmingSmall.jpg);height:51px;">
+						<div class="orange">the importance of</div>
+						<div class="blue" style="margin-left:106px;">Programming</div>
+					</div>
+					
+					<p class="moreSpacing">A career in programming offers many advantages— jobs are plentiful, salaries are strong, and telecommuting is often easy to arrange. But even if you’re not planning a career in programming, knowing the basics of programming is important to help you use computers productively.</p>
+					<p class="start moreSpacing"><strong>Why would I ever need to create a program?</strong> Computer programs already exist for many tasks. For example, if you want to write a paper, Microsoft Word has already been designed to translate the tasks you want to accomplish into computer instructions. However, for users who can’t find an existing software product to accomplish a task, programming is mandatory (<span class="strongDBlue" onclick="compTia.togglePopup(3,0)">see Figure 10.1</span>). For example, imagine that a medical company comes up with a new smart bandage designed to transmit medical information about a wound directly to a diagnostic mobile monitor, like a doctor’s phone. No software product exists that will accumulate and relay information in just </p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>this manner. Therefore, a team of programmers will have to create smart-bandage software.</p>
+					<p class="start"><strong>If I’m not going to be a programmer, why should I learn about programming?</strong> If you plan to use only existing, off-the-shelf software, having a basic knowledge of programming enables you to add features that support your personal needs. For example, most modern software applications let you automate features by using custom-built mini programs called <em>macros</em>. By creating macros, you can execute a complicated sequence of steps with a single command. Understanding how to program macros enables you to add custom commands to, for example, Word or Excel and lets you automate frequently performed tasks, providing a huge boost to your productivity. And if you plan to create custom applications from scratch, having a detailed knowledge of programming will be critical to the successful completion of your projects.</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(3,0)"
+						style="height: 169px;background: url(assets/images/figures/fig10.1.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="rightPos" style="width:160px;">
+   						<span>Figure 10.1</span> In 2012, driverless cars became legal in the state of California. Software both controls and drives the car with no human input at all. <br/><em>(AP Photo/EricRisberg)</em></figcaption>
+   					</figure>
+					
+					<p><span class="strongDBlue" onclick="window.open('http://www.ted.com/talks/sebastian_thrun_google_s_driverless_car.html','_blank')">For more info on driverless cars, click here.</span></p>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/lifeCycleSmall.jpg)">
+						<div class="dblue">the life cycle of an</div>
+						<div class="orange" style="margin-left:83px;">information System</div>
+					</div>
+					
+					<p>Generally speaking, a system is a collection of pieces working together to achieve a common goal. Your body, for example, is a system of muscles, organs, and other groups of cells working together. An <span class="strongDBlue" glossary>information system</span> includes data, people, procedures, hardware, and software that help in planning and decision making. Information systems help run an office and coordinate online-purchasing systems and are behind database driven applications used by Amazon and Netflix. But how are these complicated systems developed?</p>
+					
+					<h2 class="blueHeading">The System Development Life Cycle</h2>
+					<p><strong>Why do I need a process to develop a system?</strong> Because teams of people are required to develop information systems, there needs to be an organized process to ensure that development proceeds in an orderly fashion. Software applications also need to be available for multiple operating systems, to work over networked environments, and to be free of errors and to be well supported. Therefore, a process often referred to as the <span class="strongDBlue" glossary>system development life cycle (SDLC)</span> is used.</p>
+					<p class="start"><strong>What steps constitute the SDLC?</strong> There are six steps in a common SDLC model, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(4,0)">Figure 10.2</span>. This system is sometimes referred to as a “waterfall” system because each step is dependent on the previous step being completed before it can be started.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><em>Problem</em> and <em>Opportunity Identification</em>: Corporations are always attempting to break into new markets, develop new customers, or launch new products. At other times, systems development is driven by a company’s desire to serve its existing customers more efficiently or to respond to problems with a current system. Whether solving an existing problem or exploiting an opportunity, large corporations typically form a development committee to evaluate systems development proposals. The committee decides which projects to take forward based on available resources such as personnel and funding.</span></li>
+					</ol>
+					
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_18">System Development Life Cycle</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(4,0)" style="    background: url(assets/images/figures/fig10.2.jpg) no-repeat scroll 60px 36px #FFFFFF; height: 275px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.2</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span>Figure 10.2</span> Each step of the system development life cycle must be completed before you can progress to the next.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ol class="strong noBMargin">
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong"><em>Analysis</em>: In this phase, analysts explore the problem or need in depth and develop a program specification. The <span class="strongDBlue" glossary>program specification</span> is a clear statement of the goals and objectives of the project. The first feasibility assessment is also performed at this stage. The feasibility assessment determines whether the project should go forward. If the project is determined to be feasible, the analysis team defines the user requirements and recommends a plan of action.</span></li>
+						<li><span class="innerLi notStrong"><em>Design</em>: The design phase generates a detailed plan for programmers to follow. The proposed system is documented using flowcharts and data-flow diagrams. <span class="strongDBlue" glossary="flowchart">Flowcharts</span> are visual diagrams of a process, including the decisions that need to be made along the way. <span class="strongDBlue" glossary="data-flow diagram">Data-flow diagrams</span> trace all data in an information system from the point at which data enters the system to its final resting place (storage or output). The data-flow diagram in <span class="strongDBlue" onclick="compTia.togglePopup(5,0)">Figure 10.3</span> shows the flow of concert ticket information.</span></li>
+					</ol>
+					<ol class="noListStyle">	
+						<li><span class="innerLi start notStrong">The design phase details the software, inputs and outputs, backups and controls, and processing requirements of the problem. Once the system plan is designed, a company evaluates existing software packages to determine whether it needs to develop a new piece of software or if it can buy something already on the market and adapt it to fit its needs.</span></li>
+					</ol>
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><em>Development</em>: It is during this phase that actual programming takes place. This phase is also the first part of the program-development life cycle, described in detail later in the chapter. The documentation work is begun in this phase by technical writers.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<ol class="strong">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong"><em>Testing and Installation</em>: Testing the program ensures it works properly. It is then installed for official use.</span></li>
+						<li><span class="innerLi notStrong"><em>Maintenance and Evaluation</em>: In this phase, program performance is monitored to determine whether the program is still meeting the needs of end users. Errors that weren’t detected in the testing phase but that are discovered during use are corrected. Additional enhancements that users request are evaluated so that appropriate program modifications can be made.</span></li>
+					</lo>
+					
+					<figure onclick="compTia.togglePopup(5,0)"
+						style="height: 275px;background: url(assets/images/figures/fig10.3.jpg) no-repeat scroll 0px 10px;margin-right:-25px;" class="TMargin15">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.3</span> Data-flow diagrams illustrate the way data travels in a system.</figcaption>
+   					</figure>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(6,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						The More Minds the Better
+					</div>
+				<br/>	
+					
+					<p class="start moreSpacing">The waterfall model is an idealized view of software development. Most developers follow some variation of it. For example, a design team may “spiral,” where a group that’s supporting the work of another group will work concurrently with the other group on development. This contrasts with workflows in which the groups work independently, one after the other. Often there is a “backflow” up the waterfall, because even well designed projects can require redesign and specification changes midstream.</p>
+					<p class="start moreSpacing">Some people criticize the waterfall model for taking too long to provide actual working software to the client. This may contribute to <span class="strongDBlue" glossary>scope creep</span>, an ever-changing set of requests from clients for additional features as they wait longer and longer to see a working prototype. Other developmental models are being used in the industry to address these issues (see the <span class="strongDBlue" onclick="compTia.togglePopup(6,0)">Bits and Bytes sidebar, “The More Minds the Better”</span>)</p>
+					
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(6,1)">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong>When Software Runs Awry</strong>
+				</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashed"></div>
+				
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/programCycleSmall.jpg)">
+						<div class="orange">the life cycle of a</div>
+						<div class="blue" style="margin-left: 180px;">Program</div>
+					</div>
+					
+					<p class="moreSpacing"><span class="strongDBlue" glossary>Programming</span> is the process of translating a task into a series of commands a computer will use to perform that task. It involves identifying which parts of a task a computer can perform, describing those tasks in a highly specific and complete manner, and, finally, translating this description into the language spoken by the computer’s central processing unit (CPU).</p>
+					<p class="start moreSpacing">Programming often begins with nothing more than a problem or a request, such as, “Can you tell me how many transfer students have applied to our college?” A proposal will then be developed for a system to solve this problem, if one does not already exist. Once a project has been deemed feasible and a plan is in place, the work of programming begins.</p>
+					<p class="start moreSpacing"><strong>How do programmers tackle a programming project?</strong> Each programming project follows several stages, from conception to final deployment. This process is sometimes referred to as the <span class="strongDBlue" glossary>program development life cycle (PDLC)</span>:</p>
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><em>Describing the Problem</em>: First, programmers must develop a complete description of the problem. The problem statement identifies the task to be automated and describes how the software program will behave.</span></li>
+					</ol>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong"><em>Making a Plan</em>: The problem statement is next translated into a set of specific, sequential steps that describe exactly what the computer program must do to complete the work. The steps are known as an algorithm. At this stage, the <span class="strongDBlue" glossary>algorithm</span> is written in natural, ordinary language (such as English).</span></li>
+						<li><span class="innerLi notStrong"><em>Coding</em>: The algorithm is then translated into programming code, a language that is friendlier to humans than the <em>1s</em> and <em>0s</em> that the CPU speaks but is still highly structured. By coding the algorithm, programmers must think in terms of the operations that a CPU can perform.</span></li>
+						<li><span class="innerLi notStrong"><em>Debugging</em>: The code then goes through a process of debugging in which the programmers repair any errors found in the code.</span></li>
+						<li><span class="innerLi notStrong"><em>Testing and Documentation</em>: The software is tested by both the programming team and the people who will use the program. The results of the entire project are documented for the users and the development team. Finally, users are trained so that they can use the program efficiently.</span></li>
+					</ol>
+					
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(7,0)">Figure 10.4</span> illustrates the steps of a program life cycle.</p>
+					<p class="start">Now that you have an overview of the process involved in developing a program, let’s look at each step in more detail.</p>
+					
+					<h2 class="blueHeading">Describing the Problem: The Problem Statement</h2>
+					<p class="lessSpacing"><strong>Why is a problem statement necessary?</strong> The <span class="strongDBlue" glossary>problem statement</span> is the starting point of programming work. It’s a clear description of what tasks the </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_17">Program Development Life Cycle (PDLC)</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(7,0)" style="    background: url(assets/images/figures/fig10.4.jpg) no-repeat scroll 142px 36px #FFFFFF; height: 230px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.4</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span>Figure 10.4</span> The stages that each programming project follows, from conception to final deployment, are collectively referred to as the program development life cycle (PDLC).
+						</figcaption></figure>
+					</div>
+					
+					<div class="itSimContain"
+							onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_mylabs/simulations/2012/IT/programming/','_blank')" style="margin-top:10px;">
+							<div class="itSimContent">
+								<span>IT</span>
+								<span>SIMULATION: Program Development</span>
+							</div>
+						</div>
+					
+					<p class="moreSpacing">computer program must accomplish and how the program will execute those tasks and respond to unusual situations. Programmers develop problem statements so they can better understand the goals of their programming efforts.</p>
+					<p class="start moreSpacing"><strong>What kind of problems can computer programs solve?</strong> As noted above, tasks that are repetitive, work with electronic information, and follow a series of clear steps are good candidates for computerization. This might sound as if computers only help us with the dullest and most simplistic tasks. However, many sophisticated problems can be broken down into a series of easily computerized tasks. For example, pharmaceutical companies design</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_22.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Understanding Software Programming
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about the life cycle of a program, the role a problem statement plays in programming, how programmers create algorithms and move from algorithm to code to the <em>1</em>s and <em>0</em>s a CPU can understand, and the steps involved in completing the program.
+					</div></div>
+					
+					<p>drugs using complex computer programs that model molecules. Using simulation software to perform “dry” chemistry, chemists can quickly “create” new drugs and determine whether they will have the desired pharmacological effects. Scientists then select the most promising choices and begin to test those compounds in the “wet” laboratory.</p>
+					<p class="start"><strong>What kinds of problems can computers <em>not</em> solve?</strong> Computers can’t yet act with intuition or be spontaneously creative. They can attack highly challenging problems such as making weather predictions or playing chess, but only in a way that takes advantage of what computers do best—making fast, reliable computations. Computers don’t “think” like humans do. They can only follow instructions and algorithms.</p>
+					<p class="start"><strong>How do programmers create problem statements?</strong> The goal in creating a useful problem statement is to have programmers interact with users to describe three things relevant to creating a useful program:</p>
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><span class="strongDBlue" glossary>Data</span> is the raw input that users have at the start of the job.</span></li>
+						<li><span class="innerLi notStrong"><span class="strongDBlue" glossary>Information</span> is the result, or output, that the users require at the end of the job.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerli notStrong"><span class="strongDBlue" glossary>Method</span>, described precisely, is the process of how the program converts the inputs into the correct outputs.</span></li>
+					</ol>
+					<p class="start">For example, say you want to compute how much money you’ll earn working at a parking garage. Your salary is $7.50 per hour for an eight-hour shift, but if you work more than eight hours a day, you get time and a half, which is $11.25 per hour, for the overtime work. To determine how much money you make in any given day, you could multiply this in your mind, write it on a piece of paper, or use a calculator; alternatively, you could create a simple computer program to do the work for you. In this example, what are the three elements of the problem statement?</p>
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><em>Data (Input)</em>: the data you have at the beginning of the problem, which is the number of hours you worked and the pay rate.</span></li>
+						<li><span class="innerLi notStrong"><em>Information (Output)</em>: the information you need to have at the end of the problem, which is your total pay for the day.</span></li>
+						<li><span class="innerLi notStrong"><em>Method (Process)</em>: the set of steps that take you from your input to your required output. In this case, the computer program would check if you worked more than eight hours. This is important because it would determine whether you would be paid overtime. If you didn’t work overtime, the output would be $7.50 multiplied by the total number of hours you worked ($60.00 for eight hours). If you did work overtime, the program would calculate your pay as eight hours at $7.50 per hour for the regular part of your shift, plus an additional $11.25 multiplied by the number of overtime hours you worked.</span></li>
+					</ol>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How do programmers handle bad inputs?</strong> In the problem statement, programmers also must describe what the program should do if the input data is invalid or just gibberish. This part of the problem statement is referred to as <span class="strongDBlue" glossary>error handling</span>. </p>
+					<p class="start moreSpacing">The problem statement also includes a <span class="strongDBlue" glossary>testing plan</span> that lists specific input numbers the programmers would typically expect the user to enter. The plan then lists the precise output values that a perfect program would return for those input values. Later, in the testing process, programmers use the input and output data values from the testing plan to determine whether the program they created works the way it should. We discuss the testing process later in this chapter.</p>
+					<p class="start moreSpacing"><strong>Does the testing plan cover every possible use of the program?</strong> The testing plan can’t list every input the program could ever encounter. Instead, programmers work with users to identify the categories of inputs that will be encountered, find a typical example of each input category, and specify what kind of output must be generated. In the parking garage pay example, the error-handling process would describe what the program would do if you happened to enter “–8” (or any other nonsense character) for the number of hours you worked. The error handling would specify whether the program would return a negative value, prompt you to reenter the input, or shut down.</p>
+					<p class="start moreSpacing">We could expect three categories of inputs in the parking garage example. The user might enter:</p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li><span class="innerLi notStrong">A negative number for hours worked that day</span></li>
+						<li><span class="innerLi notStrong">A positive number equal to or less than eight</span></li>
+						<li><span class="innerLi notStrong">A positive number greater than eight</span></li>
+					</ol>
+					
+					<p class="start moreSpacing">The testing plan would describe how the error would be managed or how the output would be generated for each input category.</p>
+					<p class="start moreSpacing"><strong>Is there a standard format for a problem statement?</strong> Most companies have their own format for documenting a problem statement. However, all problem statements include the same basic components: the data that is expected to be provided (inputs), the information that is expected to be produced (outputs), the rules for transforming the input into output (processing), an explanation of how the program will </p>
+					
+					<p class="moreSpacing">respond if users enter data that doesn’t make sense (error handling), and a testing plan. <span class="strongDBlue" onclick="compTia.togglePopup(9,0)">Figure 10.5</span> shows a sample problem statement for our parking garage example.</p>
+					
+					<h2 class="blueHeading">Making a Plan: Algorithm Development</h2>
+					<p class="moreSpacing"><strong>How does the process start?</strong> Once programmers understand exactly what the program must do and have created the final problem statement, they can begin developing a detailed algorithm—a set of specific, sequential steps that describe in natural language exactly what the computer program must do to complete its task. Let’s look at some ways in which programmers design and test algorithms.</p>
+					
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_18">Parking Garage Example</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(9,0)" style="    background: url(assets/images/figures/fig10.5.jpg) no-repeat scroll 45px 32px #FFFFFF; height: 198px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.5</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span></span> 
+						</figcaption></figure>
+					</div>
+					
+					<p class="start TMargin5"><strong>Do algorithms appear only in programming?</strong> Although the term <em>algorithm</em> may sound like it would fall only under the domain of computing, you design and execute algorithms in your daily life. For example, say you’re planning your morning. You know you need to</p>
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong">Get gas for your car,</span></li>
+						<li><span class="innerLi notStrong">Pick up a mocha latte at the cafe, and</span></li>
+						<li><span class="innerLi notStrong">Stop by the bookstore and buy a textbook before your 9 a.m. accounting lecture</span></li>
+					</ol>
+					
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/programming_for_end_users_macros/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Programming for End Users
+						</div>
+						In this Sound Byte, you’ll be guided through the creation of a macro in the Microsoft Office suite. You’ll learn how Office enables you to program with macros in order to customize and extend the capabilities it offers.
+					</div></div>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start lessSpacing">You quickly think over the costs and decide it will take $150 to buy all three. In what order will you accomplish all these tasks? How do you decide? Should you try to minimize the distance you’ll travel or the time you’ll spend driving? What happens if you forget your credit card?</p>
+					<p class="start lessSpacing"><span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 10.6</span> presents an algorithm you could develop to make decisions about how to accomplish these tasks. This algorithm lays out a specific plan that encapsulates all of the choices you need to make in the course of completing a particular task and shows the specific sequence in which these tasks will occur. At any point in the morning, you could gather </p>
+					
+					
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead TMargin5">Algorithm</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(10,0)" style="    background: url(assets/images/figures/fig10.6.jpg) no-repeat scroll 79px 36px #FFFFFF; height: 296px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.6</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span>Figure 10.6</span> An algorithm you might use to plan your morning would include all of the decisions you might need to make and would show the specific sequence inwhich these steps would occur.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">your current data (your inputs)—“I have $20 and my Visa card, but the ATM machine is down”—and the algorithm would tell you unambiguously what your next step should be.</p>
+					<p class="start moreSpacing"><strong>What are the limitations of algorithms?</strong> An algorithm is a series of steps that’s completely known: At each point, we know <em>exactly</em> what step to take next. However, not all problems can be described as a fixed sequence of predetermined steps; some involve random and unpredictable events. For example, although the program that computes your parking garage take-home pay each day works flawlessly, programs that predict stock prices are often wrong because many random events (inputs), such as a flood in India or a shipping delay in Texas, can change the outcomes (outputs).</p>
+					<p class="start moreSpacing"><strong>How do programmers represent an algorithm?</strong> Programmers have several visual tools at their disposal to help them document the decision points and flow of their algorithms:</p>
+					
+					<ul class="dotted">
+						<li><span class="innerLi"><span class="strongDBlue" glossary="flowchart">Flowcharts</span> provide a visual representation of the patterns the algorithm comprises. <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 10.6</span> presents an example of a flowchart used to depict the flow of an algorithm. Specific shape symbols indicate program behaviors and decision types. Diamonds indicate that a yes/no decision will be performed, and rectangles indicate an instruction to follow. <span class="strongDBlue" onclick="compTia.togglePopup(11,0)">Figure 10.7</span> lists additional flowcharting symbols and explains what they indicate. Many software packages make it easy for programmers to create and modify flowcharts. Microsoft Visio is one popular flowcharting program.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><span class="strongDBlue" glossary>Pseudocode</span> is a text-based approach to documenting an algorithm. In pseudocode, words describe the actions that the algorithm will take. Pseudocode is organized like an outline, with differing levels of indentation to indicate the flow of actions within the program. There is no standard vocabulary for pseudocode. Programmers use a combination of common words in their natural language and the special words that are commands in the programming language they’re using.</span></li>
+					</ul>
+					
+					<figure onclick="compTia.togglePopup(11,0)"
+						style="height: 345px;background: url(assets/images/figures/fig10.7.jpg) no-repeat scroll 0px 10px;margin-right:-25px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.7</span> Standard Symbols Used in Flowcharts</figcaption>
+   					</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Developing the Algorithm: Decision <br/>Making and Design</h2>
+					<p><strong>How do programmers handle complex algorithms?</strong> When programmers develop an algorithm, they convert the problem statement into a list of steps the program will take.</p>
+					
+					<p class="start">Problems that are complex involve choices, so they can’t follow a sequential list of steps. Algorithms therefore include <span class="strongDBlue" glossary="decision point">decision points</span>, places where the program must choose from a list of actions based on the value of a certain input.</p>
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Figure 10.8</span> shows the steps of the algorithm in our parking garage example. If the number of hours you worked in a given day is eight or less, the program performs one simple calculation: It multiplies the number of </p>
+					
+					<figure onclick="compTia.togglePopup(12,0)"
+						style="height: 270px;background: url(assets/images/figures/fig10.8.jpg) no-repeat scroll 60px 5px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.8</span> Decision points force the program to travel down one branch of the algorithm or another.</figcaption>
+   					</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>hours worked by $7.50. If you worked more than eight hours in a day, the program takes a different path and performs a different calculation.</p>
+					<p class="start"><strong>What kinds of decision points are there?</strong> There are two main types of decisions that change the flow of an algorithm:</p>
+					<ol class="strong">
+						<li><span class="innerLi notStrong"><em>Binary decisions</em>: One decision point that appears often in algorithms is like a “fork in the road.” Such decision points are called <span class="strongDBlue" glossary="binary decision">binary decisions</span> because they can be answered in one of only two ways: <em>yes</em> (true) or <em>no</em> (false). For example, the answer to the question, “Did you work at most eight hours today?” (Is number of hours worked &lt;= 8 hours?), shown in <span class="strongDBlue" onclick="compTia.togglePopup(12,0)">Figure 10.8</span>, is a binary decision because the answer can be only <em>yes</em> or <em>no</em>. If the answer is yes, the program follows one sequence of steps; if the answer is <em>no</em>, it follows a different path.</span></li>
+						<li><span class="innerLi notStrong"><em>Loops</em>: A second decision point that often appears in algorithms is a repeating loop. In a <span class="strongDBlue" glossary>loop</span>, a question is asked, and if the answer is yes, a set of actions is performed. Once the set of actions has finished, the question is asked again, creating a loop. As long as the answer to the question is <em>yes</em>, the algorithm continues to loop around and repeat the same set of actions. When the answer to the question is <em>no</em>, the algorithm breaks free of the looping and moves on to the first step that follows the loop.</span></li>
+					</ol>
+					
+					<p class="start">In our parking garage example, the algorithm would require a loop if you wanted to compute the total pay you earned in a full week of work rather than in just a single day. For each day of the week, you would want to </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead">Looping</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(13,0)" style="    background: url(assets/images/figures/fig10.9.jpg) no-repeat scroll 13px 36px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.9</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span>Figure 10.9</span> We stay in the loop until the test condition is no longer true. We then break free from the loop and move on to the next step in the algorithm, which is outside of the loop.
+						</figcaption></figure>
+					</div>
+					
+					<p>perform the same set of steps. <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 10.9</span> shows how the idea of looping would be useful in this part of our parking garage program. On Monday, the program would set the Total Pay value to $0.00. It would then perform the following set of steps:</p>
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong">Read the number of hours worked that day.</span></li>
+						<li><span class="innerLi notStrong">Determine whether you qualified for overtime pay.</span></li>
+						<li><span class="innerLi notStrong">Compute the pay earned that day.</span></li>
+						<li><span class="innerLi notStrong">Add that day’s pay to the total pay for the week.</span></li>
+					</ol>
+					
+					<p class="start">On Tuesday, the algorithm would loop back, repeating the same sequence of steps it performed on Monday, adding the amount you earned on Tuesday to the Total Pay amount. The algorithm would continue to </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">perform this loop for each day (seven times) until it hits Monday again. At that point, the decision “Are we still in the same week?” would become false. The program would stop, calculate the total pay for the entire week of work, and print the weekly paycheck. As you can see, there are three important features to look for in a loop:</p>
+					
+					<ol class="strong">
+						<li><span class="innerLi notStrong">A beginning point, or <span class="strongDBlue" glossary>initial value</span>. In our example, the total pay for the week starts at an initial value of $0.00.</span></li>
+						<li><span class="innerLi notStrong">A set of actions that will be performed. In our example, the algorithm computes the daily pay each time it passes through the loop.</span></li>
+						<li><span class="innerLi notStrong">A <span class="strongDBlue" glossary>test condition</span>, or a check to see whether the loop is completed. In our example, the algorithm should run the loop seven times, no more and no fewer.</span></li>
+					</ol>
+					
+					<p class="start moreSpacing">Every higher-level programming language supports both making binary yes/no decisions and handling repeating loops. <span class="strongDBlue" glossary="control structure">Control structures</span> is the general term used for keywords in a programming language that allow the programmer to direct the flow of the program based on a decision.</p>
+					<p class="start moreSpacing"><strong>How do programmers create algorithms for specific tasks?</strong> It’s difficult for human beings to force their problem-solving skills into the highly structured, detailed algorithms that computing machines require. Therefore, several different methodologies have been developed to support programmers, including <em>top-down design</em> and <em>object-oriented analysis.</em></p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Top-Down Design</h2>
+					<p><strong>What is top-down design?</strong> <span class="strongDBlue" glossary>Top-down design</span> is a systematic approach in which a problem is broken into a series of high-level tasks. In top-down design, programmers apply the same strategy repeatedly, breaking each task into successively more detailed subtasks. They continue until they have a sequence of steps that are close to the types of commands allowed by the programming language they’ll use for coding. Previous coding experience helps programmers know the appropriate level of detail to specify in an algorithm generated by top-down design.</p>
+					<p class="start"><strong>How is top-down design used in programming?</strong> Let’s consider our parking garage example again. Initially, top-down design would identify three high-level tasks: Get Input, Process Data, and Output Results (<span class="strongDBlue" onclick="compTia.togglePopup(14,0)">see Figure 10.10a</span>).</p>
+					<p class="start">Applying top-down design to the first operation, Get Input, we’d produce the more detailed sequence of steps shown in the first step of <span class="strongDBlue" onclick="compTia.togglePopup(14,0)">Figure 10.10b</span>: Announce Program, Give Users Instructions, and Read the Input NumberHoursWorkedToday. When we try to refine each of these steps, we find that they are just print-and-read statements and that most every programming language will support them. Therefore, the operation Get Input has been converted to an algorithm.</p>
+					<p class="start">Next, we move to the second high-level task, Process Data, and break it into subtasks. In this case, we need to determine whether overtime hours were worked and to compute the pay accordingly. We continue to apply </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>top-down design on all tasks until we can no longer break tasks into subtasks, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(14,0)">Figure 10.10c</span>.</p>
+					
+					<h2 class="blueHeading">Object-Oriented Analysis</h2>
+					<p class="lessSpacing"><strong>What is object-oriented analysis?</strong> With <span class="strongDBlue" glossary>object-oriented analysis</span>, programmers first identify all the categories of inputs that are part of the problem the program is meant to solve. These categories are called <span class="strongDBlue" glossary="class">classes</span>. With the object-oriented approach, the majority of design time is spent identifying the classes required to solve the problem, modeling them, and thinking about what relationships they need to be able to have with each other. Constructing the algorithm becomes a process of enabling the objects to interact. For example, the classes in our parking garage example might include a TimeCard class and an Employee class.</p>
+					
+					<figure onclick="compTia.togglePopup(14,0)"
+						style="height: 250px;background: url(assets/images/figures/fig10.10.jpg) no-repeat scroll 20px 5px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.10</span> (a) A top-down design is applied to the highest level of task in our parking garage example, (b) the tasks are further refined into subtasks, and (c) subtasks are refined into a sequence of instructions—an algorithm.</figcaption>
+   					</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">Classes are defined by</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Information (data) with the class and</span></li>
+						<li><span class="innerLi">Actions (methods) associated with the class</span></li>
+					</ul>
+					
+					<p class="start">For example, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(15,0)">Figure 10.11</span>, <em>data</em> for an Employee would include a Name, Address, and Social Security Number, whereas the <em>methods</em> for the Employee would be GoToWork(), LeaveWork(), and CollectPay(). The data of the class describes the class, so classes are often characterized as nouns, whereas methods are often characterized as verbs—the ways that the class acts and communicates with other classes.</p>
+					<p class="start">Programmers may need to create several different examples of a class. Each of these examples is an <span class="strongDBlue" glossary>object</span>. In <span class="strongDBlue" onclick="compTia.togglePopup(15,0)">Figure 10.11</span>, John Doe, Jane Doe, and Bill McGillicutty are each Employee objects (specific examples of the Employee class). Each object from a given class is described by the same pieces of data and has the same methods; for example, John, Jane, and Bill are all Employees and can use the GoToWork(), LeaveWork(), and CollectPay() methods. However, because they all have different pay grades (PayGrade 5, PayGrade 10, and PayGrade 4, respectively) and different Social Security numbers, they are all unique objects.</p>
+					<p class="start"><strong>Why would a developer select the object-oriented approach over top-down design?</strong> An important aspect of object-oriented design is that it leads to <span class="strongDBlue" glossary>reusability</span>. Object-oriented analysis forces programmers to think in general terms about their problem, which tends to lead to more general and reusable solutions. Because object-oriented design generates a </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(15,0)"
+						style="height: 310px;background: url(assets/images/figures/fig10.11.jpg) no-repeat scroll -11px 5px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.11</span> The Employee class includes the complete set of information (data) and actions (methods or behaviors) that describe an Employee.</figcaption>
+   					</figure>
+					<br/>
+					
+					<p class="moreSpacing">family of classes for each project, programmers can easily reuse existing classes from other projects, enabling them to produce new code quickly.</p>
+					<p class="start moreSpacing"><strong>How does a programmer take advantage of reuse ability?</strong> Programmers must study the relationships between objects. Hierarchies of objects can be built quickly in object-oriented languages using the mechanism of inheritance. <span class="strongDBlue" glossary>Inheritance</span> means that a new class can automatically pick up all the data and methods of an existing class and then can extend and customize those to fit its own specific needs.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">The original class is called the <span class="strongDBlue" glossary>base class</span>, and the new, modified class is called the <span class="strongDBlue" glossary>derived class</span>, as illustrated in <span class="strongDBlue" onclick="compTia.togglePopup(16,0)">Figure 10.12</span>. You can compare this with making cookies. For example, you have a basic recipe for sugar cookies (base class: Sugar Cookies). However, in your family, some people like chocolate-flavored sugar cookies (derived class: Chocolate Sugar Cookies), and others like mini-chip sugar cookies (derived class: Mini-Chip Sugar Cookies). All the cookies share the attributes of the basic sugar cookie. However, instead of creating two entirely new recipes—one for chocolate cookies and one for mini-chip cookies—the two varieties inherit the basic sugar cookie (base class) recipe; the recipe is then customized to make the chocolate and mini chip sugar cookies (derived classes).</p>
+					
+					<figure onclick="compTia.togglePopup(16,0)"
+						style="height: 275px;background: url(assets/images/figures/fig10.12.jpg) no-repeat scroll 95px 10px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.12</span> In object-oriented programming, a single base class—for example, Sugar Cookies—helps you quickly create many additional derived classes, such as Chocolate and Mini-Chip Sugar Cookies. <em>(Nataliya Dolotko/Fotolia)</em></figcaption>
+   					</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Coding: Speaking the Language of the Computer</h2>
+					<p class="moreSpacing"><strong>How is a person’s idea translated into CPU instructions?</strong> Once programmers create an algorithm, they select the best programming language for the problem and then translate the algorithm into that language. Translating an algorithm into a programming language is the act of <span class="strongDBlue" glossary>coding</span>. Programming languages are somewhat readable by humans but then are translated into patterns of <em>1</em>s and <em>0</em>s to be understood by the CPU.</p>
+					<p class="start moreSpacing">Although programming languages free programmers from having to think in binary language—the <em>1</em>s and <em>0</em>s that computers understand—they still force programmers to translate the ideas of the algorithm into a highly precise format. Programming languages are quite limited, allowing programmers to use only a few specific keywords, while demanding a consistent structure.</p>
+					<p class="start moreSpacing"><strong>How exactly do programmers move from algorithm to code?</strong> Once programmers have an algorithm, in the form of either a flowchart or a series of pseudocode statements, they identify the key pieces of information the algorithm uses to make decisions:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">What steps are required for the calculation of new information?</span></li>
+						<li><span class="innerLi">What is the exact sequence of the steps?</span></li>
+						<li><span class="innerLi">Are there points where decisions have to be made?</span></li>
+						<li><span class="innerLi">What kinds of decisions are made?</span></li>
+						<li><span class="innerLi">Are there places where the same steps are repeated several times?</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Once programmers identify the required information and the flow of how it will be changed by each step of the algorithm, they can begin converting the algorithm into computer code in a specific programming language.</p>
+					<p class="start moreSpacing"><strong>What exactly is a programming language?</strong> A <span class="strongDBlue" glossary>programming language</span> is a kind of “code” for the set of instructions the CPU knows how to perform. Computer programming languages use special words and strict rules so that programmers can control the CPU without having to know all its hardware details.</p>
+					<p class="start moreSpacing"><strong>What kinds of programming languages are there?</strong> Programming languages are classified into several major groupings, sometimes referred to as <em>generations</em>. With each generation of language development, programmers have been relieved of more of the burden of keeping track of what the hardware requires. The earliest languages—assembly language and machine languages—required the programmer to know a great deal about how the computer was constructed internally and how it stored data. Programming is becoming easier as languages continue to become more closely matched to how humans think about problems.</p>
+					
+					<div onclick="compTia.togglePopup(17,0)" class="bitsAndBytesBlue TMargin15">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						My Algorithm Can Beat Your Algorithm!
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="lessSpacing"><strong>How have modern programming languages evolved?</strong> There are five major categories of languages:</p>
+					<ol class="strong">
+						<li><span class="innerLi notStrong"> A <span class="strongDBlue" glossary>first-generation language (1GL)</span> is the actual <span class="strongDBlue" glossary>machine language</span> of a CPU, the sequence of bits (<em>1</em>s and <em>0</em>s) that the CPU understands.</span></li>
+						<li><span class="innerLi notStrong"> A <span class="strongDBlue" glossary>second-generation language (2GL)</span> is also known as an <span class="strongDBlue" glossary>assembly language</span>. Assembly languages allow programmers to write their programs using a set of short, English-like commands that speak directly to the CPU and that give the programmer direct control of hardware resources.</span></li>
+						<li><span class="innerLi notStrong"> A <span class="strongDBlue" glossary>third-generation language (3GL)</span> uses symbols and commands to help programmers tell the computer what to do. This makes 3GL languages easier for humans to read and remember. Most programming languages today, including BASIC, FORTRAN, COBOL, C/C++, and Java, are considered third generation.</span></li>
+						<li><span class="innerLi notStrong"><span class="strongDBlue" glossary="fourth-generation language (4GL)">Fourth-generation languages (4GLs)</span> include database query languages and report generators. <span class="strongDBlue" glossary="Structured Query language">Structured Query Language (SQL) </span> is a database programming language that is an example of a 4GL. The following SQL command would check a huge table of data on the employees and build a new table showing all those employees who worked overtime:</span></li>
+					</ol>
+					
+					<figure
+						style="height: 98px;background: url(assets/images/figures/figpicture1.jpg) no-repeat scroll 89px 0px;">
+						<figcaption class="bottomPos">
+   						<span></span> </figcaption>
+   					</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="18" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ol class="strong">
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong"><span class="strongDBlue" glossary="fifth-generation language (5GL)">Fifth-generation languages (5GLs)</span> are considered the most “natural” of languages. In a 5GL, a problem is presented as a series of facts or constraints instead of as a specific algorithm. The system of facts can then be queried (asked) questions. PROLOG (PROgramming LOGic) is an example of a 5GL. A PROLOG program could be a list of family relationships and rules such as “Mike is Sally’s brother. A brother and a sister have the same mother and father.” Once a user has amassed a huge collection of facts and rules he or she can ask for a list of all Mike’s cousins, for example. PROLOG would find the answers by repeatedly applying the principles of logic, instead of by following a systematic algorithm that the programmer provided.</span></li>
+					</ol>
+					
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(18,0)">Figure 10.13</span> shows small code samples of examples of each generation of language.</p>
+					<p class="start"><strong>Do programmers have to use a higher-level programming language to solve a problem with a computer?</strong> No, experienced programmers sometimes write a program directly in the CPU’s assembly language. However, the main advantage of higher-level programming languages—C or Java, for example—is that they allow programmers to think in terms of the problem they’re solving rather than having to worry about the internal design and specific instructions available for a given CPU. In addition, higher-level programming languages have the capability to easily produce a program that will run on differently configured CPUs. For example, if programmers wrote directly in the assembly language for an </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_14">Sample Code for Different Language Generations</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(18,0)" style="    background: url(assets/images/figures/fig10.13.jpg) no-repeat scroll 23px 36px #FFFFFF; height: 208px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.13</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span></span>
+						</figcaption></figure>
+					</div>
+					<br/>
+					
+					<p>assembly language for an Intel i7 CPU, they would have to rewrite the program completely if they wanted it to run on a Sun workstation with the UltraSPARC CPU. Thus, higher-level programming languages offer <span class="strongDBlue" glossary>portability</span>—the capability to move a completed solution easily from one type of computer to another.</p>
+					<p class="start"><strong>What happens first when you write a program?</strong> All of the inputs a program receives and all of the outputs the program produces need to be stored in the computer’s RAM while the program is running. Each input and each output item that the program manipulates, also known as a <span class="strongDBlue" glossary>variable</span>, needs to be announced early in the program so that memory space can be set aside. A <span class="strongDBlue" glossary>variable declaration</span> tells the operating system that the program needs to allocate storage space in RAM. The following line of code </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>is a variable declaration in the language Java:</p>
+					<p class="start strong" style="font-family:courier;margin-left:37px;">int Day;</p>
+					<p class="start">The one simple line makes a lot of things happen behind the scenes:</p>
+					
+					<ul class="dotted">
+						<li><span class="innerLi lessSpacing">The variable’s name is <em>Day</em>. The “int” that precedes the Day variable indicates that this variable will always be an integer (a whole number such as 15 or –4).</span></li>
+						<li><span class="innerLi lessSpacing">The statement “int Day;” asks for enough RAM storage space to hold an integer. After the RAM space is found, it is reserved. As long as the program is running, these RAM cells will be saved for the Day variable, and no other program can use that memory until the program ends. From that point on, when the program encounters the symbol Day, it will access the memory it reserved as Day and find the integer stored there.</span></li>
+					</ul>
+					
+					<p class="start lessSpacing"><strong>Can programmers leave notes to themselves inside a program?</strong> Programmers often insert a <span class="strongDBlue" glossary>comment</span> into program code to explain the purpose of a section of code, to indicate the date they wrote the program, or to include other important information about the code so that fellow programmers can more easily understand and update it.</p>
+					<p class="start lessSpacing">Comments are written into the code in plain English. The <em>compiler</em>, a program that translates codes into binary <em>1</em>s and <em>0</em>s, just ignores comments. </p>
+					
+					<br/>
+					<div class="greenHorzButton" onclick="compTia.togglePopup(19,0)" style="margin-top:10px;">
+						<span class="largeBoldWhite">DIG DEEPER</span>
+						<strong class="normalFont cond">The Building Blocks of Programming Languages</strong>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="lessSpacing">Comments are intended to be read only by human programmers. Languages provide a special symbol or keyword to indicate the beginning of a comment. In C++, the symbol // at the beginning of a line indicates that the rest of the line is a comment.</p>
+					<p class="start lessSpacing"><strong>What would completed code for a program look like?</strong> <span class="strongDBlue" onclick="compTia.togglePopup(19,1)">Figure 10.16</span> presents a completed C++ program for our parking garage example. We’ll discuss later how you would actually enter this program on your system. This program, which is written in a top-down style, does not make use of objects. Each statement in the program is executed sequentially (that is, in order from the first statement to the last) unless the program encounters a keyword that changes the flow.</p>
+					
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_20 TMargin10">C++ Program</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(19,1)" style="    background: url(assets/images/figures/fig10.16.jpg) no-repeat scroll 80px 36px #FFFFFF; height: 245px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.16</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span>Figure 10.16</span> A complete C++ program that solves the parking garage pay problem.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Are there ways in which programmers can make their code more useful for the future?</strong> One aspect of converting an algorithm into good code is the programmer’s ability to design general code that can easily be adapted to new settings. Sections of code that will be used repeatedly, with only slight modification, can be packaged into reusable “containers” or components. Depending on the language, these reusable components are referred to as <em>functions, methods, procedures, subroutines, modules,</em> or <em>packages</em>.</p>
+					<p class="start">In our program, we could create a function that implements the overtime pay rule. As it stands in <span class="strongDBlue" onclick="compTia.togglePopup(19,1)">Figure 10.16</span>, the code works only in situations in which the hourly pay is exactly $7.50 and the bonus pay is exactly $11.25. However, if we rewrote this part of the processing rules as a function, we could have code that would work for any base pay rate and any overtime rate. If the base pay rate or overtime rate changed, the function would use whichever values it was given as input to compute the output pay variable. Such a function, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(20,0)">Figure 10.17</span>, may be reused in many settings without changing any of the code.</p>
+					
+					<h2 class="blueHeading">Compilation</h2>
+					<p><strong>How does a programmer move from code in a programming language to the <em>1</em>s and <em>0</em>s the CPU can understand?</strong> <span class="strongDBlue" glossary>Compilation</span> is the process by which code is converted into machine language—the language the CPU can understand. A <span class="strongDBlue" glossary>compiler</span> is a program that understands both the syntax of the programming language and the exact</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(20,0)"
+						style="height: 215px;background: url(assets/images/figures/fig10.17.jpg) no-repeat scroll 65px 0px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.17</span>  A function is a reusable component that can be used in different settings.</figcaption>
+   					</figure>
+					
+					<br/>
+					<p class="moreSpacing">structure of the CPU and its machine language. It can “read” the <span class="strongDBlue" glossary>source code</span>, which comprises the instructions programmers have written in the higher-level language, and can translate the source code directly into machine language—the binary patterns that will execute commands on the CPU. You can learn more about the details of the binary number system in the Technology in Focus section, <span class="strongDBlue" onclick="compTia.moveTo(7,41,0)" >“Under the Hood”</span>.</p>
+					<p class="start moreSpacing">Each programming language has its own compiler. It’s a program that you purchase and install just like any other software on your system. Separate versions of the compiler are required if you want to compile code that will run on separate processor types. One version of a compiler would create finished programs for a Sun UltraSPARC processor, for example, and another version of the compiler would create programs for an Intel i7 CPU.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">At this stage, once the compiler has generated the executable program, the programmers have a program to distribute. An <span class="strongDBlue" glossary>executable program</span>, the binary sequence that instructs the CPU to run their code, can’t be read by human eyes because they’re pure binary codes. They’re stored as *.exe or *.com files on Windows systems.</p>
+					<p class="start"><strong>Does every programming language have a compiler?</strong> Some programming languages don’t have a compiler but use an interpreter instead. An <span class="strongDBlue" glossary>interpreter</span> translates the source code into an intermediate form, line by line. Each line is then executed as it’s translated. The compilation process takes longer than the interpretation process because in compilation, all the lines of source code are translated into machine language before any lines are executed. However, the finished compiled </p>
+					
+					<figure onclick="compTia.togglePopup(21,0)"
+						style="height: 253px;background: url(assets/images/figures/fig10.18.jpg) no-repeat scroll 73px 0px;" class="TMargin10">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.18</span> The jGRASP IDE is a free tool that helps the programmer visualize the code as it runs to help eliminate logical errors.</figcaption>
+   					</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>program runs faster than an interpreted program because the interpreter is constantly translating and executing as it goes.</p>
+					<p class="start">If producing the fastest executable program is important, programmers will choose a language that uses a compiler instead of an interpreter. For development environments in which many changes are still being made to the code, interpreters have an advantage because programmers don’t have to wait for the entire program to be recompiled each time they make a change. With interpreters, programmers can immediately see the results of their program changes as they’re making them.</p>
+					
+					<h2 class="blueHeading">Coding Tools: Integrated Development Environments</h2>
+					<p><strong>What tools make the coding process easier?</strong> Modern programming is supported by a collection of tools that make the writing and testing of software easier. An <span class="strongDBlue" glossary>integrated development environment (IDE)</span> is a developmental tool that helps programmers write and test their programs. One IDE can often be configured to support many different languages. <span class="strongDBlue" onclick="compTia.togglePopup(21,0)">Figure 10.18</span> shows the IDE jGRASP working with Java code.</p>
+					<p class="start"><strong>How does an IDE help programmers when they’re typing the code?</strong> <span class="strongDBlue" glossary>Code editing</span> is the step in which a programmer physically types the code into the computer. An IDE includes an <span class="strongDBlue" glossary>editor</span>, a special tool that helps programmers as they enter the code, highlighting keywords and alerting the programmers to typos. Modern IDE editors also automatically indent the</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/looping_around_ide/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Looping Around the IDE
+						</div>
+						In this Sound Byte, you’ll work in the Microsoft Visual Studio IDE with the C++ programming language and examine how the basic control structures of programming languages work.
+					</div></div>
+					
+					<p>code correctly, align sections of code appropriately, and apply color to code comments to remind programmers that these lines won’t be executed as code. In addition, IDEs provide auto-completion of code, suggest solutions to common errors, and more.</p>
+					<p class="start"><strong>How does the IDE help programmers after code editing is finished?</strong> Editing is complete when the entire program has been keyed into the editor. At that time, the programmer clicks a button in the IDE, and the compilation process begins. The IDE shows how the compilation is progressing, which line is currently being compiled, how many syntax errors have been identified, and how many warnings have been generated. A warning is a suggestion from the compiler that the code might not work in the way the programmer intended even though there’s no formal syntax error on the line.</p>
+					<p class="start">A syntax error is a violation of the strict, precise set of rules that define the language. Programmers create syntax errors when they misspell keywords (such as typing BEEGIN instead of BEGIN) or use an operator incorrectly (such as typing x = , y + 2 instead of x = y + 2). Once compilation is finished, the IDE presents all of the syntax errors in one list. The </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>programmer can then click any item in the list to see a detailed explanation of the type of error. When the programmer double clicks an item in the list, the editor jumps to the line of code that contains the error, enabling the programmer to repair syntax errors quickly.</p>
+					
+					<h2 class="blueHeading">Debugging: Getting Rid of Errors</h2>
+					<p><strong>What is debugging?</strong> Once the program has compiled without syntax errors, it has met all of the syntax rules of the language. However, this doesn’t mean that the program behaves in a logical way or that it appropriately addresses the task the algorithm described. If programmers made errors in the strategy used in the algorithm or in how they translated the algorithm to code, problems will occur. The process of running the program over and over to find and repair errors and to make sure the program behaves in the way it should is termed <span class="strongDBlue" glossary>debugging</span> (<span class="strongDBlue" onclick="compTia.togglePopup(22,0)">see Figure 10.19</span>).</p>
+					<figure onclick="compTia.togglePopup(22,0)"
+						style="height: 190px;background: url(assets/images/figures/fig10.19.jpg) no-repeat scroll 100px 0px;" class="TMargin10">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.19</span> Debugging—the process of correcting errors in a program—combines logic with an understanding of the problem to be solved. <em>(ARTSILENSEcom/Shutterstock)</em></figcaption>
+   					</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How do programmers know the program has solved the problem?</strong> At this point in the process, the testing plan that was documented as part of the problem statement becomes critically important to programmers. The testing plan clearly lists input and output values, showing how the users expect the program to behave in each input situation. It’s important that the testing plan contain enough specific examples to test every part of the program.</p>
+					<p class="start moreSpacing">In the parking garage problem, we want to make sure the program calculates the correct pay for a day when you worked eight or fewer hours and for a day when you worked more than eight hours. Each of these input values forces the program to make different decisions in its processing path. To be certain the program works as intended, programmers try every possible path.</p>
+					<p class="start moreSpacing">For example, once we can successfully compile the example code for the parking garage problem, we can begin to use our testing plan. The testing plan indicates that an input of 3 for NumberHoursWorked-Today must produce an output of Pay = 3 * $7.50 = $22.50. In testing, we run the program and make sure that an input value of 3 yields an output value of $22.50. To check that the processing path involving overtime is correct, we input a value of 12 hours. That input must produce Pay = 8 * $7.50 + (12 − 8) * $11.25 = $105.00. A complete testing plan includes sample inputs that exercise all the error handling required as well as all the processing paths. </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">Therefore, we would also want to check how the program behaves when NumberHoursWorkedToday is entered as −6.</p>
+					<p class="start moreSpacing"><strong>If the testing plan reveals errors, why does the program compile?</strong> The compiler can’t think through code or decide whether what the programmer wrote is logical. The compiler can only make sure that the specific rules of the language are followed.</p>
+					<p class="start">For example, if in the parking garage problem we happened to type the if statement as</p>
+					
+					<p style="text-align:center; font-family:courier;" class="TMargin20">if (NumberHoursWorkedToday > 88)</p>
+					<p style="text-align:center; font-family:courier;">//Use the Overtime Pay rule</p>
+					<p class="start">instead of</p>
+					<p style="text-align:center; font-family:courier;">if (NumberHoursWorkedToday > 8)</p>
+					<p style="text-align:center; font-family:courier;">//Use the Overtime Pay rule</p>
+					
+					<p class="start TMargin20 moreSpacing">the compiler wouldn’t see a problem. It doesn’t seem strange to the compiler that you only get overtime after working 88 hours a day. These <span class="strongDBlue" glossary="logical error">logical errors</span> in the problem are caught only when the program executes.</p>
+					
+					<div onclick="compTia.togglePopup(23,0)" class="bitsAndBytesBlue TMargin15">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Many Languages on Display
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Another kind of error caught when the program executes is a <span class="strongDBlue" glossary>runtime error</span>. For example, it’s easy for a programmer to accidentally write code that occasionally divides by zero, a big “no-no” mathematically! That kind of forbidden operation generates a runtime error message.</p>
+					<p class="start moreSpacing"><strong>Are there tools that help programmers find logic errors?</strong> Most IDEs include a tool called a <span class="strongDBlue" glossary>debugger</span> that helps programmers dissect a program as it runs. The debugger pauses the program while it’s executing and allows the programmer to examine the values of all the variables. The programmer can then run the program in slow motion, moving it forward just one line at a time. This lets the programmer see the exact sequence of steps being executed and the outcome of each calculation. He or she can then isolate the precise place in which a logical error occurs, correct the error, and recompile the program.</p>
+					
+					<h2 class="blueHeading">Testing and Documentation: Finishing the Project</h2>
+					<p class="moreSpacing"><strong>What is the first round of testing for a program?</strong> Once debugging has detected all the runtime errors in the code, it’s time for users to test the program. This process is called <em>internal testing</em>. In internal testing, a group within the software company uses the program in every way it can imagine—including how the program was intended to be used and in ways only new users might think up. The internal testing group makes sure the </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">program behaves as described in the original testing plan. Any differences in how the program responds are reported back to the programming team, which makes the final revisions and updates to the code.</p>
+					<p class="start moreSpacing">The next round of testing is <em>external testing</em>. In this testing round, people like the ones who eventually will purchase and use the software must work with it to determine whether it matches their original vision.</p>
+					<p class="start moreSpacing"><strong>What other testing does the code undergo?</strong> Before its final commercial release, software is often provided free or at a reduced cost in a <span class="strongDBlue" glossary>beta version</span> to certain test sites or to interested users. By providing users with a beta version of software, programmers can collect information about remaining errors in the code and make a final round of revisions before officially releasing the program. Often, popular software packages like Microsoft Windows and Microsoft Office are available for free beta download for months before the official public release.</p>
+					<p class="start moreSpacing"><strong>What happens if problems are found after beta testing?</strong> The manufacturer will make changes before releasing the product to other manufacturers, for installation on new machines for example. That point in the release cycle is called <span class="strongDBlue" glossary="release to manufacturers (RTM)">release to manufacturers</span> (or <span class="strongDBlue" glossary="release to manufacturers (RTM)">RTM</span>). After the RTM is issued, the product is in <span class="strongDBlue" glossary="general availability (GA)">general availability</span> (or <span class="strongDBlue" glossary="general availability (GA)">GA</span>) and can be purchased by the public.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">Users often uncover problems in a program even after its commercial release to the public. These problems are addressed with the publication of software updates or <span class="strongDBlue" glossary="service pack">service packs</span>. Users can download these software modules to repair errors identified in the program code. To make sure you have the latest service pack for your Windows OS, visit the Windows Service Pack Center <span class="strongDBlue" onclick="window.open('http://windows.microsoft.com/en-US/windows/downloads/service-packs','_blank')">(windows.microsoft.com/en-US/windows/downloads/service-packs)</span>.</p>
+					<p class="start"><strong> After testing, is the project finished?</strong> Once testing is complete, but before the product is officially released, the work of <span class="strongDBlue" glossary>documentation</span> is still ahead. At this point, technical writers create internal documentation for the program that describes the development and technical details of the software, how the code works, and how the user interacts with the program. In addition, the technical publishing department produces all the necessary user documentation that will be distributed to the program’s users. User training begins once the software is distributed. Software trainers take the software to the user community and teach others how to use it efficiently.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_10_Part_1/Chapter_10_Part_1.html','_blank')" >Replay Video 10.1</span>.</span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(35)" class="strongDBlue">check your understanding</span> of what you've learned so far.</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">What sort of programming experience do you have?</div>
+					<ol class="pollQuestions">
+						<li>I've only programmed my Tivo at home.</li>
+						<li>I can program macros in Word.</li>
+						<li>I can program in Python.</li>
+						<li>I never gave a computer a set of instructions in my life.</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(36)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes font_19">Programming Languages</div>
+					<p class="digCompP">Earlier in the chapter, you learned about the five main categories (generations) of programming languages. In this section, we discuss the specific programming languages that are members of these different generations.</p>
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingOB bgPosition00" style="background-image:url(assets/images/pics/languagesSmall.jpg)">
+						<div class="orange" style="margin-left:59px;">many languages for</div>
+						<div class="blue" style="margin-left: 105px">Many Projects</div>
+					</div>
+					
+					<p>In any programming endeavor, programmers want to create a solution that meets several objectives. The software needs to:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Run quickly</span></li>
+						<li><span class="innerLi">Be reliable</span></li>
+						<li><span class="innerLi">Be simple to expand later when the demands on the system change</span></li>
+						<li><span class="innerLi">Be completed on time</span></li>
+						<li><span class="innerLi">Be finished for the minimum possible cost</span></li>
+					</ul>
+					
+					<p class="start">Because it’s difficult to balance these conflicting goals, many programming languages have been developed. Although programming languages often share common characteristics, each language has specific traits that allow it to be the best fit for certain types of projects. The ability to understand enough about each language to match it to the appropriate style of problem is an exceptionally powerful skill for programmers.</p>
+					<p class="start"><strong>What languages are popular today?</strong> One quick way to determine which languages are popular is to examine job postings for programmers. As </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>of this writing, the languages most in demand include C/C++ and Java. In specific industries, certain languages tend to dominate the work. In the banking and insurance industries, for example, the programming language COBOL is still common, although most other industries rarely use it anymore. The Tiobe Index, shown in <span class="strongDBlue" onclick="compTia.togglePopup(28,0)">Figure 10.20</span>, uses a number of different techniques to get a feel for which languages are popular in the software industry at certain times.</p>
+					<p class="start"><strong>How do I know which language to study first?</strong> A good introductory programming course will emphasize many skills and </p>
+					
+					<figure onclick="compTia.togglePopup(28,0)"
+						style="height: 321px;background: url(assets/images/figures/fig10.20.jpg) no-repeat scroll 75px 0px;" class="TMargin10">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.20</span> When attacking a problem, you can choose from many different programming languages. This chart of the <span class="strongDBlue" onclick="window.open('http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html','_blank')">Tiobe Index</span> shows how popular certain languages are at specific times.</figcaption>
+   					</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_7/ch10_hdcall02/indexfull.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Selecting the Right Programming Language
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about how programmers select the right programming language for a specific task and what the most popular Windows and web applications are.
+					</div></div>
+					
+					<p>techniques that will carry over from one language to another. You should find a course that emphasizes design, algorithm development, debugging techniques, and project management. All of these aspects of programming will help you in any language environment. </p>
+					<p class="start"><span class="strongDBlue" glossary>Pascal</span> is the only modern language that was specifically designed as a teaching language, but it’s no longer taught frequently at the college level. Many colleges and universities have opted to have students begin with Java, C++, or Python.</p>
+					<p class="start"><strong>How does anyone learn so many languages?</strong> Professional programmers can become proficient at new languages because they’ve become familiar with the basic components, discussed in this chapter’s <span class="strongDBlue" onclick="compTia.togglePopup(19,0)">“Dig Deeper” feature</span>, that are common to all languages: syntax, keywords, operators, and data types.</p>
+					
+					<h2 class="blueHeading">Selecting the Right Language</h2>
+					<p class="moreSpacing"><strong>How do programmers know which language to select for a specific project?</strong> A programming team considers several factors before selecting the language it will use for a specific project:</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Space available</em>: Not all languages produce code that takes up the same amount of space. Therefore, the target language should be well matched to the amount of space available for the final program. For example, if the program will be embedded in a chip for use in a cell phone, it’s important for the language to create space-efficient programs.</span></li>
+						<li><span class="innerLi"><em>Speed required</em>: Although poorly written code executes inefficiently in any language, some languages can execute more quickly than others. Some projects require a focus on speed rather than size. These projects require a language that produces code that executes in the fastest possible time.</span></li>
+						<li><span class="innerLi"><em>Organizational resources available</em>: Another consideration is the resources available in a manager’s group or organization. Selecting a language that’s easy to use and that will be easy to maintain if there’s a turnover in programmers is an important consideration.</span></li>
+						<li><span class="innerLi"><em>Type of target application</em>: Certain languages are customized to support a specific environment (UNIX or Windows, for instance). Knowing which languages are most commonly used for which environments can be helpful.</span></li>
+					</ul>
+					
+					<p class="start moreSpacing"><strong>What languages do programmers use if they want to build an application for Windows?</strong> Software programs that run under the Windows OS are extremely popular. These programs often have a number of common features—scroll bars, title bars, text boxes, buttons, and expanding or collapsing menus, to name a few. Several languages include customized </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">controls that make it easy for programmers to include these features in their programs. The same is true for the OS X operating system.</p>
+					<p class="start moreSpacing"><strong>Can I just point and click to create a Windows application?</strong> In languages that support Windows programming, programmers can use the mouse to lay out on the screen where the scroll bars and buttons will be in the application. The code needed to explain this to the computer is then written automatically when the programmer says the layout is complete. This is referred to as <span class="strongDBlue" glossary>visual programming</span>, and it helps programmers produce a final application much more quickly.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="greenHeadingLineDashed"></div>
+		
+							<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/programLangaugeSmall.jpg)">
+								<div class="orange">exploring programming</div>
+								<div class="blue" style="margin-left:176px;">Languages</div>
+							</div>
+					
+					<p>All programming languages have many features in common. Let’s take a tour of many of the popular languages and learn what makes each one special for particular situations.</p>
+					
+					<h2 class="blueHeading">Visual Basic</h2>
+					<p class="moreSpacing"><strong>Why do programmers choose Visual Basic?</strong> Programmers often like to build a <span class="strongDBlue" glossary>prototype</span>, or small model, of their program at the beginning of a large project. Prototyping is a form of <span class="strongDBlue" glossary="rapid application development">rapid application development (RAD)</span>, an alternative to the waterfall approach of systems development that was described at the beginning of this chapter. Instead of developing detailed system documents before they produce the system, developers create a prototype first, then generate system documents as they use and remodel the product.</p>
+					<p class="start moreSpacing">Prototypes for Windows applications are often coded in Microsoft <span class="strongDBlue" glossary>Visual Basic (VB)</span>, a powerful programming language used to build a wide range of Windows applications. One strength of VB is its simple, quick interface, which is easy for a programmer to learn and use. It has grown from its roots in the language BASIC (short for Beginner’s All-purpose Symbolic Instruction Code) to become a sophisticated and full-featured object-oriented language.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">VB is designed for building object-oriented applications for Windows, the web, and mobile devices. <span class="strongDBlue" onclick="compTia.togglePopup(31,0)">Figure 10.21</span> shows how the interface of VB makes it easy to drag and drop entire programming components into an application. VB and the .NET Framework are both part of Visual Studio, which provides a complete set of developer tools.</p>
+					<p class="start"><strong>How does the Microsoft .NET Framework help programmers?</strong> The Microsoft .NET (pronounced “dot net”) Framework is a software development environment designed to let websites “talk” to each other easily. The .NET Framework includes <span class="strongDBlue" glossary="web service">web services</span>, programs that a website uses to make information available to other websites. Web services provide a standard way for software to interact. For example, a web application </p>
+					
+					<figure onclick="compTia.togglePopup(31,0)"
+						style="height: 270px;background: url(assets/images/figures/fig10.21.jpg) no-repeat scroll 65px 0px;" class="TMargin10">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.21</span> The Toolbox in Visual Basic allows the programmer to drag and drop any of the items shown here into a program.</figcaption>
+   					</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">could use the Google web service to search for information or to check the spelling of a word. The Google web service returns the requested information to your program in a standard package.</p>
+					
+					<h2 class="blueHeading">C and C++</h2>
+					<p class="moreSpacing"><strong>What languages do programmers use if the problem requires a lot of “number crunching”?</strong> A Windows application that demands raw processing power to execute difficult repetitive numerical calculations is most often a candidate for C/C++. For example, applications that simulate human cells and drug interactions have to solve elaborate mathematical equations many thousands of times each second, and are, therefore, excellent candidates for programming using C/C++. Several companies sell C/C++ design tools equipped with an environment that makes Windows programming as visual as with VB.</p>
+					<p class="start moreSpacing"><strong>Why was the C language developed?</strong> The predecessor of C++, <span class="strongDBlue" glossary>C</span>, was originally developed for system programmers. It was defined by Brian Kernighan and Dennis Ritchie of AT&T Bell Laboratories in 1978 as a language that would make accessing the operating system easier. It provides higher-level programming language features (such as <em>if</em>statements and <em>for</em> loops) but still allows programmers to manipulate the system memory and CPU registers directly. This mix of high- and low-level access makes C highly attractive to “power” programmers. Most modern operating systems (Windows, OS X, and Linux) were written in C.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="32" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">The <span class="strongDBlue" glossary>C++</span> language takes C to an object-oriented level. Bjarne Stroustrup, the developer of C++, used all the same symbols and keywords as C, but he extended the language with additional keywords, better security, and more support for the reuse of existing code through object-oriented design.</p>
+					<p class="start"><strong>Are C and C++ natural choices for when I’m looking to learn my first language?</strong> Neither C nor C++ was intended as a teaching language. The notation and compactness of these languages make them relatively difficult to master. They’re in demand in industry, however, because C/C++ can produce fast-running code that uses a small amount of memory. Programmers often choose to learn C/C++ because their basic components (operators, data types, and keywords) are common to many other languages.</p>
+					
+					<h2 class="blueHeading">Java and C#</h2>
+					<p><strong>What language do programmers use for applications that need to collect information from networked computers?</strong> <span class="strongDBlue" glossary>Java</span> would be a good choice for these types of applications. James Gosling of Sun Microsystems introduced Java in the early 1990s. It quickly became popular because its object-oriented model enables Java programmers could begin to use the existing “network connection” class with little attention to the details of how that code itself was implemented. Classes exist for many graphical objects, such as windows and scroll bars, and for network objects such as connections to remote machines. Observing Java’s success, Microsoft </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>released a language named <span class="strongDBlue" glossary>C#</span> (pronounced “see sharp”) that competes with Java. </p>
+					<p class="start"><strong>Can a Java application work on any type of computer?</strong> An attractive feature of Java is that it’s <span class="strongDBlue" glossary>architecture neutral</span>. This means that Java code needs to be compiled only once, after which it can run on many CPUs (<span class="strongDBlue" onclick="compTia.togglePopup(32,0)">see Figure 10.22</span>). The Java program doesn’t care which CPU, OS, or user interface is running on the machine on which it lands. This is possible because the target computer runs a Java Virtual Machine (VM), software that can explain to the Java program how to function on any specific system. A Java VM installed with Microsoft Internet Explorer, for example, allows </p>
+					
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_20 TMargin10">Java Programs</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(32,0)" style="    background: url(assets/images/figures/fig10.22.jpg) no-repeat scroll 15px 36px #FFFFFF; height: 258px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.22</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span>Figure 10.22</span> Java programs can be compiled once and then run on many different platforms.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="33" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>Internet Explorer to execute any <span class="strongDBlue" glossary>Java applet</span> (small Java-based program) it encounters on the Internet. Although Java code doesn’t perform as fast as C++, the advantage of needing to compile only once before a program can be distributed to any system is extremely important.</p>
+					
+					<h2 class="blueHeading">Objective C</h2>
+					<p><strong>What’s the most popular language for writing OS X applications?</strong> <span class="strongDBlue" glossary>Objective C</span> is the language most often used to program applications to run under OS X. It’s an object-oriented style of language, a superset of the C language, so it includes all the keywords of C and then adds more keywords and features. It’s often used together with a library called Cocoa. The Cocoa library, or framework, lets users program for the OS X graphical user interface. The Cocoa Touch extension introduces a framework of methods that support gesture recognition for touch devices like the iPhone or iPad.</p>
+					<p class="start"><strong>Is there a favorite IDE for Objective C?</strong> Many different IDE tools support Objective C, but OS X ships with a tool named Xcode (<span class="strongDBlue" onclick="compTia.togglePopup(33,1)">see Figure 10.23</span>) that’s often used to develop Objective C applications for OS X. The version 4 release of Xcode can be purchased and downloaded from the online Mac App Store.</p>
+					
+					<div onclick="compTia.togglePopup(33,0)" class="bitsAndBytesBlue TMargin10">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Really Want to Learn? Work for Free!
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(33,1)"
+						style="height: 220px;background: url(assets/images/figures/fig10.23.jpg) no-repeat scroll 57px 0px;" class="TMargin15">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.23</span> The <span class="strongDBlue" onclick="window.open('http://developer.apple.com/xcode/','_blank')">Xcode IDE tool</span> provides a supportive environment for developing OS X applications.</figcaption>
+   					</figure>
+					
+					<h2 class="blueHeading">HTML</h2>
+					<p><strong>What’s the most basic language for developing web applications?</strong> A document that will be presented on the web must be written using special symbols called tags. Tags control how a web browser will display the text, images, and other content tagged in <span class="strongDBlue" glossary>Hypertext Markup Language (HTML)</span>.</p>
+					<p class="start">Although knowledge of HTML is required to program for the web, HTML itself isn’t a programming language. HTML is just series of tags that modify the display of text. HTML was the original standard defining these tags. Many good HTML tutorials are available on the web at sites such as Learn the Net (<span class="strongDBlue" onclick="window.open('http://learnthenet.com','_blank')">learnthenet.com</span>), Webmonkey (<span class="strongDBlue" onclick="window.open('http://webmonkey.com','_blank')">webmonkey.com</span>), and the World Wide Web Consortium (<span class="strongDBlue" onclick="window.open('http://w3.org','_blank')">w3.org</span>). These sites include lists of the major tags that can be used to create HTML and XHTML documents.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="34" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Are there tools that help programmers write in HTML?</strong> Several different programs are available to assist in the generation of HTML. Adobe Dreamweaver and Microsoft Expression Web present web page designers with an interface that’s similar to a word processing program. Web designers can quickly insert text, images, and hyperlinks, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(34,0)">Figure 10.24</span>. The program automatically inserts the corresponding HTML tags. For simple, static web pages, no programming is required.</p>
+					<p class="start moreSpacing"><strong>Will HTML continue evolving?</strong> Yes, and the next release of HTML will be called HTML5. It’s still being finalized in committee at the time of this writing, but it’s a significant move toward standardizing HTML and adapting it to the times. For example &lt;audio> and &lt;video> tags allow pages to easily integrate media and let designers more easily support manipulating those elements. HTML5 will eliminate the need to install third-party browser plug-ins and will support features like drag-and-drop elements and document editing.</p>
+					
+					<h2 class="blueHeading">JavaScript and VBScript</h2>
+					<p class="moreSpacing"><strong>Which programming languages do programmers use to make complex web pages?</strong> To make their web pages more visually appealing and interactive, programmers use scripting languages to add more power and flexibility to their HTML code. A <span class="strongDBlue" glossary>scripting language</span> is a simple programming language that’s limited to performing a set of specialized tasks. Scripts allow decisions to be made and calculations to be performed. </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(34,0)"
+						style="height: 190px;background: url(assets/images/figures/fig10.24.jpg) no-repeat scroll 50px 0px;" class="TMargin15">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.24</span> Adobe Dreamweaver is a popular tool for creating web pages.</figcaption>
+   					</figure>
+					
+					<br/>
+					<p class="moreSpacing">Several popular scripting languages work well with HTML, including JavaScript, VBScript, and PHP (Hypertext Preprocessor).</p>
+					<p class="start moreSpacing"><span class="strongDBlue" glossary>JavaScript</span> is a scripting language that’s often used to add interactivity to web pages. JavaScript is not as fully featured as Java, but its syntax, keywords, data types, and operators are subsets of Java’s. In addition, JavaScript has a set of classes that represent the objects often used on web pages: buttons, check boxes, and drop-down lists.</p>
+					<p class="start moreSpacing">The JavaScript button class, for example, describes a button with a name and a type—for example, whether it’s a regular button or a Submit or Reset button. The language includes behaviors, such as click(), and can respond to user actions. For example, when a user moves his or her mouse over a button and clicks to select it, the button “knows” the user is there and jumps in and performs a special action (such as playing a sound).</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="35" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Are there other scripting languages besides JavaScript?</strong> Programmers who are more familiar with Visual Basic than Java or C++ often use <span class="strongDBlue" glossary>VBScript</span>, a subset of Visual Basic, to introduce dynamic decision making into web pages. <span class="strongDBlue" glossary>Dynamic decision making</span> means that the page can decide how to display itself based on the choices the reader makes. PHP, discussed in the following section, is another scripting language that has become extremely popular. It’s a free, open-source product that runs very efficiently on multiple platforms, including Windows, UNIX, and Linux.</p>
+					
+					<h2 class="blueHeading">ASP, JSP, and PHP</h2>
+					<p class="moreSpacing"><strong>How are interactive web pages built?</strong> To build websites with interactive capabilities, programmers use <span class="strongDBlue" glossary>Active Server Pages (ASP)</span>, <span class="strongDBlue" glossary>JavaServer Pages (JSP)</span>, or the scripting language <span class="strongDBlue" glossary>PHP (Hypertext Preprocessor)</span> to adapt the HTML page to the user’s selections. The user supplies information that’s translated into a request by the main computer at the company that owns the website, often using a database query language such as SQL. Scripting code in ASP, JSP, or PHP controls the automatic writing of the custom HTML page that’s returned to the user’s computer.</p>
+					<p class="start moreSpacing"><strong>What does additional programming bring to a web page?</strong> The most advanced web pages interact with the user, collecting information and then customizing the content displayed based on the user’s feedback. For example, the client/server type application shown in <span class="strongDBlue" onclick="compTia.togglePopup(35,0)">Figure 10.25</span> shows the web page of the ABC Bike Company collecting a customer bicycle </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>inquiry for red bikes. The program then asks ABC’s main server for a list of red bicycles sold by the company. An ASP program running on the server creates a new HTML page and delivers that to the user’s browser, telling the customer what red bikes (including details such as model and size) are currently sold by ABC.</p>
+					<p class="start">Thus, ASP programs can have HTML code as their output. They use what the user has told them (via the list boxes, check boxes, and buttons on the page) to make decisions. Based on those results, the ASP program decides what HTML to write. A small example of ASP writing its own HTML code is shown in <span class="strongDBlue" onclick="compTia.togglePopup(36,0)">Figure 10.26</span>.</p>
+					
+					<br/>
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_16">Client/Server Type of Internet Application </div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(35,0)" style="    background: url(assets/images/figures/fig10.25.jpg) no-repeat scroll 24px 35px #FFFFFF; height: 235px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.25</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span>Figure 10.25</span> An online store is an example of the client/server type of Internet application.
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(36,0)"
+						style="height: 300px;background: url(assets/images/figures/fig10.26.jpg) no-repeat scroll 30px 0px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.26</span> An ASP program can (a) write HTML code as its (b) output. (c) This image illustrates how the HTML page would show up in a browser.</figcaption>
+   					</figure>
+					
+					<h2 class="blueHeading">Flash, AJAX, and XML</h2>
+					<p><strong>What if a programmer wants to create a web page that includes sophisticated animation?</strong> Many websites feature elaborate animations that interact with visitors. These sites include buttons and hyperlinks, along with animation effects. These components can be designed with <span class="strongDBlue" glossary>Adobe Flash</span>, a software product for developing web-based multimedia. Flash includes its own programming language, named <span class="strongDBlue" glossary>ActionScript</span>, which is similar to JavaScript in its keywords, operators, and classes.</p>
+					<p class="start">Microsoft has a competing product named Silverlight that supports the development of rich multimedia and interactive web applications. Other </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">advances, like the collection of technologies referred to as <span class="strongDBlue" glossary>AJAX (Asynchronous JavaScript and XML)</span> and the continued evolution of HTML5, allow the creation of web applications that can update information on a page without requiring the user to do a page refresh or leave the page. By using existing technologies to do more processing in the browser, users have a more responsive experience.</p>
+					<p class="start moreSpacing"><strong>How does XML help websites gather information from other sites?</strong> The markup language called <span class="strongDBlue" glossary>eXtensible Markup Language (XML)</span> enables designers to define their own data-based tags, making it much easier for a website to transfer the key information on its page to another site. When websites communicate with humans, HTML works well because the formatting it controls is important. People respond immediately to the visual styling of textual information; its layout, color, size, and font design all help to transfer the message of the page to the reader. When computers want to communicate with each other, however, all of these qualities just get in the way.</p>
+					<p class="start moreSpacing">With XML, groups can agree on standard systems of tags that represent important data elements. For example, the XML tags &lt;stock> and &lt;/stock> might delimit key stock quote information. Mathematicians have created a standardized set of XML tags named MathML for their work, and biometrics groups continue to refine XML standards to describe and exchange data such as DNA and face scans. Without XML, a website that wanted to look up current stock pricing information at another site would  </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="37" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">have to retrieve the HTML page, sort through the formatting information, and try to recognize which text on the page identified the data needed.</p>
+					<p class="start moreSpacing"><span class="strongDBlue" onclick="compTia.togglePopup(37,0)">Figure 10.27</span> shows a table of popular programming languages with their features and the typical settings in which they’re used.</p>
+					
+					<h2 class="blueHeading">Mobile Applications</h2>
+					<p class="moreSpacing"><strong>How do programmers build applications for mobile devices?</strong> Special languages and supporting tools are speeding the development of applications for mobile devices like smartphones and tablets. Programmers need to be able to take advantage of specific features like GPS capability, compasses, software keyboards, and touch-sensitive screens. In addition, the user interface has to take the smaller screen size of mobile devices into account.</p>
+					<p class="start moreSpacing"><strong>What development tools are used for creating mobile apps for Apple’s iOS platform?</strong> To start a complex project like an iPhone app requires a detailed prototype. Each of the many screens, all the user interface elements, and all the content needs to be organized and linked smoothly. Often, programmers begin with a prototype, created quickly with drag-and-drop elements using products like MockApp or Interface Builder. MockApp (<span class="strongDBlue" onclick="window.open('http://mockapp.com','_blank')">mockapp.com</span>) is a template that uses PowerPoint or Keynote to construct a working simulation of your application. Interface Builder is part of the Apple Xcode 4 development tool and requires a bit more expertise to use than MockApp, but it can also rapidly create a prototype.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes tallerOrangeHead font_19">Popular Programming Languages </div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(37,0)" style="    background: url(assets/images/figures/fig10.27.jpg) no-repeat scroll 13px 35px #FFFFFF; height: 252px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong>Figure 10.27</strong> Click to reveal the table</span>
+							
+							<figcaption class="bottomPos" style="padding:5px 10px;"><span></span> 
+						</figcaption></figure>
+					</div>
+					
+					<p class="start TMargin10 moreSpacing">When it’s time to begin writing the code for an iOS app, programmers turn to Objective C and use the Apple Xcode development toolset (<span class="strongDBlue" onclick="compTia.togglePopup(38,0)">see Figure 10.28</span>). Xcode lets designers code and debug the behavior of the application and simulate the application in a software version of the target device. After the program is running, its performance can be profiled for speed, memory usage, and other possible problems.</p>
+					<p class="start moreSpacing"><strong>Are there other tools for building apps for Android devices?</strong> Yes, the Android software development kit (SDK) is required to build apps targeting Android smartphones and tablets. There are many ways</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="38" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(38,0)"
+						style="height: 235px;background: url(assets/images/figures/fig10.28.jpg) no-repeat scroll 40px 0px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.28</span> Xcode 4 integrates all the tools required to program iOS applications from scratch.</figcaption>
+   					</figure>
+					
+					<p> programmers work  with the Android SDK, including using well-known IDEs like Eclipse with special plug-ins for Android like the Android Development Tools. Information on the latest version of the Android SDK, as well as tutorials, guides, and other resources, is available at the Android Developers page (<span class="strongDBlue" onclick="window.open('http://developer.android.com','_blank')">developer.android.com</span>).</p>
+					<p class="start"><strong>I’m not a programmer, but can I make a simple app?</strong> Absolutely. If you have even a little programming experience, tools like Corona produce amazing games and apps quickly (<span class="strongDBlue" onclick="compTia.switchPage(0,27)">see the Try This for more information</span>). Tens of millions of apps constructed using Corona have been downloaded, including the overnight sensation Bubble Ball created by 14-year-old Robert Nay (<span class="strongDBlue" onclick="window.open('http://naygames.com','_blank')">naygames.com</span>). Code can be deployed for an iOS </p>
+					
+					<img onclick="compTia.togglePopup(38,1)" src="assets/images/layout/TrendsinItchapter10.png" class="TMargin10"/>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">device, an Android device, or even the Barnes and Noble Nook Color using Corona. The advantage of Corona is that it supports a wide range of features like networking support to Facebook, easy animation, multimedia, and a physics engine but that it requires only simple programming syntax.</p>
+					<p class="start moreSpacing">If your goal is to make a mobile app that’s very simple or even specific to one occasion, like a wedding, there are web-based products that make that quick and easy. Magmito (<span class="strongDBlue" onclick="window.open('http://magmito.com','_blank')">magmito.com</span>) supports developing a simple app with text and graphics and requires no programming knowledge.</p>
+					<p class="start moreSpacing"><strong>Does an application need to be rewritten for every kind of mobile device?</strong> Programming environments like Corona and Magmito support publishing an application to several different types of devices. Although these tools can be great time savers for very simple applications, for programmers using specific features that make that device unique or for those concerned with extracting ultimate performance, custom programming for each environment still is required.</p>
+					
+					<div class="soundByteContain TMargin10">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/storytelling_in_alice/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							3-D Programming the Easy Way
+						</div>
+						In this Sound Byte, you’ll create a three-dimensional game using the visual drag-and-drop interface provided by Alice, a free software package. This program teaches all the concepts of programming with none of the pain of learning syntax.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="39" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">The Next Great Language</h2>
+					<p class="moreSpacing"><strong>What will the next great language be?</strong> It is never easy to predict which language will become the next “great” language. Software experts predict that as software projects continue to grow in size, the amount of time needed to compile a completed project will also grow. It’s not uncommon for a large project to require 30 minutes or more to compile. Interpreted languages, however, take virtually no compile time because compilation occurs while the code is being edited. As projects get larger, the capability to be compiled instantaneously will become even more important. Thus, interpreted languages such as Python, Ruby, and Smalltalk could become more important in the coming years.</p>
+					<p class="start moreSpacing"><strong>Will all languages someday converge into one?</strong> Certain characteristics of modern programming languages correspond well with how programmers actually think. These traits support good programming practices and are emerging as common features of most modern programming languages. The object-oriented paradigm is one example. Both Visual Basic and COBOL have moved toward supporting objects.</p>
+					<p class="start moreSpacing">There will always be a variety of programming languages, however. <span class="strongDBlue" onclick="compTia.togglePopup(39,0)">Figure 10.30</span>, in which the artist tries to give each language a “personality,” illustrates that idea in a lighthearted fashion.</p>
+					<p class="start moreSpacing">Forcing a language to be so general that it can work for any task also forces it to include components that make it slower to compile, produce </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(39,0)"
+						style="height: 275px;background: url(assets/images/figures/fig10.30.jpg) no-repeat scroll -3px 0px;">
+						<figcaption class="bottomPos">
+   						<span>Figure 10.30</span> There will always be a variety of languages, each with its own personality. <em>(Luis Guillermo Restrepo Rivas)</em></figcaption>
+   					</figure>
+					
+					<br/>
+					<p class="moreSpacing">larger final executables, and require more memory to run.  Having a variety of languages and mapping a problem to the best language create the most efficient software solutions.</p>
+					<p class="start moreSpacing"><strong>So what do I do if I want to learn languages that will be relevant in the future?</strong> No particular set of languages is best to learn, and there is no one best sequence in which to learn them. The Association for Computing Machinery (<span class="strongDBlue" onclick="window.open('http://acm.org','_blank')">acm.org</span>) encourages educators to teach a core set of mathematical and programming skills and concepts, but school and university departments are free to offer a variety of languages.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="40" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">When you’re selecting which programming languages to study, some geographical and industry-related considerations come into play. For example, in an area in which a large number of pharmaceutical companies exist, there may be a demand for Massachusetts General Hospital Utility Multi-Programming System (MUMPS). This language is often used to build clinical databases, an important task in the pharmaceutical industry. Review the advertisements for programmers in area newspapers and investigate resources such as ComputerJobs (<span class="strongDBlue" onclick="window.open('http://computerjobs.com','_blank')">computerjobs.com</span>) to identify languages in demand in your area.</p>
+					<p class="start moreSpacing">Regardless of whether you pursue a career in programming, having an understanding of how software is created will help you in many IT careers. Software is the set of instructions that allows us to make use of our hardware. Programming skills give you the power to understand, create, and customize a computer system.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_10_Part_2/Chapter_10_Part_2.html','_blank')" >Replay Video 10.2</span></span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(37)" class="strongDBlue">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="41" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">In your opinion, does the open-source movement threaten or strengthen the software industry?</div>
+					<ol class="pollQuestions">
+						<li>It threatens it.</li>
+						<li>It strengthens it.</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="42" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h1><span class="chapter shiftLeft5">10</span> Chapter Review</h1>
+				<div class="title font_31"
+					 style="padding-left: 6px">summary//</div>
+					 
+					 <img src="assets/images/pics/programmingThumbnail.jpg" style="float:left;margin-right:13px" />
+					<h2 style="margin-bottom:4px">The Importance of Programming</h2>
+					<span class="prePseudoLi preContent1 strong">Why do I need to understand how to create software?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">Programming skills allow you to customize existing software products to accomplish required tasks.</span></li>
+						<li><span class="innerLi moreSpacing">A beginning-level knowledge of programming will let you create macros, customized mini-programs that speed up redundant tasks.</span></li>
+					</ul>	
+					
+					 <img src="assets/images/pics/lifeCycleThumbnail.jpg" class="TMargin20" style="float:left;margin-right:13px" />
+					<h2 style="margin-bottom:4px">The Life Cycle of an <br/>Information System</h2>
+					<span class="prePseudoLi preContent2 strong">What is a system development life cycle, and what are the phases in the cycle?</span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">An information system includes data, people, procedures, hardware, and software.</span></li>
+						<li><span class="innerLi moreSpacing">The set of steps followed to ensure that development proceeds in an orderly fashion is the system development life cycle (SDLC). There are six steps in the SDLC waterfall model:</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="noListStyle">
+					<ol class="notStrong">
+						<li><span class="innerLi notStrong">A problem or opportunity is identified.</span></li>
+						<li><span class="innerLi notStrong">The problem is analyzed, and a program specification document</span></li>
+						<li><span class="innerLi notStrong">A detailed plan for programmers to follow is designed using flowcharts and data-flow diagrams.</span></li>
+						<li><span class="innerLi notStrong">Using the developed plan, programmers develop the program, and the program is then documented.</span></li>
+						<li><span class="innerLi notStrong">The program is tested to ensure that it works and that it’s installed properly.</span></li>
+						<li><span class="innerLi notStrong">Ongoing maintenance and evaluation ensure a working product.</span></li>
+					</ol>
+					</ul>
+					
+					<br/>
+					 <img src="assets/images/pics/programCycleThumbnail.jpg" style="float:left;margin-right:13px" class="TMargin20"/>
+					<h2 style="margin-bottom:4px">The Life Cycle of a Program</h2>
+					<span class="prePseudoLi preContent3 strong">What is the life cycle of a program?</span>
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">The problem statement identifies the task to be computerized and describes how the software program will behave.</span></li>
+						<li><span class="innerLi moreSpacing">An algorithm is developed that specifies the sequence of steps that the program must take to complete the work.</span></li>
+						<li><span class="innerLi moreSpacing">The algorithm is then translated into highly structured programming code.</span></li>
+						<li><span class="innerLi moreSpacing">The code goes through the processes of debugging, in which the programmers find and repair any errors in the code.</span></li>
+						<li><span class="innerLi moreSpacing">Testing is performed by the programming team and by the people who will use the program.</span></li>
+						<li><span class="innerLi moreSpacing">The results of the entire project are documented for the users and the development team.</span></li>
+					</ul>	
+				]]>
+			</section>
+		</page>	 
+		
+		<page index="43" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h4>4. What role does a problem statement play in programming?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">The problem statement is an explicit description of what tasks the computer program must accomplish and how the program will execute these tasks and respond to unusual situations.</span></li>
+						<li><span class="innerLi moreSpacing">The problem statement describes the input data that users will have at the start of the job, the output that the program will produce, and the exact processing that converts these inputs to outputs.</span></li>
+						<li><span class="innerLi moreSpacing">The problem statement identifies potential errors and plans to address these errors.</span></li>
+					</ul>
+					
+					<h4>5. How do programmers create algorithms and move from algorithm</h4>
+					<h4 class="Lmargin15">to code?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">Programmers create an algorithm by converting a problem statement into a list of steps and identifying where decision points occur.</span></li>
+						<li><span class="innerLi moreSpacing">Yes/no binary decisions are common, and often a pattern of a repeating action loop is recognized.</span></li>
+						<li><span class="innerLi moreSpacing">Algorithms are documented in the form of a flowchart or in pseudocode.</span></li>
+						<li><span class="innerLi moreSpacing">Programmers use either top-down or object-oriented analysis to produce the algorithm.</span></li>
+						<li><span class="innerLi moreSpacing">Computer code uses special words and strict rules to enable programmers to control the CPU without having to know all of its hardware details.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						
+						<li><span class="innerLi moreSpacing">Programming languages are classified in several major groupings, sometimes referred to as <em>generations</em>, with the first generation being machine language—the binary code of <em>1</em>s and <em>0</em>s that the computer understands. Assembly language is the next generation; it uses short, English-like commands that speak directly to the CPU and give the programmer direct control of hardware resources. Each successive generation in language development has relieved programmers of some of the burden of keeping track of what the hardware requires and more closely matches how humans think about problems.</span></li>
+						<li><span class="innerLi moreSpacing">Compilation is the process by which code is con verted into machine language, the language the CPU can understand. A compiler is a program that understands both the syntax of the programming language and the exact structure of the CPU and its machine language. It can translate the instructions written by programmers in the higher-level language into machine language, the binary patterns that will execute commands on the CPU.</span></li>
+						<li><span class="innerLi moreSpacing">Each programming language has its own compiler. Separate versions are required to compile code that will run on each different type of processor.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>	
+		
+		<page index="44" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h4>6. What steps are involved in completing the program?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">If programmers make errors in the algorithm or in translating the algorithm to code, problems will occur. Programmers debug the program by running it constantly to find errors and to make sure the program behaves the way it should.</span></li>
+						<li><span class="innerLi moreSpacing">Once debugging has detected all the code errors, users—both within the company and outside the company—test the program in every way they can imagine, both as the program was intended to be used and in ways only new users might think up.</span></li>
+						<li><span class="innerLi moreSpacing">Before its commercial release, software is often provided at a reduced cost or at no cost in a beta version to certain test sites or to interested users for a last round of testing.</span></li>
+						<li><span class="innerLi moreSpacing">Once testing is complete, technical writers create internal documentation for the program and external documentation that will be provided to users of the program. User training, which begins once the software is distributed, teaches the user community how to use the software efficiently.</span></li>
+					</ul>
+					
+					 <img src="assets/images/pics/languagesThumbnail.jpg" class="TMargin20" style="float:left;margin-right:13px" />
+					<h2 style="margin-bottom:4px">The Life Cycle of a Program</h2>
+					<span class="prePseudoLi preContent7 strong">How do programmers select the right programming language for a specific task?</span>
+					
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">A programming team reviews several considerations before selecting</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="noListStyle">
+						<li><span class="innerLi">the language to be used. Certain languages are best used for certain problems. </span></li>
+					</ul>
+					
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">The target language should be well matched to the amount of space available for the final program.</span></li>
+						<li><span class="innerLi moreSpacing">Some projects require the selection of a language that can produce code that executes in the fastest possible time.</span></li>
+						<li><span class="innerLi moreSpacing">Selecting a language with which the programmers are familiar is also helpful.</span></li>
+					</ul>
+					
+					 <img src="assets/images/pics/programLangaugeThumbnail.jpg" style="float:left;margin-right:13px;margin-top:30px;" />
+					<h2 style="margin-bottom:4px">Exploring Programming <br/>Languages</h2>
+					<span class="prePseudoLi preContent8 strong">What are the most popular programming languages for different types of application development? </span>
+					
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">Visual Basic, C/C++, and Java are languages that enable programmers to include Windows control features such as scroll bars, title bars, text boxes, buttons, and expanding and collapsing menus.</span></li>
+						<li><span class="innerLi moreSpacing">Objective C is a language used in programming applications for mobile devices using iOS and applications that will run under OS X.</span></li>
+						<li><span class="innerLi moreSpacing">Programmers use HTML tags to structure web pages. HTML5, in development as of this writing, includes more advanced tags like &lt;video>.</span></li>
+						<li><span class="innerLi moreSpacing">For more complex web development, scripting programs such as JavaScript and VBScript are popular.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="45" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi moreSpacing">AJAX is a programming solution that uses a combination of technologies to create websites that can update without the user refreshing the page.</span></li>
+						<li><span class="innerLi moreSpacing">XML allows programmers to create their own tags so that web pages can exchange information, not just formatting details.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>
+					<br>
+					<img src="assets/images/layout/techTouchS10.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+		</page>
+		
+		<page index="46" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 10 glossary//</div>
+					
+					<span class="strongDBlue" glossary>ActionScript</span> 511<br/>
+					<span class="strongDBlue" glossary>Active Server Pages (ASP)</span> 510<br/>
+					<span class="strongDBlue" glossary>Adobe Flash</span> 511<br/>
+					<span class="strongDBlue" glossary>AJAX (Asynchronous JavaScript and XML)</span> 511<br/>
+					<span class="strongDBlue" glossary>algorithm</span> 482<br/>
+					<span class="strongDBlue" glossary>architecture neutral</span> 507<br/>
+					<span class="strongDBlue" glossary>assembly language</span> 492<br/>
+					<span class="strongDBlue" glossary>base class</span> 491<br/>
+					<span class="strongDBlue" glossary>beta version</span> 499<br/>
+					<span class="strongDBlue" glossary>binary decision</span> 487<br/>
+					<span class="strongDBlue" glossary>C</span> 506<br/>
+					<span class="strongDBlue" glossary>C++</span> 507<br/>
+					<span class="strongDBlue" glossary>C#</span> 507<br/>
+					<span class="strongDBlue" glossary>class</span> 489<br/>
+					<span class="strongDBlue" glossary>code editing</span> 496<br/>
+					<span class="strongDBlue" glossary>coding</span> 491<br/>
+					<span class="strongDBlue" glossary>comment</span> 494<br/>
+					<span class="strongDBlue" glossary>compilation</span> 495<br/>
+					<span class="strongDBlue" glossary>compiler</span> 495<br/>
+					<span class="strongDBlue" glossary>control structure</span> 488<br/>
+					<span class="strongDBlue" glossary>data</span> 483<br/>
+					<span class="strongDBlue" glossary>data-flow diagram</span> 480<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary="data type (field type)">data type</span> 494<br/>
+				<span class="strongDBlue" glossary>debugger</span> 499<br/>
+				<span class="strongDBlue" glossary>debugging</span> 497<br/>
+				<span class="strongDBlue" glossary>decision point</span> 487<br/>
+				<span class="strongDBlue" glossary>derived class</span> 491<br/>
+				<span class="strongDBlue" glossary>documentation</span> 500<br/>
+				<span class="strongDBlue" glossary>dynamic decision making</span> 510<br/>
+				<span class="strongDBlue" glossary>editor</span> 496<br/>
+				<span class="strongDBlue" glossary>error handling</span> 484<br/>
+				<span class="strongDBlue" glossary>executable program</span> 496<br/>
+				<span class="strongDBlue" glossary>eXtensible Markup Language (XML)</span> 511<br/>
+				<span class="strongDBlue" glossary>fifth-generation language (5GL)</span> 493<br/>
+				<span class="strongDBlue" glossary>first-generation language (1GL)</span> 492<br/>
+				<span class="strongDBlue" glossary>flowchart</span> 480<br/>
+				<span class="strongDBlue" glossary>For</span> 494<br/>
+				<span class="strongDBlue" glossary>fourth-generation language (4GL)</span> 492<br/>
+				<span class="strongDBlue" glossary>general availability (GA)</span> 499<br/>
+				<span class="strongDBlue" glossary>Hypertext Markup Language (HTML)</span> 508<br/>
+				<span class="strongDBlue" glossary>if else</span> 494<br/>
+				<span class="strongDBlue" glossary>information</span> 483<br/>
+				<span class="strongDBlue" glossary>information system</span> 479<br/>
+				<span class="strongDBlue" glossary>inheritance</span> 490<br/>
+				<span class="strongDBlue" glossary>initial value</span> 488<br/>
+				<span class="strongDBlue" glossary>integrated development environment (IDE)</span> 496<br/>
+				<span class="strongDBlue" glossary>interpreter</span> 496<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="47" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					
+					<span class="strongDBlue" glossary>Java</span> 507<br/>
+					<span class="strongDBlue" glossary>Java applet</span> 508<br/>
+					<span class="strongDBlue" glossary>JavaScript</span> 509<br/>
+					<span class="strongDBlue" glossary>JavaServer Pages (JSP)</span> 510<br/>
+					<span class="strongDBlue" glossary>keyword</span> 494<br/>
+					<span class="strongDBlue" glossary>logical error</span> 498<br/>
+					<span class="strongDBlue" glossary>loop</span> 487<br/>
+					<span class="strongDBlue" glossary>machine language</span> 492<br/>
+					<span class="strongDBlue" glossary>method</span> 483<br/>
+					<span class="strongDBlue" glossary>Next</span> 494<br/>
+					<span class="strongDBlue" glossary>object</span> 490<br/>
+					<span class="strongDBlue" glossary>Objective C</span> 508<br/>
+					<span class="strongDBlue" glossary>object-oriented analysis</span> 489<br/>
+					<span class="strongDBlue" glossary>operator</span> 494<br/>
+					<span class="strongDBlue" glossary>Pascal</span> 504<br/>
+					<span class="strongDBlue" glossary>PHP (Hypertext Preprocessor)</span> 510<br/>
+					<span class="strongDBlue" glossary>portability</span> 493<br/>
+					<span class="strongDBlue" glossary>problem statement</span> 482<br/>
+					<span class="strongDBlue" glossary>program development life cycle (PDLC)</span> 481<br/>
+					<span class="strongDBlue" glossary>program specification</span> 480<br/>
+					<span class="strongDBlue" glossary>programming</span> 481<br/>
+					<span class="strongDBlue" glossary>programming language</span> 492<br/>
+					<span class="strongDBlue" glossary>prototype</span> 505<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<span class="strongDBlue" glossary>pseudocode</span> 486<br/>
+				<span class="strongDBlue" glossary="rapid application development">rapid application development (RAD)</span> 505<br/>
+				<span class="strongDBlue" glossary>release to manufacturers (RTM)</span> 499<br/>
+				<span class="strongDBlue" glossary>reusability</span> 490<br/>
+				<span class="strongDBlue" glossary>runtime error</span> 499<br/>
+				<span class="strongDBlue" glossary>scope creep</span> 481<br/>
+				<span class="strongDBlue" glossary>scripting language</span> 509<br/>
+				<span class="strongDBlue" glossary>second-generation language (2GL)</span> 492<br/>
+				<span class="strongDBlue" glossary>service pack</span> 500<br/>
+				<span class="strongDBlue" glossary>source code</span> 495<br/>
+				<span class="strongDBlue" glossary>statement</span> 494<br/>
+				<span class="strongDBlue" glossary="Structured Query language">Structured Query Language (SQL)</span> 492<br/>
+				<span class="strongDBlue" glossary>syntax</span> 494<br/>
+				<span class="strongDBlue" glossary>syntax error</span> 494<br/>
+				<span class="strongDBlue" glossary>system development life cycle (SDLC)</span> 479<br/>
+				<span class="strongDBlue" glossary>test condition</span> 488<br/>
+				<span class="strongDBlue" glossary>testing plan</span> 484<br/>
+				<span class="strongDBlue" glossary>third-generation language (3GL)</span> 492<br/>
+				<span class="strongDBlue" glossary>top-down design</span> 489<br/>
+				<span class="strongDBlue" glossary>variable</span> 493<br/>
+				<span class="strongDBlue" glossary>variable declaration</span> 493<br/>
+				<span class="strongDBlue" glossary>VBScript</span> 510<br/>
+				<span class="strongDBlue" glossary>Visual Basic (VB)</span> 505<br/>
+				<span class="strongDBlue" glossary>visual programming</span> 505<br/>
+				<span class="strongDBlue" glossary>web service</span> 506<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="48" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...next semester//</div>
+					<ol>
+						<li><span class="innerLi">Interview Ready</span><br/><span class="innerLi notStrong moreSpacing">There are many puzzles posted online that allegedly have been used by interviewers at tech companies like Google or Facebook in part of the interview process. (For a collection, look at the book <i>Algorithms for Interviews</i> by Adnan Aziz and Amit Parkash.) Here are a few sample questions that could come up in assessing your ability to create algorithms. Prepare solutions to each.</span></li>
+						<ul style="list-style-type:lower-alpha;">
+							<li><span class="notStrong moreSpacing">What method would you use to look up a word in a dictionary?</span></li>
+							<li><span class="notStrong moreSpacing">Imagine you have a closet full of shirts. It’s very hard to find a shirt, so what can you do to organize your shirts for easy retrieval?</span></li>
+							<li><span class="notStrong moreSpacing">You have eight balls, all of the same size. Seven of them weigh the same, but one of them weighs slightly more. Can you find the ball that is heavier by using a balance and only two weighings?</span></li>
+						</ul>
+						<li><span class="innerLi">Reuse, Reuse, Reuse</span><br/><span class="innerLi notStrong moreSpacing">One key to being an efficient programmer is to reuse code. Programmers often use collections of prewritten code modules named application programming interfaces (APIs) to add functionality to their program with relatively little work. Research the set of APIs available from Google by visiting Google Code (<span class="strongDBlue" onclick="window.open('http://code.google.com/edu','_blank')">code.google.com/edu</span>) and the Google Code Playground (<span class="strongDBlue" onclick="window.open('http://code.google.com/apis/ajax/playground','_blank')">code.google.com/apis/ajax/playground</span>).</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol>
+						<li><span class="innerLi">Choosing the Best Language</span><br/><span class="innerLi notStrong moreSpacing">Using resources from the web, determine which programming languages would be best to learn if you were going to program for the following industries:</span></li>
+						<ul style="list-style-type:lower-alpha;">
+							<li><span class="notStrong moreSpacing">Interactive learning games</span></li>
+							<li><span class="notStrong moreSpacing">Interactive architectural visualization for mobile devices and web deployment</span></li>
+							<li><span class="notStrong moreSpacing">Database management</span></li>
+							<li><span class="notStrong moreSpacing">Robotics</span></li>
+						</ul>
+						<li><span class="innerLi">Accessibility</span><br/><span class="innerLi notStrong moreSpacing">Web designers and programmers can take specific steps to allow visually impaired users to access websites more easily. Examine the information on accessibility at Adobe’s Accessibility Resource Center (<span class="strongDBlue" onclick="window.open('http://adobe.com/accessibility','_blank')">adobe.com/accessibility</span>). What does accessibility mean in a software context? Explore the details of existing assistive technologies, such as screen readers. What are the legal requirements with which websites must comply in order to meet the needs of persons with disabilities? Why is maximizing accessibility important to everyone?</span></li>
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="49" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">team time//</div>
+					<h3>Working Together for Change</h3>
+					
+					<h4>Problem</h4>
+					<p class="moreSpacing">You and your team have just been selected to write a software program that tells a vending machine how to make proper change from the bills or coins the customer inserts. The program needs to deliver the smallest possible amount of coins for each transaction.</p>
+					
+					<h4>Task</h4>
+					<p class="moreSpacing">Divide the class into three teams: Algorithm Design, Coding, and Testing. The responsibilities of each team are outlined as follows.</p>
+					
+					<h4>Process</h4>
+					<p class="moreSpacing">Break the class into three teams. Each team will be responsible for investigating one of the following issues:</p>
+					<ol>
+						<li><span class="innerLi notStrong moreSpacing">The Algorithm Design team must develop two documents. The first document should present the problem as a top-down design sequence of steps. The second document should use object-oriented analysis to identify the key objects in the problem. Each object needs to be represented as data and behaviors. Inheritance relationships between objects should be noted, as well. You can use flowcharts to document your results. </span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					
+					<ol class="noListStyle noBMargin">
+						<li><span class="innerLi notStrong moreSpacing">Consider using a product such as Microsoft Visio or the open source program Dia to create a visual representation of your objects and their relationships to each other.</span></li>
+					</ol>
+					<ol class="noBMargin">
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong moreSpacing">The Coding team needs to decide which programming language would be most appropriate for the project. This program needs to be fast and to take up only a small amount of memory. Use the web to collect information about the language you select, and be sure you have enough information to defend your selection.</span> </li>
+						
+						<li class="noListStyle TMargin10"><span class="innerLi notStrong moreSpacing">You may also consider using a product such as Visual Logic to try to develop the code for a prototype of the system (<span class="strongDBlue" onclick="window.open('http://visuallogic.org','_blank')">visuallogic.org</span> offers a free demo version). This language, based on Visual Basic, lets you write code free from many constraints of syntax. Programs in Visual Logic look like flowcharts but actually execute!</span></li>
+					</ol>
+					<ol>	
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong moreSpacing">The Testing team must create a testing plan for the program. What set of inputs would you test with to be sure the program is completely accurate? Develop a table listing combinations of inputs and correct outputs.</span></li>
+					</ol>
+				]]>
+			</section>
+		</page>
+		
+		<page index="50" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">team time//</div>
+					
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li><span class="innerLi notStrong moreSpacing">As a group, discuss how each team would communicate its results to the other teams. Once one team has completed its work, are the team members finished or do they need to interact with the other teams? How would the tools of a site such as SourceForge(<span class="strongDBlue" onclick="window.open('http://sourceforge.net','_blank')">sourceforge.net</span>) help your development team across the life of the project?</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p class="moreSpacing">Any modern programming project requires programming teams to produce an accurate and efficient solution to a problem. The interaction of the team members within the team as well as with the other teams is vital to successful programming.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+					
+					<h4>Software That Kills</h4>
+					<p class="moreSpacing">In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play might not match your personal beliefs, but your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the argument, and together, the team will agree on an ethical solution.</p>
+					
+					<h4>Problem</h4>
+					<p class="moreSpacing">The Therac-25 was a computerized radiation-therapy machine. Between 1985 and 1987, six people were killed or badly harmed due to a software flaw in its programming. Although the therapeutic dose was expected to be about 200 rads, it was later estimated that one patient had received doses of radiation in the 15,000- to 20,000-rad range. (Doses of 1,000 rads can be fatal.) The error-prone software remained on the market for more than 18 months before the problem was recognized, acknowledged, and solved.</p>
+					<p class="moreSpacing">Does this situation indicate criminal conduct? Is this a situation that needs to be resolved in civil court (for monetary damages) but that does not constitute a criminal act? Should this incident be seen as an example of the price society pays for using complex technology and that no blame should be assigned?</p>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="51" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">ethics project//</div>
+					
+					<h4>Research Areas to Consider</h4>
+					<span class="psudoUlLi">Therac-25 case resolution</span>
+					<span class="psudoUlLi">2010 Toyota recalls for unanticipated acceleration</span>
+					<span class="psudoUlLi">Software errors in avionic software systems</span>
+					<span class="psudoUlLi">ACM Ethical Guidelines</span>
+					
+					<h4>Process</h4>
+					<ol>
+						<li><span class="innerLi notStrong moreSpacing">Divide the class into teams.</span></li>
+						<li><span class="innerLi notStrong moreSpacing">Research the areas cited above from the perspective of one of the following people: a software developer, the people impacted, and the arbitrator.</span></li>
+						<li><span class="innerLi notStrong moreSpacing">Team members should write a summary that provides factual support for their character’s position regarding the fair and ethical design and use of technology. Then, team members should create an outline to use during the role-playing event.</span></li>
+						<li><span class="innerLi notStrong moreSpacing">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+					</ol>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="ColShiftSpacer"></div>
+					<ol>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="liHide"></li>
+						<li class="moreSpacing"><span  class="innerLi notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+					</ol>
+					
+					<h4>Conclusion</h4>
+					<p class="moreSpacing"> As technology becomes ever more prevalent and integrated into our lives, ethical dilemmas will present themselves to an increasing extent. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+				]]>
+			</section>
+		</page>
+
+		
+	</chapter>
+</ebook>		

@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ebook book="compTia">
+<chapter index="6" title="" glossary="38">
+
+<page index="0" type="full" distinction="chapterStart">
+			<section>
+				<!--new image title set up.-->
+				<![CDATA[
+				<section>
+				
+				<div class="chapterStartBox">
+					<div class="chapterStartDesc topPadding10">
+						Understanding and<br/>Assessing Hardware:<br/>Evaluating Your<br/>System</div>	
+				<div class="chapterStartNumber">6</div>
+				</div>
+				<div class="loader"></div>
+				]]>
+			</section>
+		</page>
+		
+	<page index="1" type="ColumnColumn" distinction="toc">
+			<section>
+				<![CDATA[
+
+					<span class="largeGreenHeading" onclick="compTia.switchPage(0,3)">Evaluating Key Subsystems</span>
+					<img src="assets/images/pics/computerHeart.jpg" style="margin-top:-27px;margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,3)">Your Ideal Computer</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li class="shiftRight55"><span class="ul1DigNumber">1.</span> What kind of computer is best for me? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,3)">(pp. 251-253)</span></li>
+					</ul>
+					
+					<hr class="clearRight" style="margin-top:2px;">
+					
+					<img src="assets/images/pics/CPU.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,6)">Evaluating the CPU Subsystem</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li class="shiftRight55"><span class="ul1DigNumber">2.</span> What does the CPU do, and how can I evaluate its performance? <span class="strongDBlue" onclick="compTia.switchPage(0,6)">(pp. 254-258)</span></li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/using_windows_to_evaluate_cpu_performance/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Using Windows to Evaluate CPU Performance
+					</div>
+						
+					
+					<hr class="clearRight">
+					
+					<img src="assets/images/pics/ram.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,11)">Evaluating the Memory Subsystem</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li class="shiftRight55"><span class="ul1DigNumber">3.</span> How does memory work in my computer? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,11)">(pp. 259–261)</span></li>
+						<li class="shiftRight55"><span class="ul1DigNumber">4.</span> How do I evaluate how much memory I need? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,13)">(pp. 261–262)</span></li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/memory_hierarchy_interactive/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Memory Hierarchy Interactive
+					</div>
+					
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_15.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Evaluating Your CPU and RAM
+					</div>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/installing_ram/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Installing RAM
+					</div>
+					
+					<img src="assets/images/layout/playTechTown.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')"/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					
+					<img src="assets/images/pics/storage.jpg" style="margin-right:0px;margin-bottom:8px;"/>
+					<span class="orangeHeading noBMargin" onclick="compTia.switchPage(0,15)">Evaluating the Storage Subsystem</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li class="shiftRight55"><span class="ul1DigNumber lessSpacing">5.</span> What are the computer’s ­storage devices? <span class="strongDBlue" onclick="compTia.switchPage(0,15)">(pp. 263-265)</span></li>
+						<li class="shiftRight55"><span class="ul1DigNumber lessSpacing">6.</span> How do I evaluate my storage devices? <br/><span class="strongDBlue" onclick="compTia.switchPage(0,17)">(pp. 265-268)</span></li>
+					</ul>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/optical_media_reading_writing_interactive/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Optical Media Reading and Writing Interactive
+					</div>
+					
+					<div class="soundByte"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/installing_bluray_drive/index.html','_blank')">
+						<span class="icon greenSpeaker"> </span>
+						<span class="title">Sound Byte</span>
+						Installing a Blu-Ray Drive
+					</div>
+					
+					
+					<hr>
+					
+					<span class="largeGreenHeading noBMargin" onclick="compTia.switchPage(0,23)">Evaluating Other Subsystems <br/>and Making a Decision</span>
+					<img src="assets/images/pics/filmStrip.jpg" style="margin-right:0px;margin-top:-35px;"/>
+					<span class="orangeHeading noBMargin" onclick="compTia.switchPage(0,23)">Evaluating the Video and Audio Subsystems</span>
+					<span class="semiBoldGrey">Objectives</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">7.</span> What components affect the quality of video on my computer? <span class="strongDBlue" onclick="compTia.switchPage(0,23)">(pp. 271–273)</span></li>
+						<li style="width:400px;"><span class="ul1DigNumber lessSpacing">8.</span> How do I know if I need better video performance? <span class="strongDBlue" onclick="compTia.switchPage(0,26)">(p. 274)</span></li>
+						<li style="width:400px;"><span class="ul1DigNumber lessSpacing">9.</span> What components affect my computer’s sound quality? <span class="strongDBlue" onclick="compTia.switchPage(0,27)">(pp. 275–277)</span></li>
+					</ul>
+					
+					
+					
+				
+					<div class="activeHelpdesk"
+						onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_16.html','_blank')">
+						<span class="icon blueCallPerson"> </span>
+						<span class="title">Active Helpdesk</span>
+						Evaluating Computer System Components
+					</div>
+					
+					
+					<hr>
+					
+					<img src="assets/images/pics/trust.jpg" style="margin-top:0px;"/>
+					<span class="orangeHeading" onclick="compTia.switchPage(0,27)">Evaluating System Reliability and <br/>Making a Final Decision</span>
+					<span class="semiBoldGrey">Objective</span>
+					<ul>
+						<li><span class="ul1DigNumber lessSpacing">10.</span> How can I improve the reliability of my system? <span class="strongDBlue" onclick="compTia.switchPage(0,30)">(pp. 278–280)</span>
+						</li>
+					</ul>
+					
+					
+					
+
+					<span class="bottomMediaText">
+   						For all media in this chapter go to <span class="strongDBlue" onclick="window.open('http://pearsonhighered.com/techinaction','_blank')">pearsonhighered.com/techinaction</span> or <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span>.
+   					</span>
+
+					<span class="verticalRightCreds" style="margin-right:-65px;margin-bottom:50px;">
+							(Radius Images/Alamy; nigel james/Alamy; joppo/Fotolia; Cobalt./Fotolia; Scanrail/Fotolia; SSilver/Fotolia; Ivelin Radkov/Alamy)
+					</span>
+					<div class="loader"></div>
+					
+					
+					
+				]]>
+			</section>
+		</page>	
+		
+		<page index="2" type="ColumnColumn" distinction="whiteOnBlack">
+			<section>
+				<![CDATA[
+
+
+					
+					<div style="width:110%;height:100%;
+							background:no-repeat url(assets/images/figures/guyComputer.jpg) -10px 0"></div></div>
+							<div class="font_9 floatLeft italic shiftUp7">
+								 </div>
+
+
+
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<span class="thinGreenHeading">How Cool Is This?</span>
+					<p class="moreSpacing">Just like the car industry has special concept cars, at the 2012 Consumer Electronics Show, Intel showed off a glimpse into what your <strong>next computer</strong> may look like, the Nikiski ultrabook. A <strong>transparent track pad</strong> flows across the full length of the machine, so when closed you can still see through to key information like your to-do list, in-box, Facebook, and meeting notes. It also works as a <strong>touchpad interface</strong> so that you can select and respond to important information <strong>without opening the tablet</strong>.</p>
+					<p class="moreSpacing">Once you do open the cover, the inside surface of the transparent touchpad acts as a <strong>huge track pad</strong>. It understands the difference between the weight of your wrists or palms and your fingertips and only processes the glide of your fingertips as you scroll or pinch and zoom. Folks were storming the stage after the presentation to get a look at this cool device!</p>
+					
+					<div class="scanThis"
+						 style="background-image: url('assets/images/pics/Chap6ArrSchip_computer.png')" onclick="window.open('http://www.engadget.com/2012/01/09/intel-shows-off-nikishki-prototype-with-sprawling-touchscreen-de/','_blank')">
+						Scan here for more info 
+					</div>
+				]]>
+			</section>
+
+		</page>
+		
+		<page index="3" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes">Evaluating Key Subsystems</div>
+					<p class="digCompP">It can be tough to know if your computer is the best match for your needs. New technologies emerge so quickly, and it’s hard to determine whether these are expensive extras or tools you need. Do you need USB 3.0 instead of USB 2.0? Doesn’t it always seem like your friend’s computer is faster than yours anyway? Maybe you could get more out of newer technologies, but should you upgrade the system you have or buy a new machine? In this chapter, you’ll learn how to measure your system’s performance and gauge your needs so that you end up with a system you love.</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/computerHeartThumbnail.jpg)">
+						<div class="orange">your ideal</div>
+						<div class="blue" style="margin-left:102px;">Computer</div>
+					</div>
+					
+					<p><strong>When is the best time to buy a new computer?</strong> There never seems to be a perfect time to buy. It seems that if you can just wait a year, computers will be faster and cost less. But is this actually true?</p>
+					
+					<p class="start">As it turns out, it is true. In fact, a rule of thumb often cited in the computer industry called <span class="strongDBlue" glossary>Moore’s Law</span> describes the pace at which central processing units (CPUs) improve. Named for Gordon Moore, the cofounder of the CPU chip manufacturer Intel, this rule predicts that the number of transistors inside a CPU will increase so fast that CPU capacity will double about every 2 years. (The number of transistors on a CPU chip helps determine how fast it can process data.)</p>
+					<p class="start">This rule of thumb has held true for over 45 years. <span class="strongDBlue"  onclick="compTia.togglePopup(3,0)">Figure 6.1</span> shows a way to visualize this kind of exponential growth. If CPU capacity were put into terms of population growth, a group of 2,300 people at the start of CPU </p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>development would now be a country of over one billion! Moore himself has predicted that around the year 2020, CPU chips will be manufactured in a different way, thus changing or eliminating the effects of Moore’s Law altogether.</p>
+					<p class="start">In addition to the CPU becoming faster, other system components also continue to improve dramatically. For example, the capacity of memory chips such as dynamic random access memory (DRAM)—the most common form of memory found in personal computers—increases about 60% every year. Meanwhile, hard drives have been growing in storage capacity by some 50% each year.</p>
+				<br/>
+					<figure onclick="compTia.togglePopup(3,0)"
+						style="height: 292px;background: url(assets/images/figures/fig6.1.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.1</span> Moore’s Law illustrates the amazing pace of growth in CPU capabilities.</figcaption>
+   			</figure>	
+					
+					]]>
+			</section>
+		</page>
+		
+		<page index="4" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">What Kind of Computer User Are You?</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(4,0)" style="    background: url(assets/images/figures/fig6.2.jpg) no-repeat scroll 50px 39px #FFFFFF; height: 342px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.2</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 6.2</span> <em>(llaszlo/Shutterstock; ColorBlind Images/Iconica/Getty Images; olly/Shutterstock)</em>
+						</figcaption></figure>
+					</div>
+				<br/>	
+						<div class="itSimContain"
+							onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_mylabs/simulations/2012/IT/digital_devices_and_multimedia/','_blank')">
+							<div class="itSimContent">
+								<span>IT</span>
+								<span>Simulation: Digital Devices and Multimedia</span>
+							</div>
+						</div>
+				<br/>	
+					<p class="start"><strong>OK, things change fast. How do I know what’s best for me?</strong> Consider what kind of user you are and what needs you have. For example, are you a power user who wants a machine for doing video editing and high-end gaming? Are you a more casual user, mainly using a device</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">for word processing and Internet access? Are you on the move and need to bring your computer with you everywhere? <span class="strongDBlue"  onclick="compTia.togglePopup(4,0)"> Figure 6.2</span> shows a few different types of users—which type (or types) are you?</p>
+					<p class="start moreSpacing">Now ask yourself, does your current computer match your needs? As we evaluate the pieces of your system, it’ll become clear whether you need a few upgrades or perhaps a new machine better matched to you.</p>
+					<p class="start moreSpacing"><strong>How do I pick from all the types of computers available?</strong></p>
+					<p>A huge number of choices are on the market:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Tablets (like the iPad or Galaxy)</span></li>
+						<li><span class="innerLi">Ultrabooks (like the MacBook Air)</span></li>
+						<li><span class="innerLi">Netbooks (which have a screen smaller than 10 inches and a small keyboard)</span></li>
+						<li><span class="innerLi">Tablet PCs (which have a touch-enabled screen and  a full keyboard)</span></li>
+						<li><span class="innerLi">Laptops (or notebooks)</span></li>
+						<li><span class="innerLi">Desktops</span></li>
+					</ul>
+					
+					<p class="start moreSpacing">The main distinction between the available options is based on your need for mobility versus your need for processing power. If you’re on the move all the time and have to have the lightest solution possible, an ultrabook may be best for you. At less than 3 pounds, they’re great on weight but don’t include an optical drive for CDs/DVDs or much storage space. Even lighter are tablets like the iPad, but they also lack optical drives and may not be able to run all the software you need.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="5" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Why would I consider buying a desktop?</strong> Desktop systems are invariably a better value than lighter, more mobile computers. You’ll find you get more computing power for your dollar, and you’ll have more opportunity to upgrade parts of your system later. In addition, desktops often ship with a 24-inch or larger monitor, whereas lighter computers offer screens between 10 and 17 inches.</p>
+					<p class="start moreSpacing">Desktop systems are also more reliable. Because of the vibration that a laptop experiences and the added exposure to dust, water, and temperature fluctuations that portability brings, laptops often have a shorter lifespan than desktop computers. You’ll have less worry over theft or loss with a desktop, too. Manufacturers do offer extended warranty plans that cover laptop computers for accidental damage and theft; however, such plans can be costly.</p>
+					<p class="start moreSpacing"><strong>How long should I plan on keeping my computer?</strong> You should be able to count on 2 years, and maybe even 4 or 5 years. The answer depends in part on how easy it is to upgrade your system. Take note of the maximum amount of memory you can install in your device. Also, check whether you can upgrade your device’s graphics capabilities down the road.</p>
+					<p class="start moreSpacing">Laptops are often equipped with an <span class="strongDBlue" glossary>ExpressCard</span> slot. ExpressCards (<span class="strongDBlue"  onclick="compTia.togglePopup(5,0)">shown in Figure 6.3</span>) can add a solid-state drive (SSD), new kinds of ports, and other capabilities to your system. This gives you a way to make sure </p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p clas="moreSpacing">your laptop doesn’t become obsolete before its time. However, note that the lighter ultrabooks and tablets don’t have ExpressCard expansion options.</p>
+					<p class="start moreSpacing"><strong>How can I tell if my current system is good enough?</strong> We’ll begin by conducting a <span class="strongDBlue" glossary>system evaluation</span>. To do this, we’ll look at your computer’s subsystems, see what they do, and check how they perform during your typical workday. Then we’ll compare that with what is available on the market, and the path forward for you will become clearer. Even if you’re not in the market for a new computer, conducting a system evaluation will help you understand what you might want in a new system down the road.</p>
+					
+					<figure onclick="compTia.togglePopup(5,0)"
+						style="height: 273px;background: url(assets/images/figures/fig6.3.jpg) no-repeat scroll 35px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.3</span> ExpressCards add functionality to your laptop. <br/><em>(Editorial Image, LLC/Alamy; Editorial Image, LLC/Alamy)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="6" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/CPUThumbnail.jpg)">
+						<div class="dblue">evaluating the</div>
+						<div class="orange" style="margin-left:134px;">cpu Subsystem</div>
+					</div>
+					
+					<p class="moreSpacing">Let’s start by considering your system’s processor, or CPU. The CPU is located on the system motherboard and is responsible for processing instructions, performing calculations, and managing the flow of information through your computer. The dominant processors on the market are the Core family from Intel, featuring the i7, i5, and i3 (<span class="strongDBlue"  onclick="compTia.togglePopup(6,0)">see Figure 6.4</span>).</p>
+				<br/>	
+					<figure onclick="compTia.togglePopup(6,0)"
+						style="height: 273px;background: url(assets/images/figures/fig6.4.jpg) no-repeat scroll 35px 0 transparent;">
+						<figcaption class="bottomPos">
+						<h2 class="blueHeading" onclick="window.open('http://www.intel.com/content/www/us/en/processor-comparison/compare-intel-processors.html ','_blank')">Click here for more information</h2>
+   				<span>Figure 6.4</span> The Intel i5 and i7 CPU chips run many of the laptop and desktop offerings on the market today. <em>(David Caudery/PC Format Magazine/Future/Getty Images)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How can I find out what CPU my computer has?</strong> If you have a PC, System Properties will show you the type of CPU you have installed. For example, the CPU in the computer in <span class="strongDBlue"  onclick="compTia.togglePopup(6,1)">Figure 6.5</span> is an Intel i7 running at 2.2 GHz. Another popular manufacturer of CPUs is the company AMD, so you may have one of its processors, such as the FX-8150 or the Phenom X4. But more detailed information about your CPU, such as its number of cores and amount of cache memory, is not shown on this screen. Let’s dive into that.</p>
+					<br/>
+					<figure style="background:url(assets/images/figures/fig6.5.jpg) no-repeat scroll 0px 0px transparent;
+							    height: 275px;
+								margin-bottom: 5px;">
+								<div onclick="compTia.togglePopup(6,1)" style="
+									height: 217px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_6_5.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 6.5</span> The System Properties window identifies your computer’s CPU as well as its speed. This computer has anIntel i7 running at 2.2 GHz
+						</figcaption></figure>
+			<br/>
+				<p><em>>To access your system settings, move your mouse to the lower-left corner of your screen and right-click. From the menu that displays, choose <strong>System.</strong></em></p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="7" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">How the CPU Works</h2>
+					<p class="morespacing"><strong>How does the CPU actually work?</strong> The CPU is composed of two units: the <em>control unit</em> and the <em>arithmetic logic unit (ALU)</em>. The control unit coordinates the activities of all the other computer components. The ALU is responsible for performing all the arithmetic calculations (addition, subtraction, multiplication, and division). It also makes logic and comparison decisions such as comparing items to determine if one is greater than, less than, or equal to another.</p>
+					<p class="start moreSpacing">Every time the CPU performs a program instruction, it goes through the same series of steps:</p>
+					<ol>
+						<li><span class="innerLi">It <em>fetches</em> the required piece of data or instruction from random access memory (RAM), the temporary storage location for all the data and instructions the computer needs while it’s running.</span></li>
+						<li><span class="innerLi">It <em>decodes</em> the instruction into something the computer can understand.</span></li>
+						<li><span class="innerLi">It <em>executes</em> the instruction.</span></li>
+						<li><span class="innerLi">It <em>stores</em> the result to RAM before fetching the next instruction.</span></li>
+					</ol>
+					<p class="start moreSpacing">This process is called a <span class="strongDBlue" glossary="machine cycle (processing cycle)">machine cycle</span>. (We discuss the machine cycle in more detail in the <span class="strongDBlue" onclick="compTia.moveTo(7,42,0)">Technology in Focus feature “Under the Hood.”</span>)</p>
+					
+					<h2 class="blueHeading">CPU Factors</h2>
+					<p class="moreSpacing"><strong>What makes one CPU different from another?</strong> You pay more for a computer with an Intel i7 than one with an i5 because of its increased</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>processing power. A CPU’s processing power is determined by the  following:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Its <em>clock speed</em></span></li>
+						<li><span class="innerLi">Whether it has multiple <em>cores</em></span></li>
+						<li><span class="innerLi">Its amount of <em>cache memory</em></span></li>
+					</ul>	
+					
+					<p class="start"><strong>How does a CPU with a higher clock speed help me?</strong> The <span class="strongDBlue" glossary>clock speed</span> of a CPU dictates how many instructions the CPU can process each second. It is measured in gigahertz (GHz), or billions of steps per second. The faster the clock speed, the more quickly the next instruction is processed. CPUs currently have clock speeds between 2.1 and 4 GHz. There is a huge difference between a computer with a 2.1 GHz CPU and one with a 4 GHz CPU.</p>
+					<p class="start">Some users push their hardware to perform faster, <span class="strongDBlue" glossary>overclocking</span> their processor. Overclocking means that you run the CPU at a faster speed than the manufacturer recommends. It produces more heat, meaning a shorter lifetime for the CPU, and usually voids any warranty, but in gaming systems, you’ll see this done quite often.</p>
+					<p class="start"><strong>How does a multi-core CPU help me?</strong> A <span class="strongDBlue" glossary>core</span> on a CPU contains the parts of the CPU required for processing. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 6.6a</span>, with multiple-core technology, two or more complete processors live on the same chip, enabling the independent execution of two sets of instructions at the same time. If you had a clone of yourself sitting next to you working, you could get twice as much done, and that is the idea of multi-core processing. With multi-core processing, applications that are always running </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="8" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>behind the scenes, such as virus protection software and your operating system (OS), can have their own dedicated processor, freeing the other processors to run other applications more efficiently. This results in faster processing and smoother multitasking.</p>
+					<p class="start">CPUs began to execute more than one instruction at a time when <span class="strongDBlue" glossary>hyperthreading</span> was introduced in 2002. Hyperthreading provides quicker processing of information by enabling a new set of instructions to start executing <em>before the previous set has finished</em>. As shown in <span class="strongDBlue" onclick="compTia.togglePopup(8,0)">Figure 6.6b</span>, hyperthreading allows two different programs to be processed at one time, but they’re sharing the computing resources of the chip.</p>
+					<p class="start">All of the Intel Core processors have multiple cores and hyperthreading (<span class="strongDBlue" onclick="compTia.togglePopup(8,0)">see Figure 6.6c</span>). The Intel i7-990X has six cores, each one using hyperthreading, so 
+					ulates having 12 processors!</p>
+					
+				<br/>	
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Hyperthreading</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(8,0)" style="    background: url(assets/images/figures/fig6.6.jpg) no-repeat scroll 17px 43px #FFFFFF; height: 175px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.6</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>How does more cache memory help me?</strong> The CPU’s <span class="strongDBlue" glossary>cache memory</span> is a form of RAM that gets data to the CPU for processing much faster than bringing the data in from the computer’s RAM. There are three levels of cache memory, defined by their proximity to the CPU:</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><em>Level 1 cache</em> is a block of memory built on the CPU chip itself for storage of data or commands that have just been used. That gets the data to the CPU blindingly fast!</span></li>
+						<li><span class="innerLi"><em>Level 2 cache</em> is located on the CPU chip but is slightly farther away and so takes somewhat longer to access than Level 1 cache. It contains more storage area than Level 1 cache.</span></li>
+						<li><span class="innerLi"><em>Level 3 cache</em> is slower for the CPU to reach but is larger in size than Level 2 cache.</span></li>
+					</ul>
+					<p>The more expensive the CPU, the more cache memory it will have.</p>
+					
+					<p class="start"><strong>So how do I shop for a CPU?</strong> You’ll often see models of the same computer with just a different CPU varying in cost by $200 or more. Is the price difference worth it? It’s hard to know because so many factors influence CPU performance. Picking the best CPU for the kind of work you do is easier if you research some performance benchmarks. <span class="strongDBlue" glossary>CPU benchmarks</span> are measurements used to compare performance between processors.</p>
+					<a onclick="compTia.togglePopup(8,1)" class="readMore"></a>
+				]]>
+			</section>
+		</page>
+		
+		<page index="9" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Measuring the CPU</h2>
+					<p class="moreSpacing"><strong>How can I tell whether my current CPU is meeting my needs?</strong> One way to determine whether your CPU is right for you is to watch how busy it is as you work. You can do this by checking out your <span class="strongDBlue" glossary>CPU usage</span>—the percentage of time your CPU is working.</p> 
+					<p class="start">Your computer’s OS has utilities that measure CPU usage. These are incredibly useful, both for considering whether you should upgrade and for investigating if your computer’s performance suddenly seems to drop off for no apparent reason.</p>
+					<p class="start moreSpacing">On Windows systems, Task Manager lets you access this data (<span class="strongDBlue" onclick="compTia.togglePopup(9,1)">see Figure 6.7</span>). The <span class="strongDBlue" glossary>CPU usage graph</span> records your CPU usage for the past several seconds. (Note that if you have multiple cores and hyperthreading, you’ll see only one physical processor listed, but it will show that you have several virtual processors.) Of course, there will be periodic peaks of high CPU usage, but if your CPU usage levels are greater than 90% during most of your work session, a faster CPU will contribute a great deal to your system’s performance.</p>
+					<p class="start moreSpacing">To walk through using the Task Manager, check out the <span onclick="compTia.switchPage(0,22)" class="strongDBlue">Try This</span> on page 244 and watch the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/using_windows_to_evaluate_cpu_performance/index.html','_blank')">“Using Windows to Evaluate CPU Performance” Sound Byte</span>. Mac OS X has a similar utility named Activity Monitor, which is located in the Utilities folder in the Applications subfolder.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div onclick="compTia.togglePopup(9,0)" class="bitsAndBytesBlue TMargin5">
+						<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+						Not Much Power at All
+					</div>
+					
+					<br/>
+					<figure style="background:url(assets/images/figures/fig6.7.jpg) no-repeat scroll 0px 0px transparent;
+							    height: 296px;
+								margin-bottom: 5px;">
+								<div onclick="compTia.togglePopup(9,1)" style="
+									height: 243px;
+									margin: 10px 0 0 93px;">
+								</div>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_6_7.html','_blank')"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 6.7</span> The Performance tab of the Windows Task Manager utility shows you how busy your CPU is.
+						</figcaption></figure>
+						
+					<br/>
+					<p><em>>To access the Performance tab, move your cursor to the lower-left corner and right-click. From the menu, select <strong>Task Manager</strong>, and then click the <strong>Performance</strong> tab.</em></p>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="10" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>How often do I have to be watching the CPU load?</strong> Keep in mind that the workload your CPU experiences depends on how many programs are running at one time. Even though the CPU may meet the specs for each program separately, how you use your machine during a typical day may tax the CPU. If you’re having slow response times or decide to measure CPU performance as a check, open the Task Manager and leave it open for a full day. Check in at points when you have a lot of open windows and when you have a lot of networking or disk-usage demand.</p>
+					<p class="start moreSpacing"><strong>So a better CPU means a better performing system?</strong> Your CPU affects only the <em>processing</em> portion of the system performance, not how quickly data can move to or from the CPU. Your system’s <em>overall</em>  performance depends on many factors, including the amount of RAM installed as well as hard drive speed. Your selection of CPU may not offer significant improvements to your system’s performance if there is a bottleneck in processing because of insufficient RAM or hard drive performance, so you need to make sure the system is designed in a balanced way. <span class="strongDBlue" onclick="compTia.togglePopup(10,0)">Figure 6.8</span> lists factors to consider as you decide which specific CPU is right for you.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/using_windows_to_evaluate_cpu_performance/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Using Windows to Evaluate CPU Performance
+						</div>
+						In this Sound Byte, you’ll learn how to use the utilities provided by Windows to evaluate your CPU’s performance. You’ll also learn about shareware utilities (software that you can install and try before you purchase it) that expand on the capabilities the Task Manager utility provides.
+					</div></div>
+				
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">How to Evaluate a CPU</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(10,0)" style="    background: url(assets/images/figures/fig6.8.jpg) no-repeat scroll 32px 50px #FFFFFF; height: 336px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.8</strong> Click to view the interactive graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="11" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/ramThumbnail.jpg)">
+						<div class="dblue">evaluating the</div>
+						<div class="orange" style="margin-left:68px;">MEMORY Subsystem</div>
+					</div>
+					
+					<p class="moreSpacing"><span class="strongDBlue" glossary>Random access memory (RAM)</span> is your computer’s temporary storage space. Although we refer to RAM as a form of storage, it really is the computer’s short-term memory. It remembers everything that the computer needs in order to process data into information, such as data that has been entered and software instructions, but only when the computer is on. RAM is an example of <span class="strongDBlue" glossary>volatile storage</span>. When the power is off, the data stored in RAM is cleared out. This is why, in addition to RAM, systems always include <span class="strongDBlue" glossary>nonvolatile storage</span> devices for permanent storage of instructions and data. Read-only memory (ROM), for example, holds the critical start-up instructions. Hard drives provide the largest nonvolatile storage capacity in the computer system.</p>
+					<p class="start moreSpacing"><strong>Why not use a hard drive to store the data and instructions?</strong> It’s about one million times faster for the CPU to retrieve a piece of data from RAM than from a mechanical hard drive. The time it takes the CPU to grab data from RAM is measured in nanoseconds (billionths of seconds), whereas pulling data from a fast mechanical hard drive takes an average of 10 milliseconds (ms), or thousandths of seconds.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(11,0)">Figure 6.9</span> shows the various types of memory and storage distributed throughout your system: memory that is actually part of the CPU (such as CPU registers and cache), RAM, virtual memory, optical drives, and SSD and mechanical hard drives. Each of these has its own tradeoff of speed versus price. Because the fastest memory is so much more expensive, systems are designed with much less of it. This principle is influential in the design of a balanced computer system and can have a tremendous impact on system performance.</p>
+					
+					<figure onclick="compTia.togglePopup(11,0)"
+						style="height: 315px;background: url(assets/images/figures/fig6.9.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.9</span> A computer system’s memory has many different levels, ranging from the small amounts in the CPU to the much slower but more plentiful storage of a mechanical hard drive.</figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="12" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">The RAM in Your System</h2>
+					<p><strong>Are there different types of RAM?</strong> Yes, but in most current systems, the type of RAM used is double data rate 3 (DDR3) memory modules, available in several different speeds (1066 MHz, 1333 MHz, 1600 MHz). The higher the speed, the better the performance. DDR5 (double data rate 5) memory, which has an even faster data transfer rate, is seen in high-performance video graphics cards.</p>
+					<p class="start">RAM appears in the system on <span class="strongDBlue" glossary="memory module (memory card)">memory modules</span> (or <span class="strongDBlue" glossary="memory module (memory card)">memory cards</span>), small circuit boards that hold a series of RAM chips and fit into special slots on the motherboard. Most memory modules in today’s systems are packaged as a <em>dual inline memory module (DIMM)</em>, a small circuit board that holds several memory chips (<span class="strongDBlue" onclick="compTia.togglePopup(12,0)">see Figure 6.10</span>).</p>
+				<br/>	
+					<figure onclick="compTia.togglePopup(12,0)"
+						style="height: 245px;background: url(assets/images/figures/fig6.10.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.10</span> A DIMM memory module holds a series of RAM chips. <br/><em>(Hugh Threlfall/Alamy)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/memory_hierarchy_interactive/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Memory Hierarchy Interactive
+						</div>
+						In this Sound Byte, you’ll learn about the different types of memory used in a computer system.
+					</div></div>
+					
+					<p class="start moreSpacing"><strong>How can I tell how much RAM is installed in my computer?</strong> The amount of RAM actually sitting on memory modules in your computer is your computer’s <span class="strongDBlue" glossary>physical memory</span>. The easiest way to see how much RAM you have is to look in the System Properties window. (On a Mac, choose the Apple menu and then About This Mac.) This is the same tab you looked in to determine your system’s CPU type and speed, and is shown in <span class="strongDBlue" onclick="compTia.togglePopup(6,1)">Figure 6.5</span>. RAM capacity is measured in gigabytes (GB), and most machines sold today have at least 4 GB of RAM.</p>
+					<p class="start moreSpacing"><strong>How can I tell how my RAM is being used?</strong> To see exactly how your RAM is being used, open the Resource Monitor and click on the Memory tab (<span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 6.11</span>). The Resource Monitor gives additional details on CPU, disk, network, and memory usage inside your system, and you can use it to see how you’re using all the RAM you paid for!</p>
+					<p class="start moreSpacing">Windows uses a memory-management technique known as <span class="strongDBlue" glossary>SuperFetch</span>. SuperFetch monitors that applications you use the most and preloads them into your system memory so that they’ll be ready to be used when you want them. For example, if you have Microsoft Word running, </p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="13" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">Windows stores as much of the information related to Word in RAM as it can, which speeds up how fast your application responds. This is because pulling information from RAM is much faster than pulling it from the hard drive. You can watch this process at work using the Resource Monitor. <span class="strongDBlue" onclick="compTia.togglePopup(13,0)">Figure 6.11</span> shows how the 8 GB of installed RAM is being used:</p>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">1.5 GB is running programs.</span></li>
+						<li class="moreSpacing"><span class="innerLi">2.15 GB is holding cached data and files ready for quick access.</span></li>
+						<li class="moreSpacing"><span class="innerLi">4.4 GB is currently unused.</span></li>
+					</ul>
+					
+					
+					<figure style="margin-bottom: 10px;height:260px">
+						<img src="assets/images/figures/fig6.11.jpg" onclick="compTia.togglePopup(13,0)" />
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_6_11.html','_blank')" style="padding:3.5px;"></div>
+					
+					<figcaption style="margin-left:60px;">
+						<span>Figure 6.11</span> The Resource Monitor’s Memory tab shows a detailed breakdown of how the computer is using memory.
+						</figcaption></figure>	
+					
+						
+					
+					<p><em>>To access the Resource Monitor, in the Task Manager, click the <strong>Performance</strong> tab, click <strong>Open Resource Monitor</strong>, and then click the <strong>Memory</strong> tab.</em></p>	
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_15.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Evaluating Your CPU and RAM
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about what the CPU does and how to evaluate its performance. You’ll also field calls about how memory works and how to evaluate how much memory a computer needs.
+					</div></div>
+					
+					<p class="start moreSpacing"><strong>How much RAM do I need?</strong> At a minimum, your system needs enough RAM to run the OS. Running the 64-bit version of Windows 8 requires a minimum of 2 GB of RAM. However, because you run more applications at one time than just the OS, you’ll want to have more RAM than just what’s needed for the OS. For example, <span class="strongDBlue" onclick="compTia.togglePopup(14,0)">Figure 6.12</span> shows how much RAM you’d need to run your OS, a web browser, and some software. In this example, if you have these programs running at the same time, you’ll need a minimum of 6 GB of RAM.</p>
+					
+				<br/>	
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/installing_ram/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Installing RAM
+						</div>
+						In this Sound Byte, you’ll learn how to select the appropriate type of memory to purchase, how to order memory online, and how to install it yourself. As you’ll discover, the procedure is a simple one and can add great performance benefits to your system.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="14" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Sample RAM Allocation</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(14,0)" style="    background: url(assets/images/figures/fig6.12.jpg) no-repeat scroll 9px 33px #FFFFFF; height: 277px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.12</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				
+					<br/>	
+					<figure onclick="compTia.togglePopup(14,1)"
+						style="height: 200px;background: url(assets/images/figures/fig6.13.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.13</span> Adding RAM to a computer is quite simple and relatively inexpensive. On a laptop, you often gain access through a panel on the bottom. <br/><em>(Editorial Image, LLC/Alamy; Editorial Image, LLC/Alamy)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">It’s a good idea to have more than the minimum amount of RAM you need now so you can use more programs in the future. Remember, too, that “required” means these are the <em>minimum values</em> recommended by manufacturers; having more RAM often helps programs run more efficiently. New systems today ship with at least 4 GB of RAM, and high-end systems can come with 24 GB. The rule of thumb: When buying a new computer, buy as much RAM as you can afford.</p>
+					
+					<h2 class="blueHeading">Adding RAM</h2>
+					<p><strong>Is there a limit to how much RAM I can add to my computer?</strong> The motherboard is designed with a specific number of slots into which the memory cards fit, and each slot has a limit on the amount of RAM it can hold. To determine your specific system limits, check the system manufacturer’s website.</p>
+					<p class="start">In addition, the OS running on your machine imposes its own RAM limit. For example, the maximum amount of RAM for the 32-bit version of Windows 8 is 4 GB, whereas the maximum memory you can install using the 64-bit version of Windows 8 Pro is 192 GB.</p>
+					<p class="start"><strong>Is it difficult or expensive to add RAM?</strong> Adding RAM is fairly easy (<span class="strongDBlue" onclick="compTia.togglePopup(14,1)">see Figure 6.13</span>).</p>
+					
+					<a onclick="compTia.togglePopup(14,2)" class="readMore"></a>
+				]]>
+			</section>
+		</page>
+		
+		<page index="15" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO bgPosition00" style="background-image:url(assets/images/pics/storageThumbnail.jpg)">
+						<div class="dblue" style="margin-left:59px; color:#166beb">evaluating the</div>
+						<div class="orange" style="margin-left: 91px">stoRAGe sUBSYSTEM</div>
+					</div>
+					
+					<p>Remember, there are two ways data is stored on your computer: temporary storage and permanent storage. RAM is a form of temporary (or volatile) storage. The information residing in RAM is not stored permanently. It’s critical to have the means to store data and software applications permanently.</p>
+					<p class="start">Fortunately, several storage options exist. Storage devices include internal hard drives, SSDs, optical drives, and external hard drives. When you turn off your computer, the data that has been written to these devices will be available the next time the machine is powered on. These devices therefore provide <em>nonvolatile</em> storage.</p>
+					
+					<h2 class="blueHeading">Mechanical Hard Drives</h2>
+					<p><strong>What makes the hard drive such a popular storage device?</strong> With storage capacities exceeding 4 terabytes (TB), a mechanical <span class="strongDBlue" glossary="hard disk drive (hdd)">hard drive</span> has the largest capacity of any storage device. And because it offers the most storage per dollar, the hard drive is also a more economical device than other options.</p>
+					
+					<div class="greenHorzButton" onclick="compTia.togglePopup(15,0)" style="margin-top:10px;">
+						<span class="largeBoldWhite">DIG DEEPER</span>
+						<strong>How a Mechanical Hard Drive Works</strong>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Today, most desktop system units are designed to support more than one internal hard drive. The Apple Mac Pro has room for four hard drives, and the Thermaltake Level 10 can support six hard drives. Each one simply slides into place when you want to add more storage.</p>
+					<p class="start moreSpacing"><strong>How is data stored on a hard drive?</strong> A hard drive is composed of several coated, round, thin plates of metal stacked on a spindle. Each plate is called a <span class="strongDBlue" glossary>platter</span>. When data is saved to a hard drive platter, a pattern of magnetized spots is created on the iron oxide coating of each platter. When the spots are aligned in one direction, they represent a <em>1</em>; when they’re aligned in the other direction, they represent a <em>0</em>. These <em>0s</em> and <em>1s</em> are <em>bits</em> ( or <em>binary digits</em>) and are the smallest pieces of data that computers can understand. When data stored on the hard drive platter is retrieved (or read), your computer translates these patterns of magnetized spots into the data you have saved.</p>
+					<p class="start moreSpacing"><strong>How quickly does a hard drive find information?</strong> The hard drive’s <span class="strongDBlue" glossary>access time</span>, the time it takes a storage device to locate its stored data and make it available for processing, is faster than optical drives. Mechanical hard drive access times are measured in milliseconds (ms), meaning thousandths of seconds. For large-capacity drives, access times of approximately 12 to 13 milliseconds are typical. That’s less than one-hundredth of a second. For comparison, a DVD drive can take over 150 milliseconds to access data.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="16" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Solid State Drives</h2>
+					<p class="moreSpacing"><strong>Do mechanical hard drives have the fastest access times?</strong> A <span class="strongDBlue" glossary>solid-state drive (SSD)</span> uses electronic memory and has no mechanical motors or moving parts. Having no mechanical motors allows SSDs to offer incredibly fast access times, reaching data in only a tenth of a millisecond (0.1 ms). That’s about 100 times faster than mechanical hard drives (<span class="strongDBlue" onclick="compTia.togglePopup(16,0)">see Figure 6.14</span>)! SSDs also have a great advantage when booting up since a mechanical hard drive has to wait for motors to bring the plates up to the final rotation speed. The startup time of SSDs is so fast, in fact, that most desktop and laptop systems offer an option to have at least one SSD be used to hold the OS. This “system drive” may only be 20 GB large, but it means</p>
+				<br/>	
+					<figure onclick="compTia.togglePopup(16,0)"
+						style="height: 210px;background: url(assets/images/figures/fig6.14.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.14</span> Relative Data Transfer Speeds for Nonvolatile Storage Options</figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">the wake-up time for the system will be very fast. In addition, SSDs run with no noise, generate very little heat, and require very little power, making them a popular option in ultrabooks.</p>
+					<p class="start moreSpacing">Storage capacities for SSDs now range up to 2 TB, but such a large SSD is very expensive. Systems now often offer an SSD of 128 GB or 256 GB and then a mechanical hard drive, or two, to provide TBs of inexpensive slower storage space.</p>
+					
+					<h2 class="blueHeading">Optical Drives</h2>
+					<p class="moreSpacing"><strong>How do optical drives work?</strong> <span class="strongDBlue" glossary="optical drive">Optical drives</span> are disc drives that use a laser to store and read data. Data is saved to a compact disc (CD), digital video disc (DVD), or Blu-ray disc (BD) (called <span class="strongDBlue" glossary>optical media</span>) within established tracks and sectors, just like on a hard drive. But optical discs store data as tiny pits that are burned into the disc by a high-speed laser. These pits are extremely small, less than 1 micron (a millionth of a meter).</p>
+					
+					<br/>	
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/optical_media_reading_writing_interactive/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Optical Media Reading and Writing Interactive
+						</div>
+						In this Sound Byte, you’ll learn about the process of storing and retrieving data from CD-RW, DVD, and Blu-ray discs.
+					</div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="17" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(17,0)">Figure 6.16</span> shows how data is read from a disc by a laser beam, with the pits and nonpits (called <em>lands</em>) translating into the 1s and 0s of the binary code that computers understand. CDs and DVDs use a red laser to read and write data. Blu-ray discs get their name because they are read with a blue laser light, which has a shorter wavelength and can focus more tightly and pack more information on a disc. Blu-ray drives are the fastest optical devices on the market and deliver the high-definition quality video that larger displays and monitors demand.</p>
+					
+					<br/>	
+					<figure onclick="compTia.togglePopup(17,0)"
+						style="height: 345px;background: url(assets/images/figures/fig6.16.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.16</span> Blu-ray lasers have a shorter wavelength and so can store a much higher density of information than CDs and DVDs.</figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><strong>Why can I store data on some optical discs but not others?</strong> All forms of optical media come in three formats:</p>
+					<ol>
+						<li><span class="innerLi"><em>Prerecorded</em> discs are read-only (ROM), meaning you can’t save any data onto them.</span></li>
+						<li><span class="innerLi"><em>Recordable</em> (R) formats allow you to write data to them, but only once.</span></li>
+						<li><span class="innerLi"><em>Rewriteable</em> (RW) discs let you write and rewrite data to them many times.</span></li>
+					</ol>
+					
+					<p class="start"><strong>Should I bother having an optical disc drive?</strong> Traditionally, optical media delivered music and movies, but these are now available through streaming services. Likewise, in the past, software was often installed from a DVD, but now you buy almost all software online. Therefore, many lightweight systems have stopped including optical drives. For example, netbooks and ultrabooks are so thin and lightweight they often leave out an optical drive but may include a slot for an SD memory card to allow you to transfer files. You can buy external optical drives, but if you have a need for optical drives, you’re probably better off purchasing a laptop computer; these have optical drives.</p>
+					
+					<h2 class="blueHeading">Your Storage Capacity and Needs</h2>
+					<p><strong>How do I know how much storage capacity I have?</strong> Typically, hard drive capacity is measured in gigabytes (GB) or terabytes (1 TB = 1,000GB). Windows displays the hard drives, their capacity, and usage information, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(18,0)">Figure 6.17</span>. To get a slightly more detailed view, select a drive and then right-click and choose Properties.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="18" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure style="margin-bottom: 10px;height:278px">
+						<img src="assets/images/figures/fig6.17.jpg" onclick="compTia.togglePopup(18,0)" style="margin-left:75px;"/>
+					<div class="playIcon bottomPos"
+						onclick="window.open('http://media.pearsoncmg.com/ph/streaming/bp/2014/it/evans/figure/Figure_6_17.html','_blank')" style="padding:3.5px;"></div>
+					
+					<figcaption style="margin-left:60px; bottom:4px">
+						<span>Figure 6.17</span> In Windows, the free and used capacity of each device in the computer system is shown in the Computer window. The General tab of the Properties dialog box gives you more-detailed information.
+						</figcaption></figure>	
+						
+						
+					<p><em>>To view the Computer window, launch File Explorer (previously called Windows Explorer), and then click <strong>Computer</strong>. To view the pie chart, right-click the <strong>C drive</strong>, and select <strong>Properties</strong>.</em></p>
+					
+					<p class="start"><strong>How much storage do I need?</strong> You need enough space to store the following:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">The OS</span></li>
+						<li><span class="innerLi">The software applications you use, such as Microsoft Office, music players, and games</span></li>
+						<li><span class="innerLi">Your data files</span></li>
+						<li><span class="innerLi">Your digital music library, photos, videos of television shows and movies, and so on</span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(18,1)">Figure 6.18</span> shows an example of storage calculation. If you plan to have a system backup on the same drive, be sure to budget for that room as well. However, note that if you’re going to store your data files online instead of on your computer, you may not need much hard drive space. For example, if you stream all the movies you watch from Netflix, keep all your data files in Microsoft SkyDrive, and use online software like Google Docs to edit, you may need very little hard drive space. Most ultrabooks like the Dell XPS 13 or the Apple MacBook Air are configured with 128-GB drives. In fact, many Chromebooks have only a 16-GB drive.</p>
+					
+					<br/>
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight font_17">Sample Hard Drive Space Requirements</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(18,1)" style="    background: url(assets/images/figures/fig6.18.jpg) no-repeat scroll 12px 35px #FFFFFF; height: 278px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.18</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="19" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing">Also note that you don’t need to have an internal hard drive that has all the storage space you need. You can also add an external hard drive to your system, many of which use a USB port to connect. If you’re looking to buy an external hard drive, the USB 3.0 standard is about 10 times faster than USB 2.0, so if your system supports USB 3.0, that’s the better choice.</p>
+					
+					<br/>
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">RAID Configuration</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(19,0)" style="    background: url(assets/images/figures/fig6.19.jpg) no-repeat scroll 46px 38px #FFFFFF; height: 310px; overflow: hidden;">
+							
+							<span class="strongDHeading leftPadding6"><strong>Figure 6.19</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span> Figure 6.19</span> (a) A RAID 0 configuration speeds up file read/write time. (b) A RAID 1 configuration gives you an instant backup. <em>(World Pictures/Alamy; Ragnarock/Shutterstock)</em>
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start moreSpacing"><strong>Is it better to have one huge drive or several smaller drives?</strong> It depends on what’s important to you: speed or security. If you purchase two smaller drives, you can combine them using RAID technology. <span class="strongDBlue" glossary="redundant array of independent disks (raid)">RAID (redundant array of independent disks)</span> is a set of strategies for using more than one drive in a system (<span class="strongDBlue" onclick="compTia.togglePopup(19,0)">see Figure 6.19</span>). RAID 0 and RAID 1 are the most popular options for consumer machines.</p>
+					<ul class="dotted">
+						<li class="moreSpacing"><span class="innerLi">When you run two hard drives in <span class="strongDBlue" glossary>RAID 0</span>, the time it takes to write a file is cut in half. If disk performance is very important—for example, when you’re doing video editing or sound recording—using two files in RAID 0 could be important. RAID 0 is faster because every time data is written to a hard drive, it’s spread across the two physical drives (<span class="strongDBlue" onclick="compTia.togglePopup(19,0)">see Figure 6.19a</span>). The write begins on the first drive, and while the system is waiting for that write to be completed, the system jumps ahead and begins to write the next block of data to the second drive. This makes writing information to disk almost twice as fast as using just one hard drive. The downside is that if either of these disks fail, you lose all your data because part of each file is on each drive. So RAID 0 is for those most concerned with performance.</span></li>
+					</ul>	
+					
+					<div onclick="compTia.togglePopup(19,1)" class="bitsAndBytesBlue" style="font-size:12px;">
+							<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+							Where’s the Free TV?
+						</div>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="20" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="soundByteContain noTMargin">
+					<div class="soundByteContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_soundbytes_9/installing_bluray_drive/index.html','_blank')">
+						<div class="soundByte">
+							<span class="icon greenSpeaker"> </span>
+							<span class="title">Sound Byte</span>
+							Installing a Blu-ray Drive
+						</div>
+						In this Sound Byte, you’ll learn how to install a Blu-ray drive in your computer.
+					</div></div>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">If you’re really paranoid about losing data, you should consider having two drives in RAID 1. In a <span class="strongDBlue" glossary>RAID 1</span> configuration, all the data written to one drive is instantly perfectly mirrored and written to a second drive (<span class="strongDBlue" onclick="compTia.togglePopup(19,0)">see Figure 6.19b</span>). This provides you with a perfect, instant-by-instant backup of all your work. It also means that if you buy two 1-TB drives, you only have room to store 1 TB of data because the second 1-TB drive is being used as the “mirror.”</span></li>
+					</ul>
+					
+					<p class="start">RAID 0 and RAID 1 configurations are available on many desktop systems and are even beginning to appear on laptop computers.</p>
+					<p class="start"><strong>So how do my storage devices measure up?</strong> <span class="strongDBlue" onclick="compTia.togglePopup(20,0)">see Figure 6.20</span> summarizes the factors you should consider in evaluating your storage subsystem.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_21">Evaluating Storage</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(20,0)" style="    background: url(assets/images/figures/fig6.20.jpg) no-repeat scroll 46px 40px #FFFFFF; height: 360px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.20</strong> Click to reveal the active graphic</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span><em>(Maxim_Kazmin/Fotolia)</em>
+						</figcaption></figure>
+					</div>
+					
+				<br/>	
+					<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to Part 2:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_6_Part_1/Chapter_6_Part_1.html','_blank')" >Replay Video 6.1</span></span>
+							<span class="dot">Then <span onclick="compTia.modules.toggleModule(19)" class="strongDBlue">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="21" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">What type of computer do you currently have?</div>
+					<ol class="pollQuestions">
+						<li>A Mac</li>
+						<li>A PC</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="22" type="Full" distinction=""
+				customscript="compTia.modules.toggleModule(20)" closescript="compTia.modules.toggleModule(0)">
+			<section>
+				<![CDATA[
+				<div></div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="23" type="CellCellRow" distinction="">
+			<section>
+				<![CDATA[
+					<div class="HeadingGreenBackDiagDashes font_20">Evaluating Other Subsystems and Making a Decision</div>
+					<p class="digCompP">The audio and video subsystems of your computer affect much of your enjoyment of the machine. Let’s evaluate those subsystems and consider what state-of-the-art audio/video would add to your computing experience. Then let’s consider how to make sure your system is reliable—nothing interferes with enjoying technology like a misbehaving computer!</p>
+					<div class="greenHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB" style="background-image:url(assets/images/pics/filmStripThumbnail.jpg)">
+						<div class="orange">evaluating the</div>
+						<div class="blue" style="margin-left:85px;">video Subsystem</div>
+					</div>
+					
+					<p>How video is displayed depends on two components: your video card and your monitor. If you’re considering using your computer to display complex graphics, edit high-definition videos, or play graphics-rich games with a lot of fast action, you may want to consider upgrading your video subsystem.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<h2 class="blueHeading">Video Cards</h2>
+					<p><strong>What exactly is a video card?</strong> A <span class="strongDBlue" glossary="video card (video adapter)">video card</span> (or <span class="strongDBlue" glossary="video card (video adapter)">video adapter</span>) is an expansion card that’s installed inside the system unit to translate binary data into the images you view on your monitor. Modern video cards like the ones shown in <span class="strongDBlue">Figures 6.21</span> and <span class="strongDBlue" onclick="compTia.togglePopup(24,0)">6.22</span> let you connect video equipment using a number of different ports:</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><em>DVI ports</em>  for digital LCD monitors</span></li>
+						<li><span class="innerLi"><em>HDMI ports</em>  for high-definition TVs, Blu-ray players, or gaming consoles</span></li>
+						<li><span class="innerLi"><em>DisplayPort adapters</em>, a newer style port that can connect to digital monitors or projectors</span></li>
+					</ul>	
+					<br/>
+					<span class="captionGreenHeading">
+						Click on highlighted areas to pop-up description
+					</span>
+				]]>
+			</section>
+			<section>
+				<![CDATA[	
+					<figure style="background: url(assets/images/figures/fig6.21/fig6.21Big.jpg) no-repeat scroll 0px 0px transparent; position: absolute; top: 30px;">
+			
+
+					<div class="overlayButtons">
+						<div style="height: 16px; width: 120px; top: 111px; left: 510px; transform: rotate(-24deg);" roll="clips.png"></div>
+						<div style="left: 236px; top: 101px; height: 29px; width: 27px;" roll="displayPort.png"></div>
+						<div style="top: 151px; width: 52px; height: 30px; left: 347px;" roll="DVI.png"></div>
+						<div style="top: 131px; left: 297px; width: 48px; height: 32px;" roll="DVIport.png"></div>
+						<div style="left: 538px; width: 78px; height: 19px; top: 36px; transform: rotate(21deg);" roll="videoMemory2.png"></div>
+						<div style="left: 265px; top: 117px; width: 31px; height: 28px;" roll="HDMI.png"></div>
+						<div style="left: 428px; height: 79px; width: 145px; top: 23px;" roll="processor.png"></div>
+						<div style="top: 79px; height: 36px; left: 328px; width: 53px;" roll="videoMemory.png"></div>
+						<div roll="clips2.png" style="height: 36px; left: 408px; top: 113px; width: 74px;"></div>
+					</div>
+					<div class="overlayImages">
+
+						<div roll="clips.png" style="background: url(assets/images/figures/fig6.21/clips.png) no-repeat scroll 0% 0% transparent; left: 568px; top: 120px; height: 43px; width: 190px;"></div>
+						<div roll="clips2.png" style="background: url(assets/images/figures/fig6.21/clips2.png) no-repeat scroll 0% 0% transparent; left: 453px; top: 140px; height: 59px; width: 190px;"></div>
+						<div roll="displayPort.png" style="background: url(assets/images/figures/fig6.21/displayPort.png) no-repeat scroll 0% 0% transparent; width: 220px; height: 84px; left: 83px; top: 33px;"></div>
+						<div roll="DVI.png" style="background: url(assets/images/figures/fig6.21/DVI.png) no-repeat scroll 0% 0% transparent; height: 39px; width: 367px; left: 0px; top: 163px;"></div>
+						<div roll="DVIport.png" style="background: url(assets/images/figures/fig6.21/DVIport.png) no-repeat scroll 0% 0% transparent; top: 142px; left: 160px; width: 158px; height: 25px;"></div>
+						<div roll="HDMI.png" style="background: url(assets/images/figures/fig6.21/HDMI.png) no-repeat scroll 0% 0% transparent; height: 37px; left: 41px; top: 117px; width: 235px;"></div>
+						<div roll="processor.png" style="background: url(assets/images/figures/fig6.21/processor.png) no-repeat scroll 0% 0% transparent; width: 290px; height: 48px; top: 61px; left: 536px;"></div>
+						<div roll="videoMemory.png" style="background: url(assets/images/figures/fig6.21/videoMemory.png) no-repeat scroll 0% 0% transparent; top: 30px; height: 58px; width: 117px; left: 260px;"></div>
+						<div roll="videoMemory2.png" style="background: url(assets/images/figures/fig6.21/videoMemory2.png) no-repeat scroll 0% 0% transparent; width: 220px; height: 84px; left: 577px; top: 22px;"></div>
+
+					</div>
+
+						<figcaption class="rightPos" style="bottom:32px; width: 405px;">
+   						<span>Figure 6.21 </span>
+						  Video cards have grown to be highly specialized subsystems.
+   					</figcaption></figure>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="24" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(24,0)"
+						style="height: 195px;background: url(assets/images/figures/fig6.22.jpg) no-repeat scroll 102px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.22</span> Video card processors produce so much heat that video cards have their own fan—or two. <em>(nikkytok/Fotolia)</em></figcaption>
+   			</figure>
+			<br/>
+					
+					<p class="start"><strong>How much memory does my video card need?</strong> All video systems include their own RAM, called <span class="strongDBlue" glossary>video memory</span>. Several standards of video memory are available, including graphics double data rate 3 (GDDR3) memory and the newer <span class="strongDBlue" glossary>graphics double data rate 5 (GDDR5)</span> memory.</p>
+					<p class="start">The amount of video memory on your video card makes a big impact on the resolution the system can support and on how smoothly and quickly it can render video. Most new laptop computers come with video cards equipped with a minimum of 1 GB of video memory. For the serious gamer, 2 GB or more is essential, and cards with 3 GB are available. These high-end video cards allow games to generate smoother animations and more-sophisticated shading and texture.</p>
+					<p class="start"><strong>How can I tell how much memory my video card has?</strong> You’ll find information about your system’s video card in the Advanced Settings of the Screen Resolution dialog box. To get to the Screen Resolution dialog box, </p>
+					
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="lessSpacing">right-click on your desktop and select Screen resolution. In the Screen Resolution dialog box, click the Advanced settings link. A window will appear that shows you the type of video card installed in your system, as well as its memory information.</p>
+					<p class="start lessSpacing"><strong>How does the CPU handle intensive video calculations?</strong> Because displaying graphics demands a lot of computational work from the CPU, video cards come with their own <span class="strongDBlue" glossary>graphics processing unit (GPU)</span>. The GPU is a separate processing chip specialized to handle 3-D graphics and image and video processing with incredible efficiency and speed. When the CPU is asked to process graphics, it redirects those  tasks to the GPU, significantly speeding up graphics processing. <span class="strongDBlue" onclick="compTia.togglePopup(24,1)">Figure 6.23</span> shows how the CPU can run much more efficiently when a GPU does all the graphics computations.</p>
+					
+					<br/>
+					
+						<figure onclick="compTia.togglePopup(24,1)" style="    background: url(assets/images/figures/fig6.23.jpg) no-repeat scroll 8px 40px #FFFFFF; height: 195px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.23</strong> Click to enlarge</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span>Figure 6.23</span> The GPU is specialized to handle processing of photos, videos, and video game images. It frees up the CPU to work on other system demands.
+						</figcaption></figure>
+					
+				]]>
+			</section>
+		</page>
+		
+		<page index="25" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start">In addition, special lighting effects can be achieved with a modern GPU. Designers can change the type of light, the texture, and the color of objects based on complex interactions. Some GPU designs incorporate dedicated hardware to allow high-definition movies to be decoded or special physics engines to model water, gravity, and rigid body movements.</p>
+					<p class="start"><strong>Why do some people use more than one video card in the same system?</strong> For users who are primarily doing text-based work, one  video card is certainly enough. Computer gamers and users of high-end visualization software, however, often take advantage of the ability to install more than one video card at a time. Two or even three video cards can be used in one system.</p>
+					<p class="start">The two major video chip set manufacturers, Nvidia and ATI, have each developed their own standards supporting the combining of multiple video cards. For Nvidia, this standard is named SLI; for ATI, it is called CrossFire. When the system is running at very high video resolutions, such as 1920 x 1200 or higher, multiple video cards working together provide the ultimate in performance. If you’re buying a new system and might be interested in employing multiple video cards, be sure to check whether the motherboard supports SLI or CrossFire.</p>
+					<p class="start"><strong>Can I run a few monitors from one video card?</strong> Working with multiple monitors is useful if you often have more than one application running  at a time (<span class="strongDBlue" onclick="compTia.togglePopup(25,0)">Figure 6.24</span>) or even if you just want to expand your gaming experience. Some video cards can support up to six monitors</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="activeHelpdeskContain noTMargin">
+						<div class="activeHelpdeskContainContent"
+						 onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_tiahelpdesk_9/AHDC_9e/AHDC_hd_16.html','_blank')">
+						<div class="activeHelpdesk">
+							<span class="icon blueCallPerson"> </span>
+							<span class="title">Active Helpdesk</span>
+							Evaluating Computer System Components
+						</div>
+						In this Active Helpdesk call, you’ll play the role of a helpdesk staffer, fielding calls about the computer’s storage, video, and audio devices and how to evaluate whether they match your needs, as well as how to improve the reliability of your system.
+					</div></div>
+						
+					<p class="moreSpacing">from a single card. The AMD Radeon graphics card, for example, lets you merge all six monitors to work as one screen or to combine them into any subset—for example, displaying a movie on two combined screens, Excel on one monitor, Word on another, and a browser spread across the final two.</p>
+					
+					<br/>
+					<figure onclick="compTia.togglePopup(25,0)"
+						style="height: 245px;background: url(assets/images/figures/fig6.24.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.24</span> (a) AMD Radeon technology supports (b) six monitors, which can be combined in any way. <em>(AMD; AMD)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+		</page>
+		
+		<page index="26" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<img onclick="compTia.togglePopup(26,0)" src="assets/images/layout/TrendsinItchapter6.0.jpg" />
+				<br/>
+					
+					<p class="start"><strong>Can I have a 3-D experience from a computer monitor?</strong> 3-D panels are available for desktop monitors and for some laptops. Using the 3-D wireless vision glasses included with the panels, the glasses make existing games or 3-D movies display in stereoscopic 3-D.</p>
+					<p class="start"><strong>How do I know if I’m putting too much demand on my video card?</strong> If your monitor takes a while to refresh when you’re editing photos or playing a graphics-rich game, then the video card could be short on memory or the GPU is being taxed beyond its capacity. You can evaluate this precisely using the software that came with your card. For example, AMD Overdrive software monitors the GPU usage level, the current temperature, and the fan speed.</p>
+					<p class="start">Review the considerations listed in <span class="strongDBlue" onclick="compTia.togglePopup(26,2)">Figure 6.25</span> to see if it might be time for you to upgrade your video card. On a desktop computer, replacing a video card is fairly simple: Just insert the new video card in the correct expansion slot on the motherboard. The video card in a laptop is more difficult to upgrade since the display and keyboard usually have to be removed to replace the video card. Note that some very basic laptop systems have video adapters integrated into the motherboard, so these video cards can’t be upgraded.</p>
+					
+				<br/>	
+					<div onclick="compTia.togglePopup(26,1)" class="bitsAndBytesBlue noTMargin">
+					<span class="bits">Bits</span><span class="and">&</span><span class="bytes">bytes</span><br>
+					Auto Tech: Can Your Car Do This?
+				</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight font_16">Do You Need to Upgrade Your Video Card?</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(26,2)" style="    background: url(assets/images/figures/fig6.25.jpg) no-repeat scroll 17px 50px #FFFFFF; height: 493px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.25</strong></span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="27" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="blueHeadingLineDashedEnd"></div>
+
+					<div class="fancyHeadingBO" style="background-image:url(assets/images/pics/filmStripThumbnail.jpg)">
+						<div class="dblue">evaluating the</div>
+						<div class="orange" style="margin-left: 93px;">audio Subsystem</div>
+					</div>
+					
+					<p class="moreSpacing">For many users, a computer’s preinstalled speakers and sound card are adequate. However, if you often use your computer to play games, music, and video, you may want to upgrade your speakers or your sound card.</p>
+					<p class="start moreSpacing"><strong>What does the sound card do?</strong> Like a video card, a <span class="strongDBlue" glossary>sound card</span> is an expansion card that attaches to the motherboard inside your system unit. A sound card enables the computer to drive the speaker system. Most desktop systems have a separate sound card, although low-end computers often have integrated the job of managing sound onto the motherboard itself. You can upgrade laptop sound cards using an ExpressCard solution, like the Creative Sound Blaster X-Fi.</p>
+					<p class="start moreSpacing"><strong>What does a basic sound card do for me?</strong> Many computers ship with a <span class="strongDBlue" glossary>3-D sound card</span>. 3-D sound technology is better at convincing the human ear that sound is omnidirectional, meaning that you can’t tell from which direction the sound is coming. This tends to produce a fuller, richer sound than stereo sound. However, 3-D sound is not surround sound.</p>
+					<p class="start moreSpacing"><strong>What is surround sound, then?</strong> <span class="strongDBlue" glossary>Surround sound</span> is a type of audio processing that makes the listener experience sound as if it were coming from all directions by using multiple speakers. The current</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="moreSpacing">surround sound standard is from Dolby. There are many formats available, including Dolby Digital EX and Dolby Digital Plus for high-definition audio. Dolby TrueHD is the newest standard. It features highdefinition and lossless technology, which means that no information is lost in the compression process.</p>
+					<p class="start moreSpacing">To create surround sound, another standard, Dolby Digital 7.1, takes digital sound from a medium (such as a Blu-ray disc) and reproduces it in eight channels. Seven channels cover the listening field with placement to the left front, right front, left rear, right rear, and center of the audio stage, as well as two extra speakers to the side, as shown in <span class="strongDBlue" onclick="compTia.togglePopup(28,0)">Figure 6.28</span>. The eighth channel holds extremely low-frequency sound data and is sent to a subwoofer, which can be placed anywhere in the room.</p>
+					<p class="start moreSpacing">The name 7.1 surround indicates that there are seven speakers reproducing the full audio spectrum and one speaker handling just lower frequency bass sounds. There is also a 5.1 surround sound standard, which has a total of six speakers—one subwoofer, a center speaker, and four speakers for right/left in the front and the back. If you have a larger space or want precise location of sounds, use the newer 7.1 system.</p>
+				]]>
+			</section>
+		</page>
+		<!--did they give us a link for the youtube video?-->
+		<page index="28" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[ 
+					<figure onclick="compTia.togglePopup(28,0)"
+						style="height: 425px;background: url(assets/images/figures/fig6.28.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.28</span> Dolby Digital 7.1 surround sound gives you better-quality audio output.</figcaption>
+   			</figure>
+					<br/>
+					<p><span class="strongDBlue">For more info on surround sound, check out this </span><span class="strongDBlue" onclick="window.open('http://www.youtube.com/watch?v=JLVazsghkGA','_blank')" style="text-decoration:underline;">YouTube video</span></p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p class="start">To set up surround sound on your computer, you need two things:</p>
+					<ol>
+						<li><span class="innerLi">A set of surround-sound speakers and, for the greatest surround-sound experience,</span></li>
+						<li><span class="innerLi">A sound card that is Dolby Digital compatible</span></li>
+					</ol>
+					<p class="start"><strong>Does it matter what kind of speakers my laptop has?</strong> The limited size for speakers in a laptop and the added weight of circuitry to drive them means most people use headphones or ear buds for great audio instead of speakers. However, some laptops have built-in higher-quality speakers, like the Alienware line featuring Klipsch speakers and the HP series offering Beats speakers.</p>
+					<p class="start"><strong>What setup do I need if I want to use my computer for recording my band?</strong> You can connect MIDI instruments, high-quality microphones, and recording equipment to your computer through an <span class="strongDBlue" glossary>audio MIDI interface</span> box. MIDI is an electronics standard that allows different kinds of electronic instruments to communicate with each other and with computers. The audio interface box attaches to your computer through a USB port and adds jacks for connecting guitars and microphones. You can edit and mix tracks through many different software packages, like Cakewalk or GarageBand. <span class="strongDBlue" onclick="compTia.togglePopup(29,0)">Figure 6.29</span> shows a simple home recording studio setup.</p>
+					<p class="start"><span class="strongDBlue" onclick="compTia.togglePopup(29,1)">Figure 6.30</span> lists the factors to consider when deciding whether your audio subsystem meets your needs.</p>
+				]]>
+			</section>
+		</page>
+		
+		<page index="29" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[ 
+					<figure onclick="compTia.togglePopup(29,0)"
+						style="height: 437px;background: url(assets/images/figures/fig6.29.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.29</span> Sample Home Recording Studio Setup. <em>(simon5586/Fotolia; aleksangel/Fotolia; Maksym Yemelyanov/Fotolia; Sashkin/Fotolia; Mariusz Blach/Fotolia; AbsentAnna/Fotolia; M-Audio)</em></figcaption>
+   			</figure>
+				]]>
+			</section>
+			<section>
+				<![CDATA[ 
+					<div class="HeadingOrangeBackDiagDashes orangeRevealCondDefault">Do You Need to Upgrade Your Audio Subsystem?</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(29,1)" style="    background: url(assets/images/figures/fig6.30.jpg) no-repeat scroll 22px 75px #FFFFFF; height: 493px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.30</strong> </span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="30" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[ 
+					<div class="blueHeadingLineDashed"></div>
+
+					<div class="fancyHeadingOB"
+						 style="background-image:url(assets/images/pics/trustThumbnail.jpg)">
+						<div class="orange">evaluating system</div>
+						<div class="blue" style="margin-left: 170px;">Reliability</div>
+					</div>
+					
+					<p> Many computer users decide to buy a new system because they’re experiencing problems such as slow performance, freezes, and crashes. Over time, even normal use can cause your computer to build up excess files and to become internally disorganized. This excess, clutter, and disorganization can lead to deteriorating performance or system failure. If you think your system is unreliable, see if the problem is one you can fix before you buy a new machine. Proper upkeep and maintenance also may postpone an expensive system upgrade or replacement.</p>
+					<p class="start"><strong>What can I do to ensure my system stays reliable?</strong> Here are several procedures you can follow to ensure your system performs reliably (<span class="strongDBlue" onclick="compTia.togglePopup(30,0)">see also Figure 6.31</span>):</p>
+					<ul class="dotted">
+						<li><span class="innerLi"><strong>Clear out unnecessary files.</strong> Temporary Internet files can accumulate quickly on your hard drive, taking up unnecessary space. Running the Disk Cleanup utility is a quick and easy way to ensure your temporary Internet files don’t take up precious hard drive space. Likewise, you should delete any unnecessary files from your hard drive regularly because they can make your hard drive run more slowly.</span></li>
+						<li><span class="innerLi"><strong>Install a reliable antivirus package.</strong> Make sure it’s set to update itself automatically and to run a full system scan frequently.</span></li>
+					</ul>
+				]]>
+			</section>
+			<section>
+				<![CDATA[ 
+					<ul class="dotted">
+						<li class="lessSpacing"><span class="innerLi"><strong>Run spyware and adware removal programs.</strong> These often detect and remove different pests and should be used in addition to your regular antivirus package.</span></li>
+						<li class="lessSpacing"><span class="innerLi"><strong>Run the Disk Defragmenter utility on your hard drive.</strong> When your hard drive becomes fragmented, its storage capacity is negatively affected. When you defragment (defrag) your hard drive, files are reorganized, making the hard drive work more efficiently. But remember that this only makes sense for mechanical drives. With no motors, there is no need to defrag an SSD drive.</span></li>
+						<li class="lessSpacing"><span class="innerLi"><strong>Automate the key utilities.</strong> The utilities that need to be run more than once, like Disk Cleanup, Disk Defragmenter, and the antivirus, adware, and spyware programs, can be configured to run automatically at any time interval you want. You can use Windows Task Scheduler or third-party programs like Norton Security Suite to set up a sequence of programs to run one after the other every evening while you sleep, so you can wake up each day to a reliable, secure system.</span></li>
+					</ul>
+					
+					<div class="HeadingOrangeBackDiagDashes headingOrangeFullheight font_18">Utilities to Keep Your System Reliable</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(30,0)" style="    background: url(assets/images/figures/fig6.31.jpg) no-repeat scroll 8px 35px #FFFFFF; height: 135px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.31</strong> Click to enlarge the table</span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+		</page>
+		
+		<page index="31" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p class="start"><strong>My system crashes often during the day. What can do?</strong> Computer systems are complex. It’s not unusual to have your system stop responding occasionally. If rebooting the computer doesn’t help, you’ll need to begin troubleshooting:</p>
+					<ol class="strong">
+						<li><span class="innerLi">Check that you have enough RAM.</span><span class="innerLi notStrong"> You learned how to do this in the <span class="innerLi strongDBlue" onclick="compTia.switchPage(0,11)">“Evaluating the Memory Subsystem” section earlier in this chapter</span>. Systems with insufficient RAM often crash.</span></li>
+						<li><span class="innerLi">If your system isn’t responding, try doing a Refresh on your system.</span><span class="innerLi notStrong"> This Windows 8 utility removes all the changes you’ve made to the system and brings it back to the state it came to you from the factory. It removes all the applications from third-party vendors, but it won’t remove personal files like your music, documents, or videos.</span></li>
+						<li><span class="innerLi">If a Refresh wasn’t enough to fix the problem, consider a full system restore.</span><span class="innerLi notStrong"> Windows 8 automatically creates restore points before any major change to the system takes place, such as when you install a new program or change a device driver. By default, Windows also makes a restore point every 7 days. (You can also manually create a restore point at any time.) You can then select any restore point and bring your system back to the state it was in at that point. Open the Control Panel, click on System, and then select System Protection to learn more about System Restore.</span></li>
+					</ol>
+					<p class="start">For Mac systems, the Mac OS X Time Machine, shown in <span class="strongDBlue" onclick="compTia.togglePopup(31,0)">Figure 6.32</span>, provides automatic backup and enables you to look through and restore (if necessary) files, folders, libraries, or the entire system.</p>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(31,0)"
+						style="height: 290px;background: url(assets/images/figures/fig6.32.jpg) no-repeat scroll 0px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.32</span> Mac’s Time Machine keeps copies of files, folders, and libraries and can restore your system back to any previous point in time.</figcaption>
+   			</figure>
+			<br/>
+			
+				<ol class="strong">
+						<li class="liHide"><span></span></li>
+						<li class="liHide"><span></span></li>
+						<li class="liHide"><span></span></li>
+						<li><span class="innerLi">If you see an error code in Windows, visit the Microsoft Knowledge Base</span><span class="innerLi notStrong"> (<span class="strongDBlue" onclick="window.open('http://support.microsoft.com','_blank')">support.microsoft.com</span>). This online resource helps users resolve problems with Microsoft products. For example, it can help you determine what an error code indicates and how you may be able to solve the problem.</span></li>
+						<li><span class="innerLi">Search Google.</span><span class="innerLi notStrong"> If you don’t find a satisfactory answer in the Knowledge Base, try copying the entire error message into Google and searching the larger community for solutions.</span></li>
+					</ol>
+					
+					<p class="start"><strong>Can my software affect system reliability?</strong> Having the latest version of software makes your system much more reliable. You should </p>
+				]]>
+			</section>
+		</page> 
+		
+		<page index="32" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<p>upgrade or update your OS, browser software, and application software as often as new patches (or updates) are reported for resolving errors. Sometimes these errors are performance related; sometimes they’re potential system security breaches.</p>
+					
+					<a onclick="compTia.togglePopup(32,0)" class="readMore" style="margin-bottom:10px;"></a>
+					
+					<p class="start"><strong>How do I know whether updates are available for my software?</strong> You can configure Windows so that it automatically checks for, downloads, and installs any available updates for itself, Internet Explorer, and other Microsoft applications such as Microsoft Office. From the Windows Control Panel, open System and Security and then Windows Update. Click Change Settings.</p>
+					<p class="start">Many other applications now also include the ability to check for updates. Check under the Help menu of the product, and you’ll often find a Check for Updates command.</p>
+					<p class="start"><strong>What if none of this helps? Is buying a new system my only option?</strong> If your system is still unreliable after these changes, consider upgrading your OS to the latest version. There are often substantial increases in reliability with a major release of a new OS. However,upgrading the OS may require hardware upgrades such as additional RAM, an updated graphics processor, and even a larger hard drive. When you launch the Windows 8 upgrade from the web, it determines whether your hardware, applications, and devices will work with the new OS.</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeMidDiagDashes"></div>
+
+					<div class="fancyHeadingBO bgPosition00" style="background-image:url(assets/images/pics/trustThumbnail.jpg)">
+						<div class="dblue" style="margin-left:59px; color:#166beb">making a final</div>
+						<div class="orange" style="margin-left: 123px">DECISION</div>
+					</div>
+					
+					<p>Now that you’ve evaluated your computer system, you need to shift to questions of value. How closely does your system come to meeting your needs? How much would it cost to upgrade your current system to match what you’d ideally like your computer to do, not only today but also a few years from now? How much would it cost to purchase a new system that meets these specifications?</p>
+					<p class="start">To know whether upgrading or buying a new system would have better value for you, you need to price both scenarios. Conduct a thorough system evaluation (<span class="strongDBlue" onclick="compTia.togglePopup(33,0)">Figure 6.33</span>) to gather the data to help you decide. Purchasing a new system is an important investment of your resources, and you want to make a well-reasoned, well-supported decision.</p>
+					
+					<h2 class="blueHeading">Getting Rid of Your Old Computer</h2>
+					<p><strong>What should I do with my old computer?</strong> Before you get rid of your computer, be sure to consider what benefit you might obtain by having two systems. Would you have a use for the older system? Would you be able to donate it?</p>
+					<p class="start">Also, before you decide to throw it away, consider the environmental impact (<span class="strongDBlue" onclick="compTia.togglePopup(33,1)">Figure 6.34</span>). Mercury in LCD screens, cadmium in batteries and circuit boards, and flame retardants in plastic housings all are toxic. An </p>
+				]]>
+			</section>
+		</page> 
+		
+		<page index="33" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<div class="smallHeadingOrangeBackDiagDashes headingOrangeFullheight">Key Items in System Evaluation</div>
+						<div class="orangeWrap">
+						<figure onclick="compTia.togglePopup(33,0)" style="    background: url(assets/images/figures/fig6.33.jpg) no-repeat scroll 3px 35px #FFFFFF; height: 494px; overflow: hidden;">
+							
+							<span class="strongDHeading"><strong style="padding-left:6px">Figure 6.33</strong> </span>
+							
+							<figcaption class="bottomPos" style="margin-left:10px;margin-bottom:5px;"><span></span> 
+						</figcaption></figure>
+					</div>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<figure onclick="compTia.togglePopup(33,1)"
+						style="height: 248px;background: url(assets/images/figures/fig6.34.jpg) no-repeat scroll 40px 0 transparent;">
+						<figcaption class="bottomPos">
+   				<span>Figure 6.34</span> An electronics garbage dump can cause environmental concerns like the leaching of lead and mercury into the ground. <em>(Minnesota Public Radio; Tim Post/AP Photo)</em></figcaption>
+   			</figure>
+			<br/>
+					<p>alarming, emerging trend is that discarded machines are beginning to create an e-waste crisis.</p>
+					<p class="start"><strong>So how can I recycle my old computer?</strong> Instead of throwing your computer away, you may be able to donate it to a nonprofit organization. Here are a few ways to do this:</p>
+					<ul class="dotted">
+						<li><span class="innerLi">Many manufacturers, such as Dell, offer recycling programs and have formed alliances with nonprofit organizations to help distribute your old technology to those who need it.</li></span>
+						<li><span class="innerLi">Sites like Computers with Causes (<span class="strongDBlue" onclick="window.open('http://computerswithcauses.org','_blank')">computerswithcauses.org</span>) organize donations of both working and nonworking computers, printers, and mice.</li></span>
+				]]>
+			</section>
+		</page> 
+		
+		<page index="34" type="ColumnColumn" distinction="">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">You can also take your computer to an authorized computer-recycling center in your area. The Telecommunications Industry Association provides an e-cycling information site you can use to find a local e-cycling center (<span class="strongDBlue" onclick="window.open('http://ecyclingcentral.com','_blank')">ecyclingcentral.com</span>).</span></li>
+					</ul>
+					
+					<p class="start">For companies that need to retire large quantities of computers, the risk of creating an environmental hazard is serious. Firms like GigaBiter (<span class="strongDBlue" onclick="window.open('http://gigabiter.com','_blank')">gigabiter.com</span>) offer a solution. GigaBiter eliminates security and environmental risks associated with electronic destruction by first delaminating the hard drive and then breaking down the computer e-waste into recyclable products. The result of the final step is a sand-like substance that is 100% recyclable.</p>
+					<p class="start"><strong>Can I donate a computer safely, without worrying about my personal data?</strong> Before donating or recycling a computer, make sure you carefully remove all data from your hard drive. Built into Windows 8 is a tool to help with this, Windows 8 Reset. It removes all user-installed  applications and all of your personal data, and resets your PC settings back to the default values.</p> 
+					<p class="start">Becoming a victim of identity theft is a serious risk. Credit card numbers, bank information, Social Security numbers, tax records, passwords, and personal identification numbers (PINs) are just some of the types of sensitive information that we casually record to our computers’ hard drives. Just deleting files that contain proprietary personal information is not protection enough. Likewise, reformatting or erasing your hard drive does not totally remove data, as was proved by two MIT graduate students. They</p>
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<p>bought more than 150 used hard drives from various sources. Although some of the hard drives had been reformatted or damaged so that the data was supposedly nonrecoverable, the two students were able to retrieve medical records, financial information, pornography, personal e-mails, and more than 5,000 credit card numbers!</p>
+					<p class="start">The U.S. Department of Defense suggests a seven-layer overwrite for a “secure erase.” This means that you fill your hard drive seven times over with a random series of 1s and 0s. Fortunately, several programs exist for doing this. For PCs running Windows, look for utility programs like File Shredder or Eraser. Wipe is available for Linux, and ShredIt X can be used for Mac OS X. These programs provide secure hard drive erasures, either of specific files on your hard drive or of the entire hard drive. </p>
+					<br/>
+					
+					<div class="orangeHorzButton" onclick="compTia.togglePopup(34,0)">
+					<span class="largeBoldWhite">ethics</span>
+					<span class="medBoldGrey">in IT</span>
+					<strong style="font-size:14px;">Free Hardware for All</strong>
+				</div>
+				
+					<br/>	
+						<div class="purpleContain">
+						<div class="purpleContent">
+
+							<strong>Before moving on to the Chapter Review:</strong>
+							<span class="dot">Watch <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/Chapter_6_Part_2/Chapter_6_Part_2.html','_blank')" >Replay Video 6.2</span></span>
+							<span class="dot">Then <span class="strongDBlue" onclick="compTia.modules.toggleModule(21)">check your understanding</span> of what you've learned so far</span>
+						</div>
+					</div>
+				]]>
+			</section>
+		</page> 
+		
+		<page index="35" type="Full" distinction="poll">
+			<section>
+				<![CDATA[
+				<div class="pollHead">POLL</div>
+				<img src="assets/images/pics/pollFPO.png" class="floatRight" style="margin: 74px 6px 0 0;" />
+				<div style="width:410px">
+					<div class="font_20 BMargin25">How do you get rid of your unused computer equipment?</div>
+					<ol class="pollQuestions">
+						<li>I clear the files off the hard drive and then donate it</li>
+						<li>I completely wipe the files off the hard drive and then donate it</li>
+						<li>I throw it in the trash</li>
+						<li>I don't--I keep it in storage because I'm worried about donating it or throwing it away</li>
+						<br/><li>None of the above</li>
+					</ol>
+					<div class="blueSubmit Lmargin22"></div>
+				</div>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="36" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<h1><span class="chapter">6</span> Chapter Review</h1>
+				<div class="largerTitle">summary//</div>
+	
+					<img src="assets/images/pics/computerHeartsmall.jpg" class="floatPositioned">
+					<h2>Your Ideal Computer</h2>
+					<span class="prePseudoLi preContent1 strong">What kind of computer is best for me?</span>
+					<br/><br/>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">Review the types of computer devices available and consider what your needs are for weight, screen size, and processing power.</span></li>
+						<li><span class="innerLi">Evaluate your computer system so you have clear data on what you currently have. Then you can compare it with what is on the market and make a decision to upgrade or purchase a new device.</span></li>
+					</ul>	
+					
+					<img src="assets/images/pics/CPUsmall.jpg" style="float:left;margin-right:13px;margin-top: 20px;" />
+					<h2>Evaluating the CPU Subsystem</h2>
+					<span class="prePseudoLi preContent2 strong">What does the CPU do, and how can I evaluate its performance?</span>
+					<br/>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">You can find out what processor you have using the System Properties window.</span></li>
+						<li><span class="innerLi">The CPU works by running a series of four steps: fetch, decode, execute, and store.</span></li>
+						<li><span class="innerLi">CPUs are compared based on their clock speed, the number of cores they have, and their amount of cache memory.</span></li>
+					</ul>
+				
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">CPU benchmarks help you compare the overall performance of different CPUs.</span></li>
+						<li><span class="innerLi">The CPU performance can be measured and recorded using the CPU usage graph of the Resource Monitor.</span></li>
+					</ul>	
+					
+					<img src="assets/images/pics/ramsmall.jpg" style="float:left;margin-right:13px;margin-top: 20px;" />
+					<h2>Evaluating the Memory Subsystem</h2>
+					<span class="prePseudoLi preContent3 strong">How does memory work in my computer?</span>
+					<br/><br/>
+					
+					<ul class="dotted">
+						<li><span class="innerLi">RAM is used to hold instructions and data because the CPU can access RAM much faster than it can access the hard drive.</span></li>
+						<li><span class="innerLi">Memory modules are small circuit boards that hold a series of RAM chips in your system.</span></li>
+					</ul>
+					
+					<h4>4. How do I evaluate how much memory I need?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">The System Properties window shows how much physical memory you have installed.</span></li>
+						<li><span class="innerLi">The Resource Monitor shows how the installed RAM is being used by your system.</span></li>
+						<li><span class="innerLi">You can easily install RAM in your system, though each system has a limit on how much RAM it can hold.</span></li>
+					</ul>	
+					
+					<img src="assets/images/pics/storagesmall.jpg" style="float:left;margin-right:13px;margin-top: 20px;" />
+					<h2>Evaluating the Storage Subsystem</h2>
+					<span class="prePseudoLi preContent5 strong">What are the computer’s storage devices?</span>
+					<br/>
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi">Data is stored on mechanical hard drives, solid state drives, and optical drives.</span></li>
+					</ul>
+				]]>
+			</section>
+		</page>
+		
+		<page index="37" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<ul class="dotted">
+						<li><span class="innerLi">There is a wide range of difference in access times and cost between different storage solutions, so most systems have a combination of types.</span></li>
+					</ul>
+					
+					<h4>6. How do I evaluate my storage devices?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">The Properties dialog box in File Explorer (previously called Windows Explorer) displays information on the amount of storage available in your system.</span></li>
+						<li><span class="innerLi">Compute the amount of storage you need for the software and data files you want to keep locally.</span></li>
+						<li><span class="innerLi">Decide how many drives you want, what type each should be, and how you will configure them. RAID 0 is an option for combining drives for optimal performance. RAID 1 is an option for combining drives for immediate backup.</span></li>
+					</ul>	
+					
+					<img src="assets/images/pics/filmStripsmall.jpg" style="float:left;margin-right:13px;margin-top: 20px;" />
+					<h2>Evaluating the Video and <br/>Audio Subsystems</h2>
+					<span class="prePseudoLi preContent7 strong">What components affect the quality of video on my computer?</span>
+					
+					
+					<ul class="dotted">
+						<li><span class="innerLi">The video card is key to video quality. Be aware of how much video memory is installed and what kind of GPU is used on the card.</span></li>
+						<li><span class="innerLi">Some users install multiple video cards for high-end graphics performance.</span></li>
+						<li><span class="innerLi">With only one card, you can run multiple monitors.</span></li>
+					</ul>
+					
+					<h4>8. How do I know if I need better video performance?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">If you see long refresh times, you may want an upgraded video card. </span></li>
+					</ul>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<ul class="noListSyle">
+						<li><span class="innerLi">The software that comes with the card can run performance testing to give you specific data on how the card is doing.</span></li>
+					</ul>
+					
+					<h4>9. What components affect my computer’s sound quality?</h4>
+					<ul class="dotted">
+						<li><span class="innerLi">The sound card and speakers control the sound quality in your system.</span></li>
+						<li><span class="innerLi">If you want surround sound, you may want to invest in a new sound card and additional speakers.</span></li>
+					</ul>	
+					
+					<img src="assets/images/pics/trustsmall.jpg" style="float:left;margin-right:13px;margin-top: 20px;" />
+					<h2>Evaluating System Reliability and Making a Final Decision</h2>
+					<span class="prePseudoLi preContent10 strong">&nbsp;&nbsp;How can I improve the reliability of my system?</span>
+					
+					<br/>
+					<ul class="dotted">
+						<li><span class="innerLi">To make sure your system stays reliable, clear out unnecessary files, run antivirus software, run spyware-and adware-removal programs, run the Disk Defragmenter on mechanical hard drives, and use the Task Scheduler to automate these tasks.</span></li>
+						<li><span class="innerLi">If your system is crashing often, check that you have enough RAM. Then consider doing a system refresh or even a full system restore.</span></li>
+						<li><span class="innerLi">Keep your software updated. Use the Problem Steps Recorder to capture problems as they happen and report them to the manufacturer.</span></li>
+					</ul>
+					
+					<div class="purpleContain">
+						<div class="purpleContent semibold textBlack">
+							Don't forget to use the study aids included in <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or on the <span class="strongDBlue" onclick="window.open('http://wps.prenhall.com/bp_evans_techinaction_10/','_blank')">Companion Website</span>. And don’t forget the <span class="strongDBlue" onclick="window.open('http://media.pearsoncmg.com/ph/bp/bp_evans_techinaction_10/video/index.html','_blank')">Replay Videos</span>.
+						</div>
+						</div>	
+						<br>
+					<img src="assets/images/layout/techTouchS6.png" class="techTown" onclick="window.open('http://pearsonhighered.com/techtown','_blank')">
+				]]>
+			</section>
+		</page>
+		
+		<page index="38" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">chapter 6 glossary//</div>
+					
+					<span class="strongDBlue" glossary>3-D sound card</span> 275<br/>
+					<span class="strongDBlue" glossary>access time</span> 263<br/>
+					<span class="strongDBlue" glossary>audio MIDI interface</span> 276<br/>
+					<span class="strongDBlue" glossary>cache memory</span> 256<br/>
+					<span class="strongDBlue" glossary>clock speed</span> 255<br/>
+					<span class="strongDBlue" glossary>core</span> 255<br/>
+					<span class="strongDBlue" glossary>CPU benchmarks</span> 256<br/>
+					<span class="strongDBlue" glossary>CPU usage</span> 257<br/>
+					<span class="strongDBlue" glossary>CPU usage graph</span> 257<br/>
+					<span class="strongDBlue" glossary>ExpressCard</span> 253<br/>
+					<span class="strongDBlue" glossary>graphics double data rate 5 (GDDR5)</span> 272<br/>
+					<span class="strongDBlue" glossary>graphics processing unit (GPU)</span> 272<br/>
+					<span class="strongDBlue" glossary>hard drive</span> 263<br/>
+					<span class="strongDBlue" glossary>head crash</span> 263<br/>
+					<span class="strongDBlue" glossary>hyperthreading</span> 256<br/>
+					<span class="strongDBlue" glossary>latency (rotational delay)</span> 263<br/>
+					<span class="strongDBlue" glossary="machine cycle (processing cycle)">machine cycle</span> 255<br/>
+					<span class="strongDBlue" glossary>memory module (memory card)</span> 260<br/>
+					<span class="strongDBlue" glossary>Moore’s Law</span> 251<br/>
+					<span class="strongDBlue" glossary>nonvolatile storage</span> 259<br/>
+					<span class="strongDBlue" glossary>optical drive</span> 264<br/>
+
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+				<div class="ColShiftSpacer"></div>
+				<span class="strongDBlue" glossary>optical media</span> 264<br/>
+				<span class="strongDBlue" glossary>overclocking</span> 255<br/>
+				<span class="strongDBlue" glossary>physical memory</span> 260<br/>
+				<span class="strongDBlue" glossary>platter</span> 263<br/>
+				<span class="strongDBlue" glossary>random access memory (RAM)</span> 259<br/>
+				<span class="strongDBlue" glossary>read/write head</span> 263<br/>
+				<span class="strongDBlue" glossary>redundant array of independent disks (RAID)</span> 267<br/>
+				<span class="strongDBlue" glossary>RAID 0</span> 267<br/>
+				<span class="strongDBlue" glossary>RAID 1</span> 268<br/>
+				<span class="strongDBlue" glossary>sector</span> 263<br/>
+				<span class="strongDBlue" glossary>seek time</span> 263<br/>
+				<span class="strongDBlue" glossary>solid-state drive (SSD)</span> 264<br/>
+				<span class="strongDBlue" glossary>sound card</span> 275<br/>
+				<span class="strongDBlue" glossary>SuperFetch</span> 260<br/>
+				<span class="strongDBlue" glossary>surround sound</span> 275<br/>
+				<span class="strongDBlue" glossary>system evaluation</span> 253<br/>
+				<span class="strongDBlue" glossary>track</span> 263<br/>
+				<span class="strongDBlue" glossary>video card (video adapter)</span> 271<br/>
+				<span class="strongDBlue" glossary>video memory</span> 272<br/>
+				<span class="strongDBlue" glossary>volatile storage</span> 259<br/>
+				
+				]]>
+			</section>
+		</page>
+		
+		<page index="39" type="ColumnColumn" distinction="chapterReview">
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...next semester//</div>
+					<ol class="noBMargin">
+						<li><span class="innerLi">Go Small or Stay Home</span><br/><span class="innerLi notStrong">Manufacturers are releasing a number of systems that are trying to capitalize on size—or the lack of size! Explore some of the small form factor (SFF) computers appearing on the market.</span></li>
+						<ol class="noBMargin">
+							<li><span class="notStrong">Research the Falcon Northwest FragBox (<span class="strongDBlue" onclick="window.open('http://falcon-nw.com','_blank')">falcon-nw.com</span>).</li>
+							<li><span class="notStrong">Compare that system with the Apple Mac mini (<span class="strongDBlue" onclick="window.open('http://apple.com','_blank')">apple.com</span>).</span></li>
+						</ol>
+					</ol>
+					<ol class="noListStyle">
+						<li><span class="innerLi notStrong">Why are these SFF computers appearing? What role do you see these systems fulfilling? What kind of performance and hardware would you recommend for such a system?</span></li>	
+					</ol>
+					<ol>
+						<li class="liHide"></li>
+						<li><span class="innerLi">How Does Your System Measure Up?</span><br/><span class="innerLi notStrong">A number of tools are available to measure your system’s performance. Explore the following tools and use one to gather data on your current system’s performance.</span></li>
+						<ol>
+							<li><span class="notStrong">Windows 8 Resource Monitor: Use the Resource Monitor to collect data on CPU utilization and memory usage over a typical school day.</span></li>
+							<li><span class="notStrong">Benchmarking suites: Examine a sample of consumer benchmarking programs like PassMark’s PerformanceTest, Primate Lab’s Geekbench, and Maxon’s Cinebench. Which subsystems do each of these products evaluate?</span></li>
+						</ol>		
+					</ol>	
+				]]>
+			</section>
+			<section>
+				<![CDATA[
+					<div class="title">making the transition to...the workplace//</div>
+					
+					<ol>
+						<li><span class="innerLi">Video Connections</span><br/><span class="innerLi notStrong">You have a position in a pharmaceutical research firm. Your group does simulations of protein folding to predict if a new drug will be effective. You collaborate daily with a team in India using videoconferencing. Now you’ve found out you also have the responsibility of creating a series of training videos to teach the Indian team how to use the newest release of software. What video and processing hardware would your workstation need to tackle this? Specify the video card performance and the CPU and memory requirements this project would have.</span></li>
+						
+						<li><span class="innerLi">Let Me Tell You My Problem</span><br/><span class="innerLi notStrong"> You may be responsible for helping others solve various computer problems. Test out the Problem Steps Recorder in Windows to see how the program can help you help them. From the charm bar, search for “psr.” Run the program and click Start Record. Then just click between different applications, visit the Control Panel, and add a comment. Save the file to your desktop and close the Problem Steps Recorder. View the annotated report. How could you use the Problem Steps Recorder to describe a problem or to gather information?</span></li>
+					</ol>	
+				]]>
+			</section>
+		</page>
+		
+		<page index="40" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">
+				team time //
+			</div>
+			<h3>Many Different Computers for Many Different Needs</h3>
+			<h4>Problem</h4>
+			<p class="moreSpacing">Even within one discipline, there are needs for a variety of types of computing solutions. Consider the Communications department in a large university. Because it’s an interdisciplinary area, there are some groups involved in video production, some groups producing digital music, and some groups creating scripts and screenplays. The department as a whole needs to decide on a complete computing strategy.</p>
+			
+			<h4>Process</h4>
+
+			<ol>
+				<li class="moreSpacing"><span class="notStrong">Split the class into teams.</span></li>
+				<li class="moreSpacing"><span class="notStrong">Select one segment of the Communications department that your team will represent: video production, digital music, or scripting. The video production team requires its labs to be able to support the recording, editing, and final production and distribution of digital video. The digital music group wants to establish a collegiate recording studio (after the model of the Drexel University recording label, Mad Dragon Records). The scripting group needs to support a collaborative community of writers and voice-over actors.</span></li>
+				<li class="moreSpacing"><span class="notStrong">Analyze the computing needs of that segment, with particular focus on how it needs to outfit its computer labs.</span></li>
+			</ol>
+
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			<div class="ColShiftSpacer"></div>
+			
+			<ol>
+				<li class="liHide"></li>
+				<li class="liHide"></li>
+				<li class="liHide"></li>
+				<li class="moreSpacing"><span class="notStrong">Price the systems you would recommend and explain how they will be used. What decisions have you made in order to guarantee they will still be useful in three years?</span></li>
+				<li class="moreSpacing"><span class="notStrong">Write a report that summarizes your findings. Document the resources you used and generate as much enthusiasm as you can for your recommendations.</span></li>
+			</ol>
+			<h4>Conclusion</h4>
+			<p class="moreSpacing">The range of available computing solutions has never been so broad. It can be a cause of confusion for those not educated in technology. But with a firm understanding of the basic subsystems of computers, it is precisely this pace of change that is exciting. Being able to evaluate a computer system and match it to the current needs of its users is an important skill.</p>
+			
+		]]>
+	</section>
+</page>
+
+		<page index="41" type="ColumnColumn" distinction="chapterReview">
+	<section>
+		<![CDATA[
+			<div class="title">ethics project//</div>
+			<h3>Benchmarking</h3>
+			<p class="moreSpacing">In this exercise, you’ll research and then role-play a complicated ethical situation. The role you play might not match your own personal beliefs; regardless, your research and use of logic will enable you to represent the view assigned. An arbitrator will watch and comment on both sides of the arguments, and together, the team will agree on an ethical solution.</p>
+			
+		<br/>	
+			<h4>Problem</h4>
+			<p class="moreSpacing">We’ve seen that for complex systems like computers, performance often is determined not by comparing the specifications of individual parts but by using benchmarks, software suites that test a full area of performance. There are benchmarks for battery life, for CPU performance, and for video performance. The results of these tests become a major force in marketing and selling the product.</p>
+			<p class="start moreSpacing">There have been a number of claims of unethical conduct in the area of benchmarking. Companies have been accused of using out-of-date testing software to skew their results. Some companies have manipulated the settings on the machine to artificially raise their score (for example, turning off the display and wireless network before testing for battery life). Some companies have a pattern of making sure	the systems sent out to magazines and other evaluators have</p>
+		]]>
+	</section>
+	<section>
+		<![CDATA[
+			<div class="ColShiftSpacer"></div>
+			
+			<p class="moreSpacing">better-performing components than you might get off the shelf in your own new system. Where is the line between gaining a competitive edge and lying when it comes to hardware assessment?</p>
+			
+		<br/>	
+			<h4>Research Areas to Consider</h4>
+			<span class="psudoUlLi">SysMark2002</span>
+			<span class="psudoUlLi">BAPCo</span>
+			<span class="psudoUlLi">MobileMark</span>
+			<span class="psudoUlLi">2009 Nobel Prize for Physics</span>
+			
+		<br/>	
+			<h4>Process</h4>
+			<ol>
+				<li class="moreSpacing"><span class="notStrong">Divide the class into teams.</span></li>
+				<li class="moreSpacing"><span class="notStrong">Research the areas cited above from the perspective of either an Intel engineer working on a new CPU, an AMD engineer working on a competing CPU, or a benchmark designer.</span></li>
+				<li class="moreSpacing"><span class="notStrong">Team members should write a summary that provides factual documentation for the positions and views their character takes around the issue of equitable testing of hardware. Then, team members should create an outline to use during the role-playing event.</span></li>
+			</ol>
+		]]>
+	</section>
+</page>
+
+	<page index="42" type="ColumnColumn" distinction="chapterReview">
+		<section>
+			<![CDATA[
+				<ol>
+				<li class="liHide"></li>
+				<li class="liHide"></li>
+				<li class="liHide"></li>
+				<li class="moreSpacing"><span class="notStrong">Team members should arrange a mutually convenient time to meet for the exchange, using either the collaboration feature of <span class="strongDBlue" onclick="window.open('http://www.myitlab.com','_blank')">MyITLab</span> or the discussion board feature of your course management software or by meeting in person.</span></li>
+				<li class="moreSpacing"><span class="notStrong">Team members should present their case to the class or submit a PowerPoint presentation for review by the rest of the class, along with the summary and resolution they developed.</span></li>
+			</ol>
+				
+				<h4>Conclusion</h4>
+				<p class="moreSpacing">As technology becomes ever more prevalent and integrated into our lives, more and more ethical dilemmas will present themselves. Being able to understand and evaluate both sides of the argument, while responding in a personally or socially ethical manner, will be an important skill.</p>
+			]]>
+		</section>
+		<section>
+			<![CDATA[
+			]]>
+		</section>
+	</page>
+			
+		</chapter>
+</ebook>			

@@ -1,0 +1,3072 @@
+table thead th {padding: 3px}
+table thead div {
+    color: #FFFFFF;
+    font-size: 17px;
+    padding: 3px 0;
+    text-transform: uppercase;
+
+}
+table td {
+    vertical-align: top;
+    padding: 3px;
+    position:relative;
+}
+table ul {padding-left:20px;margin:0;}
+table td>div {
+    vertical-align: middle;
+    position:relative;
+}
+table td .vertMiddleImg {
+    line-height:29px;
+}
+table td .vertMiddleImg img {
+    vertical-align: middle;
+}
+
+table div.wrap {
+	padding:0 22px;
+}
+table.globalProblemTable {
+	font-size:12px;
+}
+table.globalProblemTable td,
+table.globalProblemTable th {
+	padding:4px !important;
+}
+table.globalProblemTable th>div {
+	font-size:13px;
+}
+table.globalProblemTable td>div {
+
+}
+table.horzTable {
+    height: 444px;
+    margin: 5px 0 0 -3px;
+    width: 852px;
+}
+table.gridTable {
+    height: 444px;
+    margin: 5px 0 0 -3px;
+    width: 852px;
+}
+table.gridTable tbody tr:nth-child(1),
+table.gridTable tbody tr:nth-child(1) td>div {
+    height:136px;
+}
+table.gridTable tbody tr:nth-child(2),
+table.gridTable tbody tr:nth-child(2) td>div {
+    height: 80px;
+}
+table.gridTable tbody tr:nth-child(3),
+table.gridTable tbody tr:nth-child(3) td>div {
+    height: 146px;
+}
+table.printerTable tr td>div {
+    height:152px;
+    width:183px;
+}
+table.printerTable tr:nth-child(2) td>div {
+    height:283px
+}
+/*table.horzTable tr:nth-child(even),
+table.horzTable tr:nth-child(even) td>div {
+    height: 178px;
+    text-align: center;
+}*/
+table.horzTable tr:nth-child(even) td:first-child {
+    text-align: left;
+}
+#popupFeature .ActiveGraphicPage.injuries table thead tr {
+    height:80px;
+}
+table.softTable th,
+table.softTable td,
+table.softTable th>div,
+table.softTable td>div {
+    width:700px
+}
+table.softTable th:first-child {
+    width:111px;
+}
+
+table.softTable thead th>div {
+    font-size: 16px;
+    letter-spacing: -0.4px;
+    line-height: 52px;
+    position: relative;
+    text-align: left;
+    height:54px;
+}
+table.printerTable {
+    margin-left:-3px;
+}
+table.gridTable tr,
+table.gridTable td>div {
+    height: 115px;
+    padding:3px;
+    width:146px;
+    box-shadow: none;
+    verticle-align:center;
+}
+table.horzTable tr,
+table.horzTable td>div {
+    height: 121px;
+    width:146px;
+    box-shadow: none;
+    verticle-align:center;
+}
+table.gridTable td>div span {
+    display: block;
+    font-family: MyriadPro-semibold;
+    font-size: 11px;
+    padding: 8px;
+}
+/*    display: table-cell;*/
+
+table.horzTable td>div>span {
+    display: block;
+    font-weight: bold;
+    padding: 32px;
+}
+table.printerTable tr:first-child td>div {
+    text-align:center;
+}
+div.figureHeader {
+	font-family: MyriadPro-semibold;
+	font-size:15px;
+}
+div.figureHeader strong {
+	font-family: MyriadPro;
+	font-weight: bold;
+}
+table tr.centerDivs td>div{
+    text-align: center;
+}
+table tr.divWidth117 td>div{
+    width:117px;
+}
+table tr.divheight145 td>div{
+    height: 140px;
+    padding-top: 5px;
+}
+table tr.divheight192 td>div{
+    height: 182px;
+    padding-top: 10px;
+}
+
+/*is this used?
+*/table tr.tallHeaderFont12 th>div{
+    font-size: 12px;
+    height: 49px;
+    line-height: 21px;
+    padding: 10px 18px 0;
+    text-align: center;
+    width: 81px;
+}
+table tr.tallHeaderFont13 th>div{
+    font-size: 13px;
+    height: 49px;
+    line-height: 21px;
+    padding: 10px 18px 0;
+    text-align: center;
+    width: 81px;
+}
+table tr.medHeaderFont12 th>div{
+    font-size: 12px;
+    height: 30px;
+    line-height: 21px;
+    padding: 10px 18px 0;
+    text-align: center;
+    width: 83px;
+}
+table tr.medHeaderFont12 th:nth-child(2)>div{
+    text-align: left;
+    width: 642px;
+}
+table tbody.singleLineDefault td>div,
+table tr.singleLineDefault td>div {
+    padding:4px 18px;
+}
+table tbody.singleLineMed td>div,
+table tr.singleLineMed td>div {
+    padding:9px 18px;
+}
+
+table tbody.doubleLineDefault td>div,
+table tr.doubleLineDefault td>div {
+    height: 35px;
+    padding: 4px 18px;
+}
+table tbody.tripleLineDefault td>div,
+table tr.tripleLineDefault td>div {
+    height: 50px;
+    padding: 4px 18px;
+}
+table .verticleCenterLine {
+    line-height: 38px !important;
+}
+table tr.fatPadding td>div>span {
+    padding: 17px;
+}
+table tr.height157 {
+    height: 157px;
+}
+table tr.height157 td>div {
+    height:150px;
+}
+table tr.height157 td>div {
+    height:150px;
+}
+table tr.divHeight169 td>div {
+    height:169px;
+}
+table tr.thinPadding td>div>span {
+    padding: 17px;
+}
+table tr.MedfirstColLongSecondCol td>div {
+    height:28px;
+    padding:17px;
+    width:143px;
+}
+table tr.MedfirstColLongSecondCol td:nth-child(2)>div {
+    padding-left:12px;
+    width:639px;
+}
+
+
+table tr.normalWeight td>div,
+table tr.normalWeight td>div>span{
+    font-weight:normal;
+}
+table.socialNetwork td>div{
+    width:129px;
+}
+table.socialNetwork td>div>span{
+    padding:10px;
+}
+
+
+
+
+
+
+
+
+table.keyShortcuts {
+	width:753px;
+}
+table.keyShortcuts th{
+	width:25%;
+}
+
+table.gridTable tr td>div,
+table.horzTable tr td>div,
+table.printerTable tr td>div {
+    vertical-align: top;
+    position:relative;
+}
+table.gridTable tr td:first-child>div,
+table.gridTable tr td:nth-child(even)>div,
+table.horzTable tr td:nth-child(even)>div,
+table.printerTable tr td:nth-child(even)>div {
+}
+
+table.softTable td:first-child,
+table.softTable th:first-child {
+	width:111px;
+	padding:10px;
+}
+table.softTable td:first-child {
+	line-height: 52px;
+}
+table.micTable .micType {font-size:17px;margin-top:4px;display:block;}
+table .micImageNext {
+    float:right;
+    text-align: right;
+}rt
+
+table.micTable thead th {padding: 4px;width: 33%;}
+table.micTable thead th {padding: 4px;width: 33%;}
+.micFigureHeader{padding:4px;display:block;}
+
+table.micTable tr div.inner {
+    width:254px;
+    height:100px;
+    
+/*    padding: 0 22px;*/
+    padding:3px 10px 0 10px;
+    vertical-align: middle;
+}
+.lbDownArrowBL {
+    background: url("../images/layout/lightBlueDownArrow.png") no-repeat scroll right 3px transparent;
+    bottom: 3px;
+    color: #0C82B3;
+    font-family: myriadpro-semibold;
+    padding-right: 22px;
+    position: absolute;
+    right: 3px;
+    cursor:pointer;
+    font-size:15px;
+}
+
+.lDownArrow {
+    background: url("../images/pics/bigBlueDownArrow.png") no-repeat scroll 3px 14px transparent;
+    bottom: 3px;
+    color: #0C82B3;
+    font-family: myriadpro-semibold;
+    padding-right: 22px;
+    position: absolute;
+    right: 3px;
+    cursor:pointer;
+    font-size:15px;
+	padding-bottom:12px
+}
+.sLbDownArrowBL {
+    background: url("../images/layout/sLightBlueDownArrow.png") no-repeat scroll right 3px transparent;
+    bottom: 3px;
+    color: #0C82B3;
+    font-family: myriadpro-semibold;
+    padding-right: 22px;
+    position: absolute;
+    right: 3px;
+    cursor:pointer;
+    font-size:11px;
+}
+table div.greyGradInsetShadow {
+	box-shadow: -1px -1px 2px #BFBFBF inset;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZkZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkNmQ2ZDciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #fdfefe 0%, #d6d6d7 100%);
+    background: -webkit-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -o-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -ms-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: linear-gradient(to bottom, #fdfefe 0%,#d6d6d7 100%);
+}
+table div.darkBlueGrad,
+table tr.darkBlueGrad th>div,
+table tr.darkBlueGrad td>div{
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2QyZjNmYyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM1ZWNkZmIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #d2f3fc 0%, #5ecdfb 100%); /* FF3.6+ */
+    background: -webkit-linear-gradient(top, #d2f3fc 0%,#5ecdfb 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #d2f3fc 0%,#5ecdfb 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #d2f3fc 0%,#5ecdfb 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #d2f3fc 0%,#5ecdfb 100%); /* W3C */
+}
+table div.blueGradHeading,
+table tr.blueGradHeading th>div,
+table div.blueGradCol {
+	color:#fff;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFkYTJkOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwYTdlYWUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #1da2d8 0%, #0a7eae 100%);
+    background: -webkit-linear-gradient(top, #1da2d8 0%,#0a7eae 100%);
+    background: -o-linear-gradient(top, #1da2d8 0%,#0a7eae 100%);
+    background: -ms-linear-gradient(top, #1da2d8 0%,#0a7eae 100%);
+    background: linear-gradient(to bottom, #1da2d8 0%,#0a7eae 100%);
+}
+
+table tr.lightestBlueGrad td>div,
+table tr.lightestBlueGrad th>div,
+table div.lightestBlueGrad {
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YzZmJmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkYWYzZmUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #f3fbfe 0%, #daf3fe 100%);
+    background: -webkit-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -o-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -ms-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: linear-gradient(to bottom, #f3fbfe 0%,#daf3fe 100%);
+}
+
+table tr.lightBlueGrad td>div,
+table tr.lightBlueGrad th>div,
+table div.lightBlueGrad {
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2RkZjZmZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNiNWU4ZmUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #ddf6fd 0%, #b5e8fe 100%);
+    background: -webkit-linear-gradient(top, #ddf6fd 0%,#b5e8fe 100%);
+    background: -o-linear-gradient(top, #ddf6fd 0%,#b5e8fe 100%);
+    background: -ms-linear-gradient(top, #ddf6fd 0%,#b5e8fe 100%);
+    background: linear-gradient(to bottom, #ddf6fd 0%,#b5e8fe 100%);
+}
+table tr.orangeGrad td>div,
+table tr.orangeGrad th>div {
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Y5Y2RhNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmYWE4NjMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top, #f9cda4 0%, #faa863 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9cda4), color-stop(100%,#faa863)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #f9cda4 0%,#faa863 100%);
+	background: -o-linear-gradient(top, #f9cda4 0%,#faa863 100%);
+	background: -ms-linear-gradient(top, #f9cda4 0%,#faa863 100%);
+	background: linear-gradient(to bottom, #f9cda4 0%,#faa863 100%);
+}
+
+table div.greyishBlueGrad {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2NjZTVmMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNiOGQ2ZTQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #cce5f1 0%, #b8d6e4 100%); /* FF3.6+ */
+    background: -webkit-linear-gradient(top, #cce5f1 0%,#b8d6e4 100%); /* Chrome10+,Safari5.1+ */
+    background: -ms-linear-gradient(top, #cce5f1 0%,#b8d6e4 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #cce5f1 0%,#b8d6e4 100%); /* W3C */
+}
+
+table div.greenGrad,
+table tr.greenGrad td>div,
+table tr.greenGrad th>div  {
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2JmZmRjZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM3MmUxNmEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top, #bffdce 0%, #72e16a 100%); /* FF3.6+ */
+background: -webkit-linear-gradient(top, #bffdce 0%,#72e16a 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #bffdce 0%,#72e16a 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #bffdce 0%,#72e16a 100%)5; /* IE10+ */
+background: linear-gradient(to bottom, #bffdce 0%,#72e16a 100%); /* W3C */
+}
+table .slideHide {
+    background:white;
+    background-image:none;
+    position:absolute;
+    width:100%;
+    height:103px;
+}
+table .slideHideWrap {
+    background-image: none;
+    height: 0;
+    margin: 0 0 0 -22px;
+    overflow: visible;
+    position: absolute;
+    width: 237px
+}
+table.globalProblemTable td>div,
+table.globalProblemTable th>div {
+	padding:6px;
+	width:146px;
+}
+table.globalProblemTable .slideNext,
+table.globalProblemTable .slideNextWhite {
+	position:absolute;
+	bottom:4px;
+	right:4px;
+	font-size:12px;
+	font-family: myriadpro;
+	font-weight:bold;
+}
+table .slideNext{
+    background: url("../images/layout/micArrow.png") no-repeat scroll right 0 transparent;
+    color: #1987B4;
+    display: inline-block;
+    font-family: MyriadPro-Semibold;
+    font-size:15px;
+    padding: 1px 14px;
+    cursor: pointer;
+    
+}
+table .slideNextWhite{
+    background: url("../images/layout/whiteTableArrow.png") no-repeat scroll right 0 transparent;
+    color: #fff;
+    display: inline-block;
+    font-family: MyriadPro-Semibold;
+    font-size:15px;
+    padding: 3px 14px;
+    cursor: pointer;
+}
+#popupFeature .ActiveGraphicPage em {
+    color:#535353;
+    font-size:9px;
+}
+#popupFeature .ActiveGraphicPage.injuries table { 
+    margin-left:-20px;
+}
+
+#popupFeature .ActiveGraphicPage table.gridTable thead th>div {
+    padding:10px 9px 14px 10px;
+    height:52px;
+    text-align: left;
+    font-size:16px;
+    position:relative;
+    line-height:18px;
+    letter-spacing: -0.4px;
+}
+#popupFeature .ActiveGraphicPage table.gridTable .lbDownArrowBL {
+    background-position: right 2px;
+    bottom: 0;
+    color: #6CEEFB;
+    font-size: 12px;
+    line-height: 12px;
+    padding-bottom: 2px;
+    padding-top: 0;
+    right: 5px;
+}
+#popupFeature .ActiveGraphicPage table.softTable th,
+#popupFeature .ActiveGraphicPage table.softTable td {
+    padding:4px;
+}
+
+#popupFeature .ActiveGraphicPage table.softTable tr td:first-child>div,
+#popupFeature .ActiveGraphicPage table.softTable th:first-child>div{
+    text-align: center;
+    width:111px;
+}
+table.globalProblemTable tbody tr td:nth-child(1) { font-size:13px;font-family: MyriadPro-Semibold;}
+table.globalProblemTable tbody tr:nth-child(1) td>div { height:95px }
+table.globalProblemTable tbody tr:nth-child(2) td>div { height:67px }
+table.globalProblemTable tbody tr:nth-child(3) td>div { height:53px }
+table.globalProblemTable tbody tr:nth-child(4) td>div { height:62px }
+table.globalProblemTable tbody tr:nth-child(5) td>div { height:67px }
+
+
+
+
+
+
+table.productTable td>div{
+    height:34px;
+    padding:4px;
+    text-align: center;
+}
+
+table.productTable td,
+table.productTable th {
+    padding:2px;
+}
+table.productTable td[colspan]>div {
+    font-family:myriadpro-semibold;
+    font-size:12px;
+    padding-left:4px;
+    line-height: 14px !important;
+    height:auto;
+    text-align: left;
+}
+table.productTable td:first-child>div {
+    text-align: left;
+}
+
+table.productTable td span.suite {
+    float: right;
+    font-size: 12px;
+    width: 56px;
+}
+
+
+table td .vertMiddleImg {
+    display: inline-block;
+    text-align: center;
+    width: 48px;
+}
+
+
+table.productTable .slideNext {
+    background:url(../images/layout/verySmallRarr.png) no-repeat center right;
+    font-size:8px;
+    font-family:myriadpro-semibold;
+    padding:0 5px 1px 0;
+    position:absolute;
+    bottom:1px;
+    right:3px;
+}
+
+
+
+table.productTable th div {
+    font-size: 12px;
+    padding: 13px 0 14px 0
+}
+table.productTable th div.doubleLine{
+    font-size: 12px;
+    padding: 6px 0;
+}
+table.productTable th {
+    width:117px;
+}
+.ActiveGraphicPage.shiftLeft table {
+    margin-left:-20px;
+}
+.ActiveGraphicPage.shiftLeft .HeadingOrangeBackDiagDashes {
+    margin-left: -84px !important;
+}
+.ActiveGraphicPage.shiftLeft figure {
+    margin-left:-17px;
+}
+.ActiveGraphicPage.shiftLeft .figureHeader,
+.ActiveGraphicPage.shiftLeft em {
+    margin-left:-17px;
+}
+
+
+.ActiveGraphicPage.shiftTotalLeft table {
+    margin-left:-20px;
+}
+.ActiveGraphicPage.shiftTotalLeft .HeadingOrangeBackDiagDashes {
+    margin-left: -84px !important;
+}
+.ActiveGraphicPage.shiftTotalLeft figure {
+    margin-left:-61px;
+    width: 944px;
+}
+.ActiveGraphicPage.shiftTotalLeft table {
+    margin-left:-64px;
+}
+.ActiveGraphicPage.shiftTotalLeft .figureHeader,
+.ActiveGraphicPage.shiftTotalLeft em {
+    margin-left:-17px;
+}
+
+
+table td>div[col] {
+    display:none;
+
+}
+table.productTable td>div[col] {
+    line-height: 32px;
+    vertical-align: middle;
+}
+
+table.bsTable {
+
+}
+
+table.bsTable .blueGradHeading {
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 34px;
+    height:34px;
+}
+table.bsTable .blueGradHeading.double {
+    line-height: 17px;
+}
+table.bsTable td>div>span{
+    float:right;
+    width:147px;
+}
+table.bsTable td>div{
+    width: 260px;
+    height:132px;
+    padding: 4px 12px;
+}
+
+/*<KC TABLE>*/
+table.softTable {
+    margin: 15px 0 0 -3px;
+}
+table.softTable tr,
+table.softTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:49px;
+}
+table.pluginsTable td>div{
+    width: 116px;
+    padding: 3px;
+}
+table.pluginsTable tr:first-child td>div {
+    height: 147px;
+    
+}
+table.pluginsTable tr:nth-child(2) td>div {
+    height: 115px;
+}
+table.pluginsTable tr:nth-child(3) td>div {
+    height: 136px;
+    padding: 6px;
+    width: 110px;
+}
+#popupFeature .ActiveGraphicPage.injuries table.horzTable,
+#popupFeature .ActiveGraphicPage.optical table.horzTable,
+#popupFeature .ActiveGraphicPage.drive table.horzTable,
+#popupFeature .ActiveGraphicPage.software table.softTable
+ {
+    margin-left:-20px;
+}
+
+
+table.eduRef {
+    font-size:10px;
+}
+table.eduRef td>div>span {
+    font-size:11px;
+    font-weight:bold;
+    display:block;
+}
+table.eduRef td>div {
+    text-align:center;
+    width:156px;
+    height:184px;
+    padding:12px;
+}
+
+table.eduRef .imgVert {
+    line-height: 120px;
+    vertical-align: middle;
+}
+table.eduRef .imgVert img{
+    vertical-align: middle;
+}
+
+
+table.commonTable img{
+    vertical-align: top;
+}
+table.commonTable th{
+    width:254px;
+}
+table.commonTable td>div{
+    height: 61px;
+    padding: 8px;
+    width: 238px;
+}
+
+table.commonTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+}
+
+/*first span of the first column*/
+table.commonTable tr>td:first-child>div>span:first-child {
+    display: inline-block;
+    font-family: myriadpro-semibold;
+    font-size: 18px;
+    width: 94px;
+    text-align: left;
+}
+/*every span of every column after the first one*/
+table.commonTable tr>td:nth-child(n+2) span{
+    text-align: center;
+    display: block;
+    padding-top: 16px;
+}
+
+em.largerCap {
+    display: block;
+    font-size: 15px !important;
+    font-style: italic;
+    line-height: 23px;
+    width: 762px;
+    margin-top: 6px;
+}
+table tr.thickHeaderSmallText th>div{
+    font-size: 12px;
+    height: 30px;
+    line-height: 21px;
+    padding: 10px 18px 0;
+    text-align: center;
+}
+tr.thickerHeader th>div{
+    line-height:37px;
+    font-size:13px;
+    padding:0 18px;
+}
+tbody.thickerCells td>div {
+    padding: 10px 18px;
+}
+.ActiveGraphicPage.shiftRight .HeadingOrangeBackDiagDashes {
+    padding-left: 110px !important;
+}
+.ActiveGraphicPage.shiftRight table {
+    margin-left: 41px;
+}
+.ActiveGraphicPage.shiftRight>strong {
+    margin-left: 43px;
+}
+table.extTable {
+    text-align: left;
+}
+table.extTable th>div {
+    padding-left:12px;
+}
+table.extTable tr>td:first-child {
+     font-weight: bold;
+}
+table.extTable td>div {
+    padding: 9px 18px;
+}
+
+table.utilTable th>div{
+    padding-left:12px;
+}
+table.utilTable td>div{
+    padding:3px 3px 3px 12px;
+    height:48px;
+}
+/*divs of the first column*/
+table.utilTable tr>td:first-child>div{
+    padding:3px;
+    font-family:myriadpro-semibold;
+    font-size:15px;
+}
+/*every span of every column after the first one*/
+table.utilTable tr>td:nth-child(n+2) div{
+    padding-left: 12px;
+    width:298px;
+}
+
+table.utilTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+}
+
+
+
+table span.oneLineThreeRow {
+    line-height: 46px;
+}
+table span.twoLineThreeRow {
+    line-height: 16px;
+}
+table span.threeLineThreeRow {
+    line-height: 16px;
+}
+
+
+
+
+
+/*kc tables */
+              
+table.literateTable tr,
+table.literateTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:222px;
+    width:270px;
+    padding:7px 9px;
+    line-height: 18px;
+}
+table.literateTable td>div {
+    
+    vertical-align: middle;
+  
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZkZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkNmQ2ZDciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #fdfefe 0%, #d6d6d7 100%);
+    background: -webkit-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -o-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -ms-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: linear-gradient(to bottom, #fdfefe 0%,#d6d6d7 100%);
+}
+
+table.literateTable tr td>div{
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YzZmJmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkYWYzZmUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #f3fbfe 0%, #daf3fe 100%);
+    background: -webkit-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -o-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -ms-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: linear-gradient(to bottom, #f3fbfe 0%,#daf3fe 100%);
+    position:relative;
+    
+}
+
+table.literateTable {
+    margin-left: -37px;
+    margin-top: 31px;
+}
+table tr.wideHeaderFont18 th>div{
+    font-size: 18px;
+    height: 46px;
+    line-height: 21px;
+    padding: 10px 18px 0;
+    text-align: center;
+    width: 118px;
+}
+
+table tr.divWidth153 td>div{
+    width:153px;
+}
+table tr.divheight142 td>div{
+    height: 134px;
+    padding-top: 5px;
+}
+table tr.divheight173 td>div{
+    height: 165px;
+    padding-top: 5px;
+    }
+
+    
+table.windows td {
+    vertical-align: top;
+    padding: 6px;
+    position:relative;
+}                                 
+table.searchTable {
+    margin: 0px 0 0 0px;
+}
+table.searchTable tr,
+table.searchTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:38px;
+}
+table.searchTable td>div {
+    padding: 0 8px;
+    vertical-align: middle;
+    width: 660px;
+    margin-top: -3px;
+    
+    box-shadow: -1px -1px 2px #BFBFBF inset;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZkZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkNmQ2ZDciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #fdfefe 0%, #d6d6d7 100%);
+    background: -webkit-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -o-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -ms-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: linear-gradient(to bottom, #fdfefe 0%,#d6d6d7 100%);
+}
+
+table.searchTable tr td>div{
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YzZmJmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkYWYzZmUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #f3fbfe 0%, #daf3fe 100%);
+    background: -webkit-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -o-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -ms-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: linear-gradient(to bottom, #f3fbfe 0%,#daf3fe 100%);
+    position:relative;
+    padding-top: 6px;
+}
+
+table.searchTable tbody tr:nth-child(9) td>div { height:58px }
+
+#popupFeature .ActiveGraphicPage table.searchTable tr td:first-child>div,
+#popupFeature .ActiveGraphicPage table.searchTable th:first-child>div{
+    width:153px;
+    margin-left: -23px;
+}
+
+#popupFeature .ActiveGraphicPage table.searchTable th,
+#popupFeature .ActiveGraphicPage table.searchTable td {
+    padding:4px;
+}
+
+table.searchTable thead th>div {
+    font-size: 16px;
+    letter-spacing: -0.4px;
+    line-height: 52px;
+    position: relative;
+    text-align: left;
+    height:54px;
+}
+
+
+
+table.reliableTable {
+    margin-left:-21px;
+}
+table.reliableTable tr {
+    box-shadow: none;
+    verticle-align:center;
+    height:42px;
+    width:610px;
+}
+table.reliableTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:42px;
+    width:610px;
+    padding:10px;
+    font-weight:bold;
+}
+table.reliableTable td>div {
+    
+    vertical-align: middle;
+    width: 590px;
+    margin-top: -3px;
+    line-height: 21px;
+   
+}
+
+table.reliableTable tr td>div{
+    padding-left:10px;
+    position:relative;
+    padding-top: 6px;
+}
+
+
+#popupFeature .ActiveGraphicPage table.reliableTable tr td:first-child>div {
+    width:325px;
+}
+
+#popupFeature .ActiveGraphicPage table.reliableTable tr td:nth-child(2)>div {
+    width:265px;
+}
+
+#popupFeature .ActiveGraphicPage table.reliableTable th:first-child>div{
+    text-align: left;
+    width:326px;
+    
+}
+#popupFeature .ActiveGraphicPage table.reliableTable th:nth-child(2)>div{
+    text-align: left;
+    width:266px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.reliableTable tr td:nth-child(3)>div{
+    text-align: left;
+    width:186px;
+    line-height:40px;
+}
+#popupFeature .ActiveGraphicPage table.reliableTable th:nth-child(3)>div{
+    text-align: left;
+    width:186px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.reliableTable th,
+#popupFeature .ActiveGraphicPage table.reliableTable td {
+    padding:4px;
+}
+
+table.reliableTable thead th>div {
+    font-size: 16px;
+    letter-spacing: -0.4px;
+    line-height: 37px;
+    position: relative;
+    text-align: left;
+    height:40px;
+    padding-left:10px;
+    padding-right:8px;
+}
+
+
+
+
+
+table.ethicsTable thead th {padding: 2px}
+table.ethicsTable img{
+    vertical-align: top;
+}
+
+table.ethicsTable td {
+    vertical-align: top;
+    padding: 2px;
+    position:relative;
+     width: 275px;
+}
+table.ethicsTable ul {padding-left:10px;margin:0;}
+
+table.ethicsTable thead div {
+    color: #FFFFFF;
+    font-size: 13px;
+    padding: 5px 8px;
+    text-transform: uppercase;
+    text-align:left;
+
+}
+
+table.ethicsTable th{
+    width:275px;
+}
+table.ethicsTable td>div{
+    height: 70px;
+    padding: 8px;
+   
+    text-align:left;
+}
+
+
+table.ethicsTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+}
+
+/*first span of the first column*/
+
+table.ethicsTable tr>td:first-child>div>span:first-child {
+    display: inline-block;
+    font-family: myriadpro-semibold;
+    font-size: 13px;
+    width: 94px;
+    
+}
+/*every span of every column after the first one*/
+
+table.ethicsTable tr>td:nth-child(n+2) span{
+   font-size:14px;
+   display: block;
+   text-align:left;
+}
+
+
+
+
+
+
+table.ecTable td {
+    vertical-align: top;
+    padding: 3px;
+    position:relative;
+    width:270px;
+}
+
+table.ecTable thead div {
+    color: #FFFFFF;
+    font-size: 13px;
+    padding: 4px 8px;
+    text-transform: uppercase;
+    text-align:left;
+
+}
+table.ecTable th{
+    width:270px;
+}
+table.ecTable td>div{
+    height: 52px;
+    padding: 8px;
+   
+    text-align:left;
+}
+
+table.ecTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+}
+
+/*first span of the first column*/
+table.ecTable tr>td:first-child>div>span:first-child {
+    display: inline-block;
+    font-family: myriadpro-semibold;
+    font-size: 13px;
+   
+    
+}
+/*every span of every column after the first one*/
+table.ecTable tr>td:nth-child(n+2) span{
+   font-size:12px;
+    display: block;
+    text-align:left;
+}
+
+
+
+
+table.ramTable {
+    margin-left:106px;
+    margin-top:25px;
+}
+table.ramTable tr {
+    box-shadow: none;
+    verticle-align:center;
+    height:42px;
+    width:610px;
+}
+table.ramTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:29px;
+    padding-left:10px;
+    line-height:19px;
+    padding-bottom:3px;    
+}
+table.ramTable td>div {
+    margin-top: -3px;   
+}
+
+table.ramTable tr td>div{
+    padding-left:10px;
+    position:relative;
+    padding-top: 6px;
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.ramTable tr td:first-child>div,
+#popupFeature .ActiveGraphicPage table.ramTable th:first-child>div{
+    text-align: left;
+    width:266px;
+    
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.ramTable th,
+#popupFeature .ActiveGraphicPage table.ramTable td {
+    padding:4px;
+}
+
+table.ramTable thead th>div {
+    ;
+    letter-spacing: -0.4px;
+    line-height: 37px;
+    position: relative;
+    padding-left:10px;
+    height:37px;
+    
+}
+
+
+
+
+table.codeTable {
+    margin-left:-21px;
+}
+table.codeTable tr,
+table.codeTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:38px;
+    width:610px;
+}
+table.codeTable td>div {
+    
+    vertical-align: middle;
+    width: 590pxx;
+    margin-top: -3px;
+    line-height: 27px;
+    
+    box-shadow: -1px -1px 2px #BFBFBF inset;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZkZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkNmQ2ZDciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #fdfefe 0%, #d6d6d7 100%);
+    background: -webkit-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -o-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -ms-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: linear-gradient(to bottom, #fdfefe 0%,#d6d6d7 100%);
+}
+
+table.codeTable tr td>div{
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YzZmJmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkYWYzZmUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #f3fbfe 0%, #daf3fe 100%);
+    background: -webkit-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -o-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -ms-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: linear-gradient(to bottom, #f3fbfe 0%,#daf3fe 100%);
+    position:relative;
+    padding-top: 6px;
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.codeTable tr td:first-child>div,
+#popupFeature .ActiveGraphicPage table.codeTable th:first-child>div{
+    text-align: center;
+    width:153px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.codeTable th,
+#popupFeature .ActiveGraphicPage table.codeTable td {
+    padding:4px;
+}
+
+table.codeTable thead th>div {
+    font-size: 16px;
+    letter-spacing: -0.4px;
+    line-height: 37px;
+    position: relative;
+    text-align: left;
+    height:37px;
+}
+
+
+                                                                     
+                                                                     
+                                                                     
+                                             
+table.onlineTable td {
+
+    
+}
+table.onlineTable tr,
+table.onlineTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:189px;
+    width:172px;
+    padding:7px 9px;
+    line-height: 20px;
+}
+table.onlineTable td>div {
+    
+    vertical-align: middle;
+  
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZkZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkNmQ2ZDciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #fdfefe 0%, #d6d6d7 100%);
+    background: -webkit-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -o-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: -ms-linear-gradient(top, #fdfefe 0%,#d6d6d7 100%);
+    background: linear-gradient(to bottom, #fdfefe 0%,#d6d6d7 100%);
+}
+
+table.onlineTable tr td>div{
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2YzZmJmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkYWYzZmUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #f3fbfe 0%, #daf3fe 100%);
+    background: -webkit-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -o-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: -ms-linear-gradient(top, #f3fbfe 0%,#daf3fe 100%);
+    background: linear-gradient(to bottom, #f3fbfe 0%,#daf3fe 100%);
+    position:relative;
+    
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.onlineTable th,
+#popupFeature .ActiveGraphicPage table.onlineTable td {
+   padding: 0px 17px 12px 0;
+}
+
+table.onlineTable thead th>div {
+    font-size: 16px;
+    letter-spacing: -0.4px;
+    line-height: 37px;
+    position: relative;
+    text-align: left;
+    height:37px;
+}
+
+table.onlineTable {
+    margin-top: -12px;
+}
+
+
+
+
+table.gridTable tr td:first-child>div,
+table.gridTable tr td:nth-child(even)>div,
+table.horzTable tr td:nth-child(even)>div,
+table.printerTable tr td:nth-child(even)>div {
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2RkZjZmZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNiNWU4ZmUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #ddf6fd 0%, #b5e8fe 100%); /* FF3.6+ */
+    background: -webkit-linear-gradient(top, #ddf6fd 0%,#b5e8fe 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #ddf6fd 0%,#b5e8fe 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #ddf6fd 0%,#b5e8fe 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #ddf6fd 0%,#b5e8fe 100%); /* W3C */
+}
+
+
+
+
+table.keyShortcuts td {
+    vertical-align: top;
+    padding: 3px;
+    position:relative;
+}
+
+table.keyShortcuts td>div {
+    display: table-cell;
+    height: 87px;
+    padding: 0 22px;
+    vertical-align: middle;
+    width: 139px;
+    box-shadow: -1px -1px 2px #BFBFBF inset;
+}
+
+/*KC TABLE*/
+
+table.WBBTable {
+    
+    margin: 0px 0 0 0px;
+   
+}
+table.WBBTable thead th {
+    padding: 6px 3px;
+    }
+
+
+table.WBBTable th,
+table.WBBTable td {
+    vertical-align: top;
+    padding: 6px 3px;
+    position:relative;
+     
+}
+table.WBBTable ul {padding-left:10px;margin:0;}
+
+table.WBBTable thead div {
+    color: #FFFFFF;
+    font-size: 17px;
+    padding: 15px 18px 0px 5px;
+    text-transform: uppercase;
+    text-align:center;
+    height:55px;
+}
+
+table.WBBTable td>div{
+    height: 62px;
+    padding: 20px 8px 0px 15px;
+   line-height:18px;
+    text-align:left;
+    font-size:13px;
+}
+#popupFeature .ActiveGraphicPage table.WBBTable th:first-child>div {width:150px;}
+#popupFeature .ActiveGraphicPage table.WBBTable tr td:first-child>div{
+   font-weight:bold;
+    width:150px;
+    text-align:center;
+    font-size:15px;
+    line-height:15px;
+     
+}
+
+#popupFeature .ActiveGraphicPage table.WBBTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.WBBTable tr td:nth-child(2)>div{
+   
+    width:140px;
+    
+}
+#popupFeature .ActiveGraphicPage table.WBBTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.WBBTable tr td:nth-child(3)>div{
+   
+    width:228px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.WBBTable th:nth-child(4)>div,
+#popupFeature .ActiveGraphicPage table.WBBTable tr td:nth-child(4)>div{
+   
+    width:194px;
+}
+
+table.WBBTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+}
+
+
+table.hexTable {
+    
+    margin: -45px 0 0 143px;
+   
+}
+
+table.hexTable thead th {padding: 1px 4px}
+table.hexTable img{
+    vertical-align: top;
+}
+
+table.hexTable th,
+table.hexTable td {
+    vertical-align: top;
+    padding: 1px 4px;
+    position:relative;
+     width:168px;
+}
+table.hexTable ul {padding-left:10px;margin:0;}
+
+table.hexTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 4px 8px;
+    text-transform: uppercase;
+    text-align:center;
+
+}
+
+table.hexTable td>div{
+    height: 19px;
+    padding: 3px;
+   
+    text-align:center;
+}
+
+table.asTable thead th {padding: 1px 5px}
+table.asTable img{
+    vertical-align: top;
+}
+
+table.asTable th,
+table.asTable td {
+    vertical-align: top;
+    padding: 1px 5px;
+    position:relative;
+     width:195px;
+}
+table.asTable ul {padding-left:10px;margin:0;}
+
+table.asTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 5px 8px;
+    text-transform: uppercase;
+    text-align:center;
+
+}
+
+
+table.asTable td>div{
+    height: 24px;
+    padding: 3px;
+   line-height:25px;
+    text-align:center;
+}
+
+table.cpuTable {
+    
+    margin: 25px 0 0 82px;
+   
+}
+table.cpuTable thead th {padding: 2px 5px}
+table.cpuTable img{
+    vertical-align: top;
+}
+
+table.cpuTable th,
+table.cpuTable td {
+    vertical-align: top;
+    padding: 2px 5px;
+    position:relative;
+     width:195px;
+}
+table.cpuTable ul {padding-left:10px;margin:0;}
+
+table.cpuTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 7px 8px;
+    text-transform: uppercase;
+    text-align:left;
+
+}
+
+table.cpuTable td>div{
+    height: 24px;
+    padding: 2px 0px 3px 8px;
+   line-height:25px;
+    text-align:left;
+}
+#popupFeature .ActiveGraphicPage table.cpuTable th:nth-child(3)>div{
+   
+    width:215px;
+    
+}
+
+/* KC */
+table.DVTable {
+    
+    margin: 0px 0 0 0px;
+   
+}
+table.DVTable th,
+table.DVTable td {
+    vertical-align: top;
+    padding: 2px 3px;
+    position:relative;
+    
+}
+
+table.DVTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align:left;
+    padding:5px 8px;
+    height:17px;
+
+}
+
+table.DVTable td>div{
+    height: 50px;
+    padding: 10px 8px;
+   
+    text-align:left;
+}
+
+table.DVTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height: 17px;
+}
+
+#popupFeature .ActiveGraphicPage table.DVTable th:first-child>div, {width:238px;}
+#popupFeature .ActiveGraphicPage table.DVTable tr td:first-child>div{
+   font-size:18px;
+   font-weight:bold;
+    line-height:18px;
+    width:238px;
+     
+}
+
+#popupFeature .ActiveGraphicPage table.DVTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.DVTable tr td:nth-child(2)>div{
+   
+    width:180px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.DVTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.DVTable tr td:nth-child(3)>div{
+   
+    width:300px;
+    
+}
+
+table.textInfoTable {
+    
+    margin: 0px 0 0 -25px;
+   
+}
+table.textInfoTable thead th {
+    padding: 3px 3px;
+    }
+
+
+table.textInfoTable th,
+table.textInfoTable td {
+    vertical-align: top;
+    padding: 3px 3px;
+    position:relative;
+     
+}
+table.textInfoTable ul {padding-left:10px;margin:0;}
+
+table.textInfoTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 8px 10px 0px 10px;
+    text-transform: uppercase;
+    text-align:left;
+    height:27px;
+}
+
+table.textInfoTable td>div{
+    height: 60px;
+    padding: 20px 10px 0px 10px;
+   line-height:18px;
+    text-align:left;
+    font-size:13px;
+}
+#popupFeature .ActiveGraphicPage table.textInfoTable th:first-child>div {width:135px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:first-child>div{
+   
+    width:135px;
+    text-align:left;
+    font-size:15px;
+    line-height:40px;
+     
+}
+
+#popupFeature .ActiveGraphicPage table.textInfoTable th:nth-child(2)>div {width:120px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:nth-child(2)>div{
+   line-height:40px;
+    width:120px;
+    
+}
+#popupFeature .ActiveGraphicPage table.textInfoTable th:nth-child(3)>div {width:160px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:nth-child(3)>div{
+   line-height:40px;
+    width:160px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.textInfoTable th:nth-child(4)>div {width:340px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:nth-child(4)>div{
+   padding-top:10px;
+   padding-bottom:10px;
+    width:340px;
+}
+
+table.textInfoTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:5px;
+    line-height: 18px;
+}
+table.TvsUTable th,
+table.TvsUTable td {
+    vertical-align: top;
+    padding: 2px;
+    position:relative;
+    width:240px;
+}
+
+table.TvsUTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align:left;
+    padding:9px 8px;
+    height:18px;
+
+}
+
+table.TvsUTable td>div{
+    height: 27px;
+    padding: 19px 8px;
+    text-align:left;
+}
+
+table.TvsUTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+}
+
+#popupFeature .ActiveGraphicPage table.TvsUTable th:first-child>div,
+#popupFeature .ActiveGraphicPage table.TvsUTable tr td:first-child>div{
+   
+   font-weight:bold;
+    line-height:25px;
+     
+}
+
+#popupFeature .ActiveGraphicPage table.TvsUTable th:nth-child(3)>div {width:350px;}
+#popupFeature .ActiveGraphicPage table.TvsUTable tr td:nth-child(3)>div{
+   
+    width:350px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+table.textInfoTable {
+    
+    margin: 0px 0 0 -25px;
+   
+}
+table.textInfoTable thead th {
+	padding: 3px 3px;
+	}
+
+
+table.textInfoTable th,
+table.textInfoTable td {
+    vertical-align: top;
+    padding: 3px 3px;
+    position:relative;
+     
+}
+table.textInfoTable ul {padding-left:10px;margin:0;}
+
+table.textInfoTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 8px 10px 0px 10px;
+    text-transform: uppercase;
+    text-align:left;
+	height:27px;
+}
+
+table.textInfoTable td>div{
+    height: 60px;
+    padding: 20px 10px 0px 10px;
+   line-height:18px;
+    text-align:left;
+	font-size:13px;
+}
+#popupFeature .ActiveGraphicPage table.textInfoTable th:first-child>div {width:135px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:first-child>div{
+   
+    width:135px;
+    text-align:left;
+	font-size:15px;
+	line-height:40px;
+	 
+}
+
+#popupFeature .ActiveGraphicPage table.textInfoTable th:nth-child(2)>div {width:120px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:nth-child(2)>div{
+   line-height:40px;
+    width:120px;
+    
+}
+#popupFeature .ActiveGraphicPage table.textInfoTable th:nth-child(3)>div {width:160px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:nth-child(3)>div{
+   line-height:40px;
+    width:160px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.textInfoTable th:nth-child(4)>div {width:340px;}
+#popupFeature .ActiveGraphicPage table.textInfoTable tr td:nth-child(4)>div{
+   padding-top:10px;
+   padding-bottom:10px;
+    width:340px;
+}
+
+table.textInfoTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:5px;
+	line-height: 18px;
+}
+
+
+
+
+	table.TvsUTable th,
+table.TvsUTable td {
+    vertical-align: top;
+    padding: 2px;
+    position:relative;
+    width:240px;
+}
+
+table.TvsUTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align:left;
+	padding:9px 8px;
+	height:18px;
+
+}
+
+table.TvsUTable td>div{
+    height: 27px;
+    padding: 19px 8px;
+   
+    text-align:left;
+}
+
+table.TvsUTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+}
+
+#popupFeature .ActiveGraphicPage table.TvsUTable th:first-child>div,
+#popupFeature .ActiveGraphicPage table.TvsUTable tr td:first-child>div{
+   
+   font-weight:bold;
+	line-height:25px;
+	 
+}
+
+#popupFeature .ActiveGraphicPage table.TvsUTable th:nth-child(3)>div {width:350px;}
+#popupFeature .ActiveGraphicPage table.TvsUTable tr td:nth-child(3)>div{
+   
+    width:350px;
+    
+}
+
+
+
+
+
+
+table.DVTable {
+    
+    margin: 0px 0 0 0px;
+   
+}
+table.DVTable th,
+table.DVTable td {
+    vertical-align: top;
+    padding: 2px 3px;
+    position:relative;
+    
+}
+
+table.DVTable thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align:left;
+	padding:5px 8px;
+	height:17px;
+
+}
+
+table.DVTable td>div{
+    height: 50px;
+    padding: 10px 8px;
+   
+    text-align:left;
+}
+
+table.DVTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+	line-height: 17px;
+}
+
+#popupFeature .ActiveGraphicPage table.DVTable th:first-child>div, {width:238px;}
+#popupFeature .ActiveGraphicPage table.DVTable tr td:first-child>div{
+   font-size:18px;
+   font-weight:bold;
+	line-height:18px;
+	width:238px;
+	 
+}
+
+#popupFeature .ActiveGraphicPage table.DVTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.DVTable tr td:nth-child(2)>div{
+   
+    width:180px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.DVTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.DVTable tr td:nth-child(3)>div{
+   
+    width:300px;
+    
+}
+
+
+
+
+
+
+
+table.portsTable {
+    margin-left:65px;
+   
+}
+table.portsTable tr {
+    box-shadow: none;
+    verticle-align:center;
+    height:42px;
+    width:610px;
+}
+table.portsTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:45px;
+    
+    line-height:44px;
+    padding-bottom:3px;    
+}
+table.portsTable td>div {
+    margin-top: -3px;   
+}
+
+table.portsTable tr td>div{
+   
+    position:relative;
+    padding-top: 6px;
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.portsTable tr td:first-child>div,
+#popupFeature .ActiveGraphicPage table.portsTable th:first-child>div{
+    text-align: center;
+    width:194px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.portsTable th:nth-child(2)>div{ width: 440px;}
+#popupFeature .ActiveGraphicPage table.portsTable tr td:nth-child(2)>div{
+    text-align: left;
+    width:430px;
+	padding-left:10px;
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.portsTable th,
+#popupFeature .ActiveGraphicPage table.portsTable td {
+    padding:5px 6px;
+}
+
+table.portsTable thead th>div {
+    
+    letter-spacing: -0.4px;
+    line-height: 26px;
+    position: relative;
+   text-align: center;
+    height:26px;
+    
+}
+
+                                                                     
+                                                                     
+                                                                     
+                                             
+table.TvsU2Table {
+   margin-left:-30px;
+   margin-top:10px 
+   
+}
+
+    table.TvsU2Table th,
+table.TvsUT2able td {
+    vertical-align: top;
+  
+    position:relative;
+    
+}
+
+table.TvsU2Table thead div {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align:left;
+    padding:9px 8px;
+    height:18px;
+
+}
+
+table.TvsU2Table td>div{
+    height: 20px;
+    padding: 19px 8px;
+   
+    text-align:left;
+}
+
+table.TvsU2Table .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height: 17px;
+
+}
+
+#popupFeature .ActiveGraphicPage table.TvsU2Table th:first-child>div {width:232px;}
+#popupFeature .ActiveGraphicPage table.TvsU2Table tr td:first-child>div{
+   width:232px;
+   font-weight:bold;
+    line-height:25px;
+     
+}
+
+#popupFeature .ActiveGraphicPage table.TvsU2Table th:nth-child(2)>div {width:229px;}
+#popupFeature .ActiveGraphicPage table.TvsU2Table tr td:nth-child(2)>div{
+   
+    width:229px;
+    
+}
+#popupFeature .ActiveGraphicPage table.TvsU2Table th:nth-child(3)>div {width:343px;}
+#popupFeature .ActiveGraphicPage table.TvsU2Table tr td:nth-child(3)>div{
+   
+    width:343px;
+    
+}
+
+
+
+
+
+
+table.passwordTable {
+   
+	margin-left:-45px;
+	margin-top:50px;
+}
+
+table.passwordTable thead th>div {
+    position: relative;
+    height:22px;
+	padding:2px;
+}
+table.passwordTable td {padding: 3px 6px;}
+table.passwordTable th{
+   padding: 3px 6px;
+	text-align:center;
+}
+table.passwordTable td>div{
+    height: 68px;
+  padding:2px;
+    
+}
+
+table.passwordTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+	line-height:15px;
+}
+
+#popupFeature .ActiveGraphicPage table.passwordTable th:first-child>div {width:200px;}
+#popupFeature .ActiveGraphicPage table.passwordTable tr td:first-child>div{
+    display: inline-block;
+    font-family: myriadpro-semibold;
+    font-size: 17px;
+    width: 200px;
+    text-align:center;
+	line-height:60px
+}
+
+#popupFeature .ActiveGraphicPage table.passwordTable th:nth-child(2)>div{ width: 120px;}
+#popupFeature .ActiveGraphicPage table.passwordTable tr td:nth-child(2)>div{
+	width:120px;
+	text-align:center;
+	line-height:60px;
+}
+
+#popupFeature .ActiveGraphicPage table.passwordTable th:nth-child(3)>div{ width: 200px;}
+#popupFeature .ActiveGraphicPage table.passwordTable tr td:nth-child(3)>div{
+	width:200px;
+	text-align:left;
+}
+#popupFeature .ActiveGraphicPage table.passwordTable th:nth-child(4)>div{ width: 325px;}
+#popupFeature .ActiveGraphicPage table.passwordTable tr td:nth-child(4)>div{
+	width:325px;
+	text-align:left;
+}
+
+
+
+
+
+
+table.backupTable {
+   margin-left:-20px;
+   margin-top:35px 
+   
+}
+table.backupTable tr {
+    box-shadow: none;
+    verticle-align:center;
+    height:15px;
+    
+}
+
+table.backupTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:115px;
+    width:255px;
+    line-height:20px;
+    padding-bottom:3px;    
+}
+
+
+table.backupTable tr td>div{
+   
+    position:relative;
+    padding-top: 6px;
+	padding-left:10px;
+	padding-right:7px;
+}
+
+table.backupTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+	line-height:15px;
+}
+
+#popupFeature .ActiveGraphicPage table.backupTable tr td:first-child>div,
+#popupFeature .ActiveGraphicPage table.backkupTable th:first-child>div{
+    font-weight:bold;
+	font-size:17px;
+}
+    
+
+#popupFeature .ActiveGraphicPage table.backupTable th,
+#popupFeature .ActiveGraphicPage table.backupTable td {
+    padding:3px 5px;
+}
+
+table.backupTable thead th>div {
+    
+    letter-spacing: -0.4px;
+    line-height: 17px;
+    position: relative;
+   text-align: center;
+    height:15px;
+    width:272px;
+}
+
+table.backupTable img {position:relative;}
+
+
+
+table.resourcesTable {
+   
+    margin-left:-35px;
+    margin-top:25px;
+}
+
+table.resourcesTable thead th>div {
+    position: relative;
+    height:20px;
+    padding:4px 5px; 
+    font-size:13px;
+}
+table.resourcesTable td {padding: 2px;}
+table.resourcesTable th{
+   padding: 2px;
+    text-align:center;
+}
+table.resourcesTable td>div{
+    height: 33px;
+  padding:4px 5px;
+  text-align:center;
+  line-height:35px;
+    
+}
+
+table.resourcesTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+#popupFeature .ActiveGraphicPage table.resourcesTable th:first-child>div,
+#popupFeature .ActiveGraphicPage table.resourcesTable tr td:first-child>div{
+    display: inline-block;
+    width: 270px;
+    text-align:left;
+    line-height:16px;
+}
+
+#popupFeature .ActiveGraphicPage table.resourcesTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.resourcesTable tr td:nth-child(2)>div{
+    width:110px;
+}
+
+#popupFeature .ActiveGraphicPage table.resourcesTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.resourcesTable tr td:nth-child(3)>div{
+    width:110px;
+}
+#popupFeature .ActiveGraphicPage table.resourcesTable th:nth-child(4)>div,
+#popupFeature .ActiveGraphicPage table.resourcesTable tr td:nth-child(4)>div{
+    width:190px;
+}
+#popupFeature .ActiveGraphicPage table.resourcesTable th:nth-child(5)>div,
+#popupFeature .ActiveGraphicPage table.resourcesTable tr td:nth-child(5)>div{
+    width:121px;
+}
+
+
+
+
+
+table.jobsOnshoreTable {
+   
+    margin-left:-20px;
+    margin-top:47px;
+}
+
+table.jobsOnshoreTable thead th>div {
+    position: relative;
+    height:22px;
+    width:270px;
+    padding:2px 5px; 
+    font-size:13px;
+    line-height:22px
+}
+table.jobsOnshoreTable td {padding: 3px 2px;}
+table.jobsOnshoreTable th{
+   padding: 3px 2px;
+    text-align:left;
+}
+table.jobsOnshoreTable td>div{
+    height: 37px;
+  padding:2px 5px;
+  text-align:left;
+  width:270px;
+    
+}
+
+table.jobsOnshoreTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+
+
+
+
+
+table.whereWorkTable {
+   margin-left:25px;
+    
+}
+
+table.whereWorkTable thead th>div {
+    position: relative;
+    height:24px;
+    width:207px;
+    padding:2px 5px; 
+    font-size:13px;
+    line-height:22px
+}
+table.whereWorkTable td {padding:2px 3px;}
+table.whereWorkTable th{
+   padding:2px 3px;
+    text-align:left;
+}
+table.whereWorkTable td>div{
+    height: 98px;
+  padding:3px 5px;
+  text-align:left;
+  width:207px;
+    
+}
+
+table.whereWorkTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+    font-size:12px;
+}
+
+#popupFeature .ActiveGraphicPage table.whereWorkTable tr td:first-child>div{
+    display: inline-block;
+    font-weight:bold;
+    text-align:center;
+    
+}
+
+
+
+
+
+
+
+
+table.poTable {
+    margin-top:47px;
+    margin-left:66px;
+}
+
+table.poTable thead th>div {
+    position: relative;
+    height:23px;
+    padding:4px 5px 0px 10px; 
+    font-size:13px;
+}
+table.poTable td {padding: 2px 3px;}
+table.poTable th{
+   padding: 2px 3px;
+    text-align:left;
+}
+table.poTable td>div{
+    height: 54px;
+  padding:4px 5px 0px 10px;
+  text-align:left;
+    
+}
+
+table.poTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+#popupFeature .ActiveGraphicPage table.poTable th:first-child>div,
+#popupFeature .ActiveGraphicPage table.poTable tr td:first-child>div{
+    display: inline-block;
+    width: 263px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.poTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.poTable tr td:nth-child(2)>div{
+    width:263px;
+}
+
+#popupFeature .ActiveGraphicPage table.poTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.poTable tr td:nth-child(3)>div{
+    width:92px;
+}
+
+
+
+
+
+table.womenTable {
+    margin-top:47px;
+    margin-left:46px;
+}
+
+table.womenTable thead th>div {
+    position: relative;
+    height:25px;
+    padding:4px 5px 0px 10px; 
+    font-size:13px;
+}
+table.womenTable td {padding: 2px 3px;}
+table.womenTable th{
+   padding: 2px 3px;
+    text-align:left;
+}
+table.womenTable td>div{
+    height: 54px;
+  padding:4px 5px 0px 10px;
+  text-align:left;
+    
+}
+
+table.womenTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+#popupFeature .ActiveGraphicPage table.womenTable th:first-child>div,
+#popupFeature .ActiveGraphicPage table.womenTable tr td:first-child>div{
+    display: inline-block;
+    width: 264px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.womenTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.womenTable tr td:nth-child(2)>div{
+    width:264px;
+}
+
+#popupFeature .ActiveGraphicPage table.womenTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.womenTable tr td:nth-child(3)>div{
+    width:125px;
+}
+
+
+
+
+table.ITemploymentTable {
+    margin-left:185px;
+    margin-top:35px;
+   
+}
+table.ITemploymentTable tr {
+    box-shadow: none;
+    verticle-align:center;
+}
+table.ITemploymentTable td>div {
+    box-shadow: none;
+    verticle-align:center;
+    height:15px;
+       padding:5px 10px;
+}
+
+table.ITemploymentTable tr td>div{
+    position:relative;
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.ITemploymentTable tr td:first-child>div,
+#popupFeature .ActiveGraphicPage table.ITemploymentTable th:first-child>div{
+    width:259px;
+}
+
+#popupFeature .ActiveGraphicPage table.ITemploymentTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.ITemploymentTable tr td:nth-child(2)>div{
+    width:127px;
+}
+
+
+
+#popupFeature .ActiveGraphicPage table.ITemploymentTable th,
+#popupFeature .ActiveGraphicPage tableITemploymentTable td {
+    padding:2px;
+}
+
+table.ITemploymentTable thead th>div {
+    padding:5px 10px;
+    letter-spacing: -0.4px;
+    position: relative;
+   text-align: left;
+    height:18px;
+    font-size:13px;
+}
+
+#popupFeature .ActiveGraphicPage table.softTable th:nth-child(2)>div {width:678px; padding-left:22px}
+
+table.parkingGarageTable {
+   
+}
+
+table.parkingGarageTable thead th>div {
+    position: relative;
+    height:32px;
+    padding:4px 5px 0px 10px; 
+    font-size:20px;
+    text-align:center;
+}
+table.parkingGarageTable td {padding: 3px 4px;}
+table.parkingGarageTablee th{
+   padding: 3px 4px;
+    text-align:left;
+}
+table.parkingGarageTable td>div{
+    height: 39px;
+  padding:4px 5px 0px 10px;
+  text-align:left;
+    
+}
+
+table.parkingGarageTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+#popupFeature .ActiveGraphicPage table.parkingGarageTable th:first-child>div,
+#popupFeature .ActiveGraphicPage table.parkingGarageTable tr td:first-child>div{
+    display: inline-block;
+    width: 152px;
+    font-size:15px;
+    font-weight:bold;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.parkingGarageTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.parkingGarageTable tr td:nth-child(2)>div{
+    width:632px;
+}
+
+
+
+
+
+
+
+table.parkingGarage2Table {
+    margin-left:-4px;
+}
+
+table.parkingGarage2Table thead th>div {
+    position: relative;
+    height:32px;
+    padding:4px 5px 0px 0px; 
+    font-size:20px;
+    text-align:center;
+}
+table.parkingGarage2Table td {padding: 3px 4px;}
+table.parkingGarageTablee th{
+   padding: 3px 4px;
+    text-align:left;
+}
+table.parkingGarage2Table td>div{
+    height: 18px;
+  padding:4px 5px 0px 0px;
+  text-align:center;
+    
+}
+
+
+#popupFeature .ActiveGraphicPage table.parkingGarage2Table th:first-child>div,
+#popupFeature .ActiveGraphicPage table.parkingGarage2Table tr td:first-child>div{
+    display: inline-block;
+    width: 162px;
+        font-size:13px;
+    font-weight:normal;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.parkingGarage2Table th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.parkingGarage2Table tr td:nth-child(2)>div{
+    width:252px;
+}
+
+#popupFeature .ActiveGraphicPage table.parkingGarage2Table th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.parkingGarage2Table tr td:nth-child(3)>div{
+    width:203px;
+}
+
+
+
+
+
+
+
+table.sameDifTable {
+   margin-top:5px;
+}
+table.sameDifTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+table.sameDifTable thead th>div {
+    position: relative;
+    height:39px;
+    padding:4px 5px 0px 10px; 
+    font-size:15px;
+    text-align:left;
+    line-height:35px
+}
+table.sameDifTable td {padding: 4px 3px;}
+table.sameDifTable th {
+   padding: 6px 4px;
+    
+}
+table.sameDifTable td>div{
+    height: 45px;
+  padding:4px 5px 0px 10px;
+  text-align:left;
+  font-sized:13px;
+    
+}
+
+
+#popupFeature .ActiveGraphicPage table.sameDifTable th:first-child>div {width: 142px;}
+#popupFeature .ActiveGraphicPage table.sameDifTable tr td:first-child>div{
+    display: inline-block;
+    width: 142px;
+        font-size:15px;
+    font-weight:bold;
+    line-height:40px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.sameDifTable th:nth-child(2)>div {width:160px;}
+#popupFeature .ActiveGraphicPage table.sameDifTable tr td:nth-child(2)>div{
+    width:160px;
+    line-height:40px;
+}
+
+#popupFeature .ActiveGraphicPage table.sameDifTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.sameDifTable tr td:nth-child(3)>div{
+    width:435px;
+}
+
+
+
+
+
+
+
+
+
+table.proLangTable {
+ 
+}
+table.proLangTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+table.proLangTable thead th>div {
+    position: relative;
+    height:27px;
+    padding:4px 5px 0px 10px; 
+    font-size:15px;
+    text-align:left;
+    line-height:23px
+}
+table.proLangTable td {padding: 3px 3px;}
+table.proLangTable th {
+   padding: 3px 3px;
+    
+}
+table.proLangTable td>div{
+    height: 37px;
+  padding:2px 5px 0px 10px;
+  text-align:left;
+  font-sized:13px;
+    
+}
+
+
+#popupFeature .ActiveGraphicPage table.proLangTable th:first-child>div { width: 200px;}
+#popupFeature .ActiveGraphicPage table.proLangTable tr td:first-child>div{
+    display: inline-block;
+    width: 200px;
+        font-size:15px;
+    font-weight:bold;
+    line-height:30px;
+    
+    
+}
+
+#popupFeature .ActiveGraphicPage table.proLangTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.proLangTable tr td:nth-child(2)>div{
+    width:285px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.proLangTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.proLangTable tr td:nth-child(3)>div{
+    width:285px;
+}
+
+table.DMTable {
+ 
+}
+table.DMTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+
+table.DMTable td {padding: 4px 4px;}
+
+table.DMTable td>div{
+    height: 80px;
+  padding:5px 0px 0px 7px;
+  text-align:left;
+  font-sized:13px;
+    
+}
+
+
+#popupFeature .ActiveGraphicPage table.DMTable tr td:first-child>div{
+    display: inline-block;
+    width: 150px;
+   
+}
+
+#popupFeature .ActiveGraphicPage table.DMTable tr td:nth-child(2)>div{
+    width:290px;
+    text-align:center;
+    font-size:15px;
+    font-weight:bold;
+    padding-top:15px;
+    height:70px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.DMTable tr td:nth-child(3)>div{
+    width:325px;
+    padding-left:10px;
+    padding-top:25px;
+    height:60px;
+}
+table.CDataTable {
+ 
+}
+table.CDataTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+table.CDataTable thead th>div {
+    position: relative;
+    height:20px;
+    padding:5px 5px 0px 10px; 
+    font-size:13px;
+    text-align:left;
+    line-height:14px
+}
+table.CDataTable td {padding: 3px 3px;}
+table.CDataTable th {
+   padding: 3px 3px;
+    
+}
+table.CDataTable td>div{
+    height: 51px;
+  padding:5px 5px 0px 10px;
+  text-align:left;
+  
+    
+}
+
+
+#popupFeature .ActiveGraphicPage table.CDataTable th:first-child>div { width: 95px;}
+#popupFeature .ActiveGraphicPage table.CDataTable tr td:first-child>div{
+    display: inline-block;
+    width: 95px;
+    font-size: 13px;
+    line-height:44px;
+    
+    
+}
+
+#popupFeature .ActiveGraphicPage table.CDataTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.CDataTable tr td:nth-child(2)>div{
+    width:361px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.CDataTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.CDataTable tr td:nth-child(3)>div{
+    width:325px;
+}
+
+
+
+
+
+
+
+
+
+
+
+table.CSnetworkTable {
+ 
+}
+table.CSnetworkTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+table.CSnetworkTable thead th>div {
+    position: relative;
+	width:240px;
+    height:25px;
+    padding:5px 5px 0px 10px; 
+    font-size:17px;
+	text-align:left;
+	line-height:20px
+}
+table.CSnetworkTable td {padding: 3px 5px;}
+table.CSnetworkTable th {
+   padding: 3px 5px;
+    
+}
+table.CSnetworkTable td>div{
+  width:240px;
+  height: 78px;
+  padding:5px 5px 0px 10px;
+  text-align:left;
+  font-size:13px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.CSnetworkTable tr td:first-child>div{
+    display: inline-block;
+    font-weight:bold;
+   
+}
+
+
+
+
+
+
+
+
+table.BRSTable {
+ margin-top:15px;
+}
+table.BRSTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+}
+
+table.BRSTable thead th>div {
+    position: relative;
+    height:35px;
+    padding:4px 5px 0px 10px; 
+    font-size:18px;
+    text-align:left;
+    line-height:29px
+}
+table.BRSTable td {padding: 3px 3px;}
+table.BRSTable th {
+   padding: 5px 3px;
+    
+}
+table.BRSTable td>div{
+    height: 75px;
+  padding:5px 5px 0px 10px;
+  text-align:left;
+  font-sized:13px;
+    
+}
+
+
+#popupFeature .ActiveGraphicPage table.BRSTable th:first-child>div { width: 140px;}
+#popupFeature .ActiveGraphicPage table.BRSTable tr td:first-child>div{
+    display: inline-block;
+    width: 140px;
+        font-size:15px;
+    font-weight:bold;
+    line-height:30px;
+    
+    
+}
+
+#popupFeature .ActiveGraphicPage table.BRSTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.BRSTable tr td:nth-child(2)>div{
+    width:288px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.BRSTable th:nth-child(3)>div,
+#popupFeature .ActiveGraphicPage table.BRSTable tr td:nth-child(3)>div{
+    width:320px;
+}
+
+
+
+
+
+
+
+
+
+
+table.MprotocolsTable {
+margin-top:10px;
+}
+table.MprotocolsTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+	font-size:12px;
+}
+
+table.MprotocolsTable td {padding: 5px 4px;}
+table.MprotocolsTable td>div{
+    height: 41px;
+  padding:5px 5px 0px 10px;
+  text-align:left;
+  font-sized:13px;
+ 
+    }
+
+#popupFeature .ActiveGraphicPage table.MprotocolsTable tr td:first-child>div{
+    display: inline-block;
+    width: 218px;  
+	font-weight: bold; 
+}
+
+#popupFeature .ActiveGraphicPage table.MprotocolsTable tr td:nth-child(2)>div{
+    width:560px;
+    
+}	
+
+
+
+
+
+
+
+
+
+
+
+table.XMLTable {
+ margin-top:9px;
+ margin-left: 78px;
+}
+
+table.XMLTable thead th>div {
+    position: relative;
+    height:31px;
+    padding:4px 5px 0px 10px; 
+    font-size:20px;
+    text-align:left;
+    line-height:30px
+}
+table.XMLTable td {padding: 5px 5px;}
+table.XMLTable th {
+   padding: 5px 5px;
+    
+}
+table.XMLTable td>div{
+    height: 52px;
+  padding:5px 5px 0px 10px;
+  text-align:left;
+  font-sized:13px;
+  line-height: 38px;
+    }
+	
+#popupFeature .ActiveGraphicPage table.XMLTable th:first-child>div { width: 230px;}
+#popupFeature .ActiveGraphicPage table.XMLTable tr td:first-child>div{
+    display: inline-block;
+    width: 230px;   
+}
+
+#popupFeature .ActiveGraphicPage table.XMLTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.XMLTable tr td:nth-child(2)>div{
+    width:379px;
+    
+}	
+
+
+
+
+
+
+
+
+table.MajorOrganTable {
+ margin-top:10px;
+}
+table.MajorOrganTable .slideNext {
+    position:absolute;
+    bottom:3px;
+    right:3px;
+    line-height:15px;
+	font-sized:12px;
+}
+
+table.MajorOrganTable thead th>div {
+    position: relative;
+    height:30px;
+    padding:5px 5px 0px 10px; 
+    font-size:18px;
+    text-align:left;
+    line-height:25px
+}
+table.MajorOrganTable td {padding: 4px 4px;}
+table.MajorOrganTable th {
+   padding: 4px 4px;
+    
+}
+table.MajorOrganTable td>div{
+    height: 50px;
+  padding:10px 5px 0px 10px;
+  text-align:left;
+  font-sized:13px;
+    
+}
+
+
+#popupFeature .ActiveGraphicPage table.MajorOrganTable th:first-child>div { width: 150px;}
+#popupFeature .ActiveGraphicPage table.MajorOrganTable tr td:first-child>div{
+    display: inline-block;
+    width: 151px;
+  
+}
+
+#popupFeature .ActiveGraphicPage table.MajorOrganTable th:nth-child(2)>div,
+#popupFeature .ActiveGraphicPage table.MajorOrganTable tr td:nth-child(2)>div{
+    width:461px;
+    
+}
+
+#popupFeature .ActiveGraphicPage table.MajorOrganTable th:nth-child(3)>div {width:150px;}
+#popupFeature .ActiveGraphicPage table.MajorOrganTable tr td:nth-child(3)>div{
+    width:150px;
+	line-height: 35px;
+}
+
+
+
+
+
+table.imageTable {
+	margin-left: 250px;
+}
+table.imageTable .lDownArrow {
+    position:absolute;
+    bottom:-12px;
+    right:-166px;
+    line-height:15px;
+	font-sized:12px;
+}
+
+table.imageTable td {}
+
+table.imageTable td>div{
+ height:85px;
+ width:200px;
+  text-align:left;
+    
+}
+
+
+
+table.image2Table {
+	margin-left: 170px;
+	margin-top: 10px;
+}
+table.image2Table .lDownArrow {
+    position:absolute;
+    bottom:20px;
+    right:-265px;
+    line-height:15px;
+	font-sized:12px;
+}
+
+table.image2Table td { padding-bottom: 30px; }
+
+table.image2Table td>div{
+ height:87px;
+ width:200px;
+    
+}

@@ -1,0 +1,202 @@
+/* Sprited icon styles for compTia eBook */
+span.icon {
+    background: url("../images/ebook_icons.png") no-repeat scroll 0 0 transparent;
+    display: inline-block;
+    height: 0;
+    margin: 0;
+    padding-left: 24px;
+    padding-top: 17px;
+    width: 0;
+    vertical-align: top;
+}
+span.icon.check {
+    background-position: 0 0;
+    padding-left: 13px;
+    padding-top: 13px;
+}
+span.icon.message {
+    background-position: -14px 0;
+    padding-left: 24px;
+    padding-top: 18px;
+}
+span.icon.plus {
+    background-position: -38px 0;
+    padding-left: 20px;
+    padding-top: 21px;
+}
+span.icon.archive {
+    background-position: -59px 0;
+    padding-left: 23px;
+    padding-top: 18px;
+}
+span.icon.archiveGrey {
+    background-position: -84px 0;
+    padding-left: 23px;
+    padding-top: 18px;
+}
+span.icon.notePen {
+    background-position: -108px 0;
+    padding-left: 22px;
+    padding-top: 22px;
+}
+span.icon.greyPerson {
+    background-position: -131px 0;
+    padding-left: 23px;
+    padding-top: 25px;
+}
+span.icon.glossary {
+    background-position: -154px 0;
+    padding-left: 22px;
+    padding-top: 20px;
+}
+span.icon.globe {
+    background-position: -178px -1px;
+    padding-left: 25px;
+    padding-top: 23px;
+}
+span.icon.toc {
+    background-position: -204px 0;
+    padding-left: 20px;
+    padding-top: 21px;
+}
+span.icon.question {
+    background-position: -225px 0;
+    padding-left: 18px;
+    padding-top: 21px;
+}
+span.icon.blueCallPerson {
+    background-position: -244px 0;
+    padding-left: 23px;
+    padding-top: 34px;
+}
+span.icon.greenSpeaker {
+    background-position: -269px 0;
+    padding-left: 24px;
+    padding-top: 35px;
+}
+span.icon.magnify {
+    background-position: 0 -18px;
+    padding-left: 23px;
+    padding-top: 22px;
+}
+span.icon.leftPageArrow {
+    background-position: 0 -41px;
+    padding-left: 15px;
+    padding-top: 40px;
+}
+span.icon.rightPageArrow {
+    background-position: -15px -41px;
+    padding-left: 15px;
+    padding-top: 40px;
+}
+span.icon.notes {
+    background-position: -26px -21px;
+    padding-left: 19px;
+    padding-top: 19px;
+}
+span.icon.highlight {
+    background-position: -48px -22px;
+    padding-left: 20px;
+    padding-top: 19px;
+}
+span.icon.highlightGreen {
+    background-position: -385px 0px;
+    padding-left: 20px;
+    padding-top: 19px;
+}
+span.icon.eraser {
+    background-position: -107px -22px;
+    padding-left: 21px;
+    padding-top: 18px;
+}
+span.icon.eraserGreen {
+    background-position: -407px 0px;
+    padding-left: 21px;
+    padding-top: 18px;
+}
+span.icon.close {
+    background-position: -88px -21px;
+    padding-left: 17px;
+    padding-top: 18px;
+}
+
+span.icon.addToNotes {
+    background-position: -70px -21px;
+    padding-left: 17px;
+    padding-top: 16px;
+}
+span.icon.closeHighlight {
+    background-position: -146px -25px;
+    padding-left:18px;
+    padding-top:16px;
+}
+span.icon.clearHighlightGreen {
+    background-position: -429px 0;
+    padding-left: 16px;
+    padding-top: 17px;
+}
+span.icon.clearHighlight {
+    background-position: -130px -25px;
+    padding-left: 16px;
+    padding-top: 17px;
+}
+span.icon.notesMag {
+    background-position: -31px -42px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+span.icon.notesPen {
+    background-position: -51px -42px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+span.icon.notesTrash {
+    background-position: -71px -42px;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+span.icon.notesCheck {
+    background-position: -88px -42px;
+    padding-left: 21px;
+    padding-top: 20px;
+}
+span.icon.notesCancel {
+    background-position: -110px -43px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+span.icon.notesResize {
+    background-position: -188px -25px;
+    padding-left: 17px;
+    padding-top: 17px;
+}
+span.icon.smallWhiteX {
+    background-position: -147px -25px;
+    padding-left: 16px;
+    padding-top: 15px;
+}
+span.icon.speechCloud {
+    background-position: -163px -25px;
+    padding-left: 25px;
+    padding-top: 21px;
+}
+span.icon.backSearchPage {
+    background-position: -244px -33px;
+    padding-left: 9px;
+    padding-top: 15px;
+}
+span.icon.fowardSearchPage {
+    background-position: -253px -33px;
+    padding-left: 9px;
+    padding-top: 15px;
+}
+span.icon.XSearchPage {
+    background-position: -264px -33px;
+    padding-left: 14px;
+    padding-top: 15px;
+}
+span.icon.reloadVideo {
+    background-position: -30px -65px;
+    padding-left: 27px;
+    padding-top: 33px;
+}
